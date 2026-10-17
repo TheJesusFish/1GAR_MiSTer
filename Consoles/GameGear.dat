@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>GameGear</name>
-    <version>2026-10-16</version>
+    <version>2026-10-17</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/5 in One FunPak">
@@ -281,7 +281,7 @@
   <game name="01 - Games/Championship Hockey">
     <rom name="Championship Hockey (Europe).gg" size="262144" sha1="4b0bd83ee4fefc40c420413d044b91525b494f6b" crc="e21d2a88" />
   </game>
-  <game name="01 - Games/Chase H.Q">
+  <game name="01 - Games/Chase H.Q.">
     <rom name="Chase H.Q. (USA).sms" size="131072" sha1="6d6209c642b854eaa43da81b311c04a7579d9a17" crc="c8381def" />
     <rom name="Taito Chase H.Q. (Japan) (En).sms" size="131072" sha1="b757b45a07ae6530443862e0eca547e16c23b4a3" crc="7bb81e3d" />
   </game>
@@ -439,7 +439,7 @@
     <rom name="Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe) (En,Fr,De,Es,It).gg" size="262144" sha1="a253283456010bd73d3bde209566f26b6f8c582f" crc="ec808026" />
     <rom name="Desert Speedtrap Starring Road Runner and Wile E. Coyote (USA, Brazil) (En).gg" size="262144" sha1="6b88fb212f0556ea57e01a3a1cd5123db5631e28" crc="c2e111ac" />
   </game>
-  <game name="01 - Games/Desert Strike">
+  <game name="01 - Games/Desert Strike - Return to the Gulf">
     <rom name="Desert Strike (Europe) (En,Fr,De,Es).gg" size="524288" sha1="3bb092b14c650c5ffd0370e6870878282b3d04f4" crc="3e44eca3" />
     <rom name="Desert Strike - Return to the Gulf (USA).gg" size="524288" sha1="80b91bdf20605d940401738202c473df632d0765" crc="f6c400da" />
   </game>
@@ -1025,7 +1025,7 @@
   <game name="01 - Games/Marko's Magic Football">
     <rom name="Marko's Magic Football (Europe) (En,Fr,De,Es).gg" size="524288" sha1="f255d7ea194d88a1588a2bf3ff34926de17c7ff1" crc="22c418bf" />
   </game>
-  <game name="01 - Games/Master of Darkness">
+  <game name="01 - Games/Vampire - Master of Darkness">
     <rom name="In the Wake of Vampire (Japan) (En) (Virtual Console).gg" size="262144" sha1="2ee1aac941829ae172c4913383d14faa8acd09d5" crc="036e03f8" />
     <rom name="In the Wake of Vampire (Japan) (En).gg" size="262144" sha1="da5116b7ed890f35506c5b33c5c9716f528169b1" crc="dab0f265" />
     <rom name="Master of Darkness (Europe) (Virtual Console).gg" size="262144" sha1="fb7f7cd933dd1d0d275faffb06c84645bfa42d5a" crc="21402ffb" />
@@ -1846,7 +1846,7 @@
     <rom name="Super Princess' 2092 - Exodus (World) (Aftermarket) (Unl).gg" size="131072" sha1="71c39f0125819cfbb71e15112e354b6e21d400a2" crc="3429d807" />
     <rom name="Super Princess' 2092 - Exodus (World) (v1.1) (Aftermarket) (Unl).gg" size="131072" sha1="0672ac93ecbd2304b05f4d08e7cbcc9f4adffbd3" crc="273218ca" />
   </game>
-  <game name="01 - Games/Super Smash T.V">
+  <game name="01 - Games/Super Smash T.V.">
     <rom name="Super Smash T.V. (World).gg" size="262144" sha1="85189e29f3f6b94f95723bc75571e9424df119f9" crc="1006e4e3" />
   </game>
   <game name="01 - Games/Super Space Invaders">
@@ -1939,10 +1939,10 @@
   <game name="01 - Games/Taz-Mania">
     <rom name="Taz-Mania (USA, Europe, Brazil) (En).gg" size="262144" sha1="0d0285bc5350146f365dae1f271ed0828971cf4d" crc="36040c24" />
   </game>
-  <game name="01 - Games/Tempo Jr">
+  <game name="01 - Games/Tempo Jr.">
     <rom name="Tempo Jr. (World).gg" size="524288" sha1="a2d800d2836a03f81dd8f3dda23cd2d8bfff18a5" crc="de466796" />
   </game>
-  <game name="01 - Games/Tempo Jr/~Prototypes and Betas">
+  <game name="01 - Games/Tempo Jr./~Prototypes and Betas">
     <rom name="Tempo Jr. (World) (Beta 1).gg" size="524288" sha1="d909b2b153e500c506a5cee3439d3c514c58600b" crc="a33b5b92" />
     <rom name="Tempo Jr. (World) (Beta 2).gg" size="524288" sha1="c86b63d669464cba8bf167c33cfa8dc5bf1625b4" crc="3475d48e" />
     <rom name="Tempo Jr. (World) (Beta 3).gg" size="524288" sha1="6112068a8b6ad0e34afc2d576c2ef7e95af32c6d" crc="fb9a5885" />
@@ -2051,12 +2051,12 @@
   <game name="01 - Games/Wonder Boy - The Dragon's Trap/~Prototypes and Betas">
     <rom name="Wonder Boy III - The Dragon's Trap (Europe) (Beta).gg" size="262144" sha1="5108c4920b4a14fd06f1a024e1be5f6bf233bd84" crc="db1b5b44" />
   </game>
-  <game name="01 - Games/Wonder Boy">
+  <game name="01 - Games/Revenge of Drancon">
     <rom name="Revenge of Drancon (USA, Brazil) (En).gg" size="131072" sha1="286f673b11739d624899479216e30b58efd049be" crc="03e9c607" />
     <rom name="Wonder Boy (Europe).gg" size="131072" sha1="f2c546bc87c5e89719fe01a59142bb3250861b83" crc="ea2dd3a7" />
     <rom name="Wonder Boy (Japan) (En).gg" size="131072" sha1="7ff0f0757c7b2e84d99a4291656d74a20ec2651d" crc="9977fcb3" />
   </game>
-  <game name="01 - Games/Wonder Boy/~Prototypes and Betas">
+  <game name="01 - Games/Revenge of Drancon/~Prototypes and Betas">
     <rom name="Wonder Boy (USA) (Beta).gg" size="131072" sha1="7502e660dedbb2df77313531b4a6f5b16000a72b" crc="523c92cb" />
   </game>
   <game name="01 - Games/Wonder Kid/~Prototypes and Betas">

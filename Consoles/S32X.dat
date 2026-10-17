@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>S32X</name>
-    <version>2026-10-16</version>
+    <version>2026-10-17</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/After Burner Complete">
@@ -408,11 +408,11 @@
     <rom name="Mortal Kombat II Arcade Edition (Europe) (MD+) [n].32x" size="4194304" sha1="3d5aa7a43ec7583c84e636f454dc942579fb9d02" crc="0d89f052" />
     <rom name="Mortal Kombat II Arcade Edition (Europe) (MD+) [n].cue" size="3212" sha1="8a1269229ad798eb55f875fb7c3bc664019f27b5" crc="a7f4127a" />
   </game>
-  <game name="01 - Games/Motherbase">
+  <game name="01 - Games/Zaxxon's Motherbase 2000">
     <rom name="Motherbase (Europe).32x" size="2097152" sha1="00792570c459637d46f26d0ceb301ed9d83f0098" crc="0d6523a3" />
     <rom name="Zaxxon's Motherbase 2000 (Japan, USA) (En).32x" size="2097152" sha1="60c390f76c394bdd221936c21aecbf98aec49a3d" crc="447d44be" />
   </game>
-  <game name="01 - Games/Motherbase/~Prototypes and Betas">
+  <game name="01 - Games/Zaxxon's Motherbase 2000/~Prototypes and Betas">
     <rom name="Motherbase (Europe) (Sample).32x" size="2097152" sha1="6d457a613e91ed265b0e2835a02e05558bc7e3ca" crc="e181c5d0" />
     <rom name="Zaxxon's Motherbase (Japan, USA) (En) (Beta 1).32x" size="2097152" sha1="9db5a93ae5fc4045df342a9f53b904ef130debbf" crc="c65693af" />
     <rom name="Zaxxon's Motherbase (Japan, USA) (En) (Beta 2).32x" size="2097152" sha1="3a8c794139fe7255e7107877b2d0018a6eaa0300" crc="061c0cf2" />

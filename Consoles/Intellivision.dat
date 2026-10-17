@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>Intellivision</name>
-    <version>2026-10-16</version>
+    <version>2026-10-17</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/ABPA Backgammon">
@@ -50,7 +50,7 @@
   <game name="01 - Games/Bank Panic">
     <rom name="Bank Panic (World) (Aftermarket) (Unl).rom" size="69200" sha1="7515fadca1a0a8d0973146e29478f44617e817ce" crc="fc49b63e" />
   </game>
-  <game name="01 - Games/Battle Tanks">
+  <game name="01 - Games/BattleTanks">
     <rom name="BattleTanks (USA, Europe) (Intellivision Lives!).int" size="8192" sha1="d90353d11ede41628fc2ebec8eaf41378a2634b0" crc="22a1f245" />
     <rom name="Triple Action (World).int" size="8192" sha1="6c1011b98ac76653632fd13e93466802f7d4dea9" crc="1ac989e2" />
   </game>
@@ -237,7 +237,7 @@
   <game name="01 - Games/Grid Shock/~Prototypes and Betas">
     <rom name="Grid Shock (USA) (Proto).int" size="8192" sha1="b7a811a854dacd5e1b8e809baa5ce6ca1168ab53" crc="291ac826" />
   </game>
-  <game name="01 - Games/H.E.L.I">
+  <game name="01 - Games/H.E.L.I.">
     <rom name="H.E.L.I. (World) (Aftermarket) (Unl).rom" size="85061" sha1="edb8aab5e4a4b7bd678350bd5fe04616dcd018ea" crc="906989e2" />
   </game>
   <game name="01 - Games/Happy Holidays - Easter Eggcitement/~Prototypes and Betas">

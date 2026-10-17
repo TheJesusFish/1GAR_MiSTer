@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>Odyssey2</name>
-    <version>2026-10-16</version>
+    <version>2026-10-17</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/4 in 1 Row">
@@ -313,7 +313,7 @@
   <game name="01 - Games/Shark Hunter/~Prototypes and Betas">
     <rom name="Shark Hunter (Europe) (Proto).bin" size="8192" sha1="eca31e4d8a9e198a8661f6b6e63b33c184e9b22b" crc="df36683f" />
   </game>
-  <game name="01 - Games/Showdown in 2100 A.D">
+  <game name="01 - Games/Showdown in 2100 A.D.">
     <rom name="Gunfighter (Europe).bin" size="2048" sha1="b5ec5ed9373372de6d70620094af06282c48968d" crc="abe368bf" />
     <rom name="Showdown in 2100 A.D. (USA).bin" size="2048" sha1="7163c3e0d0e926287df670bfa5d5d5c42b5b3cf6" crc="9487c920" />
   </game>

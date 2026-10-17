@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>SMS</name>
-    <version>2026-10-16</version>
+    <version>2026-10-17</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/007 James Bond">
@@ -182,11 +182,11 @@
     <rom name="Altered Beast (Taiwan) (En) (Unl).sms" size="262144" sha1="223662f5fa6e373c60268adbf543a2a875a4435e" crc="90d5f16b" />
     <rom name="Altered Beast (USA, Europe, Brazil) (En).sms" size="262144" sha1="413986f174799f094a8dd776d91dcf018ee17290" crc="bba2fe98" />
   </game>
-  <game name="01 - Games/American Baseball">
+  <game name="01 - Games/Reggie Jackson Baseball">
     <rom name="American Baseball (Europe, Brazil) (En).sms" size="262144" sha1="fff4006fe47de8138db246af8863e28b81718abe" crc="7b27202f" />
     <rom name="Reggie Jackson Baseball (USA).sms" size="262144" sha1="b7c387256e58a95bd3c3c4358a8a106f2304e9f2" crc="6d94bb0e" />
   </game>
-  <game name="01 - Games/American Pro Football">
+  <game name="01 - Games/Walter Payton Football">
     <rom name="American Pro Football (Europe).sms" size="262144" sha1="986b860465fc9748c6be1815c0e4c0ea94473040" crc="3727d8b2" />
     <rom name="Walter Payton Football (USA).sms" size="262144" sha1="2d1201523540ae1673fe75bd2c9d1db1cc61987d" crc="3d55759b" />
   </game>
@@ -483,7 +483,7 @@
     <rom name="Bomberman Special (Taiwan) (Chinese Logo) (Unl).sg" size="49152" sha1="455838571dd8287d491431e03269b0ccd292c8b8" crc="ce5648c3" />
     <rom name="Bomberman Special (Taiwan) (English Logo) (Unl).sg" size="49152" sha1="d1d56bcd996df94458f5901dc537a5e30021256b" crc="69fc1494" />
   </game>
-  <game name="01 - Games/Bonanza Bros">
+  <game name="01 - Games/Bonanza Bros.">
     <rom name="Bonanza Bros. (Europe, Brazil) (En).sms" size="262144" sha1="bbaedefa0bb489ece4bbd965f09a417be4b76cc7" crc="caea8002" />
   </game>
   <game name="01 - Games/Bonkers Wax Up!">
@@ -1029,7 +1029,7 @@
   <game name="01 - Games/F-1 Spirit - The Way to Formula-1">
     <rom name="F-1 Spirit - The Way to Formula-1 (Korea) (En) (Unl).sms" size="131072" sha1="5df1b4c00adb2b494f7298353d92b4d7ad3f50f6" crc="06965ed9" />
   </game>
-  <game name="01 - Games/F-16 Fighter">
+  <game name="01 - Games/F-16 Fighting Falcon">
     <rom name="F-16 Fighter (USA, Europe, Brazil) (En).sms" size="32768" sha1="de63ca2f59adb94fac87623fe68de75940397449" crc="eaebf323" />
     <rom name="F-16 Fighting Falcon (Japan) (En).sms" size="32768" sha1="0f60f545ce99366860a94fbb115ce7d8531ab7ba" crc="7ce06fce" />
     <rom name="F-16 Fighting Falcon (Taiwan) (En) (Unl).sms" size="32768" sha1="9a6c70c1cb18d34e39f4037a555759ce97c6eeef" crc="c4c53226" />
@@ -1222,12 +1222,12 @@
   <game name="01 - Games/Geometry Blaster/~Prototypes and Betas">
     <rom name="Geometry Blaster (World) (Proto) (Aftermarket) (Unl).sms" size="32768" sha1="4d30f2540b733177189371957f19df822d1b94a3" crc="ba02ec46" />
   </game>
-  <game name="01 - Games/George Foreman's KO Boxing">
+  <game name="01 - Games/James 'Buster' Douglas Knockout Boxing">
     <rom name="George Foreman's KO Boxing (Europe, Brazil) (En).sms" size="262144" sha1="d0ddb71c6ca823c53d7e927a0de7de4b56745331" crc="a64898ce" />
     <rom name="Heavyweight Champ (Europe, Brazil) (En).sms" size="262144" sha1="7e2523061df0c08b7df7b446b5504c4eb0fea163" crc="fdab876a" />
     <rom name="James 'Buster' Douglas Knockout Boxing (USA).sms" size="262144" sha1="b07000feb0c74824f2e3e74fd415631a8f3c4da6" crc="6a664405" />
   </game>
-  <game name="01 - Games/George Foreman's KO Boxing/~Prototypes and Betas">
+  <game name="01 - Games/James 'Buster' Douglas Knockout Boxing/~Prototypes and Betas">
     <rom name="James 'Buster' Douglas Knockout Boxing (USA) (Sample).sms" size="262144" sha1="d96c174e63393406d4b442e5796228eebb7deb93" crc="cfb4bd7b" />
   </game>
   <game name="01 - Games/Ghost House">
@@ -1373,7 +1373,7 @@
     <rom name="Guzzler (Japan) (Othello Multivision).sg" size="8192" sha1="d42b2c5f1da4e0fbd29fcea91bfc092ae46da4b8" crc="61fa9ea0" />
     <rom name="Guzzler (Taiwan) (Othello Multivision) (Unl).sg" size="8192" sha1="5c51f9846fb8220ab7dd6db5d6911cf4e985bfe9" crc="eb808158" />
   </game>
-  <game name="01 - Games/H.E.R.O">
+  <game name="01 - Games/H.E.R.O.">
     <rom name="H.E.R.O. (Japan).sg" size="32768" sha1="19acb69b7b64da5083349d8bc40a47beacc88c41" crc="4587de6e" />
     <rom name="H.E.R.O. (Taiwan) (Chinese Logo) (Unl).sg" size="32768" sha1="3b2d3dfe948a734c3d18b504c89c61b7b1f3d81b" crc="83958998" />
     <rom name="H.E.R.O. (Taiwan) (English Logo) (Unl).sg" size="32768" sha1="82b530feef7c011361e21b62d2c359c626ab8a9c" crc="96f09c6d" />
@@ -1446,13 +1446,13 @@
   <game name="01 - Games/Hopman">
     <rom name="Hopman (World) (Aftermarket) (Unl).sms" size="13037" sha1="c7fda14ba3e888a1a29bc14bfb2788f12e2d966d" crc="06090a9a" />
   </game>
-  <game name="01 - Games/Hoshi wo Sagashite">
+  <game name="01 - Games/Hoshi wo Sagashite...">
     <rom name="Hoshi wo Sagashite... (Japan).sms" size="262144" sha1="f9ce8b80d8671db6ab38ba5b7ce46324a65ebc3d" crc="955a009e" />
   </game>
-  <game name="01 - Games/Hoshi wo Sagashite/~Translations/Documentation">
+  <game name="01 - Games/Hoshi wo Sagashite.../~Translations/Documentation">
     <rom name="Story of Mio (Japan) [T-En by Filler &amp; SSTranslations v1.0] [n].txt" size="9914" sha1="3ab09a65443c350603120084cc58bf8941e8b5bf" crc="f4545193" />
   </game>
-  <game name="01 - Games/Hoshi wo Sagashite/~Translations">
+  <game name="01 - Games/Hoshi wo Sagashite.../~Translations">
     <rom name="Story of Mio (Japan) [T-En by Filler &amp; SSTranslations v1.0] [n].sms" size="262144" sha1="a161ae0685ba1cf2200bd0f033957ca18f5d9ef6" crc="938ce4eb" />
   </game>
   <game name="01 - Games/Hustle Chumy">
@@ -2403,7 +2403,7 @@
   <game name="01 - Games/Scramble Spirits/~Prototypes and Betas">
     <rom name="Scramble Spirits (Europe, Brazil) (En) (Beta).sms" size="262144" sha1="69d3d5934a93e2593dd2a4bdc85f62b2168b1709" crc="b45d4700" />
   </game>
-  <game name="01 - Games/Secret Command">
+  <game name="01 - Games/Rambo - First Blood Part II">
     <rom name="Ashura (Japan) (En).sms" size="131072" sha1="e9f90d63320295e4bd9a87e6078186c5efb7e84e" crc="ae705699" />
     <rom name="Ashura (Taiwan) (En) (Unl).sms" size="131072" sha1="380b70c5dacba3a233897e7f84d0916ce6baa085" crc="ace7ef28" />
     <rom name="Rambo - First Blood Part II (USA).sms" size="131072" sha1="dc44b090a01d6a4d9b5700ada764b00c62c00e91" crc="bbda65f0" />
@@ -2804,7 +2804,7 @@
   <game name="01 - Games/Super Racing">
     <rom name="Super Racing (Japan) (En).sms" size="262144" sha1="442f3ba8a66a0d9c49a46091df83fcdba4b63c3a" crc="7e0ef8cb" />
   </game>
-  <game name="01 - Games/Super Smash T.V">
+  <game name="01 - Games/Super Smash T.V.">
     <rom name="Super Smash T.V. (Europe).sms" size="262144" sha1="b4515aad1cad31980d041632e23d3be82aa31828" crc="e0b1aff8" />
   </game>
   <game name="01 - Games/Super Space Invaders">
@@ -2855,10 +2855,10 @@
   <game name="01 - Games/Tails Adventures - SMS Deluxe">
     <rom name="Tails Adventures - SMS Deluxe (World) (v1.5c) (Aftermarket) (Unl).sms" size="1048576" sha1="28522a322e6dd4ce54cd8d44d634e0cd42b9b7be" crc="ff69ef37" />
   </game>
-  <game name="01 - Games/Taito Chase H.Q">
+  <game name="01 - Games/Taito Chase H.Q.">
     <rom name="Taito Chase H.Q. (Europe).sms" size="262144" sha1="495e3ced83ccd938b549bc76905097dba0aaf32b" crc="85cfc9c9" />
   </game>
-  <game name="01 - Games/Taito Chase H.Q/~Prototypes and Betas">
+  <game name="01 - Games/Taito Chase H.Q./~Prototypes and Betas">
     <rom name="Taito Chase H.Q. (Europe) (Beta).sms" size="262144" sha1="a9efe283d2a3025864cd9e86aed4ebae7bc7e4b1" crc="1cdcf415" />
   </game>
   <game name="01 - Games/Tangram">

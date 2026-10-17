@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>ATARI5200</name>
-    <version>2026-10-16</version>
+    <version>2026-10-17</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/A.E/~Prototypes and Betas">
@@ -146,7 +146,7 @@
   <game name="01 - Games/Gyruss/~Prototypes and Betas">
     <rom name="Gyruss (USA) (Beta) (1984-04-23).a52" size="32768" sha1="80a23953f19304541678a87f0b8a40e7c94190d3" crc="97c69f4b" />
   </game>
-  <game name="01 - Games/H.E.R.O">
+  <game name="01 - Games/H.E.R.O.">
     <rom name="H.E.R.O. (USA).a52" size="16384" sha1="d286ecb6793a0dda9c9c68f6355dbe3ade6922f9" crc="18a73af3" />
   </game>
   <game name="01 - Games/James Bond 007">
@@ -193,11 +193,11 @@
   <game name="01 - Games/Looney Tunes Hotel/~Prototypes and Betas">
     <rom name="Looney Tunes Hotel (USA) (Proto).a52" size="16384" sha1="bc4a536616ac45689b3ad790f6b1394ebbd8cc7e" crc="84df4925" />
   </game>
-  <game name="01 - Games/Mario Bros">
+  <game name="01 - Games/Mario Bros.">
     <rom name="Mario Bros. (USA) (Alt).a52" size="32768" sha1="39cd2d87c4fefd2fe12a4d6485101235fe55b070" crc="6b3f1179" />
     <rom name="Mario Bros. (USA).a52" size="32768" sha1="a293b6b06050e11029d97137f2b1b36059567273" crc="873742f1" />
   </game>
-  <game name="01 - Games/Mario Bros/~Prototypes and Betas">
+  <game name="01 - Games/Mario Bros./~Prototypes and Betas">
     <rom name="Mario Bros. (USA) (Beta 1).a52" size="16384" sha1="50443fe5f6dc4425ee9268d44c57d15db1d3050f" crc="6cc083b1" />
     <rom name="Mario Bros. (USA) (Beta 2) (1983-09-14).a52" size="32768" sha1="228b59d6c208b73fdfba84ce0b6662fb461bcecc" crc="7ed87e8d" />
   </game>

@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>Jaguar</name>
-    <version>2026-10-16</version>
+    <version>2026-10-17</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - CD Games/Alice's Mom's Rescue!/Alice's Mom's Rescue! (Europe) (En,Fr,De,Es,It) (Unl)">
@@ -153,7 +153,7 @@
   <game name="01 - Games/Aircars/~Prototypes and Betas">
     <rom name="Aircars (USA) (Beta) (1994-11-14).j64" size="2097152" sha1="4e55a5991725a4b557f4daf75a0fa38ec667217a" crc="53e35744" />
   </game>
-  <game name="01 - Games/Alice's Mom's Rescue!">
+  <game name="01 - Games/Alice's Mom's Rescue">
     <rom name="Alice's Mom's Rescue (World) (En,Fr,De,Es,It) (Aftermarket) (Unl).j64" size="6291456" sha1="fd6bc087448a258039aaa0ba556eafa9931b7983" crc="419d26f0" />
   </game>
   <game name="01 - Games/Alien Syndrome">
@@ -249,7 +249,7 @@
   <game name="01 - Games/Breakout 2000/~Prototypes and Betas">
     <rom name="Breakout 2000 (USA, Europe) (Beta).j64" size="2097152" sha1="c8f29d04dacce1a83a1c93ab351737795d0f55db" crc="20dbff9f" />
   </game>
-  <game name="01 - Games/Brett Hull NHL Hockey">
+  <game name="01 - Games/Brett Hull Hockey">
     <rom name="Brett Hull Hockey (World) (Aftermarket) (Unl).j64" size="4194304" sha1="7f21c6de18c46629c0d54e68143d619093b4b8d6" crc="91095dd3" />
   </game>
   <game name="01 - Games/Brutal Sports Football">

@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>WonderSwan</name>
-    <version>2026-10-16</version>
+    <version>2026-10-17</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/15 Game">
@@ -133,7 +133,7 @@
     <rom name="Digimon 02 - Tag Tamers (Japan) [T-En by NikcDC v1.4.5] [n] [Digimon 01 Diaboromon].ws" size="2097152" sha1="55be97ecefe02f1044aecef9f9b27e184beacbcb" crc="b1989dc0" />
     <rom name="Digimon 02 - Tag Tamers (Japan) [T-En by NikcDC v1.4.5] [n].ws" size="2097152" sha1="abe5e4f80e1a27dee509d18b6e61375e36b76613" crc="d5ea2ae2" />
   </game>
-  <game name="01 - Games/Digital Monster - Ver. WonderSwan">
+  <game name="01 - Games/Digimon - Ver. WonderSwan">
     <rom name="Digimon - Ver. WonderSwan (Hong Kong) (En).ws" size="2097152" sha1="5cc59ec1687fe83ec5fb048d3dfc37849747df34" crc="94ea6ffc" />
     <rom name="Digital Monster - Ver. WonderSwan (Japan) (Rev 1).ws" size="2097152" sha1="ecea24db6e65254ab4d6e312de0eb951c7df716f" crc="ab59de2e" />
   </game>

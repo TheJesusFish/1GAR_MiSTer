@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>NES</name>
-    <version>2026-10-16</version>
+    <version>2026-10-17</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - FDS Games/19 - Neunzehn/~Translations">
@@ -40,10 +40,10 @@
   <game name="01 - FDS Games/Aliens - Alien 2/~Prototypes and Betas">
     <rom name="Aliens - Alien 2 (Japan) (Proto) (1986-12-15).fds" size="131000" sha1="e80992b0e3e2ec05dbd34b3d97ae39ee59244ca4" crc="2b779ee3" />
   </game>
-  <game name="01 - FDS Games/All Night Nippon Super Mario Bros">
+  <game name="01 - FDS Games/All Night Nippon Super Mario Bros.">
     <rom name="All Night Nippon Super Mario Bros. (Japan) (En) (Promo).fds" size="65500" sha1="f30bdd3c556604d7eaa6d0f4864d5566e519b5d4" crc="43e7fe95" />
   </game>
-  <game name="01 - FDS Games/All Night Nippon Super Mario Bros/~Translations">
+  <game name="01 - FDS Games/All Night Nippon Super Mario Bros./~Translations">
     <rom name="All Night Nippon Super Mario Brothers (Japan) (Promotion Card) [T-En by Psyklax v1.0].fds" size="65500" sha1="1de607dfb7f6e01afaf6d32d0e76e6af2f177977" crc="6b94f122" />
   </game>
   <game name="01 - FDS Games/Apple Town Monogatari - Little Computer People">
@@ -262,7 +262,7 @@
   <game name="01 - FDS Games/Disk Keeper">
     <rom name="Disk Keeper (Japan) (Unl).fds" size="65500" sha1="a5b0425bc543a690032ac8dea9ff794bde9b75ab" crc="9f87b85b" />
   </game>
-  <game name="01 - FDS Games/Donkey Kong Jr">
+  <game name="01 - FDS Games/Donkey Kong Jr.">
     <rom name="Donkey Kong Jr. (Japan) (Disk Writer).fds" size="65500" sha1="efe78e0b68a1287b945290b24e6caabe5612a2e1" crc="90e16269" />
   </game>
   <game name="01 - FDS Games/Donkey Kong">
@@ -612,7 +612,7 @@
   <game name="01 - FDS Games/Jingorou">
     <rom name="Jingorou (Japan) (Unl).fds" size="65500" sha1="6230486bb3653b5b3936671695d955b9a5c78bf4" crc="72a0bd81" />
   </game>
-  <game name="01 - FDS Games/Kaettekita Mario Bros">
+  <game name="01 - FDS Games/Kaettekita Mario Bros.">
     <rom name="Kaettekita Mario Bros. (Japan) (Disk Writer).fds" size="131000" sha1="ae5941b4262d92e9c3254a86269a6fd56189a129" crc="4d5bfd77" />
   </game>
   <game name="01 - FDS Games/Kalin no Tsurugi">
@@ -1107,7 +1107,7 @@
     <rom name="Super Mario Bros. 2 (Japan) (En).fds" size="65500" sha1="20e50128742162ee47561db9e82b2836399c880c" crc="f04cd4cd" />
     <rom name="Super Mario Bros. 2 (World) (GameCube, Wii and Wii U Virtual Console).fds" size="65500" sha1="b2dbc55efcae77abad6207b802c0a76d7a47ed0d" crc="5d08dd11" />
   </game>
-  <game name="01 - FDS Games/Super Mario Bros">
+  <game name="01 - FDS Games/Super Mario Bros.">
     <rom name="Super Mario Bros. (Japan) (En).fds" size="65500" sha1="383ad8e3890a95de9595f0a6087648f51177da13" crc="e0890cf2" />
   </game>
   <game name="01 - FDS Games/Sword of Kalin, The/~Translations">
@@ -1443,7 +1443,7 @@
     <rom name="75 BinGuo (Taiwan) (Unl).nes" size="65552" sha1="1d150201d7a4dc74267495b79e60895f7f5db9b5" crc="f5ba4249" />
     <rom name="75 Bingo (Asia) (En) (Unl).nes" size="65552" sha1="0bf638d614fcf7499036c92b2578446ac7d797c1" crc="8b126fc4" />
   </game>
-  <game name="01 - Games/777 Lucky Bingo">
+  <game name="01 - Games/777 Xingyun Lunpan">
     <rom name="777 Lucky Bingo (Asia) (En) (Unl).nes" size="32784" sha1="faeae8f5adf32720483da707d73aa0da3f51d9b9" crc="1bb68338" />
     <rom name="777 Xingyun Lunpan (Taiwan) (En) (Unl).nes" size="32784" sha1="edeff05b264cdb8061eb83b820853c63a221594f" crc="b5143231" />
     <rom name="777 Xingyun Lunpan (Taiwan) (v1.1) (Unl).nes" size="32784" sha1="297550549ff7c0cbff57f9207ac70648bd109d68" crc="5e2f0cce" />
@@ -1602,18 +1602,18 @@
     <rom name="Action 53 Vol. 4 - Actually 54 (World) (Disk 3) (Aftermarket) (Unl).nes" size="524304" sha1="b317b148619ca9177374542c9bf9da7af8a5d0ac" crc="6895e923" />
     <rom name="Action 53 Vol. 4 - Actually 54 (World) (Disk 4) (Aftermarket) (Unl).nes" size="524304" sha1="b23bf8fd85356dd3b74c47720b2307e21ecf5dc2" crc="eb16144e" />
   </game>
-  <game name="01 - Games/Action in New York">
+  <game name="01 - Games/S.C.A.T. - Special Cybernetic Attack Team">
     <rom name="Action in New York (Europe).nes" size="262160" sha1="4163b142b8361e95efd99068b860e1984f94ca63" crc="02b76e2c" />
     <rom name="Final Mission (Japan).nes" size="262160" sha1="48dbedecd54a57c1b4d067181da972b49b5b799e" crc="290dd12f" />
     <rom name="S.C.A.T. - Special Cybernetic Attack Team (USA) (Limited Run Games).nes" size="524304" sha1="51ebfcdd62d46bb33e4e32a52eeb0856df775ed3" crc="01bb289c" />
     <rom name="S.C.A.T. - Special Cybernetic Attack Team (USA).nes" size="262160" sha1="61db0ab351aa8d56f144ae638cade35753d78ce1" crc="88815594" />
     <rom name="S.C.A.T. - Special Cybernetic Attack Team (USA, Europe) (Virtual Console).nes" size="262160" sha1="4aacf60bc105b67a66e343645ff1ebc6d5f5a907" crc="db0926ee" />
   </game>
-  <game name="01 - Games/Action in New York/~Prototypes and Betas">
+  <game name="01 - Games/S.C.A.T. - Special Cybernetic Attack Team/~Prototypes and Betas">
     <rom name="S.C.A.T. - Special Cybernetic Attack Team (USA) (Beta 1).nes" size="262160" sha1="dfe366ba3384a3a42f607ac3ce51927db85cd115" crc="845ee7f3" />
     <rom name="S.C.A.T. - Special Cybernetic Attack Team (USA) (Beta 2).nes" size="262160" sha1="05828508d939f3edcb4bd96cfab71b36cf5fbe12" crc="ffed2b30" />
   </game>
-  <game name="01 - Games/Action in New York/~Translations">
+  <game name="01 - Games/S.C.A.T. - Special Cybernetic Attack Team/~Translations">
     <rom name="Final Mission (Japan) [T-En by Stardust Crusaders v1.01].nes" size="393232" sha1="f089dace0bdac7c6bf3deb4e8c63647c12e05ead" crc="01faa989" />
   </game>
   <game name="01 - Games/Adam &amp; Eve">
@@ -1687,28 +1687,28 @@
   <game name="01 - Games/Adventure Island 4/~Translations">
     <rom name="Adventure Island 4 (Japan) [T-En by Demiforce v1.00] [n].nes" size="393232" sha1="ba202298bbd683a7d8e3737d7684733140999f1c" crc="60dd1ae5" />
   </game>
-  <game name="01 - Games/Adventure Island Classic">
+  <game name="01 - Games/Adventure Island">
     <rom name="Adventure Island (USA).nes" size="65552" sha1="ac34732d64566947891cd1ece23216db32a06eae" crc="995b3fff" />
     <rom name="Adventure Island Classic (Europe).nes" size="65552" sha1="0a1a38f6c6a0f487f2c0541085a550ac08c5eaff" crc="cb55d991" />
     <rom name="Sun Xiaomao Qihuan Dao - Kiddy Sun in Fantasia (Taiwan) (En).nes" size="65552" sha1="8c22598673d31f0672dbba4059e96a600598a1cd" crc="03cc0cba" />
     <rom name="Takahashi Meijin no Bouken-jima (Japan).nes" size="65552" sha1="305e90eb8d051ed28677d95d8970c88b7ada5234" crc="0bb95602" />
   </game>
-  <game name="01 - Games/Adventure Island Classic/~Pirate">
+  <game name="01 - Games/Adventure Island/~Pirate">
     <rom name="Sonic (Asia) (En) (Pirate) [b].nes" size="65552" sha1="e53c84ab85fd571a62538bf8ef33509490813e9f" crc="ed2d4b11" />
     <rom name="Takahashi Meijin no Bouken-jima (Asia) (Ja) (Pirate).nes" size="65552" sha1="e7208c9bfba4686e7939201de8ac30270d11a0ff" crc="cba4a108" />
   </game>
-  <game name="01 - Games/Adventure Island Part II, The">
+  <game name="01 - Games/Adventure Island II">
     <rom name="Adventure Island II (USA).nes" size="262160" sha1="bd2c9b3023759d09f3c4a97f7ca4886a2f41b926" crc="cca56a6f" />
     <rom name="Adventure Island Part II, The (Europe).nes" size="262160" sha1="7c47a3a01a070e0326dd2b8536e30f89ee575620" crc="011c6315" />
     <rom name="Takahashi Meijin no Bouken-jima II (Japan).nes" size="262160" sha1="1ad426971885be52b5aaae9b0ee33c74fe93488e" crc="cba2f8e5" />
   </game>
-  <game name="01 - Games/Adventure Island Part II, The/~Pirate">
+  <game name="01 - Games/Adventure Island II/~Pirate">
     <rom name="Adventure Island II (Asia) (En) (Pirate).nes" size="262160" sha1="21d6f3db4879ae8b558f3f79568e5fbbbbb5ffe6" crc="f4d14417" />
     <rom name="Super Bros. 9 (Asia) (En) (Pirate).nes" size="262160" sha1="bdd644f0e13987e09bcfb0a344a46a83681dc8eb" crc="fa54fd77" />
     <rom name="Super Mario World 9 (Asia) (En) (Cheat) (Pirate).nes" size="262160" sha1="19d02eae7caaf32366f83ff1e8362216ec95f610" crc="cbdf9dbf" />
     <rom name="Super Mario World 9 (Asia) (En) (S-D9) (Pirate).nes" size="262160" sha1="b622b5ed17096dcf39bbb030ce17ea93e8f9cf61" crc="490da108" />
   </game>
-  <game name="01 - Games/Adventure Island Part II, The/~Prototypes and Betas">
+  <game name="01 - Games/Adventure Island II/~Prototypes and Betas">
     <rom name="Adventure Island II (USA) (Beta).nes" size="262160" sha1="6a5109b201463c0fe3f417b19038160f8bf43bb2" crc="371528bf" />
   </game>
   <game name="01 - Games/Adventure">
@@ -2502,17 +2502,17 @@
   <game name="01 - Games/Back to the Future">
     <rom name="Back to the Future (USA).nes" size="65552" sha1="c61322730446eaabe8abfcbe655c4c6e2cf53d30" crc="5297e09b" />
   </game>
-  <game name="01 - Games/Bad Dudes vs. Dragon Ninja">
+  <game name="01 - Games/Bad Dudes">
     <rom name="Bad Dudes (USA).nes" size="262160" sha1="26e184e350f50bfa06038379a84f3b685b7509b8" crc="ada49341" />
     <rom name="Bad Dudes (World) (Evercade).nes" size="262160" sha1="85ecbd11de0ce191fe9ac10c5eaa27d42918c381" crc="7c3e4d4a" />
     <rom name="Bad Dudes vs. Dragon Ninja (Europe).nes" size="262160" sha1="39af205d26153ed5229b423358b8788b470cfcdc" crc="f372ee5e" />
     <rom name="Dragon Ninja (Japan) (Rev 1).nes" size="262160" sha1="6338ada9e132b1384dda7e47aacdce26faa194f3" crc="16efb030" />
     <rom name="Dragon Ninja (Japan).nes" size="262160" sha1="6e1a3ef4109ea423d5dfb20a21c223513a84f309" crc="1677bf25" />
   </game>
-  <game name="01 - Games/Bad Dudes vs. Dragon Ninja/~Pirate">
+  <game name="01 - Games/Bad Dudes/~Pirate">
     <rom name="Dragon Ninja (Asia) (Ja) (Pirate).nes" size="262160" sha1="6acf941281cc2e9ddbef10b419cf0a99aaaea9cc" crc="c66e1887" />
   </game>
-  <game name="01 - Games/Bad Dudes vs. Dragon Ninja/~Translations">
+  <game name="01 - Games/Bad Dudes/~Translations">
     <rom name="Dragon Ninja (Japan) [T-En by Stardust Crusaders v1.0].nes" size="262160" sha1="814ed7101bab69d67b5dcc349448f8b90655be78" crc="94698618" />
     <rom name="Dragon Ninja (Unl) (Pirate) [T-En by Stardust Crusaders v1.0] [Mesen].nes" size="262160" sha1="0f6c0a4314314df347c9c8ab60c92b73f63fcba8" crc="447021ba" />
   </game>
@@ -3219,17 +3219,17 @@
     <rom name="Blue Marlin, The (Japan).nes" size="262160" sha1="a53670a4bb906453a1111e975af8159cbae424d0" crc="429e1879" />
     <rom name="Blue Marlin, The (USA).nes" size="262160" sha1="44a5c6011f86ee7e71a1e0efabcf2382a7f90ef6" crc="48c20def" />
   </game>
-  <game name="01 - Games/Blue Shadow">
+  <game name="01 - Games/Shadow of the Ninja">
     <rom name="Blue Shadow (Europe).nes" size="262160" sha1="434e2f1401eb5f8aa6f29c9ebb94ef177ffd0577" crc="b67c45d1" />
     <rom name="Shadow of the Ninja (USA) (Limited Run Games).nes" size="524304" sha1="b8265ab3e98013b1a505f0dde96bf5ce4ca1d7c7" crc="ad036862" />
     <rom name="Shadow of the Ninja (USA).nes" size="262160" sha1="065a46396ab9360daaa64bf1f478f1c9de27ebbd" crc="6660ee03" />
     <rom name="Shadow of the Ninja (USA, Europe) (Virtual Console).nes" size="262160" sha1="14ddf8e49326b2d5fd534faa329fbccb8f2090b3" crc="9218c9d0" />
     <rom name="Yami no Shigotonin Kage (Japan).nes" size="262160" sha1="49015e62cf5234a61c9a4654ff0ed7213427fe6d" crc="232e97ab" />
   </game>
-  <game name="01 - Games/Blue Shadow/~Pirate">
+  <game name="01 - Games/Shadow of the Ninja/~Pirate">
     <rom name="Lost Boys, The - Frog Bros (World) (Aftermarket) (Pirate).nes" size="262160" sha1="226fac024de0e9009ba8339a796974cf75733336" crc="9f586ca3" />
   </game>
-  <game name="01 - Games/Blue Shadow/~Prototypes and Betas">
+  <game name="01 - Games/Shadow of the Ninja/~Prototypes and Betas">
     <rom name="Shadow of the Ninja (USA) (Sample).nes" size="262160" sha1="007027abcbbf28760a50a5ece9542dff627eef49" crc="eedefe3f" />
     <rom name="Yami no Shigotonin Kage (Japan) (Sample).nes" size="262160" sha1="02cfbf3604616809055dffdec743988160b2b0e8" crc="2095b955" />
   </game>
@@ -3399,7 +3399,7 @@
     <rom name="Brony Blaster (World) (Proto 1) (Aftermarket) (Unl).nes" size="163856" sha1="d084d2740b84d90ac4a564185b2b64df892fce48" crc="78872cce" />
     <rom name="Brony Blaster (World) (Proto 2) (NESWorld) (Aftermarket) (Unl).nes" size="393232" sha1="99e16ae6cebb025cc574aa09e4678921302637b1" crc="253e61d0" />
   </game>
-  <game name="01 - Games/Brush Roller">
+  <game name="01 - Games/Booky Man">
     <rom name="Booky Man (Brazil) (En) (Unl).nes" size="24592" sha1="2f91d7e68beff7251dc28f391b20e1ff8efd590f" crc="d8f11b78" />
     <rom name="Booky Man (Spain) (En) (Unl).nes" size="24592" sha1="ecf30c05dc0ca32e779453c0cf876deac19260d5" crc="3f209637" />
     <rom name="Brush Roller (Taiwan) (En) (Unl).nes" size="24592" sha1="3bdd6929544b04c70376099515837c024d59f464" crc="82d58979" />
@@ -3444,15 +3444,15 @@
   <game name="01 - Games/BugTris/~Translations">
     <rom name="BugTris (Korea) (Unl) [T-En by Green Jerry v1.0].nes" size="40976" sha1="091d02ec22c86b3a5bd8cc0f6d072bf95dbb6c4c" crc="9bb188f1" />
   </game>
-  <game name="01 - Games/Bugs Bunny Blowout, The">
+  <game name="01 - Games/Bugs Bunny Birthday Blowout, The">
     <rom name="Bugs Bunny Birthday Blowout, The (USA).nes" size="262160" sha1="e253dba7fc20ca8b12d0d013dc068c61acd8119b" crc="0692aafb" />
     <rom name="Bugs Bunny Blowout, The (Europe).nes" size="262160" sha1="50f91036a6396ac0ee55867f2f788978695d4416" crc="4bc1c0ff" />
     <rom name="Happy Birthday Bugs (Japan).nes" size="262160" sha1="3e706ee7aac17e48763a9849fa13d147574896d9" crc="a0897c7f" />
   </game>
-  <game name="01 - Games/Bugs Bunny Blowout, The/~Pirate">
+  <game name="01 - Games/Bugs Bunny Birthday Blowout, The/~Pirate">
     <rom name="Tiny Toon 4 (Asia) (En) (Pirate).nes" size="262160" sha1="f2de79aa536e77ab0c5dd01f7e49020078b00b34" crc="af595026" />
   </game>
-  <game name="01 - Games/Bugs Bunny Blowout, The/~Prototypes and Betas">
+  <game name="01 - Games/Bugs Bunny Birthday Blowout, The/~Prototypes and Betas">
     <rom name="Bugs Bunny Birthday Bash (USA) (Beta).nes" size="262160" sha1="bbc2f8714a41cdb8383e715c804d1b1472c81c96" crc="9aa2937a" />
   </game>
   <game name="01 - Games/Bugs Bunny Crazy Castle, The">
@@ -4375,7 +4375,7 @@
   <game name="01 - Games/Cornball Cocksuckers">
     <rom name="Cornball Cocksuckers (USA) (Aftermarket) (Unl).nes" size="24592" sha1="a1edf0a23b8722a6bf63ebd2cf691e39d2f0ccc5" crc="dbe1118e" />
   </game>
-  <game name="01 - Games/Corvette ZR-1 Challenge">
+  <game name="01 - Games/Alex DeMeo's Race America">
     <rom name="Alex DeMeo's Race America (USA).nes" size="262160" sha1="7a439c3a35e9d546d223bf8df993447a5151bcb9" crc="542911d0" />
     <rom name="Corvette ZR-1 Challenge (Europe).nes" size="262160" sha1="84734539d719cba371d1a1d3be4c7aa7e7784d6a" crc="2c52b171" />
   </game>
@@ -4385,7 +4385,7 @@
   <game name="01 - Games/Cosmic Epsilon/~Translations">
     <rom name="Cosmic Epsilon (Japan) [T-En by Stardust Crusaders v1.0].nes" size="393232" sha1="6e8a61567513690fc0daefa541cd5c9a077377e9" crc="d9fa7cc2" />
   </game>
-  <game name="01 - Games/Cosmic Spacehead">
+  <game name="01 - Games/Linus Spacehead's Cosmic Crusade">
     <rom name="Cosmic Spacehead (Europe) (En,Fr,De,Es) (Unl).nes" size="262160" sha1="b37cf0431a585ff30d5d7891b9b78a6de3bdb047" crc="9d521e2d" />
     <rom name="Linus Spacehead's Cosmic Crusade (USA) (En,Fr,De,Es) (Unl).nes" size="262160" sha1="df69fcc5fa9a4c74ff529e35abeb392c6dc3014c" crc="73969599" />
   </game>
@@ -4463,7 +4463,7 @@
     <rom name="Crash 'n' the Boys - Street Challenge (World) (Evercade).nes" size="262160" sha1="67af2e5aa48d2600de2c4dc83014a88ce3cd7365" crc="0cbbe60a" />
     <rom name="Crash 'n' the Boys - Street Challenge (World) (v1.1) (Evercade).nes" size="262160" sha1="3bc33aaab6a2aaad12e89884932ac67e7308717e" crc="90c1b750" />
   </game>
-  <game name="01 - Games/Crater Song - Definitive Edition">
+  <game name="01 - Games/Crater Song">
     <rom name="Crater Song (World) (Aftermarket) (Unl).nes" size="524304" sha1="0921db048d3d97b87f9a72ad22714332f6341bf1" crc="ded55709" />
     <rom name="Crater Song (World) (Emulator Optimized) (Aftermarket) (Unl).nes" size="524304" sha1="cb5f365421ead6236d328c51a30962de319a7672" crc="fb94054f" />
     <rom name="Crater Song (World) (v1.1) (Aftermarket) (Unl).nes" size="524304" sha1="10a34e3441b996e50f4b480b7e2d0ac729b034b7" crc="8780e2f2" />
@@ -4673,7 +4673,7 @@
     <rom name="DIG (World) (Beta 1) (Aftermarket) (Unl).nes" size="40976" sha1="d4f2341255c84df50d69e02066e1ca1fac85225a" crc="1fd4bcdf" />
     <rom name="DIG (World) (Beta 2) (Aftermarket) (Unl).nes" size="40976" sha1="a1d587f64514c78024f6c328b44f9852f5a46b9c" crc="7b62c5d7" />
   </game>
-  <game name="01 - Games/Da Hanghai VII">
+  <game name="01 - Games/Juezhan Taipingyang">
     <rom name="Da Hanghai VII (China) (Unl).nes" size="524304" sha1="beceb8d9b968d2158a78f8e2ae2f58401ee2ef43" crc="2edbe336" />
     <rom name="Jingdian Tiequan V (China) (Aftermarket) (Unl).nes" size="524304" sha1="50648f89cd102c9c4896b6030b0e82db375ce5ae" crc="617360c3" />
     <rom name="Juezhan Taipingyang (China) (Unl).nes" size="524304" sha1="bde7389828bd923a3e5e151a4f5b460f555e30dc" crc="33d744c6" />
@@ -5185,14 +5185,14 @@
     <rom name="Donkey Kong Jr. no Sansuu Asobi (Japan) (Animal Crossing).nes" size="40976" sha1="499d6d10e43649721f697c4e2fd14469f1cebb32" crc="784ae6f3" />
     <rom name="Donkey Kong Jr. no Sansuu Asobi (Japan) (En).nes" size="24592" sha1="3d95f67ba5fb341c0fc154dcb1683bbb11a7242d" crc="4de9c299" />
   </game>
-  <game name="01 - Games/Donkey Kong Jr">
+  <game name="01 - Games/Donkey Kong Jr.">
     <rom name="Donkey Kong Classics (USA, Europe).nes" size="49168" sha1="47303599d3d78291b1043493383cd68d096584ac" crc="8aa7e88c" />
     <rom name="Donkey Kong Jr. (Japan) (En).nes" size="24592" sha1="6c25ea2d62cccfd0de63d453aa7c51e8dd3fd3f7" crc="cc56d9a3" />
     <rom name="Donkey Kong Jr. (USA) (Rev 1) (e-Reader).nes" size="24592" sha1="16dbe553698a09bfded4d8c14e12b5d5e770063f" crc="bc05039f" />
     <rom name="Donkey Kong Jr. (World) (Rev 1) (Animal Crossing).nes" size="40976" sha1="28f4da908cc98be326ff380f6a07c92cf02e9975" crc="4be5aa9d" />
     <rom name="Donkey Kong Jr. (World) (Rev 1).nes" size="24592" sha1="25351a86888fb964f0ba57294e6ce64fa63b227c" crc="cb42010f" />
   </game>
-  <game name="01 - Games/Donkey Kong Jr/~Pirate">
+  <game name="01 - Games/Donkey Kong Jr./~Pirate">
     <rom name="Donkey Kong Jr. (Asia) (En) (Pirate).nes" size="24592" sha1="43600a0c385ba23e6b94fe5c90dc5e66ebf8d195" crc="3faa0e9b" />
   </game>
   <game name="01 - Games/Donkey Kong">
@@ -5479,13 +5479,13 @@
   <game name="01 - Games/Dragon Fighter/~Pirate">
     <rom name="Dragon Fighter (Asia) (En) (Pirate).nes" size="655376" sha1="619aae0a521b40b8fc71e87276bffd44d082cfbb" crc="e03a1951" />
   </game>
-  <game name="01 - Games/Dragon Knife">
+  <game name="01 - Games/Tu Long Dao">
     <rom name="Tu Long Dao (China) (Unl).nes" size="524304" sha1="9d6b1a1bddbb72a71c079e221275bffa5dd4871b" crc="d58a51f7" />
   </game>
-  <game name="01 - Games/Dragon Knife/~Pirate">
+  <game name="01 - Games/Tu Long Dao/~Pirate">
     <rom name="Dragon Knife (China) (Pirate).nes" size="524304" sha1="649cbb92441d76dbaf06491288a3f9faa1d68566" crc="c25041c0" />
   </game>
-  <game name="01 - Games/Dragon Knife/~Translations">
+  <game name="01 - Games/Tu Long Dao/~Translations">
     <rom name="Dragon Knife (Asia) (Unl) [T-En by Pacnsacdave v1.0].nes" size="524304" sha1="800881e5a16671a4743b2aca7167bb07a7ea0a72" crc="2af8cbd7" />
   </game>
   <game name="01 - Games/Dragon Leap">
@@ -5794,7 +5794,7 @@
     <rom name="Dusty Diamond's All-Star Softball (USA).nes" size="262160" sha1="ad62d7ddb4fffae5f0e6df91b003a29d07b34026" crc="c42c5b62" />
     <rom name="Softball Tengoku (Japan).nes" size="262160" sha1="f4ad3e7c950de17e54a51d0871128d394b2fef5c" crc="7eb6dc6d" />
   </game>
-  <game name="01 - Games/Dynablaster">
+  <game name="01 - Games/Bomberman II">
     <rom name="Bomberman II (Japan) (En) (Super Bomberman Collection) (PS5).nes" size="131088" sha1="29bf7a93a78270608842a0ca4a66299e23f22890" crc="dd1286ae" />
     <rom name="Bomberman II (Japan) (En) (Super Bomberman Collection) (Switch).nes" size="131088" sha1="4d35dccc72b07050c2657f46af2bf397504afac9" crc="33da5279" />
     <rom name="Bomberman II (Japan) (En) (Super Bomberman Collection) (XBOX).nes" size="131088" sha1="2055ca092e2a58006f8ec48f1010018d58bff5df" crc="c2af9926" />
@@ -5803,7 +5803,7 @@
     <rom name="Bomberman II (USA).nes" size="131088" sha1="ac670d3e8511c52e29edff08c82b45b64c446ba1" crc="57b5f93a" />
     <rom name="Dynablaster (Europe).nes" size="131088" sha1="fe828b14f74fbaa1d5a218964125080cd5d2ae0f" crc="3d36d85c" />
   </game>
-  <game name="01 - Games/Dynablaster/~Prototypes and Betas">
+  <game name="01 - Games/Bomberman II/~Prototypes and Betas">
     <rom name="Bomberman II (USA) (Beta).nes" size="131088" sha1="da7f47bd117af3ae662b4983eafd68c6b34b0586" crc="4eecb442" />
   </game>
   <game name="01 - Games/Dynamite Bowl">
@@ -5820,14 +5820,14 @@
   <game name="01 - Games/EV Cruising">
     <rom name="EV Cruising (World) (Aftermarket) (Unl).nes" size="524304" sha1="5439f335844782efa693d93e37b0575a07fcd7f4" crc="253c4518" />
   </game>
-  <game name="01 - Games/Earth Bound">
+  <game name="01 - Games/Mother">
     <rom name="Mother (Japan) (Virtual Console).nes" size="393232" sha1="3f8565c6e6547e5d7e0a019bff74926bd12774b2" crc="58b727bb" />
     <rom name="Mother (Japan).nes" size="393232" sha1="abd9710251cc5c99152f87b0b4078a3a40fe2950" crc="cb084ac5" />
   </game>
-  <game name="01 - Games/Earth Bound/~Prototypes and Betas">
+  <game name="01 - Games/Mother/~Prototypes and Betas">
     <rom name="Earth Bound (USA) (Proto).nes" size="524304" sha1="f338af0af0058dc692d6003e04b4094bb324d2c5" crc="abbe02fa" />
   </game>
-  <game name="01 - Games/Earth Bound/~Translations">
+  <game name="01 - Games/Mother/~Translations">
     <rom name="Mother (Japan) [T-En by Pixeleos v1.0] [i].nes" size="393232" sha1="1e0bfd60a9b5f78b4bf7a538ef02167a4542a321" crc="bba62419" />
   </game>
   <game name="01 - Games/Earth Soldier - Happy Bichi">
@@ -5950,12 +5950,12 @@
   <game name="01 - Games/Enter Password">
     <rom name="Enter Password (World) (Aftermarket) (Unl).nes" size="40976" sha1="0e7968d54855bdd28d43523182473edc4acaec3b" crc="0ac83540" />
   </game>
-  <game name="01 - Games/Eric Cantona Football Challenge - Goal! 2">
+  <game name="01 - Games/Goal! Two">
     <rom name="Eric Cantona Football Challenge - Goal! 2 (Europe).nes" size="262160" sha1="e6299c5bfcf54957c53a863b48c12a1d6fc2f5ba" crc="2523de02" />
     <rom name="Goal! Two (USA).nes" size="262160" sha1="1979e2d553ee4a9874eed566b51cdc8f883760f4" crc="a3013d74" />
     <rom name="Goal!! (Japan).nes" size="262160" sha1="058ae40cf9fdca8f013ad4dd1a2a7aec64da4f8c" crc="b59d253b" />
   </game>
-  <game name="01 - Games/Eric Cantona Football Challenge - Goal! 2/~Pirate">
+  <game name="01 - Games/Goal! Two/~Pirate">
     <rom name="FIFA International 2 96 (Asia) (En) (Pirate).nes" size="262160" sha1="f3c19a2e63a1adb58a215caf1bffde166f74d172" crc="9ce3c278" />
   </game>
   <game name="01 - Games/Erika &amp; Satoru's Dream Adventure/~Translations">
@@ -6745,7 +6745,7 @@
   <game name="01 - Games/Flintstones, The - The Rescue of Dino &amp; Hoppy/~Pirate">
     <rom name="Yuanshi Mali VII (Asia) (En) (Pirate).nes" size="393232" sha1="ac879940185de5452e446c60fbdb779a225543bf" crc="1b7c39a7" />
   </game>
-  <game name="01 - Games/Flintstones, The - The Surprise at Dinosaur Peak">
+  <game name="01 - Games/Flintstones, The - The Surprise at Dinosaur Peak!">
     <rom name="Flintstones, The - The Surprise at Dinosaur Peak (Europe).nes" size="393232" sha1="48929445a92da70e32beaf29a794ec67d0e4548e" crc="9027d053" />
     <rom name="Flintstones, The - The Surprise at Dinosaur Peak! (USA).nes" size="393232" sha1="12014e1a9522104c5e6af6aa7105d326c2e4e47b" crc="fee4c18e" />
   </game>
@@ -6817,7 +6817,7 @@
   <game name="01 - Games/Fortune Street/~Translations">
     <rom name="Fortune Street (Japan) [T-En by RType88 v0.3] [i] [n].nes" size="262160" sha1="5285c658fd096b21691ac4a3669fc364f27a570c" crc="d71a0a59" />
   </game>
-  <game name="01 - Games/Four Players' Tennis">
+  <game name="01 - Games/Chris Evert &amp; Ivan Lendl in Top Players' Tennis">
     <rom name="Chris Evert &amp; Ivan Lendl in Top Players' Tennis (USA).nes" size="262160" sha1="6f58fddf87c643c4daf39d5c6fcc673e4ff83d63" crc="55d8e579" />
     <rom name="Four Players' Tennis (Europe).nes" size="262160" sha1="8471182e0105762a4bf6e14cae9b67198e9a9a06" crc="20101a6a" />
     <rom name="World Super Tennis (Japan).nes" size="262160" sha1="a800ee6a631405f1391f7fca02a4d60048be87bd" crc="bd55fb21" />
@@ -6958,14 +6958,14 @@
     <rom name="Galactic Crusader (USA) (Unl).nes" size="65552" sha1="8b06237444b0411697b06c924d78baa25924d3c6" crc="bcd91e5f" />
     <rom name="Papillon Gals (Japan) (En) (Unl).nes" size="98320" sha1="dac12643f21df0272325a3deab2173107e236c18" crc="2a311314" />
   </game>
-  <game name="01 - Games/Galaga">
+  <game name="01 - Games/Galaga - Demons of Death">
     <rom name="Galaga (Europe).nes" size="40976" sha1="981241a3cef093647bd49cf3167295f2176795ce" crc="5c625c71" />
     <rom name="Galaga (Japan) (En).nes" size="24592" sha1="3345115b8bd5b8bb28a29d535bba0d7bd90613d9" crc="2ed7cd88" />
     <rom name="Galaga (World) (Namcot Collection, Namco Museum Archives Vol 2).nes" size="24592" sha1="e3a42338f889c0c261adb6513519351ce3a5720d" crc="c2fcbf77" />
     <rom name="Galaga - Demons of Death (USA).nes" size="40976" sha1="b32a3b3fec91a9481174c5300533b2917db43a9a" crc="7e75970f" />
     <rom name="Galaga - Demons of Death (World) (Evercade).nes" size="40976" sha1="023802dfa6003a6d29eaeb1c616475947d76b164" crc="4991183a" />
   </game>
-  <game name="01 - Games/Galaga/~Pirate">
+  <game name="01 - Games/Galaga - Demons of Death/~Pirate">
     <rom name="4-in-1 - BattleCity - Pac-Man - Galaga - Ice Climber (Asia) (En) (Pirate).nes" size="98320" sha1="1f610e70d20e751631c983c853736b0612f00eed" crc="17779367" />
     <rom name="Galaga (Asia) (En) (Pirate).nes" size="24592" sha1="b77b17a9e2bc70de032d5442e439c2d5c04264c2" crc="87ce29f5" />
   </game>
@@ -7214,16 +7214,16 @@
   <game name="01 - Games/Ghost Lion/~Prototypes and Betas">
     <rom name="Ghost Lion (USA) (Beta).nes" size="262160" sha1="81b13f5a0f6e9490b98f2d7cab0b659547b66383" crc="cee5879e" />
   </game>
-  <game name="01 - Games/Ghost'n Goblins">
+  <game name="01 - Games/Ghosts'n Goblins">
     <rom name="Ghost'n Goblins (Europe).nes" size="131088" sha1="b3fad2fa6d52473426ba752a663455ae958e11b1" crc="7724a14f" />
     <rom name="Ghosts'n Goblins (USA) (Capcom Town).nes" size="131088" sha1="6376a0a4cc32038f03fd877a56742165ab333f18" crc="795e90bb" />
     <rom name="Ghosts'n Goblins (USA).nes" size="131088" sha1="3430811ecc007fa469f5b74db277f872679266dd" crc="102a8b76" />
     <rom name="Makaimura (Japan) (En).nes" size="131088" sha1="f803298e3a8e8d4abe40aa00985bef0969537e65" crc="1bf83927" />
   </game>
-  <game name="01 - Games/Ghost'n Goblins/~Pirate">
+  <game name="01 - Games/Ghosts'n Goblins/~Pirate">
     <rom name="Goblins (Russia) (Pirate).nes" size="131088" sha1="b9dcb4ed80fc539b360375b4a5525b571e6eeac4" crc="e8a9bf62" />
   </game>
-  <game name="01 - Games/Ghost'n Goblins/~Translations">
+  <game name="01 - Games/Ghosts'n Goblins/~Translations">
     <rom name="Demon World Village (Japan) [T-En by BlackPaladin v1.1] [n].nes" size="131088" sha1="c7455972c9ab1712fc8e4e5cf5e02313138da74f" crc="35bbf3ce" />
   </game>
   <game name="01 - Games/Ghostbusters II">
@@ -7502,7 +7502,7 @@
   <game name="01 - Games/Grocery Warfare">
     <rom name="Grocery Warfare (World) (Aftermarket) (Unl).nes" size="40976" sha1="fc92f9818f829258d6896f8a97286dbe3b79fe58" crc="33d798e6" />
   </game>
-  <game name="01 - Games/Gruniozerca 2 - The Great Cavy Rescue!">
+  <game name="01 - Games/Gruniozerca 2">
     <rom name="Gruniozerca 2 (World) (En,Pl) (NESDev 2017) (Aftermarket) (Unl).nes" size="65552" sha1="e13fa42696776528ea9225c27218a47dcff9d6a7" crc="b1c7f661" />
     <rom name="Gruniozerca 2 (World) (En,Pl) (Rev 1) (NESDev 2017) (Aftermarket) (Unl).nes" size="65552" sha1="98b8e960b95d40790b430d115513fd26b21b82fe" crc="62d38d62" />
     <rom name="Gruniozerca 2 - The Great Cavy Rescue! (World) (En,Pl) (Aftermarket) (Unl).nes" size="65552" sha1="9af193920d3ce0fad3966863342f4297e195eda4" crc="318069c3" />
@@ -8481,32 +8481,32 @@
   <game name="01 - Games/Jacob's Elevator">
     <rom name="Jacob's Elevator (World) (v1.1) (Aftermarket) (Unl).nes" size="40976" sha1="58febe9731bb5d6b24fab96ef408891afd807020" crc="45a38d68" />
   </game>
-  <game name="01 - Games/Jajamaru Gekimaden - Maboroshi no Kinmajou">
+  <game name="01 - Games/Ninja JaJaMaru - The Legend of the Golden Castle">
     <rom name="Jajamaru Gekimaden - Maboroshi no Kinmajou (Japan).nes" size="262160" sha1="909ea44da2b704e88b4058631b985897cd6ae41c" crc="214b9bc6" />
     <rom name="Ninja JaJaMaru - The Legend of the Golden Castle (USA, Europe) (Ninja JaJaMaru Retro Collection) (Switch).nes" size="393232" sha1="dfefcefa95e6d3d362b8d6da956866197f1dc456" crc="62f21367" />
   </game>
-  <game name="01 - Games/Jajamaru Gekimaden - Maboroshi no Kinmajou/~Translations">
+  <game name="01 - Games/Ninja JaJaMaru - The Legend of the Golden Castle/~Translations">
     <rom name="Ninja Jajamaru - Legend of a Demon's Attack - Castle of Dreams (Japan) [T-En by Aishsha &amp; Stardust Crusaders v1.0] [Add by Proveaux v1.01] [n].nes" size="262160" sha1="ccfffa7dac60a462d566709976c0186d17ec08b9" crc="cb86471c" />
     <rom name="Ninja Jajamaru - Legend of a Demon's Attack - Castle of Dreams (Japan) [T-En by Aishsha &amp; Stardust Crusaders v1.0] [n].nes" size="262160" sha1="fbca1482d83ff2a72dc28aa9376a06d3a769a987" crc="53a64663" />
     <rom name="Ninja Jajamaru - Prophecy of the Demon - The Demonic Castle (Japan) [T-En by Aishsha &amp; Cabal Translations v2.0] [n].nes" size="393232" sha1="b57b9e11ea6af99ebbe1c84a473a7bdabb155a17" crc="b1995eb3" />
   </game>
-  <game name="01 - Games/Jajamaru Ninpou Chou">
+  <game name="01 - Games/Ninja JaJaMaru - The Ninja Skill Book">
     <rom name="Jajamaru Ninpou Chou (Japan).nes" size="262160" sha1="ab56c716922b22046e9d756885df4d25da20e0ad" crc="6b7e2ec6" />
     <rom name="Ninja JaJaMaru - The Ninja Skill Book (USA, Europe) (Ninja JaJaMaru Retro Collection) (Switch).nes" size="393232" sha1="8cf0dd597e43c3b34dcd66c91f9ad9615b513498" crc="d2b8ac6d" />
   </game>
-  <game name="01 - Games/Jajamaru Ninpou Chou/~Prototypes and Betas">
+  <game name="01 - Games/Ninja JaJaMaru - The Ninja Skill Book/~Prototypes and Betas">
     <rom name="Jajamaru Ninpou Chou (Japan) (Beta).nes" size="262160" sha1="1e066bc2f0ffefbe58db4615a22a4ccf9b760cc2" crc="9562e6ad" />
     <rom name="Taro's Quest (USA) (Proto).nes" size="262160" sha1="6f76b2edd85999860e532cd5fd77e48c8dbfbebf" crc="9c76361e" />
   </game>
-  <game name="01 - Games/Jajamaru no Daibouken">
+  <game name="01 - Games/Ninja JaJaMaru's Big Adventure">
     <rom name="Jajamaru no Daibouken (Japan).nes" size="65552" sha1="018c4ca17a2164c3f481a09c6b20a9567c137300" crc="a5270820" />
     <rom name="Ninja JaJaMaru's Big Adventure (USA) (Retro-Bit Generations).nes" size="65552" sha1="636cc61229f04d0aaf727437ab4db512e70479ae" crc="956d9f8d" />
     <rom name="Ninja JaJaMaru's Big Adventure (USA, Europe) (Ninja JaJaMaru Retro Collection) (Switch).nes" size="65552" sha1="ab0554d6e3f3a11b6634ab2f11fc9a154a31c43b" crc="7e9e541b" />
   </game>
-  <game name="01 - Games/Jajamaru no Daibouken/~Pirate">
+  <game name="01 - Games/Ninja JaJaMaru's Big Adventure/~Pirate">
     <rom name="Jajamaru no Daibouken (Asia) (Ja) (Pirate).nes" size="65552" sha1="87299b17d8be61981c0462a7a1add1cb99aa7569" crc="74381339" />
   </game>
-  <game name="01 - Games/Jajamaru no Daibouken/~Translations">
+  <game name="01 - Games/Ninja JaJaMaru's Big Adventure/~Translations">
     <rom name="Ninja Jajamaru's Big Adventure (Japan) [T-En by Aishsha &amp; Stardust Crusaders v1.00] [n].nes" size="65552" sha1="0ef9cc110b1ceae7607bc07acf72165f800f50e7" crc="07ddb978" />
   </game>
   <game name="01 - Games/James Bond Jr">
@@ -8670,18 +8670,18 @@
   <game name="01 - Games/Jinyong Qun Xia Zhuan - Shu Jian Jiangshan">
     <rom name="Jinyong Qun Xia Zhuan - Shu Jian Jiangshan (China) (Aftermarket) (Unl).nes" size="2097168" sha1="70710570bf5dafb71c40941a4b1e5eda6116e454" crc="b7427003" />
   </game>
-  <game name="01 - Games/Joe &amp; Mac - Caveman Ninja">
+  <game name="01 - Games/Joe &amp; Mac">
     <rom name="Joe &amp; Mac (USA).nes" size="262160" sha1="cfdfb8398e79162453a790150dc36c211b94b805" crc="9d6aea16" />
     <rom name="Joe &amp; Mac - Caveman Ninja (Europe).nes" size="262160" sha1="447d40aedb93f5477013ff9000a70f2f15c0c8eb" crc="7b43e3fe" />
   </game>
-  <game name="01 - Games/Joe &amp; Mac - Caveman Ninja/~Pirate">
+  <game name="01 - Games/Joe &amp; Mac/~Pirate">
     <rom name="Donkey Kong (Asia) (En) (Pirate).nes" size="262160" sha1="8202320b27333ce0b23b4b694cf60d8a927401b7" crc="3ee94fd3" />
     <rom name="Joe and Mac (Asia) (En) (J-C5) (Pirate).nes" size="262160" sha1="4db3200b71e3d2fe7d53f700537d02603c131337" crc="a8671ae3" />
     <rom name="Mario 16 (Asia) (En) (1993) (Pirate).nes" size="262160" sha1="c793b44650f5d23946d6aea7aeebc49c3c5b024b" crc="42092277" />
     <rom name="Mario 16 (Asia) (En) (1996) (Pirate).nes" size="262160" sha1="4a74653087926cd632ccce71cab17279eabf6ef8" crc="cff3e51b" />
     <rom name="Super Mario - Jurassk Park (Asia) (En) (Pirate).nes" size="262160" sha1="d0ce56b97b353367cbf465a1d762c0d2f9b900dc" crc="fc2d0c35" />
   </game>
-  <game name="01 - Games/Joe &amp; Mac - Caveman Ninja/~Prototypes and Betas">
+  <game name="01 - Games/Joe &amp; Mac/~Prototypes and Betas">
     <rom name="Caveman Ninja (USA) (Beta).nes" size="262160" sha1="2c042c3f0ad6eaae206fc9a003b7bfcb876e41d3" crc="5e350e1f" />
   </game>
   <game name="01 - Games/John Elway's Quarterback">
@@ -9321,10 +9321,10 @@
   <game name="01 - Games/Koudai Jingling - Jin">
     <rom name="Koudai Jingling - Jin (China) (Yancheng) (Pirate).nes" size="1048592" sha1="1224802db4a9928d20aa0cbb2f44923ff32e69b8" crc="ada28f81" />
   </game>
-  <game name="01 - Games/Koudai Jingling - Shuijing">
+  <game name="01 - Games/Koudai Yaoguai - Zuanshi Ban">
     <rom name="Koudai Yaoguai - Zuanshi Ban (China) (Unl).nes" size="1048592" sha1="3a631e56065a4af6b3565debc5d7117aa5998c3d" crc="d5fee757" />
   </game>
-  <game name="01 - Games/Koudai Jingling - Shuijing/~Pirate">
+  <game name="01 - Games/Koudai Yaoguai - Zuanshi Ban/~Pirate">
     <rom name="Chongwu Xiao Jingling II - Pikachu (China) (Pirate).nes" size="1048592" sha1="1272aa79f704505c50486546594fcad37917684f" crc="d9bbc55d" />
     <rom name="Koudai Jingling - Shuijing (China) (Aftermarket) (Pirate).nes" size="1048592" sha1="17d107a0dc2330639aa145ca3955801574cbce4c" crc="eb9fc73f" />
   </game>
@@ -9578,7 +9578,7 @@
     <rom name="Legend of Kage, The (USA) (Virtual Console).nes" size="49168" sha1="20fe0a5f80712dbd8dfc3d020c0db62bd4cb7d09" crc="e5339528" />
     <rom name="Legend of Kage, The (USA).nes" size="49168" sha1="657ff5d1aabc5b4a93828d9369079e9e36554c46" crc="cc829885" />
   </game>
-  <game name="01 - Games/Legend of Prince Valiant, The">
+  <game name="01 - Games/Little Lancelot">
     <rom name="Legend of Prince Valiant, The (Europe).nes" size="262160" sha1="3a7c8c42310325014866d62d914172f0e21c550a" crc="c5097758" />
     <rom name="Little Lancelot (USA) (Piko Interactive).nes" size="262160" sha1="c62fafe7e48fbce73b6ae0318c6e8993c2cacddc" crc="f4cb56cc" />
   </game>
@@ -9657,14 +9657,14 @@
   <game name="01 - Games/Liesha Zhuluoji - Blood of Jurassic">
     <rom name="Liesha Zhuluoji - Blood of Jurassic (China) (En) (Unl).nes" size="262160" sha1="30bd68ed969f0c981183e74c484aee72210e0228" crc="b98fcd1f" />
   </game>
-  <game name="01 - Games/Life Force - Salamander">
+  <game name="01 - Games/Life Force">
     <rom name="Life Force (USA) (Rev 1) (Virtual Console).nes" size="131088" sha1="00cc60e8207b7b8a1f870ae63d3a8f44af688586" crc="e4afdb8f" />
     <rom name="Life Force (USA).nes" size="131088" sha1="4fea1807ab79a4b69edca5a571cdf4318e14df62" crc="6072894a" />
     <rom name="Life Force - Salamander (Europe) (Virtual Console).nes" size="131088" sha1="0169bb77f0e5d39b9f10ba1871dafd4e491f79fe" crc="35928b71" />
     <rom name="Life Force - Salamander (Europe).nes" size="131088" sha1="c117bea3a8d02a429eadc934f7d04f16b717e0a5" crc="944ffd3a" />
     <rom name="Salamander (Japan).nes" size="131088" sha1="66abb299e94ac2269e20a058c37b122c26e1c563" crc="ccea9276" />
   </game>
-  <game name="01 - Games/Life Force - Salamander/~Pirate">
+  <game name="01 - Games/Life Force/~Pirate">
     <rom name="Life Force (Taiwan) (En) (Pirate).nes" size="131088" sha1="47b24d7b15ae113b0c5e806aa1080c05f37cad6a" crc="7fd2dbe1" />
   </game>
   <game name="01 - Games/Light of Indra, The/~Translations">
@@ -9916,7 +9916,7 @@
     <rom name="Luye Xian Zong (China) (960100549) (Unl).nes" size="524304" sha1="dae7c0d42e77492093267e346fca37f342e02c5f" crc="3457127b" />
     <rom name="Luye Xian Zong (China) (970307) (Unl).nes" size="524304" sha1="121ae00a33ce57440783e1a6ae6892f864876450" crc="cce05ff5" />
   </game>
-  <game name="01 - Games/M.U.L.E">
+  <game name="01 - Games/M.U.L.E.">
     <rom name="M.U.L.E. (USA).nes" size="131088" sha1="049708fd915e8647c77378cdf3a920904e15eba5" crc="40372757" />
   </game>
   <game name="01 - Games/M.U.S.C.L.E. - Tag Team Match">
@@ -10137,7 +10137,7 @@
   <game name="01 - Games/Mahjong RPG Dora Dora Dora">
     <rom name="Mahjong RPG Dora Dora Dora (Japan).nes" size="262160" sha1="cfcaccfd23baaa76a31d0ee07378dba33d864cd6" crc="f502472c" />
   </game>
-  <game name="01 - Games/Mahjong Samit - Kabukicho Hen">
+  <game name="01 - Games/Mahjong World, The">
     <rom name="Mahjong Samit - Kabukicho Hen (Japan) (Unl).nes" size="131088" sha1="ceddabe0c05bf26c5a8928a4a8ca7fd4b523ef32" crc="01be0b6c" />
     <rom name="Mahjong World, The (Taiwan) (60 pin cart) (Unl).nes" size="131088" sha1="6f836f097c0152988e66118430612dc3fd60ea35" crc="b1a7546a" />
     <rom name="Mahjong World, The (Taiwan) (72 pin cart) (Unl).nes" size="131088" sha1="caf6a49c8e88cfdf4e02d9831985ed2701004008" crc="e53671bd" />
@@ -10260,19 +10260,19 @@
   <game name="01 - Games/Mariana Sequence, The">
     <rom name="Mariana Sequence, The (World) (v1.1) (Aftermarket) (Unl).nes" size="524304" sha1="51ca58e831cd4988519e89f2ea7f512a9e2cfce2" crc="8a71b51a" />
   </game>
-  <game name="01 - Games/Mario &amp; Yoshi">
+  <game name="01 - Games/Yoshi">
     <rom name="Mario &amp; Yoshi (Europe).nes" size="163856" sha1="e08b62f8be645afdd50f1bf802285d195996987f" crc="2d50ba0a" />
     <rom name="Yoshi (USA).nes" size="163856" sha1="71cc02d4a005c6ad71f1fbf2b3ccd890d65056a3" crc="ce8f7782" />
     <rom name="Yoshi no Tamago (Japan) (En).nes" size="163856" sha1="b359987ad511b7fd37c75afd9d7446b359234a39" crc="37289688" />
   </game>
-  <game name="01 - Games/Mario Bros">
+  <game name="01 - Games/Mario Bros.">
     <rom name="Mario Bros. (Europe) (PAL-MA-0).nes" size="24592" sha1="92f14ab203e440bf1427dff418b05b4588c92e51" crc="ba8659c0" />
     <rom name="Mario Bros. (Europe) (PAL-MC-0, Classic Series).nes" size="40976" sha1="8ff0c2db91b2c7c46c456647da3a9e274c27135e" crc="643702d9" />
     <rom name="Mario Bros. (USA) (e-Reader).nes" size="24592" sha1="4b3307d1278ff1f497397f5a1ab435fee8bd9adc" crc="066073a4" />
     <rom name="Mario Bros. (World) (Animal Crossing).nes" size="40976" sha1="cc4dc76971598c9dae33867c6a860e7339ab6832" crc="79639dc5" />
     <rom name="Mario Bros. (World).nes" size="24592" sha1="314b6e46e814f955b52ac954f67dab849582fe77" crc="0305e5d6" />
   </game>
-  <game name="01 - Games/Mario Bros/~Pirate">
+  <game name="01 - Games/Mario Bros./~Pirate">
     <rom name="Mario Bros. (Asia) (En) (Whirlwind Manu) (Pirate).nes" size="24592" sha1="5c5b72b8fbbe9fb78f34ca2455eaa5ba8050e64a" crc="b6dabc48" />
     <rom name="Mr Mary (Asia) (En) (Pirate).nes" size="24592" sha1="55e18e28f288b77ff2965aa8423cbe1b2f0d9c71" crc="413dc484" />
     <rom name="Rambo Bros (Taiwan) (En) (Pirate).nes" size="24592" sha1="37be05919617ec79cb3e81969a1528251f779020" crc="d7997604" />
@@ -10379,15 +10379,15 @@
   <game name="01 - Games/MazezaM Challenge">
     <rom name="MazezaM Challenge (World) (v1.1) (Aftermarket) (Pirate).nes" size="524304" sha1="1956b006a5b8403e32af5cb0d18f89556ba2aa4e" crc="0afef2fa" />
   </game>
-  <game name="01 - Games/McDonaldland">
+  <game name="01 - Games/M.C. Kids">
     <rom name="M.C. Kids (USA).nes" size="262160" sha1="2766870370fef9f77d8e083870a019bf0eb511f5" crc="a417e646" />
     <rom name="McDonaldland (Europe).nes" size="262160" sha1="c8c5c65b324fb0dae7d9bddcc88523713053a035" crc="2c3da810" />
     <rom name="McDonaldland (France).nes" size="262160" sha1="8d641bcf9f716ad7529e10124882a48a0c743618" crc="56428d74" />
   </game>
-  <game name="01 - Games/McDonaldland/~Pirate">
+  <game name="01 - Games/M.C. Kids/~Pirate">
     <rom name="M.C. Mario (Asia) (En) (Pirate).nes" size="262160" sha1="e9bc6dfd05c50e1222b2e47af1eab073215d5625" crc="05b210c2" />
   </game>
-  <game name="01 - Games/McDonaldland/~Prototypes and Betas">
+  <game name="01 - Games/M.C. Kids/~Prototypes and Betas">
     <rom name="M.C. Kids (USA) (Beta 1).nes" size="262160" sha1="12e5635926f4b2a4dd24604c5231403562c5c52e" crc="ba81e2e2" />
     <rom name="M.C. Kids (USA) (Beta 2).nes" size="262160" sha1="c67a25a36fae7ae82dcbc86bea3cfe0556dcda2c" crc="d5c2b927" />
   </game>
@@ -11179,21 +11179,21 @@
   <game name="01 - Games/Mr. Dragon's Short Quest">
     <rom name="Mr. Dragon's Short Quest (World) (Aftermarket) (Unl).nes" size="524304" sha1="b42d87d1d9e9c8e06673bd4d4bba0d3fbf002417" crc="69f1fee9" />
   </game>
-  <game name="01 - Games/Mr. Gimmick">
+  <game name="01 - Games/Gimmick">
     <rom name="Gimmick (USA) (Limited Run Games).nes" size="1048592" sha1="8dd1baa7e18aa01cefc522f39212a7e021648510" crc="e7d9e55f" />
     <rom name="Gimmick! (Japan) (En).nes" size="393232" sha1="bb19be49dad26236b03c91d086e90abdbc94da1d" crc="ee8879d5" />
     <rom name="Mr. Gimmick (Europe).nes" size="393232" sha1="d6f344440f796f3e081ae786e67aed7c08c856e4" crc="bbf010e3" />
     <rom name="Mr. Gimmick (World) (Evercade).nes" size="393232" sha1="03c0b3751d94f6f068b62dffca3bed4d1e22a186" crc="667bb893" />
   </game>
-  <game name="01 - Games/Mr. Gimmick/~Pirate">
+  <game name="01 - Games/Gimmick/~Pirate">
     <rom name="Shuiguan Pipe (Asia) (En) (Pirate).nes" size="393232" sha1="65003faf6daf6b541ba061e63ee4d97eb83c259e" crc="e9bf6d9e" />
   </game>
-  <game name="01 - Games/Mr. Gimmick/~Prototypes and Betas">
+  <game name="01 - Games/Gimmick/~Prototypes and Betas">
     <rom name="Gimmick! (Japan) (En) (Beta).nes" size="393232" sha1="4601a159b62be74ae8dcf05d378195a33213e1f2" crc="058c0f9e" />
     <rom name="Mr. Gimmick (USA) (Proto 1).nes" size="393232" sha1="2f4f36e38b2e367e546454d56c0f590b9f159a68" crc="8411b052" />
     <rom name="Mr. Gimmick (USA) (Proto 2).nes" size="393232" sha1="7b65b1f860e2ef2d35cd465695b1d0cfb275c2bb" crc="b1080649" />
   </game>
-  <game name="01 - Games/Mr. Gimmick/~Translations">
+  <game name="01 - Games/Gimmick/~Translations">
     <rom name="Gimmick! (Japan) [T-En by LucianoTheWindowsFan v1.0].nes" size="393232" sha1="9c92ed6543a0e53581ad32e8b74aa9f49a8c5a96" crc="e9ed7147" />
   </game>
   <game name="01 - Games/Mr. Maymunshine's Christmas Land">
@@ -11499,21 +11499,21 @@
     <rom name="Nebs 'n Debs (World) (v1.1) (Aftermarket) (Unl).nes" size="40976" sha1="5cfaf7ec3e7656248971fe18d8eefcbde7c986eb" crc="db4ffebc" />
     <rom name="Nebs 'n Debs (World) (v1.1) (Kaizo) (Aftermarket) (Unl).nes" size="40976" sha1="07c5aa225875c442d73277cf3e7acdca14598e16" crc="f992370a" />
   </game>
-  <game name="01 - Games/Nekketsu Kakutou Densetsu">
+  <game name="01 - Games/River City Fighting Legend">
     <rom name="Nekketsu Kakutou Densetsu (Japan).nes" size="262160" sha1="82aa8406b2f02812c6cdcceb1fed0f3c3589c674" crc="ecce4bb5" />
     <rom name="River City Fighting Legend (USA, Europe) (Retro-Bit).nes" size="262160" sha1="585c245532daccf9f40d763b39f17633e4bba042" crc="29458c23" />
   </game>
-  <game name="01 - Games/Nekketsu Kakutou Densetsu/~Pirate">
+  <game name="01 - Games/River City Fighting Legend/~Pirate">
     <rom name="Super Fighters (Asia) (En) (Pirate).nes" size="262160" sha1="f332ead180e2eecd991f9324cf02412f4071f87d" crc="409a6f11" />
   </game>
-  <game name="01 - Games/Nekketsu! Street Basket - Ganbare Dunk Heroes">
+  <game name="01 - Games/River City Basketball - Let's Go Dunk Heroes!">
     <rom name="Nekketsu! Street Basket - Ganbare Dunk Heroes (Japan).nes" size="262160" sha1="2a647d47def0339026cca13263ff750500b584e0" crc="532a21b8" />
     <rom name="River City Basketball - Let's Go Dunk Heroes! (USA, Europe) (Retro-Bit).nes" size="262160" sha1="11a16faa14973ffa203015dcd2a42f1f20739077" crc="2da93111" />
   </game>
-  <game name="01 - Games/Nekketsu! Street Basket - Ganbare Dunk Heroes/~Pirate">
+  <game name="01 - Games/River City Basketball - Let's Go Dunk Heroes!/~Pirate">
     <rom name="NBA Live 96 (Asia) (Ja) (NT-865) (Pirate).nes" size="262160" sha1="a3a3ea6c67a4294c1ba2bd0f8d3f8984ec2b1221" crc="efba74f5" />
   </game>
-  <game name="01 - Games/Nekketsu! Street Basket - Ganbare Dunk Heroes/~Translations">
+  <game name="01 - Games/River City Basketball - Let's Go Dunk Heroes!/~Translations">
     <rom name="Crash 'n the Boys - Dunk Challenge (Japan) [T-En by Farid v1.2] [Add by El Duderino v1.1] [n].nes" size="262160" sha1="771b661d8559cba0ac7d76eec355536fb3bc533f" crc="9ea1a54a" />
     <rom name="Nekketsu! Street Basket - Go for it, Dunk Heroes! (Japan) [T-En by Farid v1.2] [n].nes" size="262160" sha1="f971e57a28ca9aff1dc2dd80a63b9e83aa83d8be" crc="55d70815" />
   </game>
@@ -11547,14 +11547,14 @@
   <game name="01 - Games/New Ghostbusters II/~Prototypes and Betas">
     <rom name="New Ghostbusters II (USA) (Proto).nes" size="262160" sha1="24f7039b4ac09579b381b962fcd8124ef285fbad" crc="a62233e7" />
   </game>
-  <game name="01 - Games/NewZealand Story, The">
+  <game name="01 - Games/Kiwi Kraze - A Bird-Brained Adventure!">
     <rom name="Kiwi Kraze - A Bird-Brained Adventure! (USA).nes" size="262160" sha1="21c458b9a7192e0ca7b99778ab398cc02cd88a75" crc="ed85cefa" />
     <rom name="NewZealand Story, The (Europe).nes" size="262160" sha1="992579b986fce9322256356157d47ff1e1d54b67" crc="193c2176" />
   </game>
-  <game name="01 - Games/NewZealand Story, The/~Pirate">
+  <game name="01 - Games/Kiwi Kraze - A Bird-Brained Adventure!/~Pirate">
     <rom name="Kiwi Kraze (Asia) (En) (K-E3) (Pirate).nes" size="262160" sha1="ed764732204474486b89421f5553a582f2badb66" crc="3e3866c2" />
   </game>
-  <game name="01 - Games/NewZealand Story, The/~Prototypes and Betas">
+  <game name="01 - Games/Kiwi Kraze - A Bird-Brained Adventure!/~Prototypes and Betas">
     <rom name="Kiwi Kraze - A Bird-Brained Adventure! (USA) (Beta).nes" size="262160" sha1="9baa449f1240fdb236a19e7d3685018d9ba3258b" crc="c583e730" />
   </game>
   <game name="01 - Games/Nezha Chuanqi">
@@ -11563,11 +11563,11 @@
   <game name="01 - Games/Nichibutsu Mahjong III - Mahjong G Men">
     <rom name="Nichibutsu Mahjong III - Mahjong G Men (Japan).nes" size="262160" sha1="40823964f0c9e3bbc5c5fa6095f2c31aab0be76f" crc="8124b4b4" />
   </game>
-  <game name="01 - Games/Nigel Mansell's World Championship">
+  <game name="01 - Games/Nigel Mansell's World Championship Racing">
     <rom name="Nigel Mansell's World Championship (Europe) (En,Fr,De,Es,It).nes" size="262160" sha1="00406604e8818a99eaabdbf1097d11dd3a501989" crc="2e003f3b" />
     <rom name="Nigel Mansell's World Championship Racing (USA).nes" size="262160" sha1="e7ab24509050bfcc919b15594c49f9c85ea84c54" crc="bbc86cd7" />
   </game>
-  <game name="01 - Games/Nigel Mansell's World Championship/~Prototypes and Betas">
+  <game name="01 - Games/Nigel Mansell's World Championship Racing/~Prototypes and Betas">
     <rom name="Nigel Mansell's World Championship (Europe) (En,Fr,De,Es,It) (Beta) (1992-09-29).nes" size="262160" sha1="cdb88a4e52737d542ce820a1f73b2b7f3af4510a" crc="92b0d6fe" />
     <rom name="Nigel Mansell's World Championship Racing (USA) (Beta).nes" size="262160" sha1="df1679aaf134fbee3bb472df2558db0b398ef4a6" crc="105e2dc2" />
   </game>
@@ -11662,15 +11662,15 @@
   <game name="01 - Games/Ninja Jajamaru - Galactic Battle/~Translations">
     <rom name="Ninja Jajamaru - Galactic Battle (Japan) [T-En by HTI v1.00] [n].nes" size="262160" sha1="628585703fb1d17b5041b55f9703146b2289ea3f" crc="18c4e471" />
   </game>
-  <game name="01 - Games/Ninja Jajamaru - Ginga Daisakusen">
+  <game name="01 - Games/Ninja JaJaMaru - Operation Milky Way">
     <rom name="Ninja JaJaMaru - Operation Milky Way (USA, Europe) (Ninja JaJaMaru Retro Collection) (Switch).nes" size="262160" sha1="0568557d33f24e59429b2f9a9ce53f70c0481bf8" crc="65120fe2" />
     <rom name="Ninja Jajamaru - Ginga Daisakusen (Japan).nes" size="262160" sha1="8e2100be608f00d747ba54e8a8dd807aa128f129" crc="e81e2b30" />
   </game>
-  <game name="01 - Games/Ninja Jajamaru - Ginga Daisakusen/~Pirate">
+  <game name="01 - Games/Ninja JaJaMaru - Operation Milky Way/~Pirate">
     <rom name="Reggie's Radical Adventures (World) (Aftermarket) (Pirate).nes" size="262160" sha1="5757ab656678defe12675ee9505bbaf99c1db9d4" crc="265eae5e" />
     <rom name="Reggie's Radical Adventures (World) (Patreon) (Aftermarket) (Pirate).nes" size="262160" sha1="b155c0a46875200b3eb7be1ac0f10e78658f2e33" crc="9be80d22" />
   </game>
-  <game name="01 - Games/Ninja Jajamaru - Ginga Daisakusen/~Prototypes and Betas">
+  <game name="01 - Games/Ninja JaJaMaru - Operation Milky Way/~Prototypes and Betas">
     <rom name="Ninja Jajamaru - Ginga Daisakusen (Japan) (Beta).nes" size="262160" sha1="92745ddcd9ce966c3d474c14c2a916a987d77ff2" crc="78bfd899" />
     <rom name="Squashed (USA) (Proto).nes" size="262160" sha1="0b29963130a85bfa4071c8c64a7d8acdc9bc8db6" crc="4b878f48" />
   </game>
@@ -11840,12 +11840,12 @@
     <rom name="Action 52 (USA) (Rev B) (Unl).nes" size="2097168" sha1="0b5da363f74c7d3753fcd4891e9041a892287842" crc="26e5db70" />
     <rom name="Action 52 (USA) (Unl).nes" size="2097168" sha1="d9d3ccb541b96af7bc932dbc74b373ef2ccc3135" crc="ee91f2a7" />
   </game>
-  <game name="01 - Games/Nordle">
+  <game name="01 - Games/Wordle">
     <rom name="Nordle (USA, Europe) (En,Fr) (Aftermarket) (Unl).nes" size="524304" sha1="18af54991586b1a8832043952b15ab6c1df29f8c" crc="b6f67d2e" />
     <rom name="Wordle (World) (v1.02) (Digital) (Aftermarket) (Unl).nes" size="65552" sha1="1c8b644066d9b5f8418a93de383b7f21b5e5fd36" crc="a814fc66" />
     <rom name="Wordle (World) (v1.1) (Digital) (Aftermarket) (Unl).nes" size="65552" sha1="aea31483a90d8fac2a22d043e35f5c90e00f3c30" crc="c0d5b0ef" />
   </game>
-  <game name="01 - Games/North &amp; South">
+  <game name="01 - Games/North and South">
     <rom name="North &amp; South (Europe).nes" size="262160" sha1="c7efdcca1a518074cd31f80e64c2dee2bee7bba2" crc="abb1cb93" />
     <rom name="North &amp; South - Wakuwaku Nanboku Sensou (Japan).nes" size="262160" sha1="3183426f0ee7622d1a053c75381e3421ab38b9bd" crc="1b34fc2a" />
     <rom name="North and South (USA).nes" size="262160" sha1="a6eb07d7606bb7414f420244d14d7aa715a1b327" crc="ba63264d" />
@@ -11936,7 +11936,7 @@
   <game name="01 - Games/Oliver's Shell - An Adventure Story">
     <rom name="Oliver's Shell - An Adventure Story (World) (Aftermarket) (Unl).nes" size="524304" sha1="f5af27f4537c07785df0c5b168dee156493be37e" crc="d9a56ebd" />
   </game>
-  <game name="01 - Games/Olympic I.Q">
+  <game name="01 - Games/Olympic I.Q.">
     <rom name="Olympic I.Q. (Korea) (En) (Unl).nes" size="98320" sha1="98dd1f9c2319b59bd452112a98f4a024f2f708f2" crc="6732c4f4" />
     <rom name="Olympic I.Q. (Taiwan) (En) (Unl).nes" size="98320" sha1="4006762cc8e7b039e52154d390d3d2318bb95e9d" crc="2b6a5e10" />
   </game>
@@ -12079,7 +12079,7 @@
   <game name="01 - Games/P.O.W. - Prisoners of War/~Pirate">
     <rom name="Datsugoku (Asia) (Ja) (Pirate).nes" size="262160" sha1="0589796bac44f06b001f30be785137a8de21abd5" crc="937d03c2" />
   </game>
-  <game name="01 - Games/PLOID - 5th Anniversary Edition">
+  <game name="01 - Games/PLOID">
     <rom name="PLOID (World) (Digital) (Aftermarket) (Unl).nes" size="524304" sha1="472e0dcdd688575fb7ca81f8bc3ed5a78d94b303" crc="cb671b08" />
     <rom name="PLOID (World) (Evercade) (Aftermarket) (Unl).nes" size="524304" sha1="da6b6d8b52c03cc9806a23614d683ac4fb8deb6d" crc="fe5b0d6b" />
     <rom name="PLOID (World) (Switch) (Aftermarket) (Unl).nes" size="524304" sha1="f5cfc6b4cd193e6664eec3561c61fd4ad70861ac" crc="e1137e78" />
@@ -12364,14 +12364,14 @@
   <game name="01 - Games/Petri Plate Potpourri">
     <rom name="Petri Plate Potpourri (World) (Ludum Dare 56) (Aftermarket) (Unl).nes" size="65552" sha1="12b81e2a3be5cb50711f0a3f417e84fd2532f364" crc="d0bb148a" />
   </game>
-  <game name="01 - Games/Phantom Air Mission">
+  <game name="01 - Games/Flight of the Intruder">
     <rom name="Flight of the Intruder (USA).nes" size="131088" sha1="a1ab935cc64465783c0812b8df146543d84bcc80" crc="5de5eb1a" />
     <rom name="Phantom Air Mission (Spain) (En).nes" size="131088" sha1="efada51ea33e1757cd86f2a013c9089fc404ffe6" crc="fc4f79a8" />
   </game>
-  <game name="01 - Games/Phantom Air Mission/~Pirate">
+  <game name="01 - Games/Flight of the Intruder/~Pirate">
     <rom name="Top Gun III (Asia) (En) (Pirate).nes" size="131088" sha1="4ed0ec6ff27145eea5620b228c825e6becf1a7b4" crc="70210440" />
   </game>
-  <game name="01 - Games/Phantom Air Mission/~Prototypes and Betas">
+  <game name="01 - Games/Flight of the Intruder/~Prototypes and Betas">
     <rom name="Flight of the Intruder (USA) (Beta).nes" size="131088" sha1="8a277305b2a5502a6b6f8e00bcefb0dad64e97ee" crc="e4adfd8e" />
   </game>
   <game name="01 - Games/Phantom Fighter">
@@ -12422,7 +12422,7 @@
   <game name="01 - Games/Pinball/~Pirate">
     <rom name="Pinball (Asia) (En) (Pirate).nes" size="24592" sha1="734f59fef3a5cc844c9deff05f72661bc78152f5" crc="7d124e9a" />
   </game>
-  <game name="01 - Games/Ping Pong Challenge">
+  <game name="01 - Games/Pong 198x">
     <rom name="Ping Pong Challenge (World) (Aftermarket) (Unl).nes" size="24592" sha1="885a25926fb9a802fbdc3a366e553073c60fc479" crc="25064046" />
     <rom name="Pong 198x (World) (NESDev 2014) (Aftermarket) (Unl).nes" size="24592" sha1="6e2cb68ca112ecdf1a0f85465b9a93d65f2e49f6" crc="70d76440" />
     <rom name="Pong 198x (World) (v1.1) (Aftermarket) (Unl).nes" size="24592" sha1="242154c608349c5df6d8b2d7258ab7e344da07ac" crc="e34ed118" />
@@ -12750,7 +12750,7 @@
   <game name="01 - Games/Pro Yakyuu Satsujin Jiken!">
     <rom name="Pro Yakyuu Satsujin Jiken! (Japan).nes" size="262160" sha1="bb85cd8325557f2d00149bb89d9aa1e9b1fc339a" crc="86d0d19b" />
   </game>
-  <game name="01 - Games/Probotector II - Return of the Evil Forces">
+  <game name="01 - Games/Super C">
     <rom name="Probotector II - Return of the Evil Forces (Europe).nes" size="262160" sha1="6bc9d1d55b81b7be6f64d165c443ef7155b0f533" crc="48f22fc8" />
     <rom name="Probotector II - Return of the Evil Forces (World) (Contra Anniversary Collection).nes" size="262160" sha1="aaf16375fe69972257f28076bbef8650b2eaf35a" crc="2beb3496" />
     <rom name="Super C (USA).nes" size="262160" sha1="032708cc9eb6e25d7ab43f50a3e572222f755239" crc="8be2ac58" />
@@ -12758,7 +12758,7 @@
     <rom name="Super C (World) (Konami Collector's Series).nes" size="262160" sha1="9c59b0c40e5e1c3aefc4929fda2b050b35af9c73" crc="d2d9df8d" />
     <rom name="Super Contra (Japan).nes" size="262160" sha1="92fbbb836cc34ce16b80641b78d3a1254561cc48" crc="0a9cef36" />
   </game>
-  <game name="01 - Games/Probotector II - Return of the Evil Forces/~Pirate">
+  <game name="01 - Games/Super C/~Pirate">
     <rom name="Kai Kamo II - Darkwing Duck 2 (Asia) (En) (Pirate).nes" size="262160" sha1="9dd5346e3d9faf86fb64436999532bf990ba0909" crc="af6ef8f1" />
     <rom name="Super Contra (Asia) (En) (Pirate).nes" size="262160" sha1="e13229c841f64c1c1f25247a9c6df6e731cfc70e" crc="bc157135" />
     <rom name="Super Contra 3-in-1 (Asia) (En) (Pirate).nes" size="262160" sha1="b7e99e17887dd2e0fab3f1ed50589afe2c117d69" crc="7fbde55f" />
@@ -12766,7 +12766,7 @@
     <rom name="Super Contra DS (Asia) (En) (Pirate).nes" size="262160" sha1="900fe4181148c31241270bdf7233f05a76071068" crc="2fe9c28d" />
     <rom name="Super Fighter (Asia) (En) (Pirate).nes" size="262160" sha1="2aadc3ac6c06c26a8ce2ffff1d899019245177c3" crc="5b0eddf8" />
   </game>
-  <game name="01 - Games/Probotector">
+  <game name="01 - Games/Contra">
     <rom name="Contra (Japan).nes" size="262160" sha1="0f9d205aefbce24c71e1772174520c8c2e91fe81" crc="08789a28" />
     <rom name="Contra (USA).nes" size="131088" sha1="4b9fad65727042595c5820ca03bc32bfd72de5e7" crc="52cd5cd8" />
     <rom name="Contra (World) (Contra Anniversary Collection).nes" size="131088" sha1="5cbb216010ecf3deebe919307321d468e34ea17f" crc="d19571b1" />
@@ -12774,7 +12774,7 @@
     <rom name="Contra (World) (Konami Collector's Series).nes" size="131088" sha1="d643d322256e9d6ea11938aea43d9f8ecf96f7c7" crc="d3c6be6e" />
     <rom name="Probotector (Europe).nes" size="131088" sha1="50f1396f05058685f624aaa65f141fcd3c726757" crc="55720363" />
   </game>
-  <game name="01 - Games/Probotector/~Pirate">
+  <game name="01 - Games/Contra/~Pirate">
     <rom name="'93 Chaoji Hun (Asia) (En) (Spread Gun Cheat) (Pirate).nes" size="131088" sha1="a8cb1bab4c1f694b86c37251875891be9138ea4d" crc="9ecc47c2" />
     <rom name="'93 Chaoji Hun (China) (Pirate).nes" size="131088" sha1="6fd1356ac45011faec835be615d5ef3f72b5f5ca" crc="ce5ffb81" />
     <rom name="Contra (Asia) (En) (Pirate).nes" size="131088" sha1="795283f88fd564376dda8b9fc24ad5e818687396" crc="d73648f8" />
@@ -12784,10 +12784,10 @@
     <rom name="Super Contra II (China) (En) (1994) (Pirate).nes" size="131088" sha1="2adac8ff272ce016aeaad1debab8df53181609fa" crc="0f840e3d" />
     <rom name="Super Contra II (Russia) (Pirate).nes" size="131088" sha1="68225bde7c21455962d68b8aa46ecd4459cf2f0a" crc="fcbfd550" />
   </game>
-  <game name="01 - Games/Probotector/~Prototypes and Betas">
+  <game name="01 - Games/Contra/~Prototypes and Betas">
     <rom name="Contra (Japan) (Sample).nes" size="262160" sha1="cc9682cb632bd3ec7f0afe93050312b0af18f289" crc="7136ec4c" />
   </game>
-  <game name="01 - Games/Probotector/~Translations">
+  <game name="01 - Games/Contra/~Translations">
     <rom name="Contra (Japan) [T-En by Cabal Translations v1.02].nes" size="262160" sha1="f6c9aae032fd0c554a0969e157f6a7a59dd41abd" crc="34b67ccf" />
     <rom name="Contra (Japan) [T-En by Ferraro v1.0] [Japanese title screen].nes" size="262160" sha1="75a76d1cf38fc4b77f746b1d89c5a817a72ac63f" crc="4ab62466" />
     <rom name="Contra (Japan) [T-En by Ferraro v1.0].nes" size="262160" sha1="f1426021f19def0af0b96f7a78365d1e641e27d8" crc="5562ed34" />
@@ -12947,14 +12947,14 @@
   <game name="01 - Games/Qi Guo Dazhan">
     <rom name="Qi Guo Dazhan (China) (Aftermarket) (Unl).nes" size="1048592" sha1="601310c7370d1e357af7c1d0b63da2f05403ef8e" crc="090b642c" />
   </game>
-  <game name="01 - Games/Qi Wang - Chinese Chess">
+  <game name="01 - Games/Zhongguo Xiangqi - Chinese Chese">
     <rom name="Qi Wang - Chinese Chess (Taiwan) (Unl).nes" size="98320" sha1="c6baf09ffef07232ab69f17ff5f4340f513ae44f" crc="799dc8c6" />
     <rom name="Xiaobawang Zhongyingwan Diannao Xuexiji III - Yujiao Yule (Asia) (Unl).nes" size="524304" sha1="878c5b1c334d22bddaeee2925e8c74e408072e44" crc="076de238" />
     <rom name="Zhongguo Xiangqi - Chinese Chese (Asia) (Extract) (Unl).nes" size="40976" sha1="216d26f99d793029e4dd275692f66332bae499b7" crc="783f03dd" />
     <rom name="Zhongguo Xiangqi - Chinese Chese (Asia) (TXC) (Extract) (Unl).nes" size="40976" sha1="cca2950c9578203a1a109fe93751cd3bfa8cabf9" crc="900a3432" />
     <rom name="Zhongguo Xiangqi - Chinese Chese (China) (Unl).nes" size="40976" sha1="f43a64e283011b76cc01906cef05937fcc93883d" crc="80d06515" />
   </game>
-  <game name="01 - Games/Qi Wang - Chinese Chess/~Pirate">
+  <game name="01 - Games/Zhongguo Xiangqi - Chinese Chese/~Pirate">
     <rom name="Qi Wang - Chinese Chess (Asia) (Pirate).nes" size="98320" sha1="919ac7172388a85f9cc51568e0968bf22664c93c" crc="244fe340" />
   </game>
   <game name="01 - Games/Qilongzhu Da Maoxian - Dragon Ball">
@@ -13319,10 +13319,10 @@
     <rom name="Action 52 (USA) (Rev B) (Unl).nes" size="2097168" sha1="0b5da363f74c7d3753fcd4891e9041a892287842" crc="26e5db70" />
     <rom name="Action 52 (USA) (Unl).nes" size="2097168" sha1="d9d3ccb541b96af7bc932dbc74b373ef2ccc3135" crc="ee91f2a7" />
   </game>
-  <game name="01 - Games/Robert Byrne's Pool Challenge">
+  <game name="01 - Games/Sara Parker's Pool Challenge">
     <rom name="Sara Parker's Pool Challenge (USA) (Aftermarket) (Unl).nes" size="98320" sha1="67963974b577a3911ccfd9b75720612c7d643824" crc="5a34e197" />
   </game>
-  <game name="01 - Games/Robert Byrne's Pool Challenge/~Prototypes and Betas">
+  <game name="01 - Games/Sara Parker's Pool Challenge/~Prototypes and Betas">
     <rom name="Robert Byrne's Pool Challenge (USA) (Proto) (Unl).nes" size="98320" sha1="3dc079a1df3162931f592dc940307833e816edfa" crc="bc55b1c4" />
   </game>
   <game name="01 - Games/Robin Hood - Prince of Thieves">
@@ -13597,7 +13597,7 @@
     <rom name="Argos no Senshi - Hachamecha Daishingeki (Japan) [T-En by Toma v0.9].nes" size="131088" sha1="a2e8363f5e36eaff979372144698a22df7cdd69d" crc="0bffaff8" />
     <rom name="Warrior of Argos, The (Japan) [T-En by BlackPaladin v1.0] [n].nes" size="131088" sha1="e9bbbb74a97c629ee3377ab993a629ab8fa68e2d" crc="21a9b33b" />
   </game>
-  <game name="01 - Games/S.T.I.N.G">
+  <game name="01 - Games/S.T.I.N.G.">
     <rom name="S.T.I.N.G. (World) (Aftermarket) (Unl).nes" size="40976" sha1="56cb2075cbaccf171f99d9b29a74ee16438779f4" crc="fac5b672" />
   </game>
   <game name="01 - Games/SD Battle Oozumou - Heisei Hero Basho">
@@ -13771,10 +13771,10 @@
     <rom name="Sangokushi III - Haou no Tairiku (Asia) (Ja) (Pirate).nes" size="524304" sha1="86233a6abe3c8b4ffb1ef5a79b211fda03346a19" crc="1cd372d2" />
     <rom name="Sanguozhi 2 - Zhongwen Jiaqiang Ban (China) (Pirate).nes" size="786448" sha1="dbbf8813199f358ea0749536e39aa4b543c9367c" crc="257de4af" />
   </game>
-  <game name="01 - Games/Sanguo Chunqiu - Sichuan Sheng">
+  <game name="01 - Games/Shisen Mahjong 2">
     <rom name="Shisen Mahjong 2 (Taiwan) (Unl).nes" size="262160" sha1="31fd9fb90affff29471ecb9f841fca07f28dcd07" crc="8585b192" />
   </game>
-  <game name="01 - Games/Sanguo Chunqiu - Sichuan Sheng/~Pirate">
+  <game name="01 - Games/Shisen Mahjong 2/~Pirate">
     <rom name="Sanguo Chunqiu - Sichuan Sheng (Asia) (Pirate).nes" size="262160" sha1="8790bcd0b7cb4e778eb17e93e2da528bb9b18fc5" crc="306e1fc9" />
   </game>
   <game name="01 - Games/Sanguo Daluan Dou - Zhanguo (Orochi)">
@@ -14018,7 +14018,7 @@
     <rom name="Shadow Brain (Japan) [T-En by Aishsha &amp; Stardust Crusaders v1.0] [Add by MrRichard999 v1.0].nes" size="524304" sha1="0a9c8937bfbf0908a6f4c7601c3bce73855804aa" crc="6718518d" />
     <rom name="Shadow Brain (Japan) [T-En by Aishsha &amp; Stardust Crusaders v1.0].nes" size="524304" sha1="b4e2d4c09740bc425a9ae8c82f8893c2b2a994a7" crc="50571d10" />
   </game>
-  <game name="01 - Games/Shadow Warriors - Ninja Gaiden">
+  <game name="01 - Games/Ninja Gaiden">
     <rom name="Ninja Gaiden (USA).nes" size="262160" sha1="282c846ddbe968cc5e4d1adc56dc9b8e3bef4753" crc="80d3b95e" />
     <rom name="Ninja Ryuuken Den (Japan) (FamicomBox).nes" size="262160" sha1="e866729090106ef01b2a08f2fe482f60e3a48b4d" crc="79b12e8f" />
     <rom name="Ninja Ryuuken Den (Japan) (Wii U Virtual Console).nes" size="262160" sha1="20093e45c51ed085918172c40c94e862ca82c6af" crc="83261edf" />
@@ -14027,19 +14027,19 @@
     <rom name="Shadow Warriors - Ninja Gaiden (Europe) (Virtual Console).nes" size="262160" sha1="b638345d5a82d3fe399da383adc19c3adadc9aa6" crc="d37d7dc3" />
     <rom name="Shadow Warriors - Ninja Gaiden (Europe).nes" size="262160" sha1="f3945e7c325e45ef61d442088addcf9f2e23b76d" crc="48eb7ebf" />
   </game>
-  <game name="01 - Games/Shadow Warriors - Ninja Gaiden/~Prototypes and Betas">
+  <game name="01 - Games/Ninja Gaiden/~Prototypes and Betas">
     <rom name="Ninja Gaiden (USA) (Beta).nes" size="262160" sha1="be9d7feb7e5e146af9157012a0668bdb6a7d906c" crc="9273d096" />
   </game>
-  <game name="01 - Games/Shadow Warriors II - Ninja Gaiden II">
+  <game name="01 - Games/Ninja Gaiden II - The Dark Sword of Chaos">
     <rom name="Ninja Gaiden II - The Dark Sword of Chaos (USA) (Virtual Console).nes" size="262160" sha1="d7bbe92361e143603f55a864f5c1fe1ba1ce2ced" crc="ce778cd8" />
     <rom name="Ninja Gaiden II - The Dark Sword of Chaos (USA).nes" size="262160" sha1="269478947a5bc518551ab5d7b4687653006e243c" crc="0c39b026" />
     <rom name="Ninja Ryuuken Den II - Ankoku no Jashin Ken (Japan).nes" size="262160" sha1="2c31f79577138772f389dc75d359a1162c07b742" crc="c0414aaa" />
     <rom name="Shadow Warriors II - Ninja Gaiden II (Europe).nes" size="262160" sha1="9b440d884ad12762e57833edb8c59bbbf0015bb6" crc="c3726511" />
   </game>
-  <game name="01 - Games/Shadow Warriors II - Ninja Gaiden II/~Pirate">
+  <game name="01 - Games/Ninja Gaiden II - The Dark Sword of Chaos/~Pirate">
     <rom name="Ninja Ryuuken Den II - Ankoku no Jashin Ken (Asia) (Ja) (Pirate).nes" size="262160" sha1="4474b9b1024b9648f7614b86247fb204bd9daea9" crc="2d19c365" />
   </game>
-  <game name="01 - Games/Shadow Warriors II - Ninja Gaiden II/~Prototypes and Betas">
+  <game name="01 - Games/Ninja Gaiden II - The Dark Sword of Chaos/~Prototypes and Betas">
     <rom name="Ninja Gaiden II - The Dark Sword of Chaos (USA) (Beta) (1990-01-18).nes" size="262160" sha1="5466d4bd6d7cbc297b51313d163a794edc0dabda" crc="c6e6f6a1" />
   </game>
   <game name="01 - Games/Shadowgate">
@@ -14130,10 +14130,10 @@
     <rom name="Shenghuo Shao Xia (China) (Aftermarket) (Unl).nes" size="262160" sha1="6889d39ce7fc1790c716e2d7a3527098b17410d5" crc="15f46c9b" />
     <rom name="Xiake Chuanqi (China) (Aftermarket) (Unl).nes" size="262160" sha1="192b98bd7b693cfee499a3f761ab31730cedfa84" crc="481031c8" />
   </game>
-  <game name="01 - Games/Sheng Jian Chuanshuo">
+  <game name="01 - Games/Yitian Chuanshuo">
     <rom name="Yitian Chuanshuo (China) (Aftermarket) (Unl).nes" size="2097168" sha1="dfe08b1f751d7dabca1cf45cb0e6567de7ababfe" crc="53f6bdac" />
   </game>
-  <game name="01 - Games/Sheng Jian Chuanshuo/~Pirate">
+  <game name="01 - Games/Yitian Chuanshuo/~Pirate">
     <rom name="Sheng Jian Chuanshuo (China) (Aftermarket) (Pirate).nes" size="2097168" sha1="778e578333d8786de5e58cd0e4a2aea3cc5dc5b7" crc="2173b2c9" />
   </game>
   <game name="01 - Games/Shenghua Weiji - Bio Hazard">
@@ -14494,11 +14494,11 @@
     <rom name="Slice of Bread (World) (Proto 1) (Aftermarket) (Unl).nes" size="524304" sha1="ee7644dbfd94a3068955336c3821b7cc7d4eef9d" crc="5c905708" />
     <rom name="Slice of Bread (World) (Proto 2) (Aftermarket) (Unl).nes" size="524304" sha1="30486d7334834e4d9c2bc2b6b4d467e2bb47ff5c" crc="51b791c9" />
   </game>
-  <game name="01 - Games/Slow Mole Jr">
+  <game name="01 - Games/Slow Mole Jr.">
     <rom name="Slow Mole Jr. (World) (v0.99) (Aftermarket) (Unl).nes" size="163856" sha1="9b787eea836582065401adfa8ece94d6740acea7" crc="9f1cca2e" />
     <rom name="Slow Mole Jr. (World) (v0.99) (Extra Controller) (Aftermarket) (Unl).nes" size="163856" sha1="73c60d705e3ad03c69b19c08187abeeaaa6d9c21" crc="49d5ed6e" />
   </game>
-  <game name="01 - Games/Slow Mole Jr/~Prototypes and Betas">
+  <game name="01 - Games/Slow Mole Jr./~Prototypes and Betas">
     <rom name="Slow Mole Jr. (World) (Beta 1) (Aftermarket) (Unl).nes" size="163856" sha1="1a1af05f878cbeb7dfbc509a47c4e6ae2163c613" crc="3eef7af8" />
     <rom name="Slow Mole Jr. (World) (Beta 2) (Aftermarket) (Unl).nes" size="163856" sha1="8433a62af0c0f68e929978f5fa81736aef5792aa" crc="7448a8a4" />
   </game>
@@ -14513,7 +14513,7 @@
     <rom name="Slow Mole (World) (v1.1) (Aftermarket) (Unl).nes" size="524304" sha1="221e97df4b4e1d6cb4ea1276826767504f075788" crc="23351c35" />
     <rom name="Slow Mole (World) (v1.2b) (Aftermarket) (Unl).nes" size="524304" sha1="c45c4bcbe36990d74b4038a323ff38c8177b2b30" crc="a8cb3ce1" />
   </game>
-  <game name="01 - Games/Smash T.V">
+  <game name="01 - Games/Smash T.V.">
     <rom name="Smash T.V. (Europe).nes" size="262160" sha1="5e56794b32182d48e62cdc91ca1d1102df9678c4" crc="6ed2aced" />
     <rom name="Smash T.V. (USA).nes" size="262160" sha1="dcd64d1bc14b8a32a86b4554b00bc37ec42992ff" crc="cf5a4657" />
   </game>
@@ -14586,11 +14586,11 @@
     <rom name="Snowball Fight, The (World) (v1.01) (Aftermarket) (Unl).nes" size="40976" sha1="e9a9cb463c11b12370873b9112454f1fcaaa05d3" crc="fb662b75" />
     <rom name="Snowball Fight, The (World) (v1.02) (Aftermarket) (Unl).nes" size="40976" sha1="8b88920d65a27342ceaa52e95e6a762a9dde89f4" crc="fb8ca245" />
   </game>
-  <game name="01 - Games/Snowboard Challenge">
+  <game name="01 - Games/Heavy Shreddin'">
     <rom name="Heavy Shreddin' (USA).nes" size="262160" sha1="7694351f21ac6bd0d5250be15ce7b1111d6a900e" crc="178cdd18" />
     <rom name="Snowboard Challenge (Europe).nes" size="262160" sha1="93051c17ee9cbd6526598256e06aed2611af6edb" crc="edb265f9" />
   </game>
-  <game name="01 - Games/Snowboard Challenge/~Prototypes and Betas">
+  <game name="01 - Games/Heavy Shreddin'/~Prototypes and Betas">
     <rom name="Heavy Shreddin' (USA) (Beta).nes" size="262160" sha1="36b3578af878612b9d102e8fa9b70e183c80ef23" crc="f1eb6ce9" />
   </game>
   <game name="01 - Games/Soccer Game (Super 2-in-1 - Soccer Game + Crazy Dance)">
@@ -14651,12 +14651,12 @@
   <game name="01 - Games/Solitaire">
     <rom name="Solitaire (USA) (Unl).nes" size="65552" sha1="8f591c836b604913ab364ec7f7e1c69b655594a4" crc="064c417c" />
   </game>
-  <game name="01 - Games/Solomon's Key 2">
+  <game name="01 - Games/Fire 'n Ice">
     <rom name="Fire 'n Ice (USA).nes" size="262160" sha1="d10ac3ad454ea9298c86008efd62d2bea148ac04" crc="6e8d2bb4" />
     <rom name="Solomon no Kagi 2 - Coolmintou Kyuushutsu Sakusen (Japan).nes" size="262160" sha1="69208654186a435f9961dacb97a4b47c74eaf116" crc="95e80f71" />
     <rom name="Solomon's Key 2 (Europe).nes" size="262160" sha1="8680b585c371cf69b3fe51a3b8f326f1faf8a4f6" crc="8ed32fb7" />
   </game>
-  <game name="01 - Games/Solomon's Key 2/~Prototypes and Betas">
+  <game name="01 - Games/Fire 'n Ice/~Prototypes and Betas">
     <rom name="Solomon's Key 2 (USA) (Beta).nes" size="262160" sha1="1ecc0f172442f0465923f1e415144d5b07429e99" crc="6d5649b7" />
   </game>
   <game name="01 - Games/Solomon's Key">
@@ -15224,7 +15224,7 @@
     <rom name="Street Fighter Zero 2 '97 (Taiwan) (En) (Pirate).nes" size="786448" sha1="8c1af10a7df9605d1b128a6c75fed76bb71b3064" crc="aea40350" />
     <rom name="Street Fighter Zero 2 (Taiwan) (En) (Pirate).nes" size="393232" sha1="76c0f105fe27233af5f67635cbc7dd18c24fe58f" crc="ba3d5773" />
   </game>
-  <game name="01 - Games/Street Gangs">
+  <game name="01 - Games/River City Ransom">
     <rom name="Downtown - Nekketsu Monogatari (Japan) (Virtual Console).nes" size="262160" sha1="bd55b878c819e209a506e00da01c579874c5182e" crc="3df39f68" />
     <rom name="Downtown - Nekketsu Monogatari (Japan).nes" size="262160" sha1="ba47f7dd17b3cae560bce6166704bb65e9882a36" crc="2e6eb9f6" />
     <rom name="River City Ransom (USA).nes" size="262160" sha1="50ddef044cbcdd681198697093858b82ef26bc8f" crc="527a65d6" />
@@ -15232,7 +15232,7 @@
     <rom name="Street Gangs (Europe) (Virtual Console) [b].nes" size="262160" sha1="698a49429dad590da53828b27f4f00ee9b0b6655" crc="43b93e4c" />
     <rom name="Street Gangs (Europe).nes" size="262160" sha1="8f2fcf25526dc6bc287487e9a89fce1d5c33a4bf" crc="8af67c61" />
   </game>
-  <game name="01 - Games/Street Gangs/~Translations">
+  <game name="01 - Games/River City Ransom/~Translations">
     <rom name="River City Ransom (USA) [T-En by FANS v1.2] [Retranslated].nes" size="262160" sha1="c00790df05cfd7808a4766a8df213cd260e10cb8" crc="75fb4a09" />
   </game>
   <game name="01 - Games/Street Heroes">
@@ -15540,7 +15540,7 @@
     <rom name="Super Mario Bros. 3 (Korea) (En) (NCN-21) (Pirate).nes" size="393232" sha1="37dbef71d728bbde5bd21018ddbde3682346fc98" crc="6dda777f" />
     <rom name="Super Mario Sister (Asia) (En) (Pirate).nes" size="393232" sha1="41aa9a4a46270e1865ff3039526e8792069d1817" crc="ad70dffe" />
   </game>
-  <game name="01 - Games/Super Mario Bros">
+  <game name="01 - Games/Super Mario Bros.">
     <rom name="Super Irmaos (Brazil) (En) (Unl).nes" size="40976" sha1="6810d812a0808ded37d2cbd957bedb9de351a626" crc="b8cb5186" />
     <rom name="Super Mario Bros. (Europe).nes" size="40976" sha1="b4140688f9a5b3434276c5a7394b56022436e57a" crc="4675571d" />
     <rom name="Super Mario Bros. (World).nes" size="40976" sha1="33d23c2f2cfa4c9efec87f7bc1321ce3ce6c89bd" crc="393a432f" />
@@ -15551,13 +15551,13 @@
     <rom name="Super Mario Bros. - 25th Anniversary (Australia) (Virtual Console).nes" size="40976" sha1="cb301e125d9dccc2d2d1678ba8c622d3b6bce801" crc="3a323123" />
     <rom name="Super Mario Bros. - 25th Anniversary (Japan) (En) (Virtual Console).nes" size="40976" sha1="47adeb36eb595140f5e1f69a972165366e8db7ac" crc="d26844e6" />
   </game>
-  <game name="01 - Games/Super Mario Bros/~Pirate">
+  <game name="01 - Games/Super Mario Bros./~Pirate">
     <rom name="Super Kid (Asia) (En) (Pirate).nes" size="40976" sha1="0bb1a5c8fad7ff0eb1c254a8126e88da32960f04" crc="b78d86fa" />
     <rom name="Super Mario (Korea) (Pirate).nes" size="40976" sha1="292e7d25e9c692d6b63fba0273a81097943a16c6" crc="9ff1cab3" />
     <rom name="Super Mario Bros. (Asia) (En) (Pirate).nes" size="40976" sha1="d3bfba361f68129e6d3856acb2d3b02305ea0438" crc="b0cbaef5" />
     <rom name="Super Simpson IV (Asia) (En) (Pirate).nes" size="40976" sha1="0e0845de983cb60361c86befc4e0c8820eda8354" crc="7d13d00f" />
   </game>
-  <game name="01 - Games/Super Mario Bros/~Prototypes and Betas">
+  <game name="01 - Games/Super Mario Bros./~Prototypes and Betas">
     <rom name="Super Mario Bros. + Duck Hunt + World Class Track Meet (USA) (Sample).nes" size="196624" sha1="05106f3c60457f84a4fbe53d3d984eccc39959e9" crc="76eef55d" />
   </game>
   <game name="01 - Games/Super Mario World">
@@ -15656,7 +15656,7 @@
   <game name="01 - Games/Super Spike V'Ball/~Prototypes and Betas">
     <rom name="U.S. Championship V'Ball (Japan) (Sample).nes" size="262160" sha1="6e0eb44444f4e654baa072dabee4ffe0a2958245" crc="0c2b71b4" />
   </game>
-  <game name="01 - Games/Super Sports Challenge - Quattro Sports">
+  <game name="01 - Games/Quattro Sports">
     <rom name="Quattro Sports (USA) (Unl).nes" size="262160" sha1="aa5ce4f967c06ae35ea5975b39065c84d7c49c52" crc="50213e36" />
     <rom name="Super Sports Challenge - Quattro Sports (Europe) (V2) (Unl).nes" size="262160" sha1="beb88e8604ba8e7a1e249d7f08b780015d63e38f" crc="928bac52" />
     <rom name="Super Sports Challenge - Quattro Sports (Europe) (V3) (NR8QV1 PCB) (Unl).nes" size="262160" sha1="b8b52263ed24074ae013b0fa2e153ac9d37c9773" crc="66363137" />
@@ -15685,7 +15685,7 @@
     <rom name="Family Trainer 7 - Daiundoukai (Japan).nes" size="65552" sha1="c856d7575600f211b16b349fc86056b81cf32812" crc="50c4d8a6" />
     <rom name="Super Team Games (USA).nes" size="65552" sha1="d1c000018d5f1bd781d1485e4a02df65e10d0314" crc="6416f77c" />
   </game>
-  <game name="01 - Games/Super Tilt Bro">
+  <game name="01 - Games/Super Tilt Bro.">
     <rom name="Super Tilt Bro. (World) (En) (Aftermarket) (Unl).nes" size="40976" sha1="42b3d3fe0d0f8fccd69da7c5053c7d320e7794ca" crc="d24cf74f" />
     <rom name="Super Tilt Bro. (World) (En) (v1.1) (Aftermarket) (Unl).nes" size="40976" sha1="aca07ada9a3f236bf731697bf9254ac865c7de11" crc="461aa7b5" />
     <rom name="Super Tilt Bro. (World) (Fr) (Aftermarket) (Unl).nes" size="40976" sha1="67ee7c9871c7d78a78555d8c200052089fcb51e7" crc="488485ac" />
@@ -15704,7 +15704,7 @@
     <rom name="Super Tilt Bro. (World) (v2.6) (Rainbow) (Aftermarket) (Unl).nes" size="1048592" sha1="c47be2426ff3f412bea15b57a6f8ad08e921116f" crc="ab5cdd9c" />
     <rom name="Super Tilt Bro. (World) (v2.6) (UxROM) (Aftermarket) (Unl).nes" size="524304" sha1="b88bb014db971308176d9925a7604e4bee21227b" crc="cb4bbd88" />
   </game>
-  <game name="01 - Games/Super Tilt Bro/~Prototypes and Betas">
+  <game name="01 - Games/Super Tilt Bro./~Prototypes and Betas">
     <rom name="Super Tilt Bro. (World) (v2.0-alpha10) (Beta) (Aftermarket) (Unl).nes" size="524304" sha1="4bf99946db113577a38267cc5773df007278cbbd" crc="bbbabc1e" />
     <rom name="Super Tilt Bro. (World) (v2.0-alpha11) (Beta) (Aftermarket) (Unl).nes" size="524304" sha1="e057f62216dedf4ed366fcc731c867eb8b88c4eb" crc="8922da7b" />
     <rom name="Super Tilt Bro. (World) (v2.0-alpha12) (Beta) (Aftermarket) (Unl).nes" size="524304" sha1="a2b707f6260ff7946ca3703bba0901db02f93719" crc="8938426a" />
@@ -15839,10 +15839,10 @@
     <rom name="Tailgate Party (World) (GTROM) (Aftermarket) (Unl).nes" size="524304" sha1="b431cba41931151ba1fb262f01235697b6910cf7" crc="5aa70d05" />
     <rom name="Tailgate Party (World) (UNROM 512) (Aftermarket) (Unl).nes" size="262160" sha1="678ade6112d4e0907062b4da0aa7be6d5e482afe" crc="e8c3e401" />
   </game>
-  <game name="01 - Games/Taito Chase H.Q">
+  <game name="01 - Games/Taito Chase H.Q.">
     <rom name="Taito Chase H.Q. (Japan).nes" size="262160" sha1="3e79c57af5045bcb5b1d499f7e678ed6a8935cbd" crc="a06def02" />
   </game>
-  <game name="01 - Games/Taito Chase H.Q/~Translations">
+  <game name="01 - Games/Taito Chase H.Q./~Translations">
     <rom name="Taito Chase H.Q. (Japan) [T-En by Pacnsacdave v1.0].nes" size="262160" sha1="f716f0c2d3733e25213451bf44e6884a18431d90" crc="983ed405" />
   </game>
   <game name="01 - Games/Taito Grand Prix - Eikou e no License">
@@ -15989,16 +15989,16 @@
   <game name="01 - Games/Tecmo Bowl/~Prototypes and Betas">
     <rom name="Tecmo Bowl (USA) (Beta).nes" size="262160" sha1="0d26a19178f660e652afc3fa5596bb3b8e560ccf" crc="1973c538" />
   </game>
-  <game name="01 - Games/Tecmo Cup - Football Game">
+  <game name="01 - Games/Tecmo Cup - Soccer Game">
     <rom name="Captain Tsubasa (Japan).nes" size="262160" sha1="ba366fefe13a3746510acab2fe73d4db1fd8dce4" crc="0f68ed1b" />
     <rom name="Tecmo Cup - Football Game (Europe).nes" size="262160" sha1="c00484f652d05dd09083557275c2e7184831022f" crc="58e5b02e" />
     <rom name="Tecmo Cup - Football Game (Spain).nes" size="262160" sha1="7a5c753c2cf7ebfd5cf2cb21e5b382cfb005f33a" crc="47f7fe4e" />
     <rom name="Tecmo Cup - Soccer Game (USA).nes" size="262160" sha1="1b66a0255725fe815e62c47f41bc42f3af9c6d6e" crc="95f4b3bf" />
   </game>
-  <game name="01 - Games/Tecmo Cup - Football Game/~Prototypes and Betas">
+  <game name="01 - Games/Tecmo Cup - Soccer Game/~Prototypes and Betas">
     <rom name="Tecmo Cup - Soccer Game (USA) (Beta).nes" size="262160" sha1="72ee944c87e66b0d3bb44b129c077121395bf759" crc="0f3c0afe" />
   </game>
-  <game name="01 - Games/Tecmo Cup - Football Game/~Translations">
+  <game name="01 - Games/Tecmo Cup - Soccer Game/~Translations">
     <rom name="Captain Tsubasa (Japan) [T-En by Lestat v1.0] [Add by knighTeen87 v1.5] [i].nes" size="262160" sha1="389c782c1bdeec8bbae6c99a42e0add19c693304" crc="652a4399" />
     <rom name="Captain Tsubasa (Japan) [T-En by Lestat v1.0] [i].nes" size="262160" sha1="fca6a123f7ba619ad57f28d524875800e14b92a4" crc="37106b6f" />
   </game>
@@ -16033,12 +16033,12 @@
   <game name="01 - Games/Tecmo World Wrestling/~Prototypes and Betas">
     <rom name="Tecmo World Wrestling (USA) (Sample) (1989-10-20).nes" size="262160" sha1="5804f547cb80873b054b48cbd8cbbc7a20d24fb5" crc="bf24f6e8" />
   </game>
-  <game name="01 - Games/Teenage Mutant Hero Turtles - Tournament Fighters">
+  <game name="01 - Games/Teenage Mutant Ninja Turtles - Tournament Fighters">
     <rom name="Teenage Mutant Hero Turtles - Tournament Fighters (Europe).nes" size="262160" sha1="7ef2bd14c712355b9685fca23027b5a17c0444c9" crc="4b35559e" />
     <rom name="Teenage Mutant Ninja Turtles - Tournament Fighters (USA) (The Cowabunga Collection).nes" size="262160" sha1="14b1704c9f9e63704be601a2b6eade9a9456c4b9" crc="4cf072a5" />
     <rom name="Teenage Mutant Ninja Turtles - Tournament Fighters (USA).nes" size="262160" sha1="85873ccfafe233309bacfb8d5d30a3721ee4508f" crc="3d2face7" />
   </game>
-  <game name="01 - Games/Teenage Mutant Hero Turtles II - The Arcade Game">
+  <game name="01 - Games/Teenage Mutant Ninja Turtles II - The Arcade Game">
     <rom name="Teenage Mutant Hero Turtles II - The Arcade Game (Europe).nes" size="524304" sha1="e5a3778bd6f1b1b32e5e729cbb1373de7d6d2570" crc="bbc4cbd9" />
     <rom name="Teenage Mutant Ninja Turtles (Japan) (En) (The Cowabunga Collection).nes" size="524304" sha1="753f4a2e2c31095dba061ad54c0c591c113f749d" crc="6853e7a7" />
     <rom name="Teenage Mutant Ninja Turtles (Japan).nes" size="524304" sha1="50f5f0a4b143c98391a1bae8fb7c15bee32a078a" crc="8b440fff" />
@@ -16046,15 +16046,15 @@
     <rom name="Teenage Mutant Ninja Turtles II - The Arcade Game (USA) (The Cowabunga Collection).nes" size="524304" sha1="c99359d6cdf9f908adac9d47223dd21855140e39" crc="1fb3570e" />
     <rom name="Teenage Mutant Ninja Turtles II - The Arcade Game (USA).nes" size="524304" sha1="78e552f3d881451cead6060e4bfa9211c070d281" crc="2a6c0628" />
   </game>
-  <game name="01 - Games/Teenage Mutant Hero Turtles II - The Arcade Game/~Pirate">
+  <game name="01 - Games/Teenage Mutant Ninja Turtles II - The Arcade Game/~Pirate">
     <rom name="Teenage Mutant Ninja Turtles II - The Arcade Game (Asia) (En) (Pirate).nes" size="524304" sha1="2ae4dc9e674d0e414a656e5c84aa426d44201e5b" crc="a71c8574" />
     <rom name="Turtle Ninja II (Asia) (En) (Pirate).nes" size="524304" sha1="d92b05a3b4629acd4ae578554944db50d6f424f5" crc="05cae122" />
   </game>
-  <game name="01 - Games/Teenage Mutant Hero Turtles II - The Arcade Game/~Prototypes and Betas">
+  <game name="01 - Games/Teenage Mutant Ninja Turtles II - The Arcade Game/~Prototypes and Betas">
     <rom name="Teenage Mutant Ninja Turtles II - The Arcade Game (USA) (Sample) (1990-08-02).nes" size="524304" sha1="beb23d47bb95a1328d6f81f3758cd3832066953b" crc="3eecfb31" />
     <rom name="Teenage Mutant Ninja Turtles II - The Arcade Game (USA) (Sample) (1990-08-20).nes" size="524304" sha1="3dc33ae74e4c58a34fc0fd0cbcaa76060f2bf2d5" crc="de7b2ff7" />
   </game>
-  <game name="01 - Games/Teenage Mutant Hero Turtles">
+  <game name="01 - Games/Teenage Mutant Ninja Turtles">
     <rom name="Gekikame Ninja Den (Japan) (The Cowabunga Collection).nes" size="262160" sha1="07fb82bf3ac9711c7faff030d28ec338fa32d0c1" crc="f51bcc5f" />
     <rom name="Gekikame Ninja Den (Japan) (Virtual Console).nes" size="262160" sha1="b4a70c2b675b304f9d8fb3a69e00b1c57d9234e2" crc="56702ca9" />
     <rom name="Gekikame Ninja Den (Japan).nes" size="262160" sha1="c4413d0f878515957e8458a60002a8b3cc680a2f" crc="9839ec93" />
@@ -16065,7 +16065,7 @@
     <rom name="Teenage Mutant Ninja Turtles (USA) (Virtual Console).nes" size="262160" sha1="26f11f41f2d0d15e7ca40ece87c3b2952b540ddc" crc="20d47b1c" />
     <rom name="Teenage Mutant Ninja Turtles (USA).nes" size="262160" sha1="71bab66d5c63b12c1e2b8e7cfebfa4b88256929c" crc="120bd608" />
   </game>
-  <game name="01 - Games/Teenage Mutant Hero Turtles/~Prototypes and Betas">
+  <game name="01 - Games/Teenage Mutant Ninja Turtles/~Prototypes and Betas">
     <rom name="Teenage Mutant Ninja Turtles (USA) (Beta).nes" size="262160" sha1="70bddfbbe555d5a7866cd66247ced61e3eee428e" crc="e36b9a28" />
   </game>
   <game name="01 - Games/Teenage Mutant Ninja Turtles III - The Manhattan Project">
@@ -16623,7 +16623,7 @@
     <rom name="Track &amp; Field II (USA) (Rev 1).nes" size="262160" sha1="d74bcad2abb4f2184d12dc6cee734c8ea45546b3" crc="83385a61" />
     <rom name="Track &amp; Field II (USA).nes" size="262160" sha1="a90e980ad2a70e4c91b3c4cb323e9657c5362076" crc="f5594831" />
   </game>
-  <game name="01 - Games/Track &amp; Field in Barcelona">
+  <game name="01 - Games/Track &amp; Field">
     <rom name="Hyper Olympic (Japan) (En) (Genteiban!).nes" size="49168" sha1="ae226cdfe00b969bcbf9fce8299e1a33ccd18f2e" crc="62935ff3" />
     <rom name="Hyper Olympic (Japan) (En).nes" size="24592" sha1="f880d23d1b55e7cecf8018fb74c03575197b32fd" crc="1f7bf9ab" />
     <rom name="Track &amp; Field (USA).nes" size="65552" sha1="d7ca36a988c2410be50b0cd51a3ccf8d019dcd25" crc="fd631930" />
@@ -16749,7 +16749,7 @@
   <game name="01 - Games/Tunshi Tiandi VI - Liubei Zhuan">
     <rom name="Tunshi Tiandi VI - Liubei Zhuan (China) (Aftermarket) (Unl).nes" size="1048592" sha1="6612bc461bb855a54f89767082a8c1b1568900bf" crc="7438e912" />
   </game>
-  <game name="01 - Games/Turbo Racing">
+  <game name="01 - Games/Al Unser Jr. Turbo Racing">
     <rom name="Al Unser Jr. Turbo Racing (USA).nes" size="262160" sha1="9fdd026f250c657d83bbf874bca2f8c21cf7b55b" crc="67e7c022" />
     <rom name="Turbo Racing (Europe).nes" size="262160" sha1="2962e6e2a4a48b98a8f61cea07635221cabb0952" crc="b5ddc4aa" />
     <rom name="World Grand-Prix - Pole to Finish (Japan).nes" size="262160" sha1="91d2a491131030f5202bd8fd91477c32ab362acb" crc="89d9f1e2" />
@@ -17560,7 +17560,7 @@
   <game name="01 - Games/Xenophobe">
     <rom name="Xenophobe (USA).nes" size="163856" sha1="b91954e6fb5553c5db68d354ecd8f2308087739e" crc="587d3801" />
   </game>
-  <game name="01 - Games/Xevious">
+  <game name="01 - Games/Xevious - The Avenger">
     <rom name="Xevious (Europe).nes" size="40976" sha1="fa794cec27f42c5312b2f5bb1d16391d138a6d26" crc="12b20f12" />
     <rom name="Xevious (Japan) (En) (Rev 1).nes" size="40976" sha1="529f0cf8a899929894af0525038b177b0b84b67d" crc="c1837e24" />
     <rom name="Xevious (Japan) (En).nes" size="40976" sha1="c4a36c14de32424f0ee2f9cd3fa8ec28103f9bf0" crc="d006e0e8" />
@@ -18356,7 +18356,7 @@
   <game name="02 - Software and Utilities/AirGap 2020 Commemorative NES Cartridge">
     <rom name="AirGap 2020 Commemorative NES Cartridge (World) (Aftermarket) (Unl).nes" size="393232" sha1="c649c0d051889a8ef31ee5929aa718eac3ed098f" crc="3ee64b78" />
   </game>
-  <game name="02 - Software and Utilities/Alwa's Awakening - The 8-Bit Edition">
+  <game name="02 - Software and Utilities/Alwa's Awakening Soundtrack">
     <rom name="Alwa's Awakening Soundtrack (World) (Aftermarket) (Unl).nes" size="131088" sha1="ec561d11c604c2ae75caa8c9788d347ce412beff" crc="0a2325e0" />
   </game>
   <game name="02 - Software and Utilities/Anamanaguchi - Power Supply">

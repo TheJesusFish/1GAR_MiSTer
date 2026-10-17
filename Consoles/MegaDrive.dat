@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>MegaDrive</name>
-    <version>2026-10-16</version>
+    <version>2026-10-17</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/10 Super Jogos">
@@ -59,11 +59,11 @@
   <game name="01 - Games/ASAP PLZ">
     <rom name="ASAP PLZ (World) (Aftermarket) (Unl).md" size="524288" sha1="fd7473829ff7b126e62d9ffb8f59e9a77a71a9f0" crc="6f65bbf5" />
   </game>
-  <game name="01 - Games/ATP Tour">
+  <game name="01 - Games/ATP Tour Championship Tennis">
     <rom name="ATP Tour (Europe).md" size="2097152" sha1="c5fe0fe967369e9d9e855fd3c7826c8f583c49e3" crc="1a3da8c5" />
     <rom name="ATP Tour Championship Tennis (USA).md" size="2097152" sha1="1ccd027cac63ee56b24a54a84706646d22d0b610" crc="8c822884" />
   </game>
-  <game name="01 - Games/ATP Tour/~Prototypes and Betas">
+  <game name="01 - Games/ATP Tour Championship Tennis/~Prototypes and Betas">
     <rom name="ATP Tour Championship Tennis (USA) (Beta 1).md" size="2097152" sha1="dbaa2f60df5811026539d1f4c6ad50b596b1356a" crc="b17a8dbc" />
     <rom name="ATP Tour Championship Tennis (USA) (Beta 2).md" size="2097152" sha1="e0e94be5c1f76465151cf6c6357d67ba68170676" crc="cb927488" />
     <rom name="ATP Tour Championship Tennis (USA) (Beta 3).md" size="2097152" sha1="88005e79f325e20c804e04a7a310a6d19b7f7cce" crc="a15d5051" />
@@ -514,11 +514,11 @@
   <game name="01 - Games/Annexed Territory">
     <rom name="Annexed Territory (World) (Aftermarket) (Unl).md" size="1048576" sha1="bccefcfec3ab45a0d01cc286e1382b63fdaa236b" crc="890bde10" />
   </game>
-  <game name="01 - Games/Another World">
+  <game name="01 - Games/Out of This World">
     <rom name="Another World (Europe).md" size="1048576" sha1="9d98d6817b3e3651837bb2692f7a2a60a608c055" crc="e9742041" />
     <rom name="Out of This World (USA).md" size="1048576" sha1="f00f96fb1b346d5b13c6bc8bc586477fed743800" crc="2da36e01" />
   </game>
-  <game name="01 - Games/Another World/~Prototypes and Betas">
+  <game name="01 - Games/Out of This World/~Prototypes and Betas">
     <rom name="Out of This World (USA) (Beta).md" size="1048576" sha1="3e87d8e8f0c94ee6c3b3504d9083d4ba305bb5bd" crc="4ffdf6b6" />
   </game>
   <game name="01 - Games/Aquaduto">
@@ -882,11 +882,11 @@
   <game name="01 - Games/Ayrton Senna's Super Monaco GP II/~Prototypes and Betas">
     <rom name="Ayrton Senna's Super Monaco GP II (USA) (En,Ja) (Beta).md" size="1048576" sha1="1ee66611f7579ed47965a2fdaa1a4e2158d17236" crc="27913ead" />
   </game>
-  <game name="01 - Games/B.O.B">
+  <game name="01 - Games/B.O.B.">
     <rom name="B.O.B. (USA, Europe).md" size="1048576" sha1="84d63c848d68d844dbcf360040a87a0c93d67f74" crc="eaa2acb7" />
     <rom name="Space Funky B.O.B. (Japan).md" size="1048576" sha1="2d0e4423e28d7175fc27a9c5b1cb86f1d5cedd3e" crc="e9310d3b" />
   </game>
-  <game name="01 - Games/B.O.B/~Prototypes and Betas">
+  <game name="01 - Games/B.O.B./~Prototypes and Betas">
     <rom name="B.O.B. (USA, Europe) (Beta).md" size="1048576" sha1="eb5e4221b13372f2155ac80e88eb1114a6e2ccc7" crc="e3e8421e" />
   </game>
   <game name="01 - Games/Baby Boom/~Prototypes and Betas">
@@ -997,12 +997,12 @@
   <game name="01 - Games/Batman Returns">
     <rom name="Batman Returns (World).md" size="1048576" sha1="b173d388485461b9f8b27d299a014d226aef7aa1" crc="4a3225c0" />
   </game>
-  <game name="01 - Games/Batman">
+  <game name="01 - Games/Batman - The Video Game">
     <rom name="Batman (Europe).md" size="524288" sha1="c7279c6d45e6533f9de14f65098c289b7534beb3" crc="61c60c35" />
     <rom name="Batman (Japan) (En).md" size="524288" sha1="7f96c72cc7bbdb4a7847d1058f5a751b2dc00ab5" crc="d7b4febf" />
     <rom name="Batman - The Video Game (USA).md" size="524288" sha1="ffa7ddd8ecf436daecf3628d52dfae6b522ed829" crc="017410ae" />
   </game>
-  <game name="01 - Games/Batman/~Hacks/Batman - The Video Game (USA) [MD+ hack by GMKalandar v20260413] [OST [MD+ Arranged by GMKalandar v20260413] [f PCM Wave format]]">
+  <game name="01 - Games/Batman - The Video Game/~Hacks/Batman - The Video Game (USA) [MD+ hack by GMKalandar v20260413] [OST [MD+ Arranged by GMKalandar v20260413] [f PCM Wave format]]">
     <rom name="1 - Attract.wav" size="26692892" sha1="0031214ce0c80f64ffa79bd87c3833d52c4760bb" crc="7533cbd9" />
     <rom name="10 - Final Battle.wav" size="31681484" sha1="907feeec2324a87aaa2367c47e4b2496d51b6659" crc="4c749fd2" />
     <rom name="11 - Stage Clear.wav" size="734504" sha1="73515ab4c7fc0dba06f05c7d36b6b36a2e274e74" crc="ac6319b2" />
@@ -1019,7 +1019,7 @@
     <rom name="Batman - The Video Game (USA) (MD+).cue" size="1154" sha1="33c5ebddf62b3a19b8407b8561ac05d07aabd662" crc="b76140c3" />
     <rom name="Batman - The Video Game (USA) (MD+).md" size="524288" sha1="8e9369b6121475e16be981b0934bbd2fd2c089ae" crc="1bc4e0b4" />
   </game>
-  <game name="01 - Games/Batman/~Hacks/Batman - The Video Game (USA) [MD+ hack by GMKalandar v20260413] [OST [MD+ Danny Elfman OST Arranged by Retroplay v20260627]]">
+  <game name="01 - Games/Batman - The Video Game/~Hacks/Batman - The Video Game (USA) [MD+ hack by GMKalandar v20260413] [OST [MD+ Danny Elfman OST Arranged by Retroplay v20260627]]">
     <rom name="01_SpinningBatLogo.wav" size="6443256" sha1="69dca9d0b3db34e44ffd7a7fba0ba5f406e57ade" crc="50fba8d5" />
     <rom name="02_IntroStory.wav" size="18772516" sha1="e7b916482e3ee56c5c4802c96ee6a23d1d099ae8" crc="606c11ed" />
     <rom name="03_ClownAttack-GothamCathedral2.wav" size="29548328" sha1="7d12cd67ff3f21224b707171cfcb3b27c05c7861" crc="bd5e9e3a" />
@@ -1036,7 +1036,7 @@
     <rom name="Batman - The Video Game (USA) (MD+).cue" size="1190" sha1="49eaa9e4fde8eee44748830a4387cd959a018cfe" crc="2c50b890" />
     <rom name="Batman - The Video Game (USA) (MD+).md" size="524288" sha1="8e9369b6121475e16be981b0934bbd2fd2c089ae" crc="1bc4e0b4" />
   </game>
-  <game name="01 - Games/Batman/~Hacks/Batman - The Video Game (USA) [MD+ hack by GMKalandar v20260413] [OST [MD+ Gothic Heavy Metal OST Arranged by borissuworov v20260831]]">
+  <game name="01 - Games/Batman - The Video Game/~Hacks/Batman - The Video Game (USA) [MD+ hack by GMKalandar v20260413] [OST [MD+ Gothic Heavy Metal OST Arranged by borissuworov v20260831]]">
     <rom name="01-TitleTheme.wav" size="8502524" sha1="3d156c4188180170afe828279858c8071268b255" crc="0d054fe6" />
     <rom name="02-Introduction.wav" size="19404044" sha1="3e576f1af7905dab4c1c288810c5cdc95946e398" crc="ce8e2c62" />
     <rom name="03-Stage4-2_GothamCityStreets3_Stage6-2_GothamCathedral2.wav" size="8531924" sha1="e0253c89f9c16a0db8da2efb49e7598d65acd5bb" crc="37f3c21a" />
@@ -1053,7 +1053,7 @@
     <rom name="Batman - The Video Game (USA) (MD+).cue" size="1289" sha1="03e4c7791451cedafed2e65620af855f224af71f" crc="81313140" />
     <rom name="Batman - The Video Game (USA) (MD+).md" size="524288" sha1="8e9369b6121475e16be981b0934bbd2fd2c089ae" crc="1bc4e0b4" />
   </game>
-  <game name="01 - Games/Batman/~Hacks/Batman - The Video Game (USA) [MD+ hack by Relikk v20260627] [OST [MD+ Arranged by GMKalandar v20260413] [f PCM Wave format]]">
+  <game name="01 - Games/Batman - The Video Game/~Hacks/Batman - The Video Game (USA) [MD+ hack by Relikk v20260627] [OST [MD+ Arranged by GMKalandar v20260413] [f PCM Wave format]]">
     <rom name="1 - Attract.wav" size="26692892" sha1="0031214ce0c80f64ffa79bd87c3833d52c4760bb" crc="7533cbd9" />
     <rom name="10 - Final Battle.wav" size="31681484" sha1="907feeec2324a87aaa2367c47e4b2496d51b6659" crc="4c749fd2" />
     <rom name="11 - Stage Clear.wav" size="734504" sha1="73515ab4c7fc0dba06f05c7d36b6b36a2e274e74" crc="ac6319b2" />
@@ -1070,7 +1070,7 @@
     <rom name="Batman - The Video Game (USA) (MD+).cue" size="1154" sha1="33c5ebddf62b3a19b8407b8561ac05d07aabd662" crc="b76140c3" />
     <rom name="Batman - The Video Game (USA) (MD+).md" size="524288" sha1="dec73917900b2d2467442602a9cf9969d1a695d3" crc="c52a0ba4" />
   </game>
-  <game name="01 - Games/Batman/~Hacks/Batman - The Video Game (USA) [MD+ hack by Relikk v20260627] [OST [MD+ Danny Elfman OST Arranged by Retroplay v20260627]]">
+  <game name="01 - Games/Batman - The Video Game/~Hacks/Batman - The Video Game (USA) [MD+ hack by Relikk v20260627] [OST [MD+ Danny Elfman OST Arranged by Retroplay v20260627]]">
     <rom name="01_SpinningBatLogo.wav" size="6443256" sha1="69dca9d0b3db34e44ffd7a7fba0ba5f406e57ade" crc="50fba8d5" />
     <rom name="02_IntroStory.wav" size="18772516" sha1="e7b916482e3ee56c5c4802c96ee6a23d1d099ae8" crc="606c11ed" />
     <rom name="03_ClownAttack-GothamCathedral2.wav" size="29548328" sha1="7d12cd67ff3f21224b707171cfcb3b27c05c7861" crc="bd5e9e3a" />
@@ -1087,7 +1087,7 @@
     <rom name="Batman - The Video Game (USA) (MD+).cue" size="1190" sha1="49eaa9e4fde8eee44748830a4387cd959a018cfe" crc="2c50b890" />
     <rom name="Batman - The Video Game (USA) (MD+).md" size="524288" sha1="dec73917900b2d2467442602a9cf9969d1a695d3" crc="c52a0ba4" />
   </game>
-  <game name="01 - Games/Batman/~Hacks/Batman - The Video Game (USA) [MD+ hack by Relikk v20260627] [OST [MD+ Gothic Heavy Metal OST Arranged by borissuworov v20260831]]">
+  <game name="01 - Games/Batman - The Video Game/~Hacks/Batman - The Video Game (USA) [MD+ hack by Relikk v20260627] [OST [MD+ Gothic Heavy Metal OST Arranged by borissuworov v20260831]]">
     <rom name="01-TitleTheme.wav" size="8502524" sha1="3d156c4188180170afe828279858c8071268b255" crc="0d054fe6" />
     <rom name="02-Introduction.wav" size="19404044" sha1="3e576f1af7905dab4c1c288810c5cdc95946e398" crc="ce8e2c62" />
     <rom name="03-Stage4-2_GothamCityStreets3_Stage6-2_GothamCathedral2.wav" size="8531924" sha1="e0253c89f9c16a0db8da2efb49e7598d65acd5bb" crc="37f3c21a" />
@@ -1288,7 +1288,7 @@
   <game name="01 - Games/Blockout">
     <rom name="Blockout (World).md" size="131072" sha1="f6620d3b712f3bd333d0bb355c08cf992af6e12d" crc="5e2966f1" />
   </game>
-  <game name="01 - Games/Bloodshot">
+  <game name="01 - Games/Battle Frenzy">
     <rom name="Battle Frenzy (USA) (En,Fr,De,Es) (Sega Channel).md" size="2097152" sha1="c32c04966e79cfcae6dde55455f1b32a345a9a8e" crc="b06674a8" />
     <rom name="Bloodshot (Europe) (En,Fr,De,Es).md" size="2097152" sha1="513005efd123539a905986130d15125085837559" crc="f9f2bceb" />
   </game>
@@ -1320,7 +1320,7 @@
   <game name="01 - Games/Bombx">
     <rom name="Bombx (World) (Aftermarket) (Unl).md" size="217548" sha1="9b5a2aeebe1bec75f10e53c40477ccf132c22738" crc="19f8533d" />
   </game>
-  <game name="01 - Games/Bonanza Bros">
+  <game name="01 - Games/Bonanza Bros.">
     <rom name="Bonanza Bros. (Japan, Europe) (En,Ja) (Rev A).md" size="524288" sha1="f7313ecaf7143873597e3a6ebf58d542d06c3ef3" crc="c6aac589" />
     <rom name="Bonanza Bros. (Japan, Europe) (En,Ja).md" size="524288" sha1="ce46f2b53988f06e0bdfaad1b0dc3e9ca936e1e8" crc="adf6476c" />
     <rom name="Bonanza Bros. (USA, Europe, Korea) (En) (Rev B).md" size="524288" sha1="31c589bc0d1605502cdd04069dc4877811e84e58" crc="20d1ad4c" />
@@ -1597,7 +1597,7 @@
   <game name="01 - Games/Castle of Illusion Starring Mickey Mouse/~Translations/Documentation">
     <rom name="Castle of Illusion Starring Mickey Mouse (Japan) [T-En by RadioTails v1.0] [n].txt" size="1684" sha1="03e5721a26598a5df1f23d46293295014b82be80" crc="13cccd81" />
   </game>
-  <game name="01 - Games/Castlevania - The New Generation">
+  <game name="01 - Games/Castlevania - Bloodlines">
     <rom name="Castlevania - Bloodlines (USA) (Castlevania Anniversary Collection).md" size="1048576" sha1="43c68b0cd628c30c46b575da2499b4d142f3a5d6" crc="e949fbe5" />
     <rom name="Castlevania - Bloodlines (USA).md" size="1048576" sha1="4809cf80ced70e77bc7479bb652a9d9fe22ce7e6" crc="fb1ea6df" />
     <rom name="Castlevania - Bloodlines (USA, Europe) (Switch Online).md" size="1048576" sha1="52f626e8c3a46e4e18d8aff87bf58708dff79f04" crc="2e8597f2" />
@@ -1607,10 +1607,10 @@
     <rom name="Vampire Killer (Japan) (En) (Mega Drive Mini, Genesis Mini).md" size="1048576" sha1="aa3fe7971cdbf4cf8fa44e6dc09122b8cc6a319c" crc="db03961b" />
     <rom name="Vampire Killer (Japan) (En).md" size="1048576" sha1="3e709bd27577056abbbd6735021eaffd90caa140" crc="91b57d2b" />
   </game>
-  <game name="01 - Games/Castlevania - The New Generation/~Hacks">
+  <game name="01 - Games/Castlevania - Bloodlines/~Hacks">
     <rom name="Castlevania - Bloodlines (USA) [Color hack by Pyron v1.0].md" size="1048576" sha1="3728165bf71c2c1754815d123de98845d4e35173" crc="5ffdffa7" />
   </game>
-  <game name="01 - Games/Castlevania - The New Generation/~Hacks/Castlevania - Bloodlines (USA) [MD+ hack by Anonymous v20220731] [OST [MD+ 8-Beats VGM PCM Remaster Arranged by Relikk v20230107]]">
+  <game name="01 - Games/Castlevania - Bloodlines/~Hacks/Castlevania - Bloodlines (USA) [MD+ hack by Anonymous v20220731] [OST [MD+ 8-Beats VGM PCM Remaster Arranged by Relikk v20230107]]">
     <rom name="01-KonamiLogo.wav" size="741548" sha1="8aa1bca31bff4d3007a42afba9839750427c44f6" crc="98d1f61c" />
     <rom name="02-TheBeatingInDarkness_TitleTheme.wav" size="2180820" sha1="c05f72db561d695a46e6e009354179fd01f3438e" crc="616bcfb5" />
     <rom name="03-AVisionOfDarkSecrets_OpeningTheme.wav" size="5274368" sha1="1a3e85a79a3552e3926663dcbc14ac8a233ee1e8" crc="106be438" />
@@ -1645,7 +1645,7 @@
     <rom name="Castlevania - Bloodlines (USA) (MD+).cue" size="3901" sha1="5b47bbadc5412380ce4f608ec6d658be14faca68" crc="c4b0115f" />
     <rom name="Castlevania - Bloodlines (USA) (MD+).md" size="2097152" sha1="dc030d3be912f382a2b00d843c4c3f55054fba9e" crc="cbfb2eda" />
   </game>
-  <game name="01 - Games/Castlevania - The New Generation/~Hacks/Castlevania - Bloodlines (USA) [MD+ hack by Anonymous v20220731] [OST [MD+ VDubs93 Transfusion Arranged by Wivicer &amp; VDubs93 v20260319] [f batty]]">
+  <game name="01 - Games/Castlevania - Bloodlines/~Hacks/Castlevania - Bloodlines (USA) [MD+ hack by Anonymous v20220731] [OST [MD+ VDubs93 Transfusion Arranged by Wivicer &amp; VDubs93 v20260319] [f batty]]">
     <rom name="01-KonamiLogo.wav" size="880748" sha1="3b1219b798d111fcffade2ef20fba47273b2dddb" crc="7cf05b86" />
     <rom name="02-TheBeatingInDarkness_TitleTheme.wav" size="2907776" sha1="7830968ef8e6cc3a136b8ca83f8232a8836ce44b" crc="f7de2bd8" />
     <rom name="03-AVisionOfDarkSecrets_OpeningTheme.wav" size="10119988" sha1="ce16e4d5701c020d4f70c6bab4bb04e9af30f084" crc="ce98556c" />
@@ -1680,7 +1680,7 @@
     <rom name="Castlevania - Bloodlines (USA) (MD+).cue" size="3922" sha1="7cdb1fc5c7eadacf313b848e06af8d2f4ae3c7f8" crc="66dd169e" />
     <rom name="Castlevania - Bloodlines (USA) (MD+).md" size="2097152" sha1="dc030d3be912f382a2b00d843c4c3f55054fba9e" crc="cbfb2eda" />
   </game>
-  <game name="01 - Games/Castlevania - The New Generation/~Hacks/Castlevania - Bloodlines (USA) [MD+ hack by Anonymous v20220731] [OST [MD+ Yone2008 VRC6 Arranged by batty v20260319]]">
+  <game name="01 - Games/Castlevania - Bloodlines/~Hacks/Castlevania - Bloodlines (USA) [MD+ hack by Anonymous v20220731] [OST [MD+ Yone2008 VRC6 Arranged by batty v20260319]]">
     <rom name="01-KonamiLogo.wav" size="418804" sha1="6dbb111922b904039e3842c18a11997d17b304f9" crc="aefb2111" />
     <rom name="02-TheBeatingInDarkness_TitleTheme.wav" size="2189036" sha1="f79d8866bdd6356eda790441d6b598e3391bb988" crc="f0f517cb" />
     <rom name="03-AVisionOfDarkSecrets_OpeningTheme.wav" size="5283864" sha1="0f62c3d3e05197a21fc93eef80a67f452ee4fb06" crc="41a9bba4" />
@@ -1715,7 +1715,7 @@
     <rom name="Castlevania - Bloodlines (USA) (MD+).cue" size="3890" sha1="212bbf0efdb6e570e4325e839a10a11b9c53cbdb" crc="1f373c32" />
     <rom name="Castlevania - Bloodlines (USA) (MD+).md" size="2097152" sha1="dc030d3be912f382a2b00d843c4c3f55054fba9e" crc="cbfb2eda" />
   </game>
-  <game name="01 - Games/Castlevania - The New Generation/~Prototypes and Betas">
+  <game name="01 - Games/Castlevania - Bloodlines/~Prototypes and Betas">
     <rom name="Castlevania - Bloodlines (USA) (Beta 1).md" size="1048576" sha1="a7ed6359456e7a6f730e77c7b8aeb86562d6a31b" crc="ca0df45b" />
     <rom name="Castlevania - Bloodlines (USA) (Beta 2).md" size="1048576" sha1="95fc97ebfe1fda753319f27518c301551596adaa" crc="64d46357" />
     <rom name="Castlevania - The New Generation (Europe) (Beta).md" size="1048576" sha1="edc0c7ab27d99b29e40897ab35483e86b84cf0c5" crc="bed7a379" />
@@ -1779,11 +1779,11 @@
   <game name="01 - Games/Chaos Engine 2, The/~Prototypes and Betas">
     <rom name="Chaos Engine 2, The (Europe) (Proto).md" size="1048576" sha1="9e2e12e90b60e6ca28af6a5afb213cafe1868a95" crc="3fb045c2" />
   </game>
-  <game name="01 - Games/Chaos Engine, The">
+  <game name="01 - Games/Soldiers of Fortune">
     <rom name="Chaos Engine, The (Europe).md" size="2097152" sha1="9e379384d948263c12dde8a8163a344f032a53af" crc="a6e1d401" />
     <rom name="Soldiers of Fortune (USA).md" size="1572864" sha1="619faee3d78532478aad405db335d00fb93e6850" crc="a84d28a1" />
   </game>
-  <game name="01 - Games/Chaos Engine, The/~Hacks">
+  <game name="01 - Games/Soldiers of Fortune/~Hacks">
     <rom name="Chaos Engine, The (Europe) [Color hack by Fusaru v1.01].md" size="2097152" sha1="6578eb5b5eeb76c721c1eaebe2231cfa771f3c47" crc="b3c85a45" />
   </game>
   <game name="01 - Games/Chaperon Violet, Le/~Prototypes and Betas">
@@ -2193,11 +2193,11 @@
   <game name="01 - Games/Cool Spot/~Prototypes and Betas">
     <rom name="Cool Spot (USA) (Beta).md" size="1048576" sha1="9b42bb33186ddc759a469ed3e0ee12e5dee0b809" crc="0ebaa4a8" />
   </game>
-  <game name="01 - Games/Corporation">
+  <game name="01 - Games/Cyber-Cop">
     <rom name="Corporation (Europe).md" size="1048576" sha1="520e01abe76120dbd680b9fc34eb1303c780b069" crc="a80d18aa" />
     <rom name="Cyber-Cop (USA).md" size="1048576" sha1="72470ea83064046a0b1dfba3047032c26d610df8" crc="01e719c8" />
   </game>
-  <game name="01 - Games/Corrida de Tampinhas">
+  <game name="01 - Games/Bottle Taps Race">
     <rom name="Bottle Taps Race (Europe) (Sega Reactor).md" size="88128" sha1="f21ff15ca147e04d9b50b3d6b3797312c5bb2ade" crc="3ac22d51" />
     <rom name="Bottle Taps Race (USA) (Unl).md" size="88070" sha1="5f07f90d17dcd06a461969fd2c709867e392cefe" crc="0af12b94" />
     <rom name="Corrida de Tampinhas (Brazil) (Mega Drive 4).md" size="88070" sha1="cb33d78d4af5a2cee2cede6cce333462d34eff82" crc="b0f5fed3" />
@@ -2566,7 +2566,7 @@
   <game name="01 - Games/Divine Sealing">
     <rom name="Divine Sealing (Japan) (Unl).md" size="1048576" sha1="29cc95622a1c9602e7981bdc5a66164c47939028" crc="ca72973c" />
   </game>
-  <game name="01 - Games/Domine o Territorio">
+  <game name="01 - Games/Bomber">
     <rom name="Bomber (Europe) (Sega Reactor).md" size="131072" sha1="418e688e5e8639eb349047c38994c17ed05b4248" crc="2a8c91cf" />
     <rom name="Bomber (USA) (Sega Gopher).md" size="131072" sha1="fe6415e4cd3754316606cae0f0d85856d8ee00e0" crc="6389a658" />
     <rom name="Domine o Territorio (Brazil) (Mega Drive 4).md" size="131072" sha1="aa711795b8fd92072515f5f7a21a1a7eafa08bf5" crc="aea8b9b0" />
@@ -2742,12 +2742,12 @@
     <rom name="Duke Nukem 3D (Brazil) (En).md" size="4194304" sha1="a4663f2b96787a92db604a92491fa27e2b5ced9e" crc="6bd2accb" />
     <rom name="Duke Nukem 3D (USA) (Piko Interactive).md" size="4194304" sha1="490aa19321718033a6fd2d4dc434e723f3d91d63" crc="7a851b5a" />
   </game>
-  <game name="01 - Games/Dune II - The Battle for Arrakis">
+  <game name="01 - Games/Dune - The Battle for Arrakis">
     <rom name="Dune - The Battle for Arrakis (USA).md" size="1048576" sha1="0f7c1c130cb39abc97f57545933e1ef6c481783d" crc="4dea40ba" />
     <rom name="Dune II - Kampf um den Wuestenplaneten (Germany).md" size="1048576" sha1="55996cd262df518e92271bceee4d2a657cd7e02c" crc="39790728" />
     <rom name="Dune II - The Battle for Arrakis (Europe).md" size="1048576" sha1="133cc86b43afe133fc9c9142b448340c17fa668e" crc="b58ae71d" />
   </game>
-  <game name="01 - Games/Dune II - The Battle for Arrakis/~Prototypes and Betas">
+  <game name="01 - Games/Dune - The Battle for Arrakis/~Prototypes and Betas">
     <rom name="Dune - The Battle for Arrakis (USA) (Beta).md" size="1048576" sha1="2eea4201195994d84f57f7b9003d825a2f96d0b3" crc="692cd794" />
     <rom name="Dune II - The Battle for Arrakis (Europe) (Beta).md" size="1048576" sha1="d02cf6e07071cf3d47e867182bf42d67b9e30a3e" crc="781cb285" />
   </game>
@@ -2882,10 +2882,10 @@
     <rom name="Ecco - The Tides of Time (USA) (Beta 2).md" size="2097152" sha1="6cc1ea0b6c4be29ed7a02cd5e01f9504d272323e" crc="b5d64817" />
     <rom name="Ecco - The Tides of Time (USA) (Beta 3).md" size="2097152" sha1="3c653329c897e369198425e99e76ff53688d245b" crc="5af83ecb" />
   </game>
-  <game name="01 - Games/Ecco Jr">
+  <game name="01 - Games/Ecco Jr.">
     <rom name="Ecco Jr. (USA, Australia).md" size="1048576" sha1="0b493ef23874f82606d4fd22c2380b289247aa9f" crc="6c6f4b89" />
   </game>
-  <game name="01 - Games/Ecco Jr/~Prototypes and Betas">
+  <game name="01 - Games/Ecco Jr./~Prototypes and Betas">
     <rom name="Ecco Jr. (USA, Australia) (Beta).md" size="1048576" sha1="636d2fb5f865f916e4a9fe0ff1819fcbc61b4258" crc="3c517975" />
   </game>
   <game name="01 - Games/Ecco the Dolphin">
@@ -2925,7 +2925,7 @@
   <game name="01 - Games/Elitserien 96">
     <rom name="Elitserien 96 (Sweden).md" size="2097152" sha1="085fb8e6f0d2ff0f399de5c57eb13d9c9325dbae" crc="9821d0a3" />
   </game>
-  <game name="01 - Games/Empire of Steel">
+  <game name="01 - Games/Steel Empire">
     <rom name="Empire of Steel (Europe).md" size="1048576" sha1="00109e6de5b823525b3ba519222fecc4e229f6d1" crc="e5517b77" />
     <rom name="Koutetsu Teikoku (Japan).md" size="1048576" sha1="7ff88050ae9b2f12afe80432781ba25aa3a15e1c" crc="755d0b8a" />
     <rom name="Steel Empire (USA) (Sega Channel).md" size="1048576" sha1="948c7dbfc37ad5504d9cfd12567a79e6323cc014" crc="097f6440" />
@@ -3051,11 +3051,11 @@
   <game name="01 - Games/F1 Circus MD/~Translations">
     <rom name="F1 Circus MD (Japan) [T-En by MrRichard999 &amp; AgentOrange &amp; TheMajinZenki v0.95b].md" size="524288" sha1="cae28f306f263472b8ee871cdfbb3af06eb02d42" crc="9a4f13b8" />
   </game>
-  <game name="01 - Games/F1">
+  <game name="01 - Games/Formula One">
     <rom name="F1 (Europe).md" size="1048576" sha1="a8327157f6537f4cd5daaff648864e8e0bf945f1" crc="fbdd4520" />
     <rom name="Formula One (USA).md" size="1048576" sha1="8f8edd8e6846cbba1b46f8eb9015b195ccc4acf9" crc="ccd73738" />
   </game>
-  <game name="01 - Games/F1/~Prototypes and Betas">
+  <game name="01 - Games/Formula One/~Prototypes and Betas">
     <rom name="Formula One (USA) (Beta).md" size="1048576" sha1="ab019b43f2d1c7d2cf925187362815194d0ccd9b" crc="5395825a" />
   </game>
   <game name="01 - Games/FIFA 98 - Road to World Cup">
@@ -3435,7 +3435,7 @@
   <game name="01 - Games/Ferrari Grand Prix Challenge/~Pirate">
     <rom name="F-1 Hero MD (China) (Ja) (Pirate).md" size="1048576" sha1="839f4ee42171a5b90b3eb726a7a84ab29ff505c1" crc="fb0f2a1b" />
   </game>
-  <game name="01 - Games/Fever Pitch Soccer">
+  <game name="01 - Games/Head-On Soccer">
     <rom name="Fever Pitch Soccer (Europe) (En,Fr,De,Es,It).md" size="2097152" sha1="e3489b80a4b21049170fedee7630111773fe592c" crc="fac29677" />
     <rom name="Head-On Soccer (USA).md" size="2097152" sha1="440835a94ea7c23fc0b0b86564020337a99514f1" crc="dcffa327" />
   </game>
@@ -3612,12 +3612,12 @@
   <game name="01 - Games/Flash Point/~Prototypes and Betas">
     <rom name="Flash Point (Japan) (En) (Proto).md" size="131072" sha1="358e4dc17b4269b34273b7c4ce1d57c0c01ffd4e" crc="0655074d" />
   </game>
-  <game name="01 - Games/Flashback">
+  <game name="01 - Games/Flashback - The Quest for Identity">
     <rom name="Flashback (Europe) (En,Fr).md" size="2097152" sha1="e9508e7d178d5a6de6a4a78032d97837f37db560" crc="ede60e88" />
     <rom name="Flashback (Japan).md" size="2097152" sha1="4eb372f0da37e343e1b7070b4780fb7c58dac4d8" crc="02fb0747" />
     <rom name="Flashback - The Quest for Identity (USA) (En,Fr).md" size="2097152" sha1="1a44eb9606088692b8559852e8f7b7c1a1472b6e" crc="9fefb1ab" />
   </game>
-  <game name="01 - Games/Flashback/~Prototypes and Betas">
+  <game name="01 - Games/Flashback - The Quest for Identity/~Prototypes and Betas">
     <rom name="Flashback (Europe) (En,Fr) (Beta).md" size="2097152" sha1="3c0b25e090d0c1167714e1a7346a289ffb808b49" crc="82095cb6" />
   </game>
   <game name="01 - Games/Flicky">
@@ -3728,7 +3728,7 @@
   <game name="01 - Games/From TV Animation Slam Dunk - Kyougou Makkou Taiketsu!">
     <rom name="From TV Animation Slam Dunk - Kyougou Makkou Taiketsu! (Japan).md" size="2097152" sha1="7161a12c2a477cff8e29fa51403eea12c03180c7" crc="cdf5678f" />
   </game>
-  <game name="01 - Games/Fun 'n Games">
+  <game name="01 - Games/Fun 'n' Games">
     <rom name="Fun 'n Games (Europe).md" size="1048576" sha1="3677dfe5450c0800d29cfff31f226389696bfb32" crc="da4ab3cd" />
     <rom name="Fun 'n' Games (USA).md" size="1048576" sha1="6085d3033edb32c468a63e0db95e5977e6853b48" crc="b5ae351d" />
   </game>
@@ -4105,11 +4105,11 @@
   <game name="01 - Games/Ghouls'n Ghosts/~Translations">
     <rom name="Ghouls'n Ghosts (World) (En,Ja) (Rev A) [T-En by GoodLuckTrying v1.2].md" size="655360" sha1="71cc2760ec2983ee3456b58eb437d1495eec5264" crc="ac33cfa6" />
   </game>
-  <game name="01 - Games/Global Gladiators">
+  <game name="01 - Games/Mick &amp; Mack as the Global Gladiators">
     <rom name="Global Gladiators (Europe).md" size="1048576" sha1="daf1ded2439c626c0fd227550be6563cd1b09612" crc="5c218c6a" />
     <rom name="Mick &amp; Mack as the Global Gladiators (USA).md" size="1048576" sha1="4fd2818888a3c265e148e9be76525654e76347e4" crc="40f17bb3" />
   </game>
-  <game name="01 - Games/Global Gladiators/~Hacks/Mick &amp; Mack as the Global Gladiators (USA) [MD+ hack by ArcadeTV v20230414] [OST [MD+ Arranged by ArcadeTV v20230405]]">
+  <game name="01 - Games/Mick &amp; Mack as the Global Gladiators/~Hacks/Mick &amp; Mack as the Global Gladiators (USA) [MD+ hack by ArcadeTV v20230414] [OST [MD+ Arranged by ArcadeTV v20230405]]">
     <rom name="01-dance_tune_(intro_mix).wav" size="20987798" sha1="b042dd802cf591282ebe596eeacdea60545dec15" crc="55bb0633" />
     <rom name="02-techno_tune_(world_02).wav" size="19987862" sha1="bb7b13ede859d71265e797b3a0e58418bc018e19" crc="4029e525" />
     <rom name="03-dance_tune.wav" size="20987798" sha1="b042dd802cf591282ebe596eeacdea60545dec15" crc="55bb0633" />
@@ -4127,7 +4127,7 @@
     <rom name="Mick &amp; Mack as the Global Gladiators (USA) (MD+).cue" size="1351" sha1="4bf69adaef4eb2e3bfe198869946935dad47d8c0" crc="49856b48" />
     <rom name="Mick &amp; Mack as the Global Gladiators (USA) (MD+).md" size="2097152" sha1="9cff04755c33c8c2898abd70d10e0443375efc83" crc="c14494e1" />
   </game>
-  <game name="01 - Games/Global Gladiators/~Prototypes and Betas">
+  <game name="01 - Games/Mick &amp; Mack as the Global Gladiators/~Prototypes and Betas">
     <rom name="Mick &amp; Mack as the Global Gladiators (USA) (Beta).md" size="1048576" sha1="433db3e145499ebad4f71aae66ee6726ef30d5db" crc="08c2af21" />
   </game>
   <game name="01 - Games/Gluf">
@@ -4612,12 +4612,12 @@
   <game name="01 - Games/Granada/~Prototypes and Betas">
     <rom name="Granada (Japan, USA) (En) (Rev A) (Beta).md" size="524288" sha1="ae23265cdc4907bae676101d3086929425ef641a" crc="129a37dd" />
   </game>
-  <game name="01 - Games/GrandSlam - The Tennis Tournament">
+  <game name="01 - Games/Jennifer Capriati Tennis">
     <rom name="GrandSlam - The Tennis Tournament '92 (Japan).md" size="524288" sha1="f51c4332235a9545b86a7b121ba30644c33be098" crc="30cf37d0" />
     <rom name="GrandSlam - The Tennis Tournament (Europe).md" size="524288" sha1="4fd5ce8207c4568da07bb28c6ab38a23084c801a" crc="8c2670de" />
     <rom name="Jennifer Capriati Tennis (USA).md" size="524288" sha1="8d72ea31c87b1a229098407e9c59a46e65f996a2" crc="ab2abc8e" />
   </game>
-  <game name="01 - Games/GrandSlam - The Tennis Tournament/~Pirate">
+  <game name="01 - Games/Jennifer Capriati Tennis/~Pirate">
     <rom name="GrandSlam (China) (Ja) (Pirate).md" size="524288" sha1="b336184417dd4a333f44a39db84f6e3c5933d640" crc="6000c0ac" />
   </game>
   <game name="01 - Games/Gravibots">
@@ -4773,7 +4773,7 @@
   <game name="01 - Games/Gunstar Heroes/~Prototypes and Betas">
     <rom name="Gunstar Heroes (Japan) (Beta).md" size="1048576" sha1="a8d7f502d877b0ea3ff2431c94001e9d5dd84868" crc="6f90b502" />
   </game>
-  <game name="01 - Games/Gynoug">
+  <game name="01 - Games/Wings of Wor">
     <rom name="Gynoug (Europe).md" size="524288" sha1="fada42bed3a97e1d1b0c6128ddb1f202a50cb1b0" crc="03405102" />
     <rom name="Gynoug (Japan) (En).md" size="524288" sha1="9b99b109f5f1f221f08672a7c4752a94067b62b0" crc="1b69241f" />
     <rom name="Gynoug (World) (Ratalaika Games).md" size="524288" sha1="3a67b2b982850a4262d7d7c4df8d6fae8e478d46" crc="b4ddc90f" />
@@ -4810,12 +4810,12 @@
   <game name="01 - Games/Haunting Starring Polterguy/~Prototypes and Betas">
     <rom name="Haunting Starring Polterguy (USA, Europe) (Beta).md" size="2097152" sha1="b35840f7255f9c055a3e81856c4f56bbfeb4526e" crc="46277cd7" />
   </game>
-  <game name="01 - Games/Havoc">
+  <game name="01 - Games/High Seas Havoc">
     <rom name="Captain Lang (Japan) (En,Ja).md" size="1048576" sha1="7c305a4b8cc220f5321eac80ea3fc104a9f5897a" crc="61ba8199" />
     <rom name="Havoc (Europe).md" size="1048576" sha1="6e0344aace03b703cb05a9a0e10c47ebe404a247" crc="76e6d20d" />
     <rom name="High Seas Havoc (USA) (En,Ja).md" size="1048576" sha1="0dc1969098716ba332978b89356f62961417682b" crc="17be551c" />
   </game>
-  <game name="01 - Games/Havoc/~Prototypes and Betas">
+  <game name="01 - Games/High Seas Havoc/~Prototypes and Betas">
     <rom name="High Seas Havoc (USA) (En,Ja) (Beta).md" size="1048576" sha1="47307d1a7ea1e813547c94700885595c6e8d156a" crc="89418d48" />
   </game>
   <game name="01 - Games/Hayato's Journey">
@@ -4946,12 +4946,12 @@
   <game name="01 - Games/Hyokkori Hyoutan-jima - Daitouryou wo Mezase!">
     <rom name="Hyokkori Hyoutan-jima - Daitouryou wo Mezase! (Japan).md" size="524288" sha1="32a73559f84dbab5460bfd1e266acfc8f4391ae4" crc="72253bdb" />
   </game>
-  <game name="01 - Games/Hyper Dunk">
+  <game name="01 - Games/Double Dribble - The Playoff Edition">
     <rom name="Double Dribble - The Playoff Edition (USA).md" size="2097152" sha1="d97bbe009e9667709e04a1bed9f71cea7893a495" crc="8352b1d0" />
     <rom name="Hyper Dunk (Europe).md" size="2097152" sha1="91560ddf53f50bb5b9f4b48be906ce27e9c05742" crc="f27c576a" />
     <rom name="Hyper Dunk - The Playoff Edition (Japan) (En).md" size="2097152" sha1="ef5c13926ee6eb32593b9e750ec342b98f48d1ef" crc="5baf53d7" />
   </game>
-  <game name="01 - Games/Hyper Dunk/~Prototypes and Betas">
+  <game name="01 - Games/Double Dribble - The Playoff Edition/~Prototypes and Betas">
     <rom name="Hyper Dunk - The Playoff Edition (Japan) (En) (Beta).md" size="2097152" sha1="87a2d58614fab2799e2a4456a08436fc7acc745b" crc="db124bbb" />
   </game>
   <game name="01 - Games/Hyper Marbles">
@@ -5426,7 +5426,7 @@
   <game name="01 - Games/Lakers versus Celtics and the NBA Playoffs/~Prototypes and Betas">
     <rom name="Lakers versus Celtics and the NBA Playoffs (USA, Europe) (Beta).md" size="524288" sha1="324f061734708a22944c84dd4e69194d135497de" crc="e818b0aa" />
   </game>
-  <game name="01 - Games/Landstalker - The Treasures of King Nole">
+  <game name="01 - Games/Landstalker">
     <rom name="Landstalker (USA) (Mega Drive Mini, Genesis Mini).md" size="2097152" sha1="492f27fa2c4f653ab23f6fcc049bf670a205ff4c" crc="f2d14a6a" />
     <rom name="Landstalker (USA) (Sega Channel).md" size="2097152" sha1="3461ddfcb7965f8476f556298575e32a249dcc83" crc="8866fb16" />
     <rom name="Landstalker (USA).md" size="2097152" sha1="24345e29427b000b90df778965dd8834300a9dde" crc="fbbb5b97" />
@@ -5440,7 +5440,7 @@
     <rom name="Landstalker - The Treasures of King Nole (Europe) (SEGA Classic Collection).md" size="2097152" sha1="74ebc2988d251313e15b984da032f93014292965" crc="b816446e" />
     <rom name="Landstalker - The Treasures of King Nole (Europe).md" size="2097152" sha1="9fbadc86319936855831ecd096d82d716b304215" crc="e3c65277" />
   </game>
-  <game name="01 - Games/Landstalker - The Treasures of King Nole/~Prototypes and Betas">
+  <game name="01 - Games/Landstalker/~Prototypes and Betas">
     <rom name="Landstalker (USA) (Beta).md" size="2097152" sha1="dfca19397479852584d4ac6fcbe27412f9bc1af0" crc="70483d03" />
   </game>
   <game name="01 - Games/Langrisser II">
@@ -5986,11 +5986,11 @@
   <game name="01 - Games/Mario Lemieux Hockey">
     <rom name="Mario Lemieux Hockey (USA, Europe).md" size="524288" sha1="34cb9c26030c5a0e66dc7de3302bb50633e4dbb6" crc="f664eb6c" />
   </game>
-  <game name="01 - Games/Marko's Magic Football">
+  <game name="01 - Games/Marko">
     <rom name="Marko (USA).md" size="2097152" sha1="b73d01599d8201dc3bd98fdc9cc262e14dbc52b4" crc="2b8c8cce" />
     <rom name="Marko's Magic Football (Europe) (En,Fr,De,Es).md" size="2097152" sha1="717e924db1ac7cfd099adb6031a08606fcb30219" crc="2307b905" />
   </game>
-  <game name="01 - Games/Marko's Magic Football/~Prototypes and Betas">
+  <game name="01 - Games/Marko/~Prototypes and Betas">
     <rom name="Marko's Magic Football (Europe) (En,Fr,De,Es) (Beta).md" size="2097152" sha1="42b871c3a91697e1d7b8c6f1eae9d2a8b07a0fca" crc="0273e564" />
   </game>
   <game name="01 - Games/Marsupilami">
@@ -6019,7 +6019,7 @@
   <game name="01 - Games/Math Blaster - Episode 1">
     <rom name="Math Blaster - Episode 1 (USA).md" size="1048576" sha1="119c2615db2607b8102ccb57d862ac6084e37c9d" crc="d055a462" />
   </game>
-  <game name="01 - Games/Mazin Wars">
+  <game name="01 - Games/Mazin Saga - Mutant Fighter">
     <rom name="Mazin Saga (Asia) (En).md" size="1048576" sha1="3509fdf8bd0a589c216a5032eef0c09a51c7a578" crc="36459b59" />
     <rom name="Mazin Saga (Japan, Korea) (Ja).md" size="1048576" sha1="bcaf2820f22d4a7bcf6324f288698192996875bd" crc="45b3a34b" />
     <rom name="Mazin Saga - Mutant Fighter (USA).md" size="1048576" sha1="5cb87bb4efc8fa8754e687b62d0fd858e624997d" crc="1bd9fef1" />
@@ -8432,14 +8432,14 @@
   <game name="01 - Games/Mega Xmas '89">
     <rom name="Mega Xmas '89 (World) (Aftermarket) (Unl).md" size="393216" sha1="4fc1bdeeb346a804b147848caae193f0a5799d11" crc="50348291" />
   </game>
-  <game name="01 - Games/Mega-lo-Mania">
+  <game name="01 - Games/Tyrants - Fight Through Time">
     <rom name="Mega lo Mania (Japan).md" size="1048576" sha1="66e391c69dfbe7329654550ebf4464b4f426c5a0" crc="a60d8619" />
     <rom name="Mega-lo-Mania (Europe).md" size="1048576" sha1="e861551edabe55181ed1b7260169e953af903b5e" crc="2148d56d" />
     <rom name="Mega-lo-Mania (France).md" size="1048576" sha1="1fcfc9ee3bffc25388735782b0cdb829a7e40507" crc="3b3231ed" />
     <rom name="Mega-lo-Mania (World) (Evercade).md" size="1048576" sha1="dcc6b9d82d9a4174b33a23b9ebcb841183edb199" crc="f90df2c2" />
     <rom name="Tyrants - Fight Through Time (USA).md" size="1048576" sha1="99ae974fccebfbf6f5a4738e953ad55181144a99" crc="a744921e" />
   </game>
-  <game name="01 - Games/Mega-lo-Mania/~Prototypes and Betas">
+  <game name="01 - Games/Tyrants - Fight Through Time/~Prototypes and Betas">
     <rom name="Mega-lo-Mania (Europe) (Beta).md" size="1048576" sha1="3794cb708b1f54675eb6fb272cfee01e6dbcecc1" crc="ab9fed30" />
   </game>
   <game name="01 - Games/MegaMind">
@@ -8580,12 +8580,12 @@
   <game name="01 - Games/Michael Jackson's Moonwalker/~Prototypes and Betas">
     <rom name="Michael Jackson's Moonwalker (Japan, USA) (En) (Beta).md" size="524288" sha1="6ce4ce7af4265d9be6bfe5021eb64839a73fdac6" crc="dc7ed8c1" />
   </game>
-  <game name="01 - Games/Mickey Mania">
+  <game name="01 - Games/Mickey Mania - The Timeless Adventures of Mickey Mouse">
     <rom name="Mickey Mania (Europe).md" size="2097152" sha1="6bcbf683a5d0e9f67b9ed8f79bc593fab594d84a" crc="cb5a8b85" />
     <rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (Japan).md" size="2097152" sha1="afe3e1c9267e2a7f0bec5e3e951307ebea7f0b04" crc="23180cf7" />
     <rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).md" size="2097152" sha1="20779867821bab019f63ce42e3067ffafb4fe480" crc="629e5963" />
   </game>
-  <game name="01 - Games/Mickey Mania/~Prototypes and Betas">
+  <game name="01 - Games/Mickey Mania - The Timeless Adventures of Mickey Mouse/~Prototypes and Betas">
     <rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Beta 1).md" size="2097152" sha1="cd80dcd53c9996744eb94ba8702f84d784e83f34" crc="7fc1bdf0" />
     <rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Beta 2).md" size="2097152" sha1="9a5618d067033b67f77cd24585da9ea3f1e31eeb" crc="bab821f2" />
   </game>
@@ -8652,7 +8652,7 @@
     <rom name="Midnight Resistance (USA) (MD+).cue" size="1069" sha1="7492df58378f5668be48035984403683945ac552" crc="43db2642" />
     <rom name="Midnight Resistance (USA) (MD+).md" size="1048576" sha1="dee029458bdc3352531c50e2a8c47dd523d41ef0" crc="a00df6ea" />
   </game>
-  <game name="01 - Games/Midway Presents Arcade's Greatest Hits">
+  <game name="01 - Games/Williams Arcade's Greatest Hits">
     <rom name="Midway Presents Arcade's Greatest Hits (Europe).md" size="524288" sha1="97e35e8fbe1546b9cf075ab75c8f790edcd9db93" crc="c0dce0e5" />
     <rom name="Williams Arcade's Greatest Hits (USA).md" size="524288" sha1="8c648318fdd54e2c75c44429a72c1c1a846e67cb" crc="d68e9c00" />
   </game>
@@ -9709,7 +9709,7 @@
   <game name="01 - Games/Outlander/~Prototypes and Betas">
     <rom name="Outlander (USA) (Beta).md" size="1048576" sha1="3b59fb2bfd94de10fdeec1222f27284bb81217c3" crc="c5ba7bbf" />
   </game>
-  <game name="01 - Games/Outworld 2375 A.D">
+  <game name="01 - Games/Outworld 2375 A.D.">
     <rom name="Outworld 2375 A.D. (USA) (HeartBeat Catalyst).md" size="1048576" sha1="8e0ab87e7d56d8782d01c4f744ea57c793c04325" crc="69412ae8" />
   </game>
   <game name="01 - Games/Overdrive">
@@ -9780,7 +9780,7 @@
   <game name="01 - Games/Pac-Mania/~Hacks">
     <rom name="Pac-Mania (USA, Europe) [Color hack by Fusaru v1.00].md" size="262144" sha1="6b72c293d9703f69580decba5bf7baf558fdc89f" crc="1edd8afe" />
   </game>
-  <game name="01 - Games/Pac-Panic">
+  <game name="01 - Games/Pac-Attack">
     <rom name="Pac-Attack (USA).md" size="1048576" sha1="c541dadc944882bcd3defe7fde9d5cebafe969ba" crc="79587507" />
     <rom name="Pac-Panic (Europe).md" size="1048576" sha1="d12be8da7d72f62a9e1d0e744c75f247f9f0c177" crc="ebd6d5ba" />
   </game>
@@ -10343,7 +10343,7 @@
   <game name="01 - Games/Pro Yakyuu Super League '91">
     <rom name="Pro Yakyuu Super League '91 (Japan).md" size="524288" sha1="9d446471b8fe37b08dc7c4a99de22de9d56a1d16" crc="a948ab7e" />
   </game>
-  <game name="01 - Games/Probotector">
+  <game name="01 - Games/Contra - Hard Corps">
     <rom name="Contra - Hard Corps (USA) (Contra Anniversary Collection).md" size="2097152" sha1="a2b264df56b2e024ccbb90d28b29b01d0f94acc1" crc="74dded00" />
     <rom name="Contra - Hard Corps (USA) (Mega Drive Mini, Genesis Mini).md" size="2097152" sha1="f9aa7a0e7ec07e0f1512b582c279e378eee7c902" crc="042a81b0" />
     <rom name="Contra - Hard Corps (USA, Korea) (En).md" size="2097152" sha1="68ea84146105bda91f6056932ff4fb42aa3eb4a7" crc="c579f45e" />
@@ -10355,7 +10355,7 @@
     <rom name="Probotector (Europe) (En,Fr,De) (Mega Drive Mini, Genesis Mini).md" size="2097152" sha1="e71fb4c18f6e878f2ce8eb6c26c46523b19dbc0e" crc="6ed9e471" />
     <rom name="Probotector (Europe) (En,Fr,De).md" size="2097152" sha1="69d905751ffa6a921586767263e45ddeb73333c2" crc="bc597d48" />
   </game>
-  <game name="01 - Games/Probotector/~Hacks/Contra - Hard Corps (USA, Korea) (En) [MD+ hack by GMKalandar v20260422] [OST [MD+ Arranged by GMKalandar v20260422] [f PCM Wave format]]">
+  <game name="01 - Games/Contra - Hard Corps/~Hacks/Contra - Hard Corps (USA, Korea) (En) [MD+ hack by GMKalandar v20260422] [OST [MD+ Arranged by GMKalandar v20260422] [f PCM Wave format]]">
     <rom name="Contra - Hard Corps (USA, Korea) (En) (MD+).cue" size="2388" sha1="165def3ae4b1a9a37f0108232520e20782eea73d" crc="de82c2a2" />
     <rom name="Contra - Hard Corps (USA, Korea) (En) (MD+).md" size="3145728" sha1="09a358f792562eb1e2dc6212c3d031b25edd643b" crc="2e8d6ea4" />
     <rom name="track01.wav" size="801820" sha1="be703305a00c0658abc6cf76482e19669af0a762" crc="47b926d0" />
@@ -11150,7 +11150,7 @@
     <rom name="Midway Presents Arcade's Greatest Hits (Europe).md" size="524288" sha1="97e35e8fbe1546b9cf075ab75c8f790edcd9db93" crc="c0dce0e5" />
     <rom name="Williams Arcade's Greatest Hits (USA).md" size="524288" sha1="8c648318fdd54e2c75c44429a72c1c1a846e67cb" crc="d68e9c00" />
   </game>
-  <game name="01 - Games/Rock 'n' Roll Racing">
+  <game name="01 - Games/Rock n' Roll Racing">
     <rom name="Rock 'n' Roll Racing (Europe).md" size="1048576" sha1="c4d84425c007711f006a67d6577fd90f421605e5" crc="bc5a0562" />
     <rom name="Rock n' Roll Racing (USA).md" size="1048576" sha1="9793572b6d64c85c1add0721c3be388ac18777d6" crc="6abab577" />
   </game>
@@ -12307,7 +12307,7 @@
   <game name="01 - Games/Solaris/~Prototypes and Betas">
     <rom name="Solaris (World) (Proto) (Aftermarket) (Unl).md" size="262144" sha1="9c97969f24077987ecc488caf096e355b79da67b" crc="03935c1d" />
   </game>
-  <game name="01 - Games/Soleil">
+  <game name="01 - Games/Crusader of Centy">
     <rom name="Crusader of Centy (USA).md" size="2097152" sha1="bf2e8d122f4670865bedbc305ef991ee5f52d647" crc="41858f6f" />
     <rom name="Shin Changsegi - Ragnacenty (Korea).md" size="2097152" sha1="40265aae1b43f004434194038d32ca6b4841707d" crc="77b5b10b" />
     <rom name="Shin Souseiki Ragnacenty (Japan).md" size="2097152" sha1="e0df9f3cb64beb3ea921653eccdd45aca6abc0aa" crc="6a3f5ae2" />
@@ -12316,21 +12316,21 @@
     <rom name="Soleil (Germany).md" size="2097152" sha1="65c8b7ab94b05812d009b4bebda3c49891a6bfbe" crc="332b9ecd" />
     <rom name="Soleil (Spain).md" size="2097152" sha1="95ae529cecb7dbca281df25c3c4e7cb8f48d936c" crc="9ed4c323" />
   </game>
-  <game name="01 - Games/Soleil/~Pirate">
+  <game name="01 - Games/Crusader of Centy/~Pirate">
     <rom name="Xin Chuangshiji (China) (Pirate).md" size="2097152" sha1="1257b38fd4be3645be6f9a346e24df686e7b559c" crc="a6dce438" />
   </game>
-  <game name="01 - Games/Soleil/~Prototypes and Betas">
+  <game name="01 - Games/Crusader of Centy/~Prototypes and Betas">
     <rom name="Shin Souseiki Ragnacenty (Japan) (Beta).md" size="1048576" sha1="963f13f74d648c573ced103b2803d15d0a2742e8" crc="43797455" />
   </game>
   <game name="01 - Games/Solitaire in Space/~Prototypes and Betas">
     <rom name="Solitaire in Space (World) (Proto) (Aftermarket) (Unl).md" size="524288" sha1="7d38b8f9ce3cef1fc48f7d58f2ce4af8b1741c51" crc="9a03eac9" />
   </game>
-  <game name="01 - Games/Sonic &amp; Knuckles + Sonic 3">
+  <game name="01 - Games/Sonic &amp; Knuckles + Sonic The Hedgehog 3">
     <rom name="Sonic &amp; Knuckles + Sonic 3 (Europe) (Lock-On).md" size="4194304" sha1="45ca797353756787c8abaacbe84ce662166ac0ee" crc="92f0929e" />
     <rom name="Sonic &amp; Knuckles + Sonic The Hedgehog 3 (Japan, Korea) (En) (Lock-On).md" size="4194304" sha1="b711a909cce238ca4af3e517a2edca306228efa5" crc="0c06aa82" />
     <rom name="Sonic &amp; Knuckles + Sonic The Hedgehog 3 (USA) (Lock-On).md" size="4194304" sha1="cfbf98c36c776677290a872547ac47c53d2761d6" crc="63522553" />
   </game>
-  <game name="01 - Games/Sonic &amp; Knuckles + Sonic 3/~Hacks/Sonic &amp; Knuckles + Sonic The Hedgehog 3 (USA) (Lock-on Combination) [MD+ hack by Relikk v20260605] [OST [MD+ Roland SC-88 Pro Arranged by Relikk v20260605]]">
+  <game name="01 - Games/Sonic &amp; Knuckles + Sonic The Hedgehog 3/~Hacks/Sonic &amp; Knuckles + Sonic The Hedgehog 3 (USA) (Lock-on Combination) [MD+ hack by Relikk v20260605] [OST [MD+ Roland SC-88 Pro Arranged by Relikk v20260605]]">
     <rom name="01-AngelIslandZone_Act1.wav" size="11789392" sha1="9a9f492e6b7f21492c35372af98640f1f93ed4ac" crc="027b7409" />
     <rom name="02-AngelIslandZone_Act2.wav" size="11297272" sha1="5bc38841448accb987c41103c77f2e1e5f51076a" crc="911428dc" />
     <rom name="03-HydrocityZone_Act1.wav" size="10433240" sha1="e016c63256c10217a2a1b2ea73fe51406c0911b0" crc="024988e7" />
@@ -12415,14 +12415,14 @@
     <rom name="Sonic The Hedgehog 3 Limited Edition (Japan) (En) (Proto 1).md" size="4194304" sha1="5f96ddccff1e95d82201687b939973c642a05394" crc="59d23df5" />
     <rom name="Sonic The Hedgehog 3 Limited Edition (Japan) (En) (Proto 2).md" size="4194304" sha1="d6012af0f7856476892982e50b3d512d606dcb96" crc="766c4b81" />
   </game>
-  <game name="01 - Games/Sonic 3">
+  <game name="01 - Games/Sonic the Hedgehog 3">
     <rom name="Sonic 3 (Europe).md" size="2097152" sha1="2ff45bb056ede0f745e52f8d02c54b4ca724ca4c" crc="6a632503" />
     <rom name="Sonic The Hedgehog 3 (Japan, Korea) (En).md" size="2097152" sha1="7b98b21b7274233e962132bc22a7ccdf548c0ddb" crc="f4951d1f" />
     <rom name="Sonic The Hedgehog 3 (USA) (Sega Channel).md" size="2097152" sha1="a4eeec3b3ff2563c03a0036acb9f89815238fd28" crc="ebc0af69" />
     <rom name="Sonic The Hedgehog 3 (USA) (Sonic Classic Collection).md" size="2097152" sha1="7ceb83de0871962fa3cd8fdc0ba8b5dec9a32ca9" crc="fc0429dd" />
     <rom name="Sonic The Hedgehog 3 (USA).md" size="2097152" sha1="75e9c4705259d84112b3e697a6c00a0813d47d71" crc="9bc192ce" />
   </game>
-  <game name="01 - Games/Sonic 3/~Prototypes and Betas">
+  <game name="01 - Games/Sonic the Hedgehog 3/~Prototypes and Betas">
     <rom name="Sonic The Hedgehog 3 (USA) (Beta).md" size="2097152" sha1="fc87a7b411302a576028b7ccd5911b1f266b59b3" crc="e4a16a49" />
   </game>
   <game name="01 - Games/Sonic 3D Blast">
@@ -12683,13 +12683,13 @@
   <game name="01 - Games/Speed Ball/~Prototypes and Betas">
     <rom name="Speed Ball (World) (Proto) (Aftermarket) (Unl).md" size="262144" sha1="f97219dedc40d5034cd2f248d1b18aebfda7bbaf" crc="dbb6a00b" />
   </game>
-  <game name="01 - Games/Speedball 2">
+  <game name="01 - Games/Speedball 2 - Brutal Deluxe">
     <rom name="Speedball 2 (Europe).md" size="524288" sha1="9c989b31de7de38bc488f825575b7f6c1db9dbee" crc="056a6e03" />
     <rom name="Speedball 2 (Japan) (En).md" size="524288" sha1="7da217a45fafb569baee190be6a660af428cf3e5" crc="f5442334" />
     <rom name="Speedball 2 - Brutal Deluxe (USA).md" size="524288" sha1="4598f1714fd05e74ab758c09263f7948c8ca1883" crc="9fc340a7" />
     <rom name="Speedball 2 - Brutal Deluxe (World) (Evercade).md" size="524288" sha1="aaa5d1259d3f2fd24157d13a89e727e7b5d05640" crc="13ee48d5" />
   </game>
-  <game name="01 - Games/Speedball 2/~Prototypes and Betas">
+  <game name="01 - Games/Speedball 2 - Brutal Deluxe/~Prototypes and Betas">
     <rom name="Speedball 2 - Brutal Deluxe (USA) (Beta).md" size="524288" sha1="eac8744a01f946af11a36673c63a4b1df2d0742d" crc="13c803b7" />
   </game>
   <game name="01 - Games/Spider-Man - Venom - Maximum Carnage">
@@ -12841,7 +12841,7 @@
     <rom name="Stormlord (Japan) (En).md" size="524288" sha1="fe06ea2d7fcccecce337a535ae683c31aae4a637" crc="0b440fed" />
     <rom name="Stormlord (USA).md" size="524288" sha1="1bf4b58d50fdc0fdc173ce3dcadcc5d9b58f0723" crc="39ab50a5" />
   </game>
-  <game name="01 - Games/Story of Thor, The">
+  <game name="01 - Games/Beyond Oasis">
     <rom name="Beyond Oasis (USA).md" size="3145728" sha1="2944910c07c02eace98c17d78d07bef7859d386a" crc="c4728225" />
     <rom name="Legende de Thor, La (France) (Mega Drive Mini, Genesis Mini).md" size="3145728" sha1="c0b4ce1b6c17b5ba8240027e73bda44bd090faa3" crc="a9359029" />
     <rom name="Legende de Thor, La (France).md" size="3145728" sha1="677e1fbf2f6f90dd5a016f3bd5f305547249205a" crc="b97cca1c" />
@@ -12854,7 +12854,7 @@
     <rom name="Story of Thor, The (Spain).md" size="3145728" sha1="0fcc02355176e1c96043f4d827a3ff88d2d272df" crc="4631f941" />
     <rom name="Story of Thor, The - Hikari o Tsugumono (Japan).md" size="3145728" sha1="54296f5cf1917c568bb29b0086641c282b8884bd" crc="4f39783c" />
   </game>
-  <game name="01 - Games/Story of Thor, The/~Hacks/Beyond Oasis (USA) [MD+ hack by willtfsan v20260617] [OST [MD+ Vladimir Bulaev Orchestral Soundtrack Arranged by Vladimir Bulaev v20260614]]">
+  <game name="01 - Games/Beyond Oasis/~Hacks/Beyond Oasis (USA) [MD+ hack by willtfsan v20260617] [OST [MD+ Vladimir Bulaev Orchestral Soundtrack Arranged by Vladimir Bulaev v20260614]]">
     <rom name="Beyond Oasis (USA) (MD+).cue" size="3197" sha1="d9fb10be4f8dd761d7a46d21f9be7b119c5abdc6" crc="0c4f3f27" />
     <rom name="Beyond Oasis (USA) (MD+).md" size="3145728" sha1="2768b63fab75262c407ed6970c5ccd92a01f7e59" crc="a0b95d72" />
     <rom name="beyond_oasis-01 - Dummy.wav" size="352878" sha1="eb2264f595dbde5391e4bd28f8c04d6226b72173" crc="bc3a0a9b" />
@@ -12891,16 +12891,16 @@
     <rom name="beyond_oasis-32 - Ending.wav" size="57953982" sha1="170131b49b15ef6243189eb3e2ec06fdc1659659" crc="a330adb0" />
     <rom name="beyond_oasis-33 - Master Mind.wav" size="4515818" sha1="4ac54c9e818227d7c337684a35088874f7e2d5e7" crc="9d08bb18" />
   </game>
-  <game name="01 - Games/Story of Thor, The/~Prototypes and Betas">
+  <game name="01 - Games/Beyond Oasis/~Prototypes and Betas">
     <rom name="Beyond Oasis (USA) (Beta).md" size="3145728" sha1="cb0606faeab0398244d4721d71cf7e1c5724a9ef" crc="fa59f847" />
     <rom name="Story of Thor, The (Europe) (Beta 1).md" size="1769472" sha1="ac1952f2f7cd4109561376f3097c4daec2ae64ae" crc="bfc11649" />
     <rom name="Story of Thor, The (Europe) (Beta 2).md" size="3145728" sha1="499dd47c325874a231a8d8430aca0bb6feeb3dcd" crc="9e486f91" />
     <rom name="Story of Thor, The (Europe) (Beta 3).md" size="3145728" sha1="e4b25941aefb58073784616acf7ca7458b213bee" crc="aa43d34a" />
   </game>
-  <game name="01 - Games/Story of Thor, The/~Translations">
+  <game name="01 - Games/Beyond Oasis/~Translations">
     <rom name="Beyond Oasis (USA) [T-En by Eien Ni Hen &amp; Husky v1.0].md" size="3145728" sha1="69c9e01a3b7c333ba18464a0b6f1cf0a5d56d2dc" crc="132fbfd8" />
   </game>
-  <game name="01 - Games/Story of Thor, The/~Translations/Documentation">
+  <game name="01 - Games/Beyond Oasis/~Translations/Documentation">
     <rom name="Beyond Oasis (USA) [T-En by Eien Ni Hen &amp; Husky v1.0].txt" size="4067" sha1="718ed9ae7c8e0941caf8ca60c62cdf86e8959b48" crc="2e43eb38" />
   </game>
   <game name="01 - Games/Street Fighter II' - Special Champion Edition">
@@ -13914,7 +13914,7 @@
   <game name="01 - Games/Streets of Rage/~Pirate">
     <rom name="Gedou Tiequan (China) (En,Ja) (Pirate).md" size="524288" sha1="d1141f93e0373f71ec14a4c37067f99c53e7a84d" crc="e6b64dbb" />
   </game>
-  <game name="01 - Games/Strider II">
+  <game name="01 - Games/Journey from Darkness - Strider Returns">
     <rom name="Journey from Darkness - Strider Returns (USA).md" size="1048576" sha1="8febb4aff32f40148f572d54e158f4b791736f55" crc="42589b79" />
     <rom name="Strider II (Europe).md" size="1048576" sha1="c048bf092745654bb60a437ef1543abfd407093c" crc="e85e5270" />
   </game>
@@ -14229,7 +14229,7 @@
   <game name="01 - Games/Super Kick Off">
     <rom name="Super Kick Off (Europe).md" size="524288" sha1="4e270b13a399d78d919157e50ab11f4645aa6d32" crc="f43793ff" />
   </game>
-  <game name="01 - Games/Super League">
+  <game name="01 - Games/Tommy Lasorda Baseball">
     <rom name="Super League (Europe).md" size="524288" sha1="fefc7abc2f9fbcc7992b1420b62eb3eb3d5ad1bb" crc="55baec6e" />
     <rom name="Super League (Japan).md" size="524288" sha1="9e975ba4c396617ff9535d51d0929f6d592478fc" crc="ea13cb1d" />
     <rom name="Tommy Lasorda Baseball (USA) (Rev A).md" size="524288" sha1="dde1b2465f54f4f6f485c1ba063ff47c5d1baf27" crc="4fb50304" />
@@ -14273,12 +14273,12 @@
   <game name="01 - Games/Super Off Road">
     <rom name="Super Off Road (USA, Europe) (Unl).md" size="524288" sha1="89f264afba7aa8764b301d46cc8c51f74c23919e" crc="8f2fdada" />
   </game>
-  <game name="01 - Games/Super Real Basketball">
+  <game name="01 - Games/Pat Riley Basketball">
     <rom name="Pat Riley Basketball (USA).md" size="524288" sha1="0655ac1043c27c68d40ae089f1af2826613e5f80" crc="3d9318a7" />
     <rom name="Super Real Basketball (Europe).md" size="524288" sha1="0197df59951085dc7078c4ec66c75be84566530a" crc="f04765ba" />
     <rom name="Super Real Basketball (Japan, Korea) (En).md" size="524288" sha1="c86725780027ef9783cb7884c8770cc030b0cd0d" crc="4346e11a" />
   </game>
-  <game name="01 - Games/Super Real Basketball/~Prototypes and Betas">
+  <game name="01 - Games/Pat Riley Basketball/~Prototypes and Betas">
     <rom name="Pat Riley Basketball (USA) (Beta).md" size="524288" sha1="b939dd0e18800f93f8674114c6838e364d74021a" crc="00f4c7cc" />
   </game>
   <game name="01 - Games/Super Robin">
@@ -14290,7 +14290,7 @@
   <game name="01 - Games/Super Skidmarks/~Prototypes and Betas">
     <rom name="Super Skidmarks (Europe) (Beta) (J-Cart).md" size="2097152" sha1="2d4312874a5b5aa0031daad21b602b0dec6e0810" crc="720cc7cb" />
   </game>
-  <game name="01 - Games/Super Smash T.V">
+  <game name="01 - Games/Super Smash T.V.">
     <rom name="Super Smash T.V. (USA, Europe).md" size="524288" sha1="0459f7c61f152fa0afa98d96ef9fbe4964641f34" crc="f22412b6" />
   </game>
   <game name="01 - Games/Super Star Wars - Holiday Special">
@@ -14742,11 +14742,11 @@
   <game name="01 - Games/Super Volleyball/~Pirate">
     <rom name="Super Volley Ball (USA) (Pirate).md" size="262144" sha1="05bd956579edea84989e9f5ed5f451c7f01cd722" crc="47c6e2d3" />
   </game>
-  <game name="01 - Games/Superman - The Man of Steel">
+  <game name="01 - Games/Superman">
     <rom name="Superman (USA).md" size="1048576" sha1="ca14653589fd36e6394ec99f223ed9b18f70fd6a" crc="543a5869" />
     <rom name="Superman - The Man of Steel (Europe).md" size="1048576" sha1="c956730af44b737ee3d0c1e83c147f32e3504383" crc="7db434ba" />
   </game>
-  <game name="01 - Games/Superman - The Man of Steel/~Prototypes and Betas">
+  <game name="01 - Games/Superman/~Prototypes and Betas">
     <rom name="Superman (USA) (Beta).md" size="1048576" sha1="9d94f0e364b5170ac1f1f2098091c3fc89d07389" crc="5cd0e1d4" />
   </game>
   <game name="01 - Games/SupraKillminds!">
@@ -14834,12 +14834,12 @@
   <game name="01 - Games/TaleSpin/~Prototypes and Betas">
     <rom name="TaleSpin (USA, Europe) (Beta).md" size="524288" sha1="f961a592684cd331d7c69275ff38606e39a404c8" crc="b3e0c7e6" />
   </game>
-  <game name="01 - Games/Talmit's Adventure">
+  <game name="01 - Games/Marvel Land">
     <rom name="Marvel Land (Japan).md" size="1048576" sha1="2f7ef2f956d62373dcd5f3808e7501e3660c0658" crc="5d162d21" />
     <rom name="Marvel Land (USA).md" size="1048576" sha1="29f290c80f992542e73c9ea95190403cb262b6ad" crc="cd7eeeb7" />
     <rom name="Talmit's Adventure (Europe).md" size="1048576" sha1="be80f96bee64bab159614d29f882442abef9de76" crc="05dc3ffc" />
   </game>
-  <game name="01 - Games/Talmit's Adventure/~Hacks/Marvel Land (USA) [MD+ hack by ArcadeTV v20230421] [OST [MD+ Arranged by Relikk v20230421]]">
+  <game name="01 - Games/Marvel Land/~Hacks/Marvel Land (USA) [MD+ hack by ArcadeTV v20230421] [OST [MD+ Arranged by Relikk v20230421]]">
     <rom name="01-RollerCoasterStage.wav" size="11150292" sha1="1912f62b91d347c1242927377a8e2028b2d7a95a" crc="0cb55cd6" />
     <rom name="02_17_18_19-World1_2_3_4.wav" size="8379432" sha1="efd8db64a89b3b42ff5066c1ad2145933d9964c1" crc="a528cd3e" />
     <rom name="03-BonusStage.wav" size="4154852" sha1="5e02a474a18972a269609ab89d19e37ef154d527" crc="cb49942f" />
@@ -14862,7 +14862,7 @@
     <rom name="Marvel Land (USA) (MD+).cue" size="2072" sha1="8db86f8b2aff5f966ef03d533f6b95ac95fc7621" crc="6f09d627" />
     <rom name="Marvel Land (USA) (MD+).md" size="2097152" sha1="7a4f758e9e13da2e92bcdf63916abba8bed037c8" crc="283ab2a3" />
   </game>
-  <game name="01 - Games/Talmit's Adventure/~Prototypes and Betas">
+  <game name="01 - Games/Marvel Land/~Prototypes and Betas">
     <rom name="Marvel Land (USA) (Beta).md" size="1048576" sha1="d7c13d44c5ac93112cf7f1de32b6865ec28e8cd5" crc="ce1aed2c" />
   </game>
   <game name="01 - Games/Tanglewood">
@@ -15011,17 +15011,17 @@
     <rom name="Game no Kanzume Otokuyou (Japan) (Sega Channel).md" size="3145728" sha1="31c66bd13abf4ae8271c09ec5286a0ee0289dbbc" crc="cdad7e6b" />
     <rom name="Teddy Boy Blues (Japan) (Sega Game Toshokan).md" size="262144" sha1="dc858342be31ab9491acfaebf1524ece2c6ef9a3" crc="733d2eb3" />
   </game>
-  <game name="01 - Games/Teenage Mutant Hero Turtles - The Hyperstone Heist">
+  <game name="01 - Games/Teenage Mutant Ninja Turtles - The Hyperstone Heist">
     <rom name="Teenage Mutant Hero Turtles - The Hyperstone Heist (Europe).md" size="1048576" sha1="ed6c32cae0813cbcf590fad715fa045fbeab6d78" crc="966d5286" />
     <rom name="Teenage Mutant Ninja Turtles - Return of the Shredder (Japan) (Cowabunga Collection, The).md" size="1048576" sha1="57e9d8ea853ff1109635409a2aa18ec1a6dc6d52" crc="87da801a" />
     <rom name="Teenage Mutant Ninja Turtles - Return of the Shredder (Japan).md" size="1048576" sha1="f64556be092a13de8eaacc78dd630ac9d7bb75ee" crc="1b003498" />
     <rom name="Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA) (Cowabunga Collection, The).md" size="1048576" sha1="6348159c0709ea484ab399420487057f3dd53ec3" crc="0f347015" />
     <rom name="Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA).md" size="1048576" sha1="f440dfa689f65e782a150c1686ab90d7e5cc6355" crc="679c41de" />
   </game>
-  <game name="01 - Games/Teenage Mutant Hero Turtles - The Hyperstone Heist/~Hacks">
+  <game name="01 - Games/Teenage Mutant Ninja Turtles - The Hyperstone Heist/~Hacks">
     <rom name="Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA) [Color hack by Pyron v2.0].md" size="1048576" sha1="7504f42218f8b454828009e039279b068bfbe1e0" crc="3dd042f9" />
   </game>
-  <game name="01 - Games/Teenage Mutant Hero Turtles - The Hyperstone Heist/~Hacks/Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA) [MD+ hack by PepilloPEV v20210322] [ArcadeTV MSU-MD v0.2 port] [OST [MD+ Turtles in Time Arcade Arranged by Relikk v20210322]]">
+  <game name="01 - Games/Teenage Mutant Ninja Turtles - The Hyperstone Heist/~Hacks/Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA) [MD+ hack by PepilloPEV v20210322] [ArcadeTV MSU-MD v0.2 port] [OST [MD+ Turtles in Time Arcade Arranged by Relikk v20210322]]">
     <rom name="1-KonamiLogo.wav" size="830024" sha1="9d93811888596db0d01d799010904da148090735" crc="13536cf9" />
     <rom name="10-PrehistoricTurtlesaurus.wav" size="8149292" sha1="693c55526756db0a5dfcc506d1e4938ba288c764" crc="45d97ac8" />
     <rom name="11-OutsideShreddersHideout.wav" size="5593372" sha1="10faea866783476ee5041df8b09e7e51beb55dfa" crc="db4e2a98" />
@@ -15051,7 +15051,7 @@
     <rom name="Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA) (MD+).cue" size="2418" sha1="dec9e792b55a35be15b311e0fc0e06e1409cab95" crc="c7a8709a" />
     <rom name="Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA) (MD+).md" size="2097152" sha1="5ef0a1a25d60ee9bf69f1d435f99ee8ab7a69a95" crc="68986dae" />
   </game>
-  <game name="01 - Games/Teenage Mutant Hero Turtles - The Hyperstone Heist/~Hacks/Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA) [MD+ hack by PepilloPEV v20210322] [Color hack by Pyron v2.0] [ArcadeTV MSU-MD v0.2 port] [OST [MD+ Turtles in Time Arcade Arranged by Relikk v20210322]]">
+  <game name="01 - Games/Teenage Mutant Ninja Turtles - The Hyperstone Heist/~Hacks/Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA) [MD+ hack by PepilloPEV v20210322] [Color hack by Pyron v2.0] [ArcadeTV MSU-MD v0.2 port] [OST [MD+ Turtles in Time Arcade Arranged by Relikk v20210322]]">
     <rom name="1-KonamiLogo.wav" size="830024" sha1="9d93811888596db0d01d799010904da148090735" crc="13536cf9" />
     <rom name="10-PrehistoricTurtlesaurus.wav" size="8149292" sha1="693c55526756db0a5dfcc506d1e4938ba288c764" crc="45d97ac8" />
     <rom name="11-OutsideShreddersHideout.wav" size="5593372" sha1="10faea866783476ee5041df8b09e7e51beb55dfa" crc="db4e2a98" />
@@ -15081,14 +15081,14 @@
     <rom name="Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA) (MD+).cue" size="2418" sha1="dec9e792b55a35be15b311e0fc0e06e1409cab95" crc="c7a8709a" />
     <rom name="Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA) (MD+).md" size="2097152" sha1="3490e0eedfec2a7671dc9651c2ad49cf548ec7bc" crc="15b36c75" />
   </game>
-  <game name="01 - Games/Teenage Mutant Hero Turtles - Tournament Fighters">
+  <game name="01 - Games/Teenage Mutant Ninja Turtles - Tournament Fighters">
     <rom name="Teenage Mutant Hero Turtles - Tournament Fighters (Europe).md" size="2097152" sha1="6a6c4ae9d944ad1d459d46ae40d3af09e60b5d7d" crc="3cd2b7e6" />
     <rom name="Teenage Mutant Ninja Turtles - Tournament Fighters (Japan) (Cowabunga Collection, The).md" size="2097152" sha1="44d61ee6c072b9e8c9c509b3f0eddf2cc91b653f" crc="ffa5a829" />
     <rom name="Teenage Mutant Ninja Turtles - Tournament Fighters (Japan).md" size="2097152" sha1="5be86d03abdb49b824104e9bbf0ac80023e4908c" crc="8843f2c9" />
     <rom name="Teenage Mutant Ninja Turtles - Tournament Fighters (USA) (Cowabunga Collection, The).md" size="2097152" sha1="b7b8bbe53f16f572d5443dd2862e805643c3902d" crc="61c5a73a" />
     <rom name="Teenage Mutant Ninja Turtles - Tournament Fighters (USA).md" size="2097152" sha1="1a27be1e7f8f47eb539b874eaa48586fe2dab9c0" crc="95b5484d" />
   </game>
-  <game name="01 - Games/Teenage Mutant Hero Turtles - Tournament Fighters/~Hacks">
+  <game name="01 - Games/Teenage Mutant Ninja Turtles - Tournament Fighters/~Hacks">
     <rom name="Teenage Mutant Hero Turtles - Tournament Fighters (Europe) [Color hack by Fusaru v1.00].md" size="2097152" sha1="a52e0122c83d596a03d48dd6bd99d6e29fa70226" crc="092620c9" />
     <rom name="Teenage Mutant Ninja Turtles - Tournament Fighters (Japan) [Color hack by Fusaru v1.00].md" size="2097152" sha1="65f25d5b5e8b2bc24be79536958c7953bce547fa" crc="15a3a042" />
     <rom name="Teenage Mutant Ninja Turtles - Tournament Fighters (USA) [Color hack by Fusaru v1.00].md" size="2097152" sha1="147288ba8ef11cb01503f5d2ef5ee50ba11fbac9" crc="f2563dd0" />
@@ -15180,14 +15180,14 @@
   <game name="01 - Games/Thunder Force III/~Prototypes and Betas">
     <rom name="Thunder Force III (Japan, USA) (En) (Rev 1) (Beta).md" size="524288" sha1="5debc42ff0355e6ade7cf30f778b6a5c682fea7f" crc="2b5c2063" />
   </game>
-  <game name="01 - Games/Thunder Force IV">
+  <game name="01 - Games/Lightening Force - Quest for the Darkstar">
     <rom name="Lightening Force - Quest for the Darkstar (USA) (Sega Ages).md" size="1572864" sha1="9a2dbae344a9f0cf161c211fa1edc52abc5e5915" crc="ca90ff51" />
     <rom name="Lightening Force - Quest for the Darkstar (USA).md" size="1048576" sha1="ab5bd9ddbfc07d860f44b9c72d098aef2581d1d8" crc="c8f8c0e0" />
     <rom name="Thunder Force IV (Europe).md" size="1048576" sha1="ecbc2bfc4f3d8bbd46b398274ed2f5cc3db68454" crc="e7e3c05b" />
     <rom name="Thunder Force IV (Japan) (En) (Sega Ages).md" size="1572864" sha1="5ad43f7920ec34ee338175f05a00193cdc89cb33" crc="311d9d4a" />
     <rom name="Thunder Force IV (Japan) (En).md" size="1048576" sha1="44be21dead3b55f21762a7c5cf640eec0a1769d9" crc="8d606480" />
   </game>
-  <game name="01 - Games/Thunder Force IV/~Hacks/Thunder Force IV (Japan) (En) (Sega Ages) [MD+ hack by ArcadeTV v20230403] [OST [MD+ Arranged by Relikk v20230406]]">
+  <game name="01 - Games/Lightening Force - Quest for the Darkstar/~Hacks/Thunder Force IV (Japan) (En) (Sega Ages) [MD+ hack by ArcadeTV v20230403] [OST [MD+ Arranged by Relikk v20230406]]">
     <rom name="01-FightingBack_Stage1A.wav" size="29238260" sha1="37b562f98842a2b28e57b1b0d565426eb756d449" crc="46fba46d" />
     <rom name="02-SpaceWalk_Stage2A.wav" size="15491292" sha1="00c514d3c1a597f2174b17d9b0564534553ae1ba" crc="9631e52b" />
     <rom name="03-TheSkyLine_Stage3A.wav" size="13184724" sha1="31f23c11a0b6573809c8b02b14ca7a552e30f379" crc="e799769d" />
@@ -15242,7 +15242,7 @@
     <rom name="Thunder Force IV (Japan) (En) (Sega Ages) (MD+).cue" size="5013" sha1="9bac0ed548d610b891cc7609e1af3aedefd74dc2" crc="a4f3d512" />
     <rom name="Thunder Force IV (Japan) (En) (Sega Ages) (MD+).md" size="2097152" sha1="e4d3417f82f1177eeb5d41cc783fd6bae27c6f60" crc="0712ba91" />
   </game>
-  <game name="01 - Games/Thunder Force IV/~Prototypes and Betas">
+  <game name="01 - Games/Lightening Force - Quest for the Darkstar/~Prototypes and Betas">
     <rom name="Thunder Force IV (Japan) (En) (Beta).md" size="1048576" sha1="a0635dec67d04dda47dd7e5bce5fade09ffb373a" crc="24045d0b" />
   </game>
   <game name="01 - Games/Thunder Fox">
@@ -16319,13 +16319,13 @@
     <rom name="WildSnake (USA) (Proto 1).md" size="524288" sha1="dfeb048e2193ee54640477ddda814c8568250f3b" crc="8db0937e" />
     <rom name="WildSnake (USA) (Proto 2).md" size="524288" sha1="68241498209c5e1f09ca335aee1b0f55ce19ff6e" crc="0c1a49e5" />
   </game>
-  <game name="01 - Games/Wimbledon">
+  <game name="01 - Games/Wimbledon Championship Tennis">
     <rom name="Sega Sports 1 (Europe).md" size="2621440" sha1="ff03bb2aced48c82de0ddfb048b114ec84daf16a" crc="07fedaf1" />
     <rom name="Wimbledon (Europe).md" size="1048576" sha1="6b7d8aa9d4b9d10c26dc079ab78e11766982cef2" crc="b791a435" />
     <rom name="Wimbledon Championship Tennis (Japan) (En).md" size="1048576" sha1="73a6dad0bedc5552459e8a74a9b8ae242ad5a78e" crc="3e0c9daf" />
     <rom name="Wimbledon Championship Tennis (USA).md" size="1048576" sha1="db9083fd257d7cb718a010bdc525980f254e2c66" crc="f9142aee" />
   </game>
-  <game name="01 - Games/Wimbledon/~Prototypes and Betas">
+  <game name="01 - Games/Wimbledon Championship Tennis/~Prototypes and Betas">
     <rom name="Wimbledon Championship Tennis (USA) (Beta).md" size="1048576" sha1="402bdc507647d861ee7bb80599f528d3d5aeaf0f" crc="9febc760" />
   </game>
   <game name="01 - Games/Windjammers/~Prototypes and Betas">
@@ -16340,7 +16340,7 @@
   <game name="01 - Games/Winter Challenge/~Pirate">
     <rom name="Winter Challenger (China) (En) (Pirate).md" size="1048576" sha1="5b50a6b10fac3ab30d3f35dd184095f939667a0c" crc="85189825" />
   </game>
-  <game name="01 - Games/Winter Olympics">
+  <game name="01 - Games/Winter Olympic Games">
     <rom name="Winter Olympic Games (USA) (En,Fr,De,Es,It,Pt,Sv,No).md" size="2097152" sha1="da5a2a0c1a0a6b7b29492f8845eca1167158ebea" crc="c5834437" />
     <rom name="Winter Olympics (Europe) (En,Fr,De,Es,It,Pt,Sv,No).md" size="2097152" sha1="84528efaf0729637167774d59a00694deadd5d6d" crc="fa537a45" />
     <rom name="Winter Olympics (Japan) (En,Fr,De,Es,It,Pt,Sv,No).md" size="2097152" sha1="aa2fc21eaa833640eaf882d66ca6ceb4f8adabcf" crc="654a4684" />
@@ -16351,7 +16351,7 @@
   <game name="01 - Games/Witch n' Wiz/~Prototypes and Betas">
     <rom name="Witch n' Wiz (World) (Proto) (Aftermarket) (Unl).md" size="393216" sha1="5dda7a37dd3b5b88e0bc51117f73952e0948eadd" crc="1cc4bd0a" />
   </game>
-  <game name="01 - Games/Wiz 'n' Liz - The Frantic Wabbit Wescue">
+  <game name="01 - Games/Wiz 'N' Liz">
     <rom name="Wiz 'N' Liz (USA).md" size="1048576" sha1="1cbd0f820aaf35dd6328a865ecc4b9eedc740807" crc="df036b62" />
     <rom name="Wiz 'n' Liz - The Frantic Wabbit Wescue (Europe).md" size="1048576" sha1="2e7a1724a72e89a3f9a66720d9a7c6f293263798" crc="f09353b4" />
   </game>
@@ -16397,11 +16397,11 @@
     <rom name="World Championship Soccer II (USA) (Beta 8).md" size="1048576" sha1="7b2654e7828989cc776b2645d635271d951f671f" crc="71fa89cc" />
     <rom name="World Championship Soccer II (USA) (Beta 9).md" size="1048576" sha1="8e706299b04efc4b0e5e0b9b693c816cb8ccda72" crc="94625572" />
   </game>
-  <game name="01 - Games/World Class Leader Board">
+  <game name="01 - Games/World Class Leaderboard Golf">
     <rom name="World Class Leader Board (Europe).md" size="524288" sha1="c307a731763c7f858ef27058b4f46017868749d6" crc="daca01c3" />
     <rom name="World Class Leaderboard Golf (USA).md" size="524288" sha1="db53b7c661392b8558d0eb1f1dd51c8a0a17fa4e" crc="53434bab" />
   </game>
-  <game name="01 - Games/World Cup Italia '90">
+  <game name="01 - Games/World Championship Soccer">
     <rom name="Mega Games I (USA, Europe).md" size="1048576" sha1="076df34a01094ce0893f32600e24323567e2a23b" crc="db753224" />
     <rom name="Sega Top Five (Brazil) (En).md" size="2097152" sha1="b13ba8e49fb9e8b41835e3d4af86ad25f27c804c" crc="61069069" />
     <rom name="World Championship Soccer (Japan, USA) (En) (Rev A).md" size="262144" sha1="ef8c106acad9c3b4a5db2cd0d311762491d28392" crc="bf84ede6" />
@@ -16965,12 +16965,12 @@
   <game name="01 - Games/Zombie High/~Prototypes and Betas">
     <rom name="Zombie High (USA) (Proto).md" size="1024239" sha1="56f1a0b616e178315bdb9f2e43ddc942dcf3780e" crc="7bea6194" />
   </game>
-  <game name="01 - Games/Zombies">
+  <game name="01 - Games/Zombies Ate My Neighbors">
     <rom name="Zombies (Europe).md" size="1048576" sha1="f0b447196d648b282050a52bdfdd9bf0d8f3d57e" crc="179a1aa2" />
     <rom name="Zombies Ate My Neighbors (USA) (Limited Run Games).md" size="1048576" sha1="62bc26db0df31eab4938aa86162be2c55aeb6970" crc="583db890" />
     <rom name="Zombies Ate My Neighbors (USA).md" size="1048576" sha1="57090434ee3ffb060b33a1dcce91d1108bf60c47" crc="2bf3626f" />
   </game>
-  <game name="01 - Games/Zombies/~Hacks/Zombies Ate My Neighbors (USA) [MD+ hack by ArcadeTV v20230413] [OST [MD+ Arranged by Relikk v20230414]]">
+  <game name="01 - Games/Zombies Ate My Neighbors/~Hacks/Zombies Ate My Neighbors (USA) [MD+ hack by ArcadeTV v20230413] [OST [MD+ Arranged by Relikk v20230414]]">
     <rom name="01-KonamiLogo.wav" size="713680" sha1="4724351534feccd2506d0b734c20e210e81e5aed" crc="96c7c86c" />
     <rom name="02-WeirdKidsOnTheBlock.wav" size="20466668" sha1="234669f87b6ea57dc45a14b7e4add050dac3a271" crc="967b482b" />
     <rom name="03-ZombiePanic.wav" size="16986300" sha1="6580321a995bdf5f19e0d43af371f6c80e101fc9" crc="d6139f16" />

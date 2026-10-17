@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>VECTREX</name>
-    <version>2026-10-16</version>
+    <version>2026-10-17</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/3D Crazy Coaster">
@@ -95,7 +95,7 @@
   <game name="01 - Games/Star Castle">
     <rom name="Star Castle (USA).vec" size="4096" sha1="c9b79f1ba30dcbce5a068b606a97775cf863fe0a" crc="c9039623" />
   </game>
-  <game name="01 - Games/Star Ship">
+  <game name="01 - Games/Star Trek - The Motion Picture">
     <rom name="Star Ship (Europe) (1982).vec" size="4096" sha1="d182eac5a54ffc642fcbe4a495c7c09f87b43585" crc="7967a8cb" />
     <rom name="Star Ship (Europe) (1983).vec" size="4096" sha1="e98b0f2611cd167d8b279e5090fb2517a19d781c" crc="189012e0" />
     <rom name="Star Trek - The Motion Picture (USA).vec" size="4096" sha1="3a2ee61316fb316d9e9efdf5ee405e813475b466" crc="3768d8c3" />

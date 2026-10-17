@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>GBC</name>
-    <version>2026-10-16</version>
+    <version>2026-10-17</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/007 - The World Is Not Enough">
@@ -84,7 +84,7 @@
   <game name="01 - Games/40 Winks/~Prototypes and Betas">
     <rom name="40 Winks (Europe) (En,Fr,De,Es,It) (Proto).gbc" size="1048576" sha1="3e704498d35a1d3cb965222e8799cf80be24ea4d" crc="9b20c473" />
   </game>
-  <game name="01 - Games/4x4 World Trophy">
+  <game name="01 - Games/Test Drive Off-Road 3">
     <rom name="4x4 World Trophy (Europe) (En,Fr,De,Es,It) (GB Compatible).gbc" size="1048576" sha1="369e359d1b9a80fdda756411a395594b3d955100" crc="f62ad75e" />
     <rom name="Test Drive Off-Road 3 (USA) (Rumble Version) (SGB Enhanced) (GB Compatible).gbc" size="1048576" sha1="71b425cbc02fa20b1f28a7612e7ac259bd1338b0" crc="0fdd5b9e" />
   </game>
@@ -130,7 +130,7 @@
   <game name="01 - Games/Action Man - Search for Base X">
     <rom name="Action Man - Search for Base X (USA, Europe).gbc" size="1048576" sha1="4b62b0344b8fed07ceb967f9a9c45bbeed3dc592" crc="1226499e" />
   </game>
-  <game name="01 - Games/Action Replay Online">
+  <game name="01 - Games/GameShark Online">
     <rom name="Action Replay Online (Europe) (Unl).gbc" size="131072" sha1="fa441c5e376b54b3503596fe8177b3a9ad79a9a8" crc="04c8c858" />
     <rom name="GameShark Online (USA) (Unl).gbc" size="81920" sha1="22f00e604acb827a48d4c9e109ba622f59a9d0a9" crc="c37d21d9" />
   </game>
@@ -267,7 +267,7 @@
   <game name="01 - Games/Armada - FX Racers">
     <rom name="Armada - FX Racers (USA).gbc" size="1048576" sha1="b8f911e6d6dc37b9bbfd565f6919a94f17bf3073" crc="d952cbab" />
   </game>
-  <game name="01 - Games/Armorines - Project S.W.A.R.M">
+  <game name="01 - Games/Armorines - Project S.W.A.R.M.">
     <rom name="Armorines - Project S.W.A.R.M. (USA, Europe) (En,De).gbc" size="1048576" sha1="2be58ee1a3a76d1259a044c6c7c9dcd6dacf8405" crc="ea3b9c73" />
   </game>
   <game name="01 - Games/Army Men - Air Combat">
@@ -438,7 +438,7 @@
     <rom name="Batman - Chaos in Gotham (Europe) (En,Fr,De,Es,It,Nl).gbc" size="1048576" sha1="dbc6c729dde21abf324e2a055d819f088e696c0c" crc="e025067b" />
     <rom name="Batman - Chaos in Gotham (USA).gbc" size="1048576" sha1="de2d6a53316011b60fbc9a946f510effe42ede5e" crc="b241a4f3" />
   </game>
-  <game name="01 - Games/Batman of the Future - Return of the Joker">
+  <game name="01 - Games/Batman Beyond - Return of the Joker">
     <rom name="Batman Beyond - Return of the Joker (Japan) (NP).gbc" size="1048576" sha1="47c8a56fa67d4982ed36fca56ef0f33c451a0c49" crc="b8b1f8f8" />
     <rom name="Batman Beyond - Return of the Joker (USA).gbc" size="1048576" sha1="8c69eb7ec5bc809edc8caa255576f919ea722dad" crc="b32f4586" />
     <rom name="Batman of the Future - Return of the Joker (Europe) (En,Fr,De).gbc" size="1048576" sha1="102aa62c873b7316b1b019d895989dcdedb776a9" crc="f9d5b399" />
@@ -460,11 +460,11 @@
   <game name="01 - Games/Battleship">
     <rom name="Battleship (USA, Europe) (GB Compatible).gbc" size="1048576" sha1="48a6cc9c5695378a118deb6b1035c15a26d476d7" crc="8e6f8037" />
   </game>
-  <game name="01 - Games/Beach'n Ball">
+  <game name="01 - Games/Power Spike - Pro Beach Volleyball">
     <rom name="Beach'n Ball (Europe) (En,Fr,De,Es,It).gbc" size="1048576" sha1="90c0ab55136235d75a4e35bd5b0d90a99d2a42c4" crc="82d1a721" />
     <rom name="Power Spike - Pro Beach Volleyball (USA).gbc" size="1048576" sha1="cbf7377e2dfea331f983b34486ab7761ac75e3ac" crc="ae57d1c3" />
   </game>
-  <game name="01 - Games/Beach'n Ball/~Prototypes and Betas">
+  <game name="01 - Games/Power Spike - Pro Beach Volleyball/~Prototypes and Betas">
     <rom name="Beach'n Ball (Europe) (En,Fr,De,Es,It) (Beta) (2000-11-21).gbc" size="1048576" sha1="faaf82512ad3f5429acf401d9e74d7016252e263" crc="a56180a8" />
   </game>
   <game name="01 - Games/Beast Fighter">
@@ -672,7 +672,7 @@
     <rom name="Bug's Life, A (USA) (SGB Enhanced) (GB Compatible).gbc" size="1048576" sha1="4c689ce3b99a5b585a452b095d72a688391ea0eb" crc="8360047a" />
     <rom name="Bug's Life, A (USA) (Toy Story Retro Roundup!) (SGB Enhanced) (GB Compatible).gbc" size="1048576" sha1="9c5064f50bc9bc7b4ed65bbdd1dfdade5091842b" crc="0da16009" />
   </game>
-  <game name="01 - Games/Bugs Bunny &amp; Lola Bunny - Operation Carrot Patch">
+  <game name="01 - Games/Looney Tunes - Carrot Crazy">
     <rom name="Bugs Bunny &amp; Lola Bunny - Operation Carrot Patch (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible).gbc" size="1048576" sha1="ba004fac4524b82fd74a9037a37734d0aba07e50" crc="f0cc407f" />
     <rom name="Looney Tunes - Carrot Crazy (USA) (En,Fr,Es) (GB Compatible).gbc" size="1048576" sha1="4d8fa4d930f7f2ba7d674eed1c5a284f20c434ca" crc="11fb5617" />
   </game>
@@ -983,7 +983,7 @@
     <rom name="Cool Bricks (Europe) (Beta) (1999-03-24).gbc" size="32768" sha1="784fffacd2ce97c7a91971d8522e01fe5596de0f" crc="9754006e" />
     <rom name="Cool Bricks (Europe) (Beta) (1999-05-10).gbc" size="131072" sha1="17d58a23a911813866923773a17cc92a142ae950" crc="59d4a387" />
   </game>
-  <game name="01 - Games/Cool Hand">
+  <game name="01 - Games/Las Vegas Cool Hand">
     <rom name="Cool Hand (Europe) (En,Fr,De) (GB Compatible).gbc" size="524288" sha1="d116a77c501d5e553d1490993f8c0a9a92c3ea0c" crc="e6c91fb8" />
     <rom name="Las Vegas Cool Hand (USA) (GB Compatible).gbc" size="524288" sha1="c7423c03e5976f85de361fe1b83dfee11e75a60f" crc="bef1cde4" />
   </game>
@@ -994,7 +994,7 @@
     <rom name="Cosmo Knight ZiON (World) (En,Es) (v4.06) (Aftermarket) (Unl).gbc" size="4194304" sha1="1c20c404ddd1199795ca4c730312aca851b49ae8" crc="1e7b3929" />
     <rom name="Cosmo Knight ZiON (World) (En,Es) (v4.06) (FlashCart Compatible) (Aftermarket) (Unl).gbc" size="4194304" sha1="67b00931d3637676e6896cc278b0bc1336c7e273" crc="80e831ab" />
   </game>
-  <game name="01 - Games/Crazy Bikers">
+  <game name="01 - Games/Motocross Maniacs 2">
     <rom name="Crazy Bikers (Europe).gbc" size="1048576" sha1="c625608b5165e971827af8434e72d8ca8d200ab8" crc="53e02b87" />
     <rom name="Motocross Maniacs 2 (USA).gbc" size="1048576" sha1="5a0e7a9a71a88ee79529531274eb3696cf0fa42c" crc="17d27fa9" />
   </game>
@@ -1019,7 +1019,7 @@
     <rom name="Croc (USA, Europe) (Beta 1).gbc" size="1048576" sha1="28efcac92d708fcffcdcf7524ca4ab12773fa26f" crc="fc3db421" />
     <rom name="Croc (USA, Europe) (Beta 2).gbc" size="1048576" sha1="aed10fb27112d5364660e18d444d6173b6c2f3bc" crc="1975c599" />
   </game>
-  <game name="01 - Games/Cross Country Racing">
+  <game name="01 - Games/International Rally">
     <rom name="Cross Country Racing (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible).gbc" size="1048576" sha1="67bcac922b14a6fde311ca693f297248ceebbea6" crc="b7b91fe9" />
     <rom name="International Rally (USA) (SGB Enhanced) (GB Compatible).gbc" size="1048576" sha1="ac09080efb22ed401ddc827045e72ab054da1763" crc="b85fd752" />
     <rom name="It's a World Rally (Japan) (SGB Enhanced) (GB Compatible).gbc" size="1048576" sha1="31a289823468285ac786afe7de38201235983e35" crc="39e34650" />
@@ -1158,7 +1158,7 @@
     <rom name="Days Without (World) (Aftermarket) (Unl).gbc" size="262144" sha1="cb21c1bca18d750ecde91dc3adb6b599c2ad75fa" crc="437b4921" />
     <rom name="Days Without (World) (Multiple Endings) (Aftermarket) (Unl).gbc" size="262144" sha1="8992f14f02bd37e11cb05511c17fff3d253ccf25" crc="57ca8f69" />
   </game>
-  <game name="01 - Games/Deadly Skies">
+  <game name="01 - Games/AirForce Delta">
     <rom name="AirForce Delta (Japan).gbc" size="1048576" sha1="593df751cc6b1a7af7f50a9c9cfcedf8287384dc" crc="5dfff5e2" />
     <rom name="AirForce Delta (USA).gbc" size="1048576" sha1="82530325b940e14edea459879289b4dce1818066" crc="ff31cc92" />
     <rom name="Deadly Skies (Europe) (En,Fr,De).gbc" size="1048576" sha1="aa9118da41e7d29385352f29593aed8c016329d1" crc="402de378" />
@@ -1246,7 +1246,7 @@
     <rom name="Dicee! (World) (v1.1) (GB Compatible) (Aftermarket) (Unl).gbc" size="262144" sha1="27e7a34d44640162a4aec02e28b93d295d78180b" crc="08b37ad8" />
     <rom name="Dicee! (World) (v1.4) (GB Compatible) (Aftermarket) (Unl).gbc" size="524288" sha1="6911854fe18000b0fe6015863240d0664d914547" crc="b7f0a85f" />
   </game>
-  <game name="01 - Games/Digimon 02 4">
+  <game name="01 - Games/Shuma Baolong 02 4">
     <rom name="Digimon 02 4 (Taiwan) (En) (Unl).gbc" size="1048576" sha1="0c8280e5349dda05fdd27bb1eb68a1be2f3d5c04" crc="a90061e9" />
     <rom name="Shuma Baolong 02 4 (China) (Unl).gbc" size="1048576" sha1="5c5d1675188a5f618f9babf2b3848942ce08c659" crc="6f67dfc6" />
     <rom name="Shuma Baolong 02 4 (Taiwan) (Unl).gbc" size="1048576" sha1="839f0880749735ba2113e437f8efede171b7474d" crc="2ee18ab2" />
@@ -1299,7 +1299,7 @@
     <rom name="Disco Elysium - Game Boy Edition (World) (Music) (GB Compatible) (Aftermarket) (Unl).gbc" size="1048576" sha1="06fe25086432c82f1e4b4c44473dd5b487a8af05" crc="ef349515" />
     <rom name="Disco Elysium - Game Boy Edition (World) (No Music) (GB Compatible) (Aftermarket) (Unl).gbc" size="1048576" sha1="8bc16b70838f9245b7e37c6dbe57159b294fbf81" crc="7c0f52cc" />
   </game>
-  <game name="01 - Games/Diva Starz">
+  <game name="01 - Games/Diva Starz - Mall Mania">
     <rom name="Diva Starz (Europe).gbc" size="1048576" sha1="9ae754470a116555373a47eae0fe611160219925" crc="4476e79f" />
     <rom name="Diva Starz (France).gbc" size="1048576" sha1="fcbfbef077feec07f93b867de5b537f45812d5a4" crc="fc1b36d1" />
     <rom name="Diva Starz (Germany).gbc" size="1048576" sha1="286d16d697caa2dfc1ebcad88a9633dd45c20e67" crc="56095f86" />
@@ -1335,7 +1335,7 @@
     <rom name="Don't Forget About Me (World) (v1.1) (GB Compatible) (Aftermarket) (Unl).gbc" size="1048576" sha1="cf6eaac37c4ae1b3cfc4ed8d2ce73a143635b525" crc="8ca9dbe0" />
     <rom name="Don't Forget About Me (World) (v1.2) (GB Compatible) (Aftermarket) (Unl).gbc" size="1048576" sha1="83201c43e9fc89f4393678ade8c6107b4cfdb628" crc="3d87efd8" />
   </game>
-  <game name="01 - Games/Donald Duck - Quack Attack">
+  <game name="01 - Games/Donald Duck - Goin' Quackers">
     <rom name="Donald Duck - Daisy o Sukue! (Japan).gbc" size="4194304" sha1="46ecfe890cb225563bcd45f8607962840b5fd587" crc="333c124c" />
     <rom name="Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It).gbc" size="4194304" sha1="f2fa670fd20485b3bc1875dc8d31fb40374942bd" crc="4685909b" />
     <rom name="Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It).gbc" size="4194304" sha1="946e473ad7f363295f2c4bb488618f2325f51004" crc="07a13b5b" />
@@ -1516,11 +1516,11 @@
     <rom name="Dream Shark - Part 1 (World) (Beta 2) (GB Compatible) (Aftermarket) (Unl).gbc" size="4194304" sha1="9d11b4c12622961b7aa03d0c2d9ab57de4b4c541" crc="ea6c4527" />
     <rom name="Dream Shark - Part 1 (World) (Beta) (GB Compatible) (Aftermarket) (Unl).gbc" size="4194304" sha1="82e79891bd436e7c23f9c9a2ff2626f7bef37e5b" crc="581ac3d3" />
   </game>
-  <game name="01 - Games/Driver">
+  <game name="01 - Games/Driver - You Are the Wheelman">
     <rom name="Driver (Europe) (En,Fr,De,Es,It).gbc" size="1048576" sha1="5001f0f4904ca4fb6ab287b52136d00ac94b49d7" crc="e9e67403" />
     <rom name="Driver - You Are the Wheelman (USA) (En,Fr,De,Es,It).gbc" size="1048576" sha1="9add1e67f39f900f2c004e4d8bbd1fec368eef4c" crc="d4c7f6df" />
   </game>
-  <game name="01 - Games/Driver/~Prototypes and Betas">
+  <game name="01 - Games/Driver - You Are the Wheelman/~Prototypes and Betas">
     <rom name="Driver (Europe) (En,Fr,De,Es,It) (Beta).gbc" size="1048576" sha1="07e25b8c7569e064d060258981814a151202edbb" crc="33e9d438" />
   </game>
   <game name="01 - Games/Dropzone">
@@ -1625,7 +1625,7 @@
   <game name="01 - Games/Escape from Vostok/~Prototypes and Betas">
     <rom name="Escape from Vostok (World) (Proto) (GB Compatible) (Aftermarket) (Unl).gbc" size="262144" sha1="6bb0ddd2b05d0ae6c7d2538f68f4b587901c29fd" crc="5d19bbcb" />
   </game>
-  <game name="01 - Games/European Super League">
+  <game name="01 - Games/Mia Hamm Soccer Shootout">
     <rom name="European Super League (Europe) (En,Fr,De,Es,It).gbc" size="1048576" sha1="2b403fc1c01aa82645960df4fe7e93801ef735a3" crc="5a0b7c72" />
     <rom name="Mia Hamm Soccer Shootout (USA).gbc" size="1048576" sha1="82e7c25bdee895a6dfdc01ad3e94138bf7b98e59" crc="d77971c0" />
   </game>
@@ -1782,7 +1782,7 @@
   <game name="01 - Games/Fix &amp; Foxi - Episode 1 - Lupo">
     <rom name="Fix &amp; Foxi - Episode 1 - Lupo (Europe) (En,Fr,De).gbc" size="1048576" sha1="6d14bf255eb042e7185da32137f679f4e2c24ce5" crc="5dfc61e8" />
   </game>
-  <game name="01 - Games/Fix It Felix Jr">
+  <game name="01 - Games/Fix It Felix Jr.">
     <rom name="Fix It Felix Jr. (World) (GB Compatible) (Aftermarket) (Unl).gbc" size="131072" sha1="7221f5e53f6027183301d06e258c6cb417007b8c" crc="c8014615" />
   </game>
   <game name="01 - Games/Fix My Heart">
@@ -1842,7 +1842,7 @@
     <rom name="Fortune &amp; Glory - Episode 3 (World) (Aftermarket) (Unl).gbc" size="4194304" sha1="59ec14bafd6ce2212857fc48ed72edaf9de7b8bc" crc="489acab0" />
     <rom name="Fortune &amp; Glory - Episode 3 (World) (Playtiles) (Aftermarket) (Unl).gbc" size="4194304" sha1="e4eed1a44d58bbd193d98e57fb5424f99df74815" crc="f6b489a2" />
   </game>
-  <game name="01 - Games/Freestyle Scooter">
+  <game name="01 - Games/Razor Freestyle Scooter">
     <rom name="Freestyle Scooter (Europe).gbc" size="1048576" sha1="cf6ae174584bbfb5ae30478841114443adc00245" crc="ee79117d" />
     <rom name="Razor Freestyle Scooter (USA).gbc" size="1048576" sha1="9360aa3e7062399527686ed55b06faeaa388178c" crc="5c201286" />
   </game>
@@ -1911,11 +1911,11 @@
   <game name="01 - Games/G-ZERO World GP">
     <rom name="G-ZERO World GP (World) (Aftermarket) (Unl).gbc" size="262144" sha1="0407a3fc4c8c6711cde8fe9d07860dc3ef075f5e" crc="2f813033" />
   </game>
-  <game name="01 - Games/G.B Corp">
+  <game name="01 - Games/G.B Corp.">
     <rom name="G.B Corp. (World) (v2.0) (GB Compatible) (Aftermarket) (Unl).gbc" size="32768" sha1="ad741a1b512d3088f1d0b2b1767effb8e2fe0273" crc="06b6c66b" />
     <rom name="G.B Corp. (World) (v2.0) (No Link Cable) (GB Compatible) (Aftermarket) (Unl).gbc" size="32768" sha1="5063ebf1d49cdaaf47c2d50e29b896ed2205c878" crc="9d2b4f74" />
   </game>
-  <game name="01 - Games/G.B Corp/~Prototypes and Betas">
+  <game name="01 - Games/G.B Corp./~Prototypes and Betas">
     <rom name="G.B Corp. (World) (Beta) (GB Compatible) (Aftermarket) (Unl).gbc" size="32768" sha1="e442316132506ff223a9e5f33d874b71ec09d71a" crc="fd2e40f4" />
   </game>
   <game name="01 - Games/GB Harobots">
@@ -2089,7 +2089,7 @@
   <game name="01 - Games/Gamer Boy Mission">
     <rom name="Gamer Boy Mission (World) (GB Compatible) (Aftermarket) (Unl).gbc" size="524288" sha1="90fad94433a5b0dbcf73f4a2d4ebb75d7ab065c4" crc="96721e5d" />
   </game>
-  <game name="01 - Games/Games Frenzy">
+  <game name="01 - Games/Gobs of Games">
     <rom name="Games Frenzy (Europe) (En,Fr,De).gbc" size="1048576" sha1="fd3c38d61b723e12614fa5e0b809d083827b9ae5" crc="308a4ccb" />
     <rom name="Gobs of Games (USA) (En,Fr,De).gbc" size="1048576" sha1="89695361ccbca372662f6634678a40ea676076a7" crc="2e61c391" />
   </game>
@@ -2147,7 +2147,7 @@
   <game name="01 - Games/Gex - Enter the Gecko">
     <rom name="Gex - Enter the Gecko (USA, Europe) (GB Compatible).gbc" size="1048576" sha1="a05a530b3272634c8d3fedb6fd6eaf8b00b5cf9c" crc="dccc7514" />
   </game>
-  <game name="01 - Games/Gex 3 - Deep Cover Gecko">
+  <game name="01 - Games/Gex 3 - Deep Pocket Gecko">
     <rom name="Gex 3 - Deep Cover Gecko (Europe) (En,Fr,De,Es,It).gbc" size="2097152" sha1="176ec4347ce08b15214e68fcec39c9c4c57ad773" crc="025f305d" />
     <rom name="Gex 3 - Deep Pocket Gecko (USA).gbc" size="2097152" sha1="0da71536a3e92dd537c7067ec1014a262dbc3837" crc="85a98c7d" />
   </game>
@@ -2458,7 +2458,7 @@
     <rom name="Bokujou Monogatari 3 GB - Boy Meets Girl (Japan).gbc" size="2097152" sha1="e7fceb85a78c78403711521fe5fc8f86260425d0" crc="3a18b41f" />
     <rom name="Harvest Moon 3 GBC (USA).gbc" size="2097152" sha1="5313c62c51b9b5417f764fe67b687f403f9765bb" crc="a0d67417" />
   </game>
-  <game name="01 - Games/Harvest Moon GB">
+  <game name="01 - Games/Harvest Moon GBC">
     <rom name="Harvest Moon GB (Europe) (SGB Enhanced) (GB Compatible).gbc" size="1048576" sha1="ea464cb16446855ed60cf714ca5b3ded02d82b1e" crc="c8a6f68a" />
     <rom name="Harvest Moon GB (Germany) (SGB Enhanced) (GB Compatible).gbc" size="1048576" sha1="22e06880afe664051498714b3edb2e18f26f7961" crc="d3896652" />
     <rom name="Harvest Moon GBC (USA) (SGB Enhanced) (GB Compatible).gbc" size="1048576" sha1="d407b9c20c5381f46ec460858539a5b6f559e04f" crc="ab5738a1" />
@@ -2561,7 +2561,7 @@
     <rom name="Hollywood Pinball (Europe) (En,Fr,De,It) (GB Compatible).gbc" size="1048576" sha1="2d179e034dbd19e48aee31ffdc504305444cc84a" crc="8bd1f635" />
     <rom name="Hollywood Pinball (Japan) (GB Compatible).gbc" size="1048576" sha1="ff77ec892f2331e895774555183fb1cffb88ca6e" crc="77d7e5b7" />
   </game>
-  <game name="01 - Games/Holy Magic Century">
+  <game name="01 - Games/Quest - Fantasy Challenge">
     <rom name="Holy Magic Century (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible).gbc" size="1048576" sha1="01ad2928e923c415671e6306d6d73016a1ca7bb9" crc="abd8ceae" />
     <rom name="Quest - Fantasy Challenge (USA) (SGB Enhanced) (GB Compatible).gbc" size="1048576" sha1="86812b2cd4304dc7ee2dd3faf16737b0414aaffb" crc="98285775" />
   </game>
@@ -2686,7 +2686,7 @@
     <rom name="International Superstar Soccer 99 (USA) (SGB Enhanced) (GB Compatible).gbc" size="1048576" sha1="6f491e6f919a677627090f949b8e69abb8bfd1db" crc="9d0290a7" />
     <rom name="World Soccer GB 2 (Japan) (SGB Enhanced) (GB Compatible).gbc" size="1048576" sha1="b58c969510aab4930a1846d857f58d57ed342592" crc="dd18db5f" />
   </game>
-  <game name="01 - Games/International Track &amp; Field - Summer Games">
+  <game name="01 - Games/ESPN International Track &amp; Field">
     <rom name="ESPN International Track &amp; Field (USA).gbc" size="1048576" sha1="397d76c85859d0fa9b58b49f7eae16f76ad45a17" crc="4005d541" />
     <rom name="Ganbare! Nippon! Olympic 2000 (Japan).gbc" size="1048576" sha1="5abaac9c4cb3d06e20fcb4c9985a6c4b52e62871" crc="ffd919a7" />
     <rom name="International Track &amp; Field - Summer Games (Europe).gbc" size="1048576" sha1="53e158cb23fa79026345dae775d9f020218f8bb2" crc="d826c75f" />
@@ -3013,7 +3013,7 @@
   <game name="01 - Games/Konami GB Collection Vol.4">
     <rom name="Konami GB Collection Vol.4 (Europe) (GB Compatible).gbc" size="1048576" sha1="4c0c9e9cba36bfe5588e2a2dc799d207afd1321e" crc="8800f1c9" />
   </game>
-  <game name="01 - Games/Konami Winter Games">
+  <game name="01 - Games/Millennium Winter Sports">
     <rom name="Hyper Olympic - Winter 2000 (Japan).gbc" size="1048576" sha1="b8b0ea6e8a1093e7171ffe0eff73967a6cc00bce" crc="a9b8f072" />
     <rom name="Konami Winter Games (Europe).gbc" size="1048576" sha1="2b51f52560226dec0467e5bf4897cd12e8453888" crc="1c644040" />
     <rom name="Millennium Winter Sports (USA).gbc" size="1048576" sha1="f47321c3c1217467dc48240bf53b50ed9630b28a" crc="b57dabae" />
@@ -3086,7 +3086,7 @@
     <rom name="Layover Hit, The - Assassin's Run (World) (Aftermarket) (Unl).gbc" size="1048576" sha1="2f5fb6f9eddfaeb75f01c1f804e09c521b76a2ba" crc="1f6b229f" />
     <rom name="Layover Hit, The - Assassin's Run (World) (Rev 1) (Aftermarket) (Unl).gbc" size="1048576" sha1="81ee6f4b43b46f313513db9ed41e9f58853d4e94" crc="0bf59190" />
   </game>
-  <game name="01 - Games/Le Mans 24 Hours">
+  <game name="01 - Games/Test Drive Le Mans">
     <rom name="Le Mans 24 Hours (Europe) (En,Fr,De,Es,It).gbc" size="1048576" sha1="cb4847cd63c8cc52f04bf4d86d54954be3d8fc1a" crc="1b49d07d" />
     <rom name="Test Drive Le Mans (USA) (En,Fr,Es).gbc" size="1048576" sha1="bf007bf9c22633d67b7b46aef656d136dd2d9b25" crc="e6d6ac8f" />
   </game>
@@ -3163,7 +3163,7 @@
   <game name="01 - Games/Legend of the River King 2/~Prototypes and Betas">
     <rom name="Kawa no Nushi Tsuri 4 (Japan) (Rev 1) (Possible Proto) (Rumble Version) (SGB Enhanced, GB Compatible) (NP).gbc" size="1048576" sha1="69e56fd73eb365dba87713c2a3ea2e74bd63f63c" crc="456d4dfc" />
   </game>
-  <game name="01 - Games/Legend of the River King GB">
+  <game name="01 - Games/Legend of the River King GBC">
     <rom name="Legend of the River King GB (Europe) (SGB Enhanced) (GB Compatible).gbc" size="1048576" sha1="31a5a32625532ded19d6eccfc283c4f049ae31b5" crc="87ef9530" />
     <rom name="Legend of the River King GB (Germany) (SGB Enhanced) (GB Compatible).gbc" size="1048576" sha1="e0e0522ba283df632adbf2fe6f9aba85e1a7efec" crc="1241f3f5" />
     <rom name="Legend of the River King GBC (USA) (SGB Enhanced) (GB Compatible).gbc" size="1048576" sha1="1773c4719c3134845a91fef3a897034d5a70825e" crc="7e821f47" />
@@ -3237,16 +3237,16 @@
     <rom name="Logical (Europe).gbc" size="1048576" sha1="bfcc97d28a0fe90521258de9cdf75a8abb5fbd0b" crc="5eee76c4" />
     <rom name="Logical (USA).gbc" size="1048576" sha1="3163071800753f29f2ce6142931356d8d6dfbe68" crc="d67275f7" />
   </game>
-  <game name="01 - Games/Looney Tunes Collector - Martian Alert!">
+  <game name="01 - Games/Looney Tunes Collector - Alert!">
     <rom name="Looney Tunes Collector - Alert! (USA) (En,Fr,Es).gbc" size="2097152" sha1="54c4f732a8c328a9331a8a500438b1b1e9472b39" crc="54509d24" />
     <rom name="Looney Tunes Collector - Martian Alert! (Europe) (En,Fr,De,Es,It,Nl).gbc" size="2097152" sha1="645c4cf67faf33248d2102f137a605de94305796" crc="5d85dfad" />
     <rom name="Looney Tunes Collector - Martian Quest! (Japan).gbc" size="2097152" sha1="450e43cf2d9cfa18856b3f3312e2194f132dbb1b" crc="bc46a2d2" />
   </game>
-  <game name="01 - Games/Looney Tunes Collector - Martian Alert!/~Prototypes and Betas">
+  <game name="01 - Games/Looney Tunes Collector - Alert!/~Prototypes and Betas">
     <rom name="Looney Tunes Collector - Martian Alert! (Europe) (En,Fr,De,Es,It,Nl) (Beta 2).gbc" size="2097152" sha1="601236c323f4adbe5bd6091fac8871e11d71f105" crc="9058eae3" />
     <rom name="Looney Tunes Collector - Martian Alert! (Europe) (Fr) (Beta 1) (1999-10-28).gbc" size="2097152" sha1="4c05c1a15bb90feb09fbc2d8dfbfb42794313936" crc="3acb4840" />
   </game>
-  <game name="01 - Games/Looney Tunes Collector - Martian Revenge!">
+  <game name="01 - Games/Marvin Strikes Back!">
     <rom name="Looney Tunes Collector - Martian Revenge! (Europe) (En,Fr,De,Es,It,Nl).gbc" size="2097152" sha1="9e17af53ef89e2d436096c88dd293b838026b75f" crc="22952662" />
     <rom name="Marvin Strikes Back! (USA) (En,Fr,Es).gbc" size="2097152" sha1="6e420ef902a52a5a932e0932d0aeb11c3d71fda2" crc="11b4788c" />
   </game>
@@ -3804,7 +3804,7 @@
   <game name="01 - Games/Monster Traveler/~Prototypes and Betas">
     <rom name="Monster Traveler (Japan) (Possible Proto).gbc" size="4194304" sha1="5195f55ad6aaa302c0a0e11c0ec6ecad4efe0e27" crc="5d596cf6" />
   </game>
-  <game name="01 - Games/Monsters, Inc">
+  <game name="01 - Games/Monsters, Inc.">
     <rom name="Monster AG, Die (Germany).gbc" size="1048576" sha1="afe20aa46ff136c0ddf6f2692b1bbde9c30e71f6" crc="3a9602e8" />
     <rom name="Monsters, Inc. (Europe) (En,Es,Nl).gbc" size="1048576" sha1="8713b1d51ce33a761f64455b59cd49952b7f7cd1" crc="63e3bbb4" />
     <rom name="Monsters, Inc. (Europe) (En,Fr,It).gbc" size="1048576" sha1="34ab1e38f34287f022c871b6ed2116ded6d4b60d" crc="712d40a5" />
@@ -3863,7 +3863,7 @@
     <rom name="Mr. Nutz (Europe) (En,Fr,De,Es,It,Nl).gbc" size="1048576" sha1="d60dffc330f25a61ac1b0b4ba078178585da6fc6" crc="4e37c741" />
     <rom name="Mr. Nutz (USA) (En,Fr,Es).gbc" size="1048576" sha1="43bb8621e3d05e81a7faa63cd76b0757f3954ba1" crc="59f67529" />
   </game>
-  <game name="01 - Games/Ms. Pac-Man - Special Colour Edition">
+  <game name="01 - Games/Ms. Pac-Man - Special Color Edition">
     <rom name="Ms. Pac-Man - Special Color Edition (USA) (SGB Enhanced) (GB Compatible).gbc" size="524288" sha1="a468f7ad011c1b42ea3144e65607694493e7e4a7" crc="103e212d" />
     <rom name="Ms. Pac-Man - Special Colour Edition (Europe) (SGB Enhanced) (GB Compatible).gbc" size="1048576" sha1="d0f831165dc9a24e46fed26f90507dadeb5f1e0e" crc="f2335da9" />
   </game>
@@ -3935,11 +3935,11 @@
   <game name="01 - Games/NBA Jam 99">
     <rom name="NBA Jam 99 (USA, Europe) (GB Compatible).gbc" size="1048576" sha1="f34d0ac01f14c7c2671b6097c2ef891e70826d72" crc="84be0eed" />
   </game>
-  <game name="01 - Games/NBA Pro 99">
+  <game name="01 - Games/NBA in the Zone">
     <rom name="NBA Pro 99 (Europe) (SGB Enhanced) (GB Compatible).gbc" size="1048576" sha1="6eb56b61b8a77ce1060343f2c99f18c3271fa5f5" crc="748564ae" />
     <rom name="NBA in the Zone (USA) (Rev 1) (SGB Enhanced) (GB Compatible).gbc" size="1048576" sha1="f4ba926ad640d7b3e9d175fb58c90347dafcbef4" crc="be949f74" />
   </game>
-  <game name="01 - Games/NBA Pro 99/~Prototypes and Betas">
+  <game name="01 - Games/NBA in the Zone/~Prototypes and Betas">
     <rom name="NBA in the Zone (USA) (Possible Proto) (SGB Enhanced) (GB Compatible).gbc" size="1048576" sha1="7f0d5a37956ae58077656a42b26629784c203038" crc="f6bae9a0" />
   </game>
   <game name="01 - Games/NBA Show Time - NBA on NBC">
@@ -4227,7 +4227,7 @@
   <game name="01 - Games/PaZeek/~Prototypes and Betas">
     <rom name="PaZeek (USA) (Proto).gbc" size="262144" sha1="590dc27682dacb8a044b68d76ad3a0548973c390" crc="952b0028" />
   </game>
-  <game name="01 - Games/Pac-Man - Special Colour Edition">
+  <game name="01 - Games/Pac-Man - Special Color Edition">
     <rom name="Pac-Man - Special Color Edition (USA) (SGB Enhanced) (GB Compatible).gbc" size="262144" sha1="a0a6f55c15dca60350b3a74b1973cc13ff328730" crc="3485ef86" />
     <rom name="Pac-Man - Special Colour Edition (Europe) (SGB Enhanced) (GB Compatible).gbc" size="1048576" sha1="d80a9d8ba18d5cecff332bab48afdd00bf30df25" crc="f565647f" />
   </game>
@@ -4583,7 +4583,7 @@
   <game name="01 - Games/Pop'n Music GB">
     <rom name="Pop'n Music GB (Japan).gbc" size="1048576" sha1="f2b31ecdd1dbd3c7c120d436ed8d5e19743e9cf0" crc="07e6ca95" />
   </game>
-  <game name="01 - Games/Pop'n Pop">
+  <game name="01 - Games/Yogi Bear - Great Balloon Blast">
     <rom name="Pop'n Pop (Europe).gbc" size="1048576" sha1="5874cc64b184692ed03fb860de058fa3475b1d5c" crc="fc67f7e4" />
     <rom name="Pop'n Pop (Japan).gbc" size="1048576" sha1="ef425613296573225e42228ca12bce5124374206" crc="1cffb764" />
     <rom name="Yogi Bear - Great Balloon Blast (USA).gbc" size="1048576" sha1="ef3583e3b4092726d1875c4613f65c65fcbd26e6" crc="f817e978" />
@@ -4832,12 +4832,12 @@
   <game name="01 - Games/Ravenia">
     <rom name="Ravenia (World) (GB Compatible) (Aftermarket) (Unl).gbc" size="262144" sha1="8218ad22b29fb32c66430a17a97775dd30b2f34b" crc="09196a32" />
   </game>
-  <game name="01 - Games/Rayman 2 Forever">
+  <game name="01 - Games/Rayman 2">
     <rom name="Rayman 2 (USA) (En,Fr,De,Es,It).gbc" size="4194304" sha1="d984deaf66933571404eb5be754972d73ec7fbd5" crc="6f5c315d" />
     <rom name="Rayman 2 Forever (Europe) (En,Fr,De,Es,It).gbc" size="4194304" sha1="5ea438c5b52696255e8df74eb19e3cac1427a14a" crc="250015d4" />
     <rom name="Rayman 2 Forever (World) (En,Fr,De,Es,It) (ModRetro Chromatic).gbc" size="4194304" sha1="89fa169ef5f1a5bb913ef089052f8381d27d4e17" crc="8ef95773" />
   </game>
-  <game name="01 - Games/Rayman 2 Forever/~Prototypes and Betas">
+  <game name="01 - Games/Rayman 2/~Prototypes and Betas">
     <rom name="Rayman 2 Forever (Europe) (En,Fr,De,Es,It) (Beta).gbc" size="4194304" sha1="dc929b5323da6e1988cb3574e5f1ad056d417311" crc="93341deb" />
   </game>
   <game name="01 - Games/Rayman">
@@ -4882,7 +4882,7 @@
   <game name="01 - Games/Rescue Heroes - Fire Frenzy">
     <rom name="Rescue Heroes - Fire Frenzy (USA).gbc" size="1048576" sha1="a57aeb43ef88ffd09f5028368a3142c3e9f5e792" crc="77a4dc63" />
   </game>
-  <game name="01 - Games/Reservoir Rat">
+  <game name="01 - Games/Rats!">
     <rom name="Rats! (USA) (En,Es) (GB Compatible).gbc" size="524288" sha1="5e423dfab8221b69a641d2e535ebfe1e3759a2e4" crc="17635ad1" />
     <rom name="Reservoir Rat (Europe) (En,Fr,De,Es,It) (GB Compatible).gbc" size="524288" sha1="7ee86635f9d9735cc57673b08995be7003ff6082" crc="22621803" />
   </game>
@@ -5014,7 +5014,7 @@
   <game name="01 - Games/Roland Garros French Open">
     <rom name="Roland Garros French Open (Europe) (En,Fr,De,Es,It,Nl).gbc" size="1048576" sha1="86ab2d43e62f8a765992bdebe38b41a8d95ef5cb" crc="10dbde7c" />
   </game>
-  <game name="01 - Games/Ronaldo V-Football">
+  <game name="01 - Games/Ronaldo V-Soccer">
     <rom name="Ronaldo V-Football (Europe) (En,Fr,De,Es,It,Nl,Pt) (GB Compatible).gbc" size="1048576" sha1="33350360394904a03c069261cc53ab1381f326b7" crc="a856c066" />
     <rom name="Ronaldo V-Soccer (USA) (En,Fr,Es,Pt) (GB Compatible).gbc" size="1048576" sha1="4558565434fb3527178a183d6c4c4fb1a132e3d2" crc="d0204f10" />
   </game>
@@ -5276,7 +5276,7 @@
     <rom name="Sheep Split (World) (Aftermarket) (Unl).gbc" size="262144" sha1="6af889ee76f4341a94d04eb52de9bde4581df341" crc="7a7ddff5" />
     <rom name="Sheep Split (World) (v1.1) (Playtiles) (Aftermarket) (Unl).gbc" size="524288" sha1="1ba84bbba284f8565e1f7c64e99107b1e19bc720" crc="d1c6c7a5" />
   </game>
-  <game name="01 - Games/Shelly Club">
+  <game name="01 - Games/Kelly Club">
     <rom name="Kelly Club (USA).gbc" size="1048576" sha1="d47519a0295c3a76bc68c54ae94ccce039bcd3ee" crc="6e39ebc4" />
     <rom name="Shelly Club (Europe) (En,Fr,De,Es,It).gbc" size="1048576" sha1="f81fe7427484d9c2af043819690fae9b81b29813" crc="767caa42" />
   </game>
@@ -5466,11 +5466,11 @@
     <rom name="Snow White and the Seven Dwarfs (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).gbc" size="1048576" sha1="bcb5f2141bdfa0bd055e7e94301cf0aff00971a0" crc="c9c68471" />
     <rom name="Snow White and the Seven Dwarfs (USA).gbc" size="1048576" sha1="865e5bd17e336b4696fb891bc21c966ef2e186c9" crc="8dd38534" />
   </game>
-  <game name="01 - Games/SnowCross">
+  <game name="01 - Games/Polaris SnoCross">
     <rom name="Polaris SnoCross (USA) (Rumble Version).gbc" size="1048576" sha1="e893808fe227a1608c0604382d6a0340ec704c3b" crc="dd8b189e" />
     <rom name="SnowCross (Europe) (En,Fr,De,Es,It,Pt).gbc" size="1048576" sha1="436bed2117772f4632a37d54a83e2310dddf1121" crc="4ba47dbc" />
   </game>
-  <game name="01 - Games/SnowCross/~Prototypes and Betas">
+  <game name="01 - Games/Polaris SnoCross/~Prototypes and Betas">
     <rom name="Polaris SnoCross (USA) (Beta) (Rumble Version).gbc" size="1048576" sha1="4176ef1f9fd37156a4cac37a2d146ed2deeb5a7b" crc="673623c4" />
   </game>
   <game name="01 - Games/Snowboard Champion/~Translations">
@@ -5511,7 +5511,7 @@
   <game name="01 - Games/South Park/~Prototypes and Betas">
     <rom name="South Park (USA) (Proto).gbc" size="524288" sha1="ad9240b30e381cd7b260f5fc78aaaeed00c6b43d" crc="e79d411a" />
   </game>
-  <game name="01 - Games/Space Baby">
+  <game name="01 - Games/Taikong Baobei">
     <rom name="Space Baby (USA) (Unl).gbc" size="2097152" sha1="8bdf15e4160e87f83667ecfdbab26ef111a5d5d2" crc="509f1bb5" />
     <rom name="Taikong Baobei (Taiwan) (Li Cheng) (Unl).gbc" size="4194304" sha1="278b484fa26f13a98ae5bbe06d19a5c47ccfcd34" crc="23f291b3" />
     <rom name="Taikong Baobei (Taiwan) (Sintax) (Unl).gbc" size="2097152" sha1="bb2f4b475b6a7f355913267f02722f3b15bd0858" crc="f2d0f0ae" />
@@ -5657,7 +5657,7 @@
   <game name="01 - Games/Stellar Wars">
     <rom name="Stellar Wars (World) (Aftermarket) (Unl).gbc" size="262144" sha1="ba2d10a2a5f3f073aea11e26ae5c53c9cf7866f8" crc="e0b96256" />
   </game>
-  <game name="01 - Games/Stranded Kids">
+  <game name="01 - Games/Survival Kids">
     <rom name="Stranded Kids (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible).gbc" size="1048576" sha1="5c1d738f23a68cce8d2561f91f06c9998e0fe5a9" crc="816a4d94" />
     <rom name="Survival Kids (USA) (SGB Enhanced) (GB Compatible).gbc" size="1048576" sha1="0e3d3821710b07f68628edda071b928df0c6a2f2" crc="c46aba56" />
     <rom name="Survival Kids - Kotou no Boukensha (Japan) (SGB Enhanced) (GB Compatible).gbc" size="1048576" sha1="f80abbeaa2cf0631c1cdf812c13f13f1fea41f18" crc="61fa675c" />
@@ -5744,7 +5744,7 @@
     <rom name="Super Gran (World) (Aftermarket) (Unl).gbc" size="262144" sha1="5afe9c7ab1b9d86048a570e7a37a0c244cb84e43" crc="98ee2e8a" />
     <rom name="Tynesoft Commodore 16 Classics (World) (Aftermarket) (Unl).gbc" size="2097152" sha1="e44280161ca9d482fae08de844ccc9754abf68b0" crc="8067298a" />
   </game>
-  <game name="01 - Games/Super Impostor Bros">
+  <game name="01 - Games/Super Impostor Bros.">
     <rom name="Super Impostor Bros. (World) (GB Compatible) (Aftermarket) (Unl).gbc" size="1048576" sha1="301f93da4e5b0cd8dc3f1bf3e66e38176b8a909b" crc="a38d702f" />
   </game>
   <game name="01 - Games/Super Jacked Up Tomato Face Johnson">
@@ -5801,7 +5801,7 @@
     <rom name="Supermarket Spree DX (World) (v1.3) (GB Compatible) (Aftermarket) (Unl).gbc" size="1048576" sha1="405b493c25f17fdf5c7ad631a6d4dd7a57035f6d" crc="d399b25c" />
     <rom name="Supermarket Spree DX (World) (v1.3) (Playtiles) (GB Compatible) (Aftermarket) (Unl).gbc" size="1048576" sha1="36cc2329146c1d92880ed454fbbc4c188aaec745" crc="85eefd32" />
   </game>
-  <game name="01 - Games/Supreme Snowboarding">
+  <game name="01 - Games/Boarder Zone">
     <rom name="Boarder Zone (USA).gbc" size="2097152" sha1="116020a7c2d87ed16436e7710cfed7a93e81289a" crc="a7152869" />
     <rom name="Supreme Snowboarding (Europe) (En,Fr,De).gbc" size="2097152" sha1="4f745ffa0146e21bb26408cf7431376887499919" crc="53b1e661" />
   </game>
@@ -5874,17 +5874,17 @@
   <game name="01 - Games/Sylvanian Melodies - Mori no Nakama to Odori Masho!/~Translations">
     <rom name="Sylvanian Melodies (Japan) (SGB Enhanced) (GB Compatible) [T-En by Ryusui v1.0] [n].gbc" size="1048576" sha1="e18d40cc2447db9579e496eebabe8349c5a92ae6" crc="9399bf9f" />
   </game>
-  <game name="01 - Games/Sylvester &amp; Tweety - Breakfast on the Run">
+  <game name="01 - Games/Looney Tunes - Twouble!">
     <rom name="Looney Tunes - Twouble! (USA) (En,Fr,Es) (GB Compatible).gbc" size="1048576" sha1="f08bd36a0933ac56eeed2dd235d476d3b80a1f50" crc="698d7be4" />
     <rom name="Sylvester &amp; Tweety - Breakfast on the Run (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible).gbc" size="1048576" sha1="8999a54b27b51a078fb3776ec7842c56287f05df" crc="6bb3b0dc" />
   </game>
-  <game name="01 - Games/TG Rally 2">
+  <game name="01 - Games/Top Gear Pocket 2">
     <rom name="TG Rally 2 (United Kingdom).gbc" size="1048576" sha1="906f886c19c4800a7ac2612951e03a092665b22c" crc="795a9992" />
     <rom name="Top Gear Pocket 2 (Japan) (Rumble Version).gbc" size="1048576" sha1="26a357b6df4484d8f98f9c89a0b1b0357df5cf88" crc="1845f25a" />
     <rom name="Top Gear Pocket 2 (USA).gbc" size="1048576" sha1="bdbb64d13c3c40992d923829a92d7a15a15aabea" crc="efb87f80" />
     <rom name="Top Gear Rally 2 (Europe).gbc" size="1048576" sha1="5a0ac4ace1d5c2b6dfc0bdd20d6f88f319493558" crc="017773cd" />
   </game>
-  <game name="01 - Games/TG Rally 2/~Prototypes and Betas">
+  <game name="01 - Games/Top Gear Pocket 2/~Prototypes and Betas">
     <rom name="Top Gear Pocket 2 (Japan) (Rev 1) (Proto) (Rumble Version).gbc" size="1048576" sha1="52354d36a301b26895eb26ecf152bf696656f4b2" crc="fc680273" />
     <rom name="Top Gear Pocket 2 (USA) (Rev 1) (Proto).gbc" size="1048576" sha1="5d2ea0b976833f2e3866214e602993ee4653ab96" crc="eb0838d6" />
   </game>
@@ -6094,13 +6094,13 @@
   <game name="01 - Games/Tokimeki Memorial Pocket - Sport Hen - Koutei no Photograph">
     <rom name="Tokimeki Memorial Pocket - Sport Hen - Koutei no Photograph (Japan) (SGB Enhanced) (GB Compatible).gbc" size="4194304" sha1="ce39fcf903bb3b0529205cab4a412bfa0e8a2ebf" crc="78e14fa9" />
   </game>
-  <game name="01 - Games/Tokoro-san no Setagaya C.C">
+  <game name="01 - Games/Tokoro-san no Setagaya C.C.">
     <rom name="Tokoro-san no Setagaya C.C. (Japan) (GB Compatible).gbc" size="1048576" sha1="f38d776ff74d02c2edce0dcbc84edd5601ee315a" crc="9139e307" />
   </game>
   <game name="01 - Games/Tom Clancy's Rainbow Six">
     <rom name="Tom Clancy's Rainbow Six (USA, Europe) (En,Fr,De).gbc" size="1048576" sha1="7e9e21db84d1bfdab3c604c9e3328f624f86a9b1" crc="e72f2683" />
   </game>
-  <game name="01 - Games/Tom and Jerry - Mousehunt">
+  <game name="01 - Games/Tom and Jerry - Mouse Hunt">
     <rom name="Tom and Jerry - Mouse Hunt (USA) (En,Fr,Es).gbc" size="1048576" sha1="99c71a51921d802a0fcaea1f67b54ef4ec653900" crc="5fc6bec0" />
     <rom name="Tom and Jerry - Mousehunt (Europe) (En,Fr,De,Es,It) (Rev 1).gbc" size="1048576" sha1="bf5faf4c5c2aabe9636f8f5afbbf526aba59e21d" crc="4b4553e0" />
     <rom name="Tom and Jerry - Mousehunt (Europe) (En,Fr,De,Es,It).gbc" size="1048576" sha1="6f837075d7493adcbd5b18ba1e27386b6fc31e62" crc="3e17d04a" />
@@ -6178,7 +6178,7 @@
   <game name="01 - Games/Tootuff/~Prototypes and Betas">
     <rom name="Tootuff (Europe) (En,Fr,De,Es,It,Nl) (Beta).gbc" size="1048576" sha1="f71f380f9c68c42fc1461532ca92bffaa301da4d" crc="709f4ad6" />
   </game>
-  <game name="01 - Games/Top Gear Rally">
+  <game name="01 - Games/Top Gear Pocket">
     <rom name="Top Gear Pocket (Japan) (En) (Rumble Version).gbc" size="1048576" sha1="19c861e8ce24c18f8c625c8b920aad8a0acfce64" crc="ebcca3da" />
     <rom name="Top Gear Pocket (USA) (Rumble Version).gbc" size="1048576" sha1="f875f5a637fb861a0845b1753b90fe053d0a5a95" crc="84499fc1" />
     <rom name="Top Gear Rally (Europe) (Rumble Version).gbc" size="1048576" sha1="b880f5cfde3724da3ff932bf766cee470c4f664c" crc="337e5dd3" />
@@ -6346,7 +6346,7 @@
   <game name="01 - Games/Usurper Ghoul">
     <rom name="Usurper Ghoul (World) (v1.9) (GB Compatible) (Aftermarket) (Unl).gbc" size="524288" sha1="5be7317929c81780f478f745111f8f45798da866" crc="fc94dbf3" />
   </game>
-  <game name="01 - Games/V-Rally - Championship Edition">
+  <game name="01 - Games/V-Rally - Edition 99">
     <rom name="V-Rally - Championship Edition (Europe) (En,Fr,De,Es).gbc" size="1048576" sha1="5447f2c317deee8ca6da8f098a7d78f52b87e0cb" crc="1312b3f7" />
     <rom name="V-Rally - Championship Edition (Japan).gbc" size="1048576" sha1="c05473dcf45fd4e185f9f3aec3f4e429e4f12bbd" crc="fab9d941" />
     <rom name="V-Rally - Edition 99 (USA) (En,Fr,Es).gbc" size="1048576" sha1="638266c9d2d16486c2ed00510176112071b05e2c" crc="da300c6c" />

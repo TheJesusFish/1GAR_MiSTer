@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>AtariLynx</name>
-    <version>2026-10-16</version>
+    <version>2026-10-17</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/2048">
@@ -19,7 +19,7 @@
   <game name="01 - Games/8bit-Slicks">
     <rom name="8bit-Slicks (World) (Aftermarket) (Unl).lnx" size="524352" sha1="3b25b20f21ca3d90498cd58ff45265227391267b" crc="898fa3c7" />
   </game>
-  <game name="01 - Games/A.P.B">
+  <game name="01 - Games/A.P.B.">
     <rom name="A.P.B. (USA, Europe).lyx" size="262144" sha1="c2bf00de769895cbed03c056eb9c8fa1a7ea59ef" crc="f6fb48fb" />
   </game>
   <game name="01 - Games/Alien vs Predator/~Prototypes and Betas">
@@ -1083,7 +1083,7 @@
     <rom name="Yastuna Volume 2 - The Space Incident (World) (v1.00) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="4be4ba20a495c5b865e2512d0194d31185b016c5" crc="658929e1" />
     <rom name="Yastuna Volume 2 - The Space Incident (World) (v1.01) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="4d73a340629190d15533c8bf6f1fb21a503a0784" crc="2f17af66" />
   </game>
-  <game name="01 - Games/Z.A.P">
+  <game name="01 - Games/Z.A.P.">
     <rom name="Z.A.P. (World) (Aftermarket) (Unl).lnx" size="24873" sha1="7cd0c413e12c812fdb6476f7ed661111fe90bec1" crc="6b51794e" />
     <rom name="Z.A.P. (World) (Aftermarket) (Unl).lyx" size="262144" sha1="51886bea04de447240ada71f416882a2a5e47d80" crc="56e49935" />
   </game>

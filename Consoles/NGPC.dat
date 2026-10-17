@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>NGPC</name>
-    <version>2026-10-16</version>
+    <version>2026-10-17</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games (Color)/Baseball Stars Color - Pocket Sports Series">
@@ -91,10 +91,10 @@
   <game name="01 - Games (Color)/Infinity Cure">
     <rom name="Infinity Cure (Japan).ngc" size="1048576" sha1="b0f3f57c5ad084a009631e7e0fa497451415e73b" crc="32dc2aa2" />
   </game>
-  <game name="01 - Games (Color)/Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori">
+  <game name="01 - Games (Color)/Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori.">
     <rom name="Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan).ngc" size="2097152" sha1="b1ae3d5ee557821fe1be024f8b8bbbf6c8c13290" crc="f029f1c0" />
   </game>
-  <game name="01 - Games (Color)/Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori/~Translations">
+  <game name="01 - Games (Color)/Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori./~Translations">
     <rom name="Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan) [T-En by WyndCrosser v0.38] [i].ngc" size="2097152" sha1="9fc12489baef0e4b4e68267b139276001f252336" crc="364de6b4" />
   </game>
   <game name="01 - Games (Color)/King of Fighters R-2 - Pocket Fighting Series">
@@ -239,12 +239,12 @@
     <rom name="Puyo Pop (Japan) (En,Ja) (v05).ngc" size="1048576" sha1="27c3250fb17f291832fa7189a35478d017a0ef5e" crc="3090b2fd" />
     <rom name="Puyo Pop (USA) (En,Ja) (v06).ngc" size="1048576" sha1="cdc044d75b38b1e6574f6757723b9899a18dc989" crc="5ea9559e" />
   </game>
-  <game name="01 - Games (Color)/Puzzle Bobble Mini">
+  <game name="01 - Games (Color)/Bust-A-Move Pocket">
     <rom name="Bust-A-Move Pocket (USA).ngc" size="1048576" sha1="3b102e32fccf8ff389c508be55517368d56b144f" crc="b073d601" />
     <rom name="Puzzle Bobble Mini (Europe).ngc" size="1048576" sha1="0966c6ea1ae5b6ae15f769be5aae41f65acfb3f7" crc="d31312dc" />
     <rom name="Puzzle Bobble Mini (Japan) (En).ngc" size="1048576" sha1="0e9e5e60f60d7795430f4e3d4b655e796998f856" crc="d6544f6c" />
   </game>
-  <game name="01 - Games (Color)/Puzzle Bobble Mini/~Prototypes and Betas">
+  <game name="01 - Games (Color)/Bust-A-Move Pocket/~Prototypes and Betas">
     <rom name="Bust-A-Move Pocket (USA) (Beta).ngc" size="1048576" sha1="2af0197415bdf1679342d8aeca5c35ea3eff8b73" crc="78a1361d" />
   </game>
   <game name="01 - Games (Color)/Puzzle Link 2">

@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>SNES</name>
-    <version>2026-10-16</version>
+    <version>2026-10-17</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/'96 Zenkoku Koukou Soccer Senshuken">
@@ -208,11 +208,11 @@
     <rom name="Adventures of Dr. Franken, The (Europe) (En,Fr,De,Es,It,Nl,Sv).sfc" size="1048576" sha1="715223e622579f9e94fe00b0e3bdd6d9ce3ca9f9" crc="e4925f15" />
     <rom name="Adventures of Dr. Franken, The (USA).sfc" size="1048576" sha1="4b2334454a3be9c4c16b86b8eb4b0a352c67b780" crc="cfab3bba" />
   </game>
-  <game name="01 - Games/Adventures of Mighty Max, The">
+  <game name="01 - Games/Mighty Max">
     <rom name="Adventures of Mighty Max, The (Europe).sfc" size="1048576" sha1="fb1b7715b23005fe49df0d2a619aba9f55054258" crc="62a7c74b" />
     <rom name="Mighty Max (USA).sfc" size="1048576" sha1="0d31e2650b5e1f9331f36810f3ae5561b9581511" crc="6fc3c105" />
   </game>
-  <game name="01 - Games/Adventures of Mighty Max, The/~Prototypes and Betas">
+  <game name="01 - Games/Mighty Max/~Prototypes and Betas">
     <rom name="Mighty Max (USA) (Beta).sfc" size="1048576" sha1="cd3db1766afa5c0e5bd6685b5b25e56b85b495fe" crc="4a0e225f" />
   </game>
   <game name="01 - Games/Adventures of Rocky and Bullwinkle and Friends, The">
@@ -278,12 +278,12 @@
     <rom name="Aerobiz (USA) (MSU1).msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
     <rom name="Aerobiz (USA) (MSU1).sfc" size="4194304" sha1="33d8142591868807ceb5ceb8a922ede50d7b0b60" crc="3e28986f" />
   </game>
-  <game name="01 - Games/Aguri Suzuki F-1 Super Driving">
+  <game name="01 - Games/Redline F-1 Racer">
     <rom name="Aguri Suzuki F-1 Super Driving (Europe).sfc" size="1048576" sha1="8f4ba3bdfe097e24235ee7db56e92ede09cc0e07" crc="c8382f39" />
     <rom name="Redline F-1 Racer (USA).sfc" size="1048576" sha1="28753ef9f0af186de192f851edc835bdecfe4064" crc="e5faadd2" />
     <rom name="Suzuki Aguri no F-1 Super Driving (Japan).sfc" size="1048576" sha1="a27884a9518688e55e6e740f70f71e571b492c5d" crc="75bdc895" />
   </game>
-  <game name="01 - Games/Aguri Suzuki F-1 Super Driving/~Prototypes and Betas">
+  <game name="01 - Games/Redline F-1 Racer/~Prototypes and Betas">
     <rom name="Redline F-1 Racer (USA) (Beta).sfc" size="1048576" sha1="d1605198de3dee6dc867014228596fdf52906715" crc="b89f63f8" />
   </game>
   <game name="01 - Games/Air Cavalry">
@@ -386,11 +386,11 @@
     <rom name="Alcahest (Japan) [T-En by FH v1.0b] [Add by KingMike] [Splash screen removed].sfc" size="1310720" sha1="465901835589e4ea1a57177fc99bb621a64da7f6" crc="f223c29a" />
     <rom name="Alcahest (Japan) [T-En by FH v1.0b] [Add by KingMike].sfc" size="1310720" sha1="ca1eb1598e1594691f0cb766cfd4bc14096607b4" crc="3ef7b279" />
   </game>
-  <game name="01 - Games/Alfred Chicken">
+  <game name="01 - Games/Super Alfred Chicken">
     <rom name="Alfred Chicken (Europe).sfc" size="1048576" sha1="10b4bb69733286b1997de882383e4eaf2a574210" crc="e344627b" />
     <rom name="Super Alfred Chicken (USA).sfc" size="1048576" sha1="8ee35aabd7b15c2dbeb2ff401874fc792f9aa49c" crc="f21c5a9d" />
   </game>
-  <game name="01 - Games/Alfred Chicken/~Prototypes and Betas">
+  <game name="01 - Games/Super Alfred Chicken/~Prototypes and Betas">
     <rom name="Alfred Chicken (Europe) (Beta).sfc" size="1048576" sha1="0c0456b6a52cc97691982521cc0dadcbe0ef104b" crc="2c2503a0" />
   </game>
   <game name="01 - Games/Alice no Paint Adventure">
@@ -437,11 +437,11 @@
   <game name="01 - Games/Alien vs Predator/~Hacks">
     <rom name="Alien vs Predator (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" sha1="7b33e99945b02b783488bc9412e312634dc87fb9" crc="57efbcaa" />
   </game>
-  <game name="01 - Games/All-American Championship Football">
+  <game name="01 - Games/Sports Illustrated - Championship Football &amp; Baseball">
     <rom name="All-American Championship Football (Europe).sfc" size="524288" sha1="97d942604ce1a2fa40c89b8c19bad765ec660d8a" crc="ebefbde2" />
     <rom name="Sports Illustrated - Championship Football &amp; Baseball (USA).sfc" size="2097152" sha1="a32b98885a9502a9b4262f4221ad75b155294b20" crc="d4874966" />
   </game>
-  <game name="01 - Games/All-American Championship Football/~Prototypes and Betas">
+  <game name="01 - Games/Sports Illustrated - Championship Football &amp; Baseball/~Prototypes and Betas">
     <rom name="Sports Illustrated - Championship Football &amp; Baseball (USA) (Beta 1).sfc" size="2097152" sha1="ec1dceeb2aa331105344c318278a1dcf3b0947dd" crc="233ebca1" />
     <rom name="Sports Illustrated - Championship Football &amp; Baseball (USA) (Beta 2).sfc" size="2097152" sha1="0871060a91f939010283ec230750f378d1e7d8ad" crc="ed9aa0e1" />
   </game>
@@ -505,12 +505,12 @@
   <game name="01 - Games/Animaniacs/~Prototypes and Betas">
     <rom name="Animaniacs (USA) (Beta).sfc" size="1048576" sha1="cfa212f6b7353af1e397b21dbd04ad8c86731762" crc="2d7d6973" />
   </game>
-  <game name="01 - Games/Another World">
+  <game name="01 - Games/Out of This World">
     <rom name="Another World (Europe).sfc" size="1048576" sha1="09fad9da1e65717ed2bddc2f4dfad31e35976daf" crc="83b40af2" />
     <rom name="Out of This World (USA).sfc" size="1048576" sha1="fa8382794b19f8b36753f33091ad3e8b3bda7018" crc="5f40a869" />
     <rom name="Outer World (Japan).sfc" size="1048576" sha1="6dea2ecad28782748dac38489a7afa493fb93c77" crc="8d004dbb" />
   </game>
-  <game name="01 - Games/Another World/~Hacks/Out of this World (USA) (MSU1) [Hack by Conn v7]">
+  <game name="01 - Games/Out of This World/~Hacks/Out of this World (USA) (MSU1) [Hack by Conn v7]">
     <rom name="Out of this World (USA) (MSU1)-1.pcm" size="4550660" sha1="81c18156357f3898afa6f42e307dc1320e6fc864" crc="812d7436" />
     <rom name="Out of this World (USA) (MSU1)-10.pcm" size="14831884" sha1="d51b7a01a4e45eba01465d305326c1ad54c9a33b" crc="82356fc0" />
     <rom name="Out of this World (USA) (MSU1)-11.pcm" size="29987904" sha1="2317e5cf3beec00167a6f09da94d366020ccd2fa" crc="66787853" />
@@ -528,7 +528,7 @@
     <rom name="Out of this World (USA) (MSU1).msu" size="467817989" sha1="56e3a0060f71389a04af154d2511358fcefd7774" crc="fc03750c" />
     <rom name="Out of this World (USA) (MSU1).sfc" size="1048576" sha1="0d43aea062c419682f190afe22608e5334cb7cfd" crc="d3fc14b7" />
   </game>
-  <game name="01 - Games/Another World/~Prototypes and Betas">
+  <game name="01 - Games/Out of This World/~Prototypes and Betas">
     <rom name="Out of This World (USA) (Beta).sfc" size="1048576" sha1="7f94b3dfa220b3dd4c372802fe4fa373bde27752" crc="cc665b17" />
   </game>
   <game name="01 - Games/Aoki Densetsu Shoot!">
@@ -736,7 +736,7 @@
   <game name="01 - Games/B Dash - 3 Gatsugou">
     <rom name="B Dash - 3 Gatsugou (Japan) (Magazine).bs" size="1048576" sha1="aa64e0479d246d7763a0820749f06c88f0f3b4df" crc="3494e10f" />
   </game>
-  <game name="01 - Games/B.O.B">
+  <game name="01 - Games/B.O.B.">
     <rom name="B.O.B. (Europe).sfc" size="1048576" sha1="81fefad465c138d3aa0b7e38a61daf6576a60a9e" crc="8d56598b" />
     <rom name="B.O.B. (USA).sfc" size="1048576" sha1="8b9efe5107285c776b24241a0a93f54f23a46e09" crc="4f593c46" />
     <rom name="Space Funky B.O.B. (Japan).sfc" size="1048576" sha1="5c884a7054b8fc538866ed8ae5964ff407ddb2ac" crc="5abfbe21" />
@@ -1705,20 +1705,20 @@
   <game name="01 - Games/BlaZeon - The Bio-Cyborg Challenge/~Hacks">
     <rom name="BlaZeon - The Bio-Cyborg Challenge (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" sha1="e235398bd7d50b58c7851eb684e1d364c23b86ed" crc="794d6bf8" />
   </game>
-  <game name="01 - Games/Blackhawk">
+  <game name="01 - Games/Blackthorne">
     <rom name="Blackhawk (Europe) (En,Fr,De).sfc" size="1048576" sha1="27eb4c70ecda592a0473aa8c68b424ff0ccb7413" crc="2d1dd10a" />
     <rom name="Blackthorne (USA).sfc" size="1048576" sha1="bcac87c7a982d8eb90cbf30a6c34fbabde135ff7" crc="856beab1" />
     <rom name="Blackthorne - Fukushuu no Kuroki Toge (Japan).sfc" size="1048576" sha1="f7b38c81596973336e72cf4b8a5c575e23ded515" crc="edf476b3" />
   </game>
-  <game name="01 - Games/Blackhawk/~Prototypes and Betas">
+  <game name="01 - Games/Blackthorne/~Prototypes and Betas">
     <rom name="Blackthorne (USA) (Beta).sfc" size="1048576" sha1="deae3d555f1922fd05b4c15616fd04234d6dca24" crc="cffaaa21" />
   </game>
-  <game name="01 - Games/Blazing Skies">
+  <game name="01 - Games/Wings 2 - Aces High">
     <rom name="Blazing Skies (Europe).sfc" size="524288" sha1="9fef44a31c73b505d267868ff2091aea4c4f584c" crc="beb16e2d" />
     <rom name="Sky Mission (Japan) (En).sfc" size="524288" sha1="aaa8ee733cd5e60ffab85ce0948c561b11d24173" crc="0866a769" />
     <rom name="Wings 2 - Aces High (USA).sfc" size="524288" sha1="4e09d2dc7bb60973f4ed4a3f7f34f1f3bd672a57" crc="1637d1a5" />
   </game>
-  <game name="01 - Games/Blazing Skies/~Prototypes and Betas">
+  <game name="01 - Games/Wings 2 - Aces High/~Prototypes and Betas">
     <rom name="Wings 2 - Aces High (USA) (Beta).sfc" size="524288" sha1="6960c53a9939b06476649ef5ca7b60e6b61d14f2" crc="cc2e31d4" />
   </game>
   <game name="01 - Games/Block Kuzushi">
@@ -1857,7 +1857,7 @@
     <rom name="Brandish (Japan).sfc" size="1572864" sha1="138b4e89918dff0018b72217e56b7071f621f2b6" crc="a087b6ad" />
     <rom name="Brandish (USA).sfc" size="1572864" sha1="eab3718608f1657f484b27c6f684527fc27f2ba1" crc="74f70a0b" />
   </game>
-  <game name="01 - Games/Brawl Brothers - Rival Turf! 2">
+  <game name="01 - Games/Brawl Brothers">
     <rom name="Brawl Brothers (USA).sfc" size="1572864" sha1="01bf09e99d9b7baa88f852293ec941cf863f7009" crc="e822065c" />
     <rom name="Brawl Brothers (World) (Evercade).sfc" size="1572864" sha1="1abfa5da05fbc96d94cebf9143aba59107ad09f2" crc="93356b76" />
     <rom name="Brawl Brothers - Rival Turf! 2 (Europe).sfc" size="1572864" sha1="3c613aaa25d26148ffd36e65a9696ef69dce5d9f" crc="410cee18" />
@@ -2161,7 +2161,7 @@
     <rom name="Casper (Japan).sfc" size="1048576" sha1="848e5e0f4d622b81dd34e166bb98011c9bb2ba46" crc="696458b3" />
     <rom name="Casper (USA).sfc" size="1048576" sha1="59d578d2c1762627da0d13e6b4c2b56a08b72f5b" crc="a3b745bc" />
   </game>
-  <game name="01 - Games/Castlevania - Vampire's Kiss">
+  <game name="01 - Games/Castlevania - Dracula X">
     <rom name="Akumajou Dracula XX (Japan) (Castlevania Advance Collection).sfc" size="2097152" sha1="9404f5b4ceb7d388db644c1d8d0798036aa5d5b7" crc="d0e9f4f9" />
     <rom name="Akumajou Dracula XX (Japan).sfc" size="2097152" sha1="28fcb0acd1c02ada4e81fc84552b8ff1eea79420" crc="0aa75fa8" />
     <rom name="Castlevania - Dracula X (USA) (Castlevania Advance Collection).sfc" size="2097152" sha1="31546aea85d2b20ae2bd224c6dfeaf57f0a46e95" crc="49728d27" />
@@ -2169,7 +2169,7 @@
     <rom name="Castlevania - Vampire's Kiss (Europe) (Castlevania Advance Collection).sfc" size="2097152" sha1="dcca983e783851ac6e8d77fa16eb1eaeb4a1cba5" crc="592e68fa" />
     <rom name="Castlevania - Vampire's Kiss (Europe).sfc" size="2097152" sha1="b80f7179d73482e944a4f3c2f030b38bd91a74b8" crc="4ee9ee99" />
   </game>
-  <game name="01 - Games/Castlevania - Vampire's Kiss/~Hacks/Castlevania - Dracula X (USA) (MSU1) [Hack by Conn v1.6]">
+  <game name="01 - Games/Castlevania - Dracula X/~Hacks/Castlevania - Dracula X (USA) (MSU1) [Hack by Conn v1.6]">
     <rom name="Castlevania - Dracula X (USA) (MSU1)-1.pcm" size="2896700" sha1="1c04086b9a766ed9d03b6379a8cf92715e0c124f" crc="2b07e9f1" />
     <rom name="Castlevania - Dracula X (USA) (MSU1)-11.pcm" size="789656" sha1="b5c73bb038ce5f5e94ac22ba40ed12368a62c93a" crc="8dbd6e58" />
     <rom name="Castlevania - Dracula X (USA) (MSU1)-13.pcm" size="7584388" sha1="38a2701e155c1894ea419c506c102839009ef93c" crc="00bc8a03" />
@@ -2224,7 +2224,7 @@
     <rom name="Chaos Drop (Europe) (Proto 2).sfc" size="524288" sha1="7188039661a3fabb48af13361a8e68ccf7de044e" crc="10313ef0" />
     <rom name="Chaos Drop (Europe) (Proto 3).sfc" size="524288" sha1="af5069bba7e01daa4619d00269d4d7f75ec6d0a3" crc="389361e9" />
   </game>
-  <game name="01 - Games/Chaos Engine, The">
+  <game name="01 - Games/Soldiers of Fortune">
     <rom name="Chaos Engine, The (Europe).sfc" size="1572864" sha1="c0b909a4ef97f5f0aab901c3c79249c11854685b" crc="8900f073" />
     <rom name="Chaos Engine, The (World) (Evercade).sfc" size="1572864" sha1="76d4d51d7c4df7b812d5a64ebad913b8dd18e296" crc="d61b2178" />
     <rom name="Soldiers of Fortune (USA).sfc" size="1572864" sha1="90440d74aa01c4ae8a86c56d092263f6c9fa0d42" crc="cf719a93" />
@@ -2332,15 +2332,15 @@
     <rom name="Chip's Challenge (World) (The Retro Room) (Aftermarket) (Unl).sfc" size="1048576" sha1="393f9c71f851ca962f79dbf4bfa3e2862d0c2ec9" crc="ec9d1818" />
     <rom name="Chips Challenge (World) (Itch.io) (Aftermarket) (Unl).sfc" size="1048576" sha1="8ccecfd7875a5db7c405addde3d75da1a9c27236" crc="ce7cd57f" />
   </game>
-  <game name="01 - Games/Choplifter III">
+  <game name="01 - Games/Choplifter III - Rescue-Survive">
     <rom name="Choplifter III (Europe).sfc" size="524288" sha1="568593160ce187b78ea4082f4f1f9e934966aa6b" crc="788e42c9" />
     <rom name="Choplifter III - Rescue-Survive (Japan) (En).sfc" size="524288" sha1="1d5c4fa1b2638591f1f61d8ccc0855c0077bd8c0" crc="ad26cc9e" />
     <rom name="Choplifter III - Rescue-Survive (USA).sfc" size="524288" sha1="4010d63e6d7eb0f7ea47a0796f3af008ab98f22e" crc="1d2eae52" />
   </game>
-  <game name="01 - Games/Choplifter III/~Hacks">
+  <game name="01 - Games/Choplifter III - Rescue-Survive/~Hacks">
     <rom name="Choplifter III - Rescue-Survive (USA) [FastROM hack by kandowontu v1.0].sfc" size="524288" sha1="00727ac581d51c6297c38e13c1a33390b3f35001" crc="c37b0264" />
   </game>
-  <game name="01 - Games/Choplifter III/~Prototypes and Betas">
+  <game name="01 - Games/Choplifter III - Rescue-Survive/~Prototypes and Betas">
     <rom name="Choplifter III - Rescue-Survive (USA) (Beta 1).sfc" size="524288" sha1="8501570bfb32fe86f6cc7756eae23c49defe9974" crc="3280c18f" />
     <rom name="Choplifter III - Rescue-Survive (USA) (Beta 2).sfc" size="524288" sha1="8dabc8d3867a2429c79c3352d4efd8f6cb27c852" crc="227e2d1f" />
   </game>
@@ -3404,11 +3404,11 @@
     <rom name="Demon's Crest (USA) [T-En by RyuHayabusa v1.2] [Retranslated] [Region+SRAM lock removed].sfc" size="2097152" sha1="6ba7f92a3fefa155813b4e979d979b7d6ae19f4d" crc="2f8ab4bf" />
     <rom name="Demon's Crest (USA) [T-En by RyuHayabusa v1.2] [Retranslated].sfc" size="2097152" sha1="394e7241b429a38741f6d64f1f12fc6e86b28119" crc="c00427ea" />
   </game>
-  <game name="01 - Games/Dennis">
+  <game name="01 - Games/Dennis the Menace">
     <rom name="Dennis (Europe).sfc" size="1048576" sha1="78d2408818b3a953eb9ffe3c5813b6b5c370ada0" crc="ccda70a8" />
     <rom name="Dennis the Menace (USA).sfc" size="1048576" sha1="e7403a677e26134f4d5c1d10908d5f138e9c2b44" crc="8ee7faa5" />
   </game>
-  <game name="01 - Games/Dennis/~Prototypes and Betas">
+  <game name="01 - Games/Dennis the Menace/~Prototypes and Betas">
     <rom name="Dennis the Menace (USA) (Beta).sfc" size="1048576" sha1="123b5ca07d5db51081c8277e58876dd94bbf9cc1" crc="1032241c" />
   </game>
   <game name="01 - Games/Derby Jockey - Kishu Ou e no Michi">
@@ -3441,12 +3441,12 @@
     <rom name="Derby Stallion III (Japan) (Rev 3).sfc" size="3145728" sha1="01fa5a26c3521fe73eb687f9731a044dd3022287" crc="36768b55" />
     <rom name="Derby Stallion III (Japan).sfc" size="3145728" sha1="2fc2925151290e792e8cc99e46b06ac19e3e2aef" crc="75eeeb3f" />
   </game>
-  <game name="01 - Games/Desert Fighter">
+  <game name="01 - Games/A.S.P. - Air Strike Patrol">
     <rom name="A.S.P. - Air Strike Patrol (USA).sfc" size="1048576" sha1="57122ef7a84fbe0355ecc7e0648e39f56854a5f6" crc="05c0da54" />
     <rom name="Desert Fighter (Europe).sfc" size="1048576" sha1="b45f33708e50f028aab7291e8d684c617debc93c" crc="b78bae0e" />
     <rom name="Desert Fighter - Suna no Arashi Sakusen (Japan).sfc" size="1048576" sha1="61ee3ae9c6b6cd4325dc59c42519282ec77d9c60" crc="9edc5a7d" />
   </game>
-  <game name="01 - Games/Desert Fighter/~Prototypes and Betas">
+  <game name="01 - Games/A.S.P. - Air Strike Patrol/~Prototypes and Betas">
     <rom name="Desert Fighter (Europe) (Beta).sfc" size="1048576" sha1="31946d4381464f4fd9264b33fcf57c5ca29b132d" crc="cd989804" />
   </game>
   <game name="01 - Games/Desert Strike - Return to the Gulf">
@@ -3577,12 +3577,12 @@
   <game name="01 - Games/Donald Duck no Mahou no Boushi">
     <rom name="Donald Duck no Mahou no Boushi (Japan).sfc" size="1572864" sha1="e5a2e94af71509dee1e8ed86a80c7fec9c40d51f" crc="1ed5d2fa" />
   </game>
-  <game name="01 - Games/Donald in Maui Mallard">
+  <game name="01 - Games/Maui Mallard in Cold Shadow">
     <rom name="Donald Duck no Maui Mallard (Japan).sfc" size="3145728" sha1="88c446523528cdc3b3350378eafa541a599c986e" crc="d60a27a6" />
     <rom name="Donald in Maui Mallard (Europe).sfc" size="3145728" sha1="9ac9cd41eb96fd9f405200ae12698dcc63bb156a" crc="d56c21a1" />
     <rom name="Maui Mallard in Cold Shadow (USA).sfc" size="3145728" sha1="04f200d4ae97f9aee9eb461e02e8d1c91f2bb372" crc="2d3b9662" />
   </game>
-  <game name="01 - Games/Donald in Maui Mallard/~Hacks/Maui Mallard in Cold Shadow (USA) (MSU1) [Hack by Conn &amp; PepilloPev v2.0]">
+  <game name="01 - Games/Maui Mallard in Cold Shadow/~Hacks/Maui Mallard in Cold Shadow (USA) (MSU1) [Hack by Conn &amp; PepilloPev v2.0]">
     <rom name="Maui Mallard in Cold Shadow (USA) (MSU1)-1.pcm" size="26146708" sha1="2b0c859aa3019ac5238d8043f781b9c6189e4743" crc="83a890b9" />
     <rom name="Maui Mallard in Cold Shadow (USA) (MSU1)-10.pcm" size="29267220" sha1="81279b5d98cccc28829ae1261c1b1202c5605962" crc="e7d4b844" />
     <rom name="Maui Mallard in Cold Shadow (USA) (MSU1)-11.pcm" size="14541792" sha1="2d5e807975adddb1ec22acd0162ae9fc086921ea" crc="1f2901ae" />
@@ -3601,7 +3601,7 @@
     <rom name="Maui Mallard in Cold Shadow (USA) (MSU1).msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
     <rom name="Maui Mallard in Cold Shadow (USA) (MSU1).sfc" size="4194304" sha1="191a9a1ec2d0fa5dfa73c511b33471a8fecf16ff" crc="0eed72a8" />
   </game>
-  <game name="01 - Games/Donald in Maui Mallard/~Hacks">
+  <game name="01 - Games/Maui Mallard in Cold Shadow/~Hacks">
     <rom name="Maui Mallard in Cold Shadow (USA) [FastROM hack by kandowontu v1.01].sfc" size="3145728" sha1="bfee95f19f3b49c737fdaa6d87f71cf2bdae0411" crc="bd014abe" />
   </game>
   <game name="01 - Games/Donkey Kong Country 2 - Diddy's Kong Quest">
@@ -4417,10 +4417,10 @@
     <rom name="Dragon Quest I &amp; II (Japan) [T-En by RPGOne v2.0 DW].sfc" size="2097152" sha1="b177f03c7232c9516e635be91906312ffb62b308" crc="caec9d5e" />
     <rom name="Dragon Quest I &amp; II (Japan) [T-En by RPGOne v2.0] [Add by Rod Mérida v1.053rtm].sfc" size="2097152" sha1="77a76fc6ab696279c5dbfdd4ad8a52eb6e8f16bd" crc="59e27f1a" />
   </game>
-  <game name="01 - Games/Dragon Quest III - Soshite Densetsu e">
+  <game name="01 - Games/Dragon Quest III - Soshite Densetsu e...">
     <rom name="Dragon Quest III - Soshite Densetsu e... (Japan).sfc" size="4194304" sha1="b711341e4b1022d7645c5313840874aebc01b7b7" crc="13836bd2" />
   </game>
-  <game name="01 - Games/Dragon Quest III - Soshite Densetsu e/~Translations/Dragon Quest III (Japan) (MSU1) [T-En by DQ Translations v1.1] [Add by Rod Mérida v1.0c] [Hack by Cubear v1.11] [n]">
+  <game name="01 - Games/Dragon Quest III - Soshite Densetsu e.../~Translations/Dragon Quest III (Japan) (MSU1) [T-En by DQ Translations v1.1] [Add by Rod Mérida v1.0c] [Hack by Cubear v1.11] [n]">
     <rom name="Dragon Quest III (Japan) (MSU1) [T-En] [n]-1.pcm" size="17929000" sha1="5e8f8085e9b52cf64e8db657770cbdc12ede2334" crc="7bac40e1" />
     <rom name="Dragon Quest III (Japan) (MSU1) [T-En] [n]-10.pcm" size="28512548" sha1="b1bef80fa9569ddfd9174d1cfdd9767ced1d0401" crc="4cf09b69" />
     <rom name="Dragon Quest III (Japan) (MSU1) [T-En] [n]-11.pcm" size="13455368" sha1="5448435dcb1ccb66f355843e2a193f1e5ab16bba" crc="0b069de3" />
@@ -4484,7 +4484,7 @@
     <rom name="Dragon Quest III (Japan) (MSU1) [T-En] [n].msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
     <rom name="Dragon Quest III (Japan) (MSU1) [T-En] [n].sfc" size="6291456" sha1="e56f5eb7d025d702cca02f6b64999c13f5a72df7" crc="2aeb56e5" />
   </game>
-  <game name="01 - Games/Dragon Quest III - Soshite Densetsu e/~Translations">
+  <game name="01 - Games/Dragon Quest III - Soshite Densetsu e.../~Translations">
     <rom name="Dragon Quest III (Japan) [T-En by DQ Translations v1.1] [Add by Rod Mérida v1.0c] [SNES Mini] [n].sfc" size="6291456" sha1="be9ca5e426efd7eaf26b7e10521bf1536eb95138" crc="5717e5d5" />
     <rom name="Dragon Quest III (Japan) [T-En by DQ Translations v1.1] [Add by Rod Mérida v1.0c] [n].sfc" size="6291456" sha1="8436b6133ad72585b4ac3f6fedde7fb2460e8de7" crc="d0e41f6b" />
     <rom name="Dragon Quest III (Japan) [T-En by DQ Translations v1.1] [n].sfc" size="6291456" sha1="3b1964f041e55f292c47dbebb22544c3ccc93e17" crc="6d7fcf0d" />
@@ -4560,10 +4560,10 @@
   <game name="01 - Games/Dream Maze - The Kigurumi Adventure/~Translations">
     <rom name="Dream Maze - The Kigurumi Adventure (Japan) [T-En by KingMike's Translations v1.0b] [n].sfc" size="1048576" sha1="047c0d83211630f77fd3c5e3df69f7e7068b51d8" crc="87198726" />
   </game>
-  <game name="01 - Games/Dream T.V">
+  <game name="01 - Games/Dream T.V.">
     <rom name="Dream T.V. (USA).sfc" size="524288" sha1="2ec99d3997677116caa8277544d4bb12d6f74b80" crc="ab5a9e40" />
   </game>
-  <game name="01 - Games/Dream T.V/~Prototypes and Betas">
+  <game name="01 - Games/Dream T.V./~Prototypes and Betas">
     <rom name="Dream TV (USA) (Beta 1).sfc" size="524288" sha1="705aa6cbdaa78081d182302138d7212b900e5fb1" crc="78aea085" />
     <rom name="Dream TV (USA) (Beta 2).sfc" size="524288" sha1="e4f8cce3aeaee09aea050fa3d3e71493c16662d8" crc="c62f138e" />
   </game>
@@ -5049,7 +5049,7 @@
   <game name="01 - Games/Eurit/~Prototypes and Betas">
     <rom name="Eurit (USA) (Proto).sfc" size="2097152" sha1="c99e51c4d64a5f7edaf1cbfe4146b8f6821f1f09" crc="78bcd558" />
   </game>
-  <game name="01 - Games/Euro Football Champ">
+  <game name="01 - Games/Super Soccer Champ">
     <rom name="Euro Football Champ (Europe).sfc" size="524288" sha1="6d31e1cc08123b788526ea51937758c641ac8e57" crc="2c6eb470" />
     <rom name="Hat Trick Hero (Japan) (En).sfc" size="524288" sha1="0b6c5c4f7484ae643dce60f760b600e3fa310448" crc="fce8a74d" />
     <rom name="Super Soccer Champ (USA).sfc" size="524288" sha1="ac7a314dc6c18177e9b38b061693faef67a9e079" crc="b31d35a5" />
@@ -5082,12 +5082,12 @@
     <rom name="Exertainment Mountain Bike Rally + Speed Racer (Europe) (En,Fr,De,Es,Nl).sfc" size="4194304" sha1="c8df95cdf8d8941adb5775efde3a9489711eceee" crc="811475b0" />
     <rom name="Exertainment Mountain Bike Rally + Speed Racer (USA).sfc" size="4194304" sha1="d2f6cf90e877a5cfa614934b3f9fcc95059db90b" crc="ee5e1906" />
   </game>
-  <game name="01 - Games/Exhaust Heat">
+  <game name="01 - Games/F1 ROC - Race of Champions">
     <rom name="Exhaust Heat (Europe).sfc" size="1048576" sha1="72e55565db89fe7c2ca437e602fe15acaa1ecc8f" crc="af5a3203" />
     <rom name="Exhaust Heat (Japan) (En).sfc" size="1048576" sha1="745ebf8164ca7be58829c6130c0e06f330cd0748" crc="5cb9bc35" />
     <rom name="F1 ROC - Race of Champions (USA).sfc" size="1048576" sha1="30709476a6b5412a5d3975c3baa6a3822d598820" crc="2a069989" />
   </game>
-  <game name="01 - Games/Exhaust Heat/~Hacks">
+  <game name="01 - Games/F1 ROC - Race of Champions/~Hacks">
     <rom name="Exhaust Heat (Japan) (En) [FastROM hack by kandowontu v1.1].sfc" size="1048576" sha1="139a26b46fe6597c754d9ae2f788f23cbab59b10" crc="27b2c68f" />
   </game>
   <game name="01 - Games/Extra Innings">
@@ -5247,7 +5247,7 @@
     <rom name="FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Sv) (A8FE).sfc" size="2097152" sha1="a9287c363595e81a7fb83e667651b0fb70f4e607" crc="5e4f4856" />
     <rom name="FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Sv) (A8FP).sfc" size="2097152" sha1="322adb46b7600b0c5512a416a83b4ca43ef30894" crc="0cc77af7" />
   </game>
-  <game name="01 - Games/FIFA 97">
+  <game name="01 - Games/FIFA Soccer 97">
     <rom name="FIFA 97 (Europe) (En,Fr,De,Es,It,Sv).sfc" size="2097152" sha1="685cf7781356a0e354b3dd10fabba898885ba81b" crc="470eabe5" />
     <rom name="FIFA Soccer 97 (USA) (En,Fr,De,Es,It,Sv).sfc" size="2097152" sha1="e4f5e96d7ee0ea9fbcae2b9db907cd8380372c1b" crc="9cdbb2f8" />
   </game>
@@ -5392,11 +5392,11 @@
     <rom name="Feudal Bros (Japan) [T-En by Ratalaika Games] [Region lock removed] [n].sfc" size="2097152" sha1="e3ca65bf69781920af8eb3bef1dee877596fc020" crc="6fc625be" />
     <rom name="Feudal Bros (Japan) [T-En by Ratalaika Games] [n].sfc" size="2097152" sha1="e5a6a2f4e8c55b659aee81c88bf123387aab0076" crc="1fca2ac9" />
   </game>
-  <game name="01 - Games/Fever Pitch Soccer">
+  <game name="01 - Games/Head-On Soccer">
     <rom name="Fever Pitch Soccer (Europe) (En,Fr,De,Es,It).sfc" size="2097152" sha1="92f1a0e583b0dc39e2d6b8d27862167c3f36b916" crc="9b1ea779" />
     <rom name="Head-On Soccer (USA).sfc" size="2097152" sha1="7f8f4af47b9b15966a6a4083a41bf3c68391a555" crc="60dc3634" />
   </game>
-  <game name="01 - Games/Fever Pitch Soccer/~Prototypes and Betas">
+  <game name="01 - Games/Head-On Soccer/~Prototypes and Betas">
     <rom name="Fever Pitch Soccer (Europe) (Beta).sfc" size="2097152" sha1="7b399c8ac591ab76c7ef007dfbe6405679dced32" crc="25c8f98a" />
   </game>
   <game name="01 - Games/Fighter's History - Mizoguchi Kikiippatsu!!">
@@ -6198,12 +6198,12 @@
   <game name="01 - Games/Fishing Koushien">
     <rom name="Fishing Koushien (Japan).sfc" size="2097152" sha1="66b3aeb382187fb05dddc12e808412e5c9a3b7b3" crc="dcfe0b6b" />
   </game>
-  <game name="01 - Games/Flashback">
+  <game name="01 - Games/Flashback - The Quest for Identity">
     <rom name="Flashback (Europe) (En,Fr,De).sfc" size="2097152" sha1="7b989ee15428d6683d43f9ac12de6f75b5b41ffc" crc="a0525b9c" />
     <rom name="Flashback (Japan).sfc" size="2097152" sha1="0b851ffd9f360ed8395799a2dc4a65a75df2b9f3" crc="cd09a892" />
     <rom name="Flashback - The Quest for Identity (USA) (En,Fr,De).sfc" size="2097152" sha1="35228167b8ba0037d3584fc9986822eb6e1a2180" crc="1e6aceba" />
   </game>
-  <game name="01 - Games/Flashback/~Hacks/Flashback (USA) (MSU1) [Hack by LuigiBlood v1.0]">
+  <game name="01 - Games/Flashback - The Quest for Identity/~Hacks/Flashback (USA) (MSU1) [Hack by LuigiBlood v1.0]">
     <rom name="Flashback (USA) (MSU1)-0.pcm" size="10012472" sha1="dd0cce715163066646ac85441d59136ac5623164" crc="efa91dbd" />
     <rom name="Flashback (USA) (MSU1)-1.pcm" size="15876104" sha1="0e21487fe21c104eb1b052218f1313ac61009b36" crc="5750496c" />
     <rom name="Flashback (USA) (MSU1)-10.pcm" size="1933320" sha1="27f2cb904c6cd35509d2dae3c3f8a58722be13ab" crc="89108e4e" />
@@ -6235,7 +6235,7 @@
     <rom name="Flashback (USA) (MSU1).msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
     <rom name="Flashback (USA) (MSU1).sfc" size="2621440" sha1="c8086e67007d5c652824e28b901ea03d3bffaaf1" crc="e562fa18" />
   </game>
-  <game name="01 - Games/Flashback/~Prototypes and Betas">
+  <game name="01 - Games/Flashback - The Quest for Identity/~Prototypes and Betas">
     <rom name="Flashback (Europe) (En,Fr) (Beta).sfc" size="2097152" sha1="cbdf1042062a3d4eafcf3b8a56193ef72c1792de" crc="5dafac3e" />
   </game>
   <game name="01 - Games/Flintstones, The - The Treasure of Sierra Madrock">
@@ -6720,16 +6720,16 @@
     <rom name="Goomba BreakOut (World) (v1.3) (Aftermarket) (Unl).sfc" size="262144" sha1="ed4e38976dd9927e7aae7541c78eed420f7670fe" crc="56817acc" />
     <rom name="Goomba BreakOut (World) (v1.4) (Aftermarket) (Unl).sfc" size="262144" sha1="ac60ef7f3e127bb3918aa55759c4dc8854ff53fd" crc="2aeb2054" />
   </game>
-  <game name="01 - Games/Gourmet Sentai Barayarou">
+  <game name="01 - Games/Gourmet Warriors">
     <rom name="Gourmet Sentai Barayarou (Japan).sfc" size="2097152" sha1="8c0b12f4258ec74adb6a165c1e83b6cc20b97a60" crc="9f717d76" />
     <rom name="Gourmet Warriors (Europe) (Piko Interactive).sfc" size="2097152" sha1="c4951dd8840609d6fcf91c60adf0d014af445d5b" crc="cc68a5fc" />
     <rom name="Gourmet Warriors (USA) (Piko Interactive).sfc" size="2621440" sha1="a34385584f49c013171b9865755b31a1dd27b48b" crc="b1731446" />
     <rom name="Gourmet Warriors (World) (QUByte Classics).sfc" size="2621440" sha1="d028d7876d390b7a8ccf0691851d3d7609914c78" crc="690a9540" />
   </game>
-  <game name="01 - Games/Gourmet Sentai Barayarou/~Hacks">
+  <game name="01 - Games/Gourmet Warriors/~Hacks">
     <rom name="Gourmet Warriors (USA) (Aftermarket) (Unl) [FastROM hack by kandowontu v1.0].sfc" size="2621440" sha1="e8c097567c9045dcee15ba4663c404658c7c36ab" crc="fd89ba60" />
   </game>
-  <game name="01 - Games/Gourmet Sentai Barayarou/~Translations">
+  <game name="01 - Games/Gourmet Warriors/~Translations">
     <rom name="Gourmet Sentai Barayarou (Japan) [T-En by chillyfeez v1.0] [Posing heals].sfc" size="3145728" sha1="e52811586e6b8e05e95a9bbe3ac11b00efce5f22" crc="bf1ee062" />
     <rom name="Gourmet Sentai Barayarou (Japan) [T-En by chillyfeez v1.0].sfc" size="3145728" sha1="bdbc6fdfa019c3c896d9b65db564d26dfeae14ce" crc="c9beac0b" />
   </game>
@@ -7458,7 +7458,7 @@
     <rom name="Ikari no Yousai (Japan) (7-12).bs" size="1048576" sha1="d5c87f3fc54d593cda92a9f475351240ef438c2f" crc="065f9b21" />
     <rom name="Ikari no Yousai (Japan) (7-5).bs" size="1048576" sha1="6954a0f3979869f5ae322e51d9d90cfc6d341f2f" crc="721bc7ca" />
   </game>
-  <game name="01 - Games/Illusion of Time">
+  <game name="01 - Games/Illusion of Gaia">
     <rom name="Gaia Gensouki (Japan).sfc" size="2097152" sha1="01bd54e220d5208433ecfdf0b9fa1a08b2260a89" crc="b344e9a0" />
     <rom name="Illusion of Gaia (USA).sfc" size="2097152" sha1="38de0c84dd2bc3bdfc0a3d7ab0220c79b70887c3" crc="1c3848c0" />
     <rom name="Illusion of Time (Europe).sfc" size="2097152" sha1="d1cf72ea3971edb4b706a0bd3ca756b016a6b17e" crc="f9ae28db" />
@@ -7467,7 +7467,7 @@
     <rom name="Illusion of Time (Germany).sfc" size="2097152" sha1="24711ce599f1f61e9b3cac3d117d5d9c37ff759f" crc="1a7c8541" />
     <rom name="Illusion of Time (Spain).sfc" size="2097152" sha1="f236e4a5ffaa7431540dbaeb98716b3e84cfa455" crc="7c305dc8" />
   </game>
-  <game name="01 - Games/Illusion of Time/~Hacks/Illusion of Gaia (USA) (MSU1) [Hack by Conn v20210916]">
+  <game name="01 - Games/Illusion of Gaia/~Hacks/Illusion of Gaia (USA) (MSU1) [Hack by Conn v20210916]">
     <rom name="Illusion of Gaia (USA) (MSU1)-1.pcm" size="33645192" sha1="3873f3d078e5aaf71f35b14f268384a07b3c1d30" crc="1f6e9a69" />
     <rom name="Illusion of Gaia (USA) (MSU1)-10.pcm" size="23375696" sha1="8f0009186eb0961b816633f92b8fca6f214e3314" crc="e2e9568c" />
     <rom name="Illusion of Gaia (USA) (MSU1)-11.pcm" size="22353664" sha1="4d3a0bdf51442503d9ac24cd15cbac6fc1b1b840" crc="a44c0d2f" />
@@ -7499,11 +7499,11 @@
     <rom name="Illusion of Gaia (USA) (MSU1).msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
     <rom name="Illusion of Gaia (USA) (MSU1).sfc" size="2097152" sha1="5f9ef46c39f193651642415d42155b698a27ed3e" crc="0da2c81d" />
   </game>
-  <game name="01 - Games/Illusion of Time/~Prototypes and Betas">
+  <game name="01 - Games/Illusion of Gaia/~Prototypes and Betas">
     <rom name="Illusion of Gaia (USA) (Beta 1).sfc" size="2097152" sha1="3a077233a5715fa4a0d699c6dc43f47b39ae23fb" crc="ce90286b" />
     <rom name="Illusion of Gaia (USA) (Beta 2).sfc" size="2097152" sha1="a95cf7850c03618fe54b09172b3531f5e9b5b932" crc="721941df" />
   </game>
-  <game name="01 - Games/Illusion of Time/~Translations">
+  <game name="01 - Games/Illusion of Gaia/~Translations">
     <rom name="Illusion of Gaia (USA) [T-En by GaiaLabs v1.43] [Retranslated] [Demo title] [Region lock removed].sfc" size="4194304" sha1="50fc57b2e6fdc0e25e3abf858ac06e85659425a4" crc="ef5f2e65" />
     <rom name="Illusion of Gaia (USA) [T-En by GaiaLabs v1.43] [Retranslated] [Demo title].sfc" size="4194304" sha1="549c3069b794bfa1259745a36247487118b492b7" crc="44930b73" />
     <rom name="Illusion of Gaia (USA) [T-En by GaiaLabs v1.43] [Retranslated] [Enhanced title] [Region lock removed].sfc" size="4194304" sha1="13a919eb25e0c9f8a22a0f4e4818b4168c7f9987" crc="804ab1be" />
@@ -7642,12 +7642,12 @@
   <game name="01 - Games/Inspector Gadget">
     <rom name="Inspector Gadget (USA).sfc" size="1048576" sha1="c405045b0ba5cfbf971bba378942449a8e39a8bd" crc="4ce2b818" />
   </game>
-  <game name="01 - Games/International Sensible Soccer - World Champions">
+  <game name="01 - Games/Championship Soccer '94">
     <rom name="Championship Soccer '94 (USA) (En,Fr,De,It).sfc" size="524288" sha1="94fe929852cf0794f64a58d689accf7abeecc40b" crc="6b953095" />
     <rom name="International Sensible Soccer - World Champions (Europe) (En,Fr,De,It) (Rev 1).sfc" size="524288" sha1="1b7e843210b1939b1032f829d33c2f27600049ca" crc="6ff2d97e" />
     <rom name="Sensible Soccer - European Champions (Europe) (En,Fr,De,It).sfc" size="524288" sha1="99d9c978cc54817bb57bfb60d9b5493f6af01750" crc="dcc702d4" />
   </game>
-  <game name="01 - Games/International Sensible Soccer - World Champions/~Prototypes and Betas">
+  <game name="01 - Games/Championship Soccer '94/~Prototypes and Betas">
     <rom name="Sensible Soccer - European Champions (Europe) (En,Fr,De,It) (Beta).sfc" size="524288" sha1="be56cbbe11bdcfb22dad0b1ba05f949560ddc860" crc="4655c894" />
   </game>
   <game name="01 - Games/International Superstar Soccer Deluxe">
@@ -7683,14 +7683,14 @@
   <game name="01 - Games/Ippatsu Gyakuten">
     <rom name="Ippatsu Gyakuten (Japan).sfc" size="1048576" sha1="3daa32c796106ffcf2a853314da485a72a3812b7" crc="05a9fde8" />
   </game>
-  <game name="01 - Games/Iron Commando - Koutetsu no Senshi">
+  <game name="01 - Games/Iron Commando">
     <rom name="Iron Commando (Europe) (Piko Interactive).sfc" size="2097152" sha1="21a56379dc2c4718dc407d14df47cd9bc8f6d292" crc="b82e8499" />
     <rom name="Iron Commando (World) (QUByte Classics) (PAL).sfc" size="2097152" sha1="ad4de699ce58a380416265fb783dc6f569c24398" crc="0a5b8444" />
     <rom name="Iron Commando (World) (Steam) (NTSC).sfc" size="2097152" sha1="c2fff592ab11d610aafd3b805fe2438c5dabb772" crc="cd7c58d4" />
     <rom name="Iron Commando (World) (v1.1) (Steam) (NTSC).sfc" size="2097152" sha1="7bcae41459f2ee9cc036b36142cd8f7075e1c3a8" crc="2d911b58" />
     <rom name="Iron Commando - Koutetsu no Senshi (Japan).sfc" size="1310720" sha1="1c6127296bc8bf5afcb67d6e7aa0ce7838bdc44a" crc="828b5f07" />
   </game>
-  <game name="01 - Games/Iron Commando - Koutetsu no Senshi/~Prototypes and Betas">
+  <game name="01 - Games/Iron Commando/~Prototypes and Betas">
     <rom name="Iron Commando (Europe) (Proto).sfc" size="1310720" sha1="d667e3012f5964d3bc46bfc931f3a3bdda7b2fe6" crc="d967299d" />
   </game>
   <game name="01 - Games/Isozuri - Ritou Hen">
@@ -7743,17 +7743,17 @@
   <game name="01 - Games/J.League Super Soccer '95 - Jikkyou Stadium">
     <rom name="J.League Super Soccer '95 - Jikkyou Stadium (Japan).sfc" size="2097152" sha1="7d017b19fef59e6d583c8de95314c5495d36defc" crc="26664bb4" />
   </game>
-  <game name="01 - Games/J.R.R. Tolkien's The Lord of the Rings - Volume One">
+  <game name="01 - Games/J.R.R. Tolkien's The Lord of the Rings - Volume 1">
     <rom name="J.R.R. Tolkien's The Lord of the Rings - Volume 1 (USA).sfc" size="1048576" sha1="030e314cba8faae4081f8056521126916e5e0ada" crc="cd2150c8" />
     <rom name="J.R.R. Tolkien's The Lord of the Rings - Volume One (Europe).sfc" size="1048576" sha1="5ee8e70b0d80821274cc8689c4db22215b5ae52f" crc="247c17d3" />
     <rom name="J.R.R. Tolkien's The Lord of the Rings - Volume One (Germany).sfc" size="1048576" sha1="d0a54a6e4e7c27fd6da23ad53201679272f9ac04" crc="8b172b4e" />
   </game>
-  <game name="01 - Games/J.R.R. Tolkien's The Lord of the Rings - Volume One/~Hacks">
+  <game name="01 - Games/J.R.R. Tolkien's The Lord of the Rings - Volume 1/~Hacks">
     <rom name="J.R.R. Tolkien's The Lord of the Rings - Volume 1 (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" sha1="0ba4b6666b8b381d0a6f0f6510f5e3c746965025" crc="9f836762" />
     <rom name="J.R.R. Tolkien's The Lord of the Rings - Volume One (Europe) [FastROM hack by kandowontu v1.0].sfc" size="1048576" sha1="ddb81a4b5956cfc4e5bfa52324edb68be29ed96f" crc="13eb77c9" />
     <rom name="J.R.R. Tolkien's The Lord of the Rings - Volume One (Germany) [FastROM hack by kandowontu v1.0].sfc" size="1048576" sha1="3357d0a73bf882a0484612dac3b7bd1c8bcbedd1" crc="d9b51ce4" />
   </game>
-  <game name="01 - Games/J.R.R. Tolkien's The Lord of the Rings - Volume One/~Prototypes and Betas">
+  <game name="01 - Games/J.R.R. Tolkien's The Lord of the Rings - Volume 1/~Prototypes and Betas">
     <rom name="J.R.R. Tolkien's The Lord of the Rings - Volume One (Germany) (Sample).sfc" size="1048576" sha1="8922d657e6ecb15a585448843c884ec88e89111d" crc="74ec9859" />
   </game>
   <game name="01 - Games/JB The Super Bass">
@@ -7792,11 +7792,11 @@
     <rom name="James Bond Jr (Europe).sfc" size="524288" sha1="f2627ed67e2c653b9256e0c0bc77d1ba5322e96c" crc="7414a4c2" />
     <rom name="James Bond Jr (USA).sfc" size="524288" sha1="a9338759d653ca7056bd2705d44ead2c6877acc1" crc="69c2f850" />
   </game>
-  <game name="01 - Games/James Pond's Crazy Sports">
+  <game name="01 - Games/Super Aquatic Games Starring the Aquabats, The">
     <rom name="James Pond's Crazy Sports (Europe).sfc" size="524288" sha1="cb89e6aa9a83a2324049e1342da7c5b0d2a89b9d" crc="66f00725" />
     <rom name="Super Aquatic Games Starring the Aquabats, The (USA).sfc" size="524288" sha1="4defd682dc0a8e02cbe014a3a42cbe14dedcd438" crc="2a5ddac0" />
   </game>
-  <game name="01 - Games/James Pond's Crazy Sports/~Prototypes and Betas">
+  <game name="01 - Games/Super Aquatic Games Starring the Aquabats, The/~Prototypes and Betas">
     <rom name="Super Aquatic Games Starring the Aquabats, The (USA) (Beta).sfc" size="524288" sha1="8b8da62f5d2df47d1dc830e5ef7b572796082558" crc="249dffd6" />
   </game>
   <game name="01 - Games/Jammes">
@@ -7962,7 +7962,7 @@
   <game name="01 - Games/Jimmy Connors Pro Tennis Tour/~Prototypes and Betas">
     <rom name="Jimmy Connors Pro Tennis Tour (Germany) (Beta).sfc" size="524288" sha1="7f937d1b747691fc9361087f5f8052621c65d020" crc="585947eb" />
   </game>
-  <game name="01 - Games/Jimmy Houston's Bass Tournament U.S.A">
+  <game name="01 - Games/Jimmy Houston's Bass Tournament U.S.A.">
     <rom name="Jimmy Houston's Bass Tournament U.S.A. (USA).sfc" size="1572864" sha1="cea2667429d2650c06c6c2491438dd12a9a6d4ba" crc="e7e488d5" />
     <rom name="Jissen Bass Fishing Hisshouhou in USA (Japan).sfc" size="1572864" sha1="76648400a40d26da22236eef236d8deb86708bf2" crc="82ba9020" />
   </game>
@@ -7999,13 +7999,13 @@
   <game name="01 - Games/JoJo no Kimyou na Bouken">
     <rom name="JoJo no Kimyou na Bouken (Japan).sfc" size="1048576" sha1="8f1c62568c930c47b271c960be9bb9bb9276b782" crc="56ba694a" />
   </game>
-  <game name="01 - Games/Joe &amp; Mac - Caveman Ninja">
+  <game name="01 - Games/Joe &amp; Mac">
     <rom name="Joe &amp; Mac (USA).sfc" size="1048576" sha1="be48f2193ad088b6ea395caeb2d03fa190480418" crc="3a2b6167" />
     <rom name="Joe &amp; Mac - Caveman Ninja (Europe) (En,Fr,De,Es,It,Nl).sfc" size="1048576" sha1="1b9ce057fd686db93cba24403d728a8dfb9f3eb6" crc="a423a9d8" />
     <rom name="Joe &amp; Mac - Tatakae Genshijin (Japan).sfc" size="1048576" sha1="8e3c0993676d8e22a83edc17b6b5335d34d2d631" crc="fb9f19ba" />
     <rom name="Joe &amp; Mac - Ultimate Caveman Collection (Europe) (Retro-Bit).sfc" size="4194304" sha1="640d022605156c55eab3155ad08093b62f3da531" crc="184312f8" />
   </game>
-  <game name="01 - Games/Joe &amp; Mac - Caveman Ninja/~Hacks/Joe &amp; Mac (USA) (MSU1) [Hack by Kurrono v1.0]">
+  <game name="01 - Games/Joe &amp; Mac/~Hacks/Joe &amp; Mac (USA) (MSU1) [Hack by Kurrono v1.0]">
     <rom name="Joe &amp; Mac (USA) (MSU1)-1.pcm" size="5642692" sha1="5b65dd8ea4c9e198f0c1e82d90a18b756ad91ab4" crc="8b8c4c29" />
     <rom name="Joe &amp; Mac (USA) (MSU1)-10.pcm" size="25763344" sha1="df03b1eb499c2413e827e77ecf90fdf498bf6fec" crc="7ca861f8" />
     <rom name="Joe &amp; Mac (USA) (MSU1)-11.pcm" size="29135800" sha1="eede053f6b4f7e0f45782ff7d3f701cf4869db1a" crc="b0b0662a" />
@@ -8035,28 +8035,28 @@
     <rom name="Joe &amp; Mac (USA) (MSU1).msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
     <rom name="Joe &amp; Mac (USA) (MSU1).sfc" size="1048576" sha1="41cd23322ddba52476c7fa9b2a9dfabc7887ba37" crc="71d4539e" />
   </game>
-  <game name="01 - Games/Joe &amp; Mac - Caveman Ninja/~Hacks">
+  <game name="01 - Games/Joe &amp; Mac/~Hacks">
     <rom name="Joe &amp; Mac (USA) [FastROM hack by kandowontu v1.1].sfc" size="1048576" sha1="04030e796cbe05a80d740df0c5866ab8865b871e" crc="7674e5fb" />
     <rom name="Joe &amp; Mac - Caveman Ninja (Europe) (En,Fr,De,Es,It,Nl) [FastROM hack by kandowontu v1.0].sfc" size="1048576" sha1="f619db0bd42a7807583d94fa97eaff9dd8381484" crc="3307ebc1" />
   </game>
-  <game name="01 - Games/Joe &amp; Mac - Caveman Ninja/~Prototypes and Betas">
+  <game name="01 - Games/Joe &amp; Mac/~Prototypes and Betas">
     <rom name="Joe &amp; Mac - Caveman Ninja (Europe) (En,Fr,De,Es,It,Nl) (Beta).sfc" size="1048576" sha1="0e2f55c1560b732b5a3595452415143cbe5d2f83" crc="db8447eb" />
   </game>
   <game name="01 - Games/Joe &amp; Mac - Ultimate Caveman Collection">
     <rom name="Joe &amp; Mac - Ultimate Caveman Collection (Europe) (Retro-Bit).sfc" size="4194304" sha1="640d022605156c55eab3155ad08093b62f3da531" crc="184312f8" />
   </game>
-  <game name="01 - Games/Joe &amp; Mac 3 - Lost in the Tropics">
+  <game name="01 - Games/Joe &amp; Mac 2 - Lost in the Tropics">
     <rom name="Joe &amp; Mac - Ultimate Caveman Collection (Europe) (Retro-Bit).sfc" size="4194304" sha1="640d022605156c55eab3155ad08093b62f3da531" crc="184312f8" />
     <rom name="Joe &amp; Mac 2 - Lost in the Tropics (USA).sfc" size="1048576" sha1="14d4911403854bf0bb59e3a6081181678a23d598" crc="0c3b4201" />
     <rom name="Joe &amp; Mac 2 - Lost in the Tropics (World) (Evercade).sfc" size="1048576" sha1="09f4ca0b2f035755784560953293292dfd106ede" crc="8617f7b9" />
     <rom name="Joe &amp; Mac 3 - Lost in the Tropics (Europe) (En,Fr,De).sfc" size="1048576" sha1="57722343b24590aeb1c894018fc68660cd7b9712" crc="b9d6269d" />
     <rom name="Tatakae Genshijin 3 - Shuyaku wa Yappari Joe &amp; Mac (Japan).sfc" size="1048576" sha1="046ff553048e15ca592e7704896ad802b55b4a65" crc="a0a9f044" />
   </game>
-  <game name="01 - Games/Joe &amp; Mac 3 - Lost in the Tropics/~Hacks">
+  <game name="01 - Games/Joe &amp; Mac 2 - Lost in the Tropics/~Hacks">
     <rom name="Joe &amp; Mac 2 - Lost in the Tropics (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" sha1="4989ec87a89935c51c1df26360cb8593a21408ee" crc="b0c65f14" />
     <rom name="Joe &amp; Mac 3 - Lost in the Tropics (Europe) (En,Fr,De) [FastROM hack by kandowontu v1.0].sfc" size="1048576" sha1="07139d114985a03a989259afc0fa29fcc4992bf0" crc="93b36c1e" />
   </game>
-  <game name="01 - Games/Joe &amp; Mac 3 - Lost in the Tropics/~Prototypes and Betas">
+  <game name="01 - Games/Joe &amp; Mac 2 - Lost in the Tropics/~Prototypes and Betas">
     <rom name="Joe &amp; Mac 2 - Lost in the Tropics (USA) (Beta 1).sfc" size="1048576" sha1="8756bd04739cdf37a0c117dd24593fc4a7a8359f" crc="89b22484" />
     <rom name="Joe &amp; Mac 2 - Lost in the Tropics (USA) (Beta 2).sfc" size="1048576" sha1="5cf89faa7c5b5253a03aebeca240417e98bb2ad5" crc="ec7a2ed3" />
     <rom name="Joe &amp; Mac 3 - Lost in the Tropics (Europe) (En,Fr,De) (Beta).sfc" size="1048576" sha1="d9a60a7d4edbcc292a3176df35b5387c47e566ff" crc="489b7690" />
@@ -8638,7 +8638,7 @@
     <rom name="Kirby's Dream Land 3 (USA) (MSU1).msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
     <rom name="Kirby's Dream Land 3 (USA) (MSU1).sfc" size="4194304" sha1="ca0315b5754080fcf1d34d885982fbab6ee82816" crc="9937e1f9" />
   </game>
-  <game name="01 - Games/Kirby's Fun Pak">
+  <game name="01 - Games/Kirby Super Star">
     <rom name="Hoshi no Kirby Super Deluxe (Japan) (Rev 1).sfc" size="4194304" sha1="63f47b5f47bec60147b9e75a71b3f038e5e0969e" crc="dbbcd010" />
     <rom name="Hoshi no Kirby Super Deluxe (Japan) (Rev 2) (Hoshi no Kirby - 20 Shuunen Special Collection).sfc" size="4194304" sha1="5f0bdd45d8a1674105d86f2ac093ed1fab209b27" crc="3c2e08ae" />
     <rom name="Hoshi no Kirby Super Deluxe (Japan) (Rev 2).sfc" size="4194304" sha1="9ae2db3bcb2699394937bc007cd6835609b7e18f" crc="1f35f230" />
@@ -8647,7 +8647,7 @@
     <rom name="Kirby Super Star (USA).sfc" size="4194304" sha1="cca1e67fa230bf4f60154f5ea55d06568229dc5d" crc="89d0f7dc" />
     <rom name="Kirby's Fun Pak (Europe).sfc" size="4194304" sha1="ce325ad271e91735ce19e9c2b8e0ad04dc103ae1" crc="ce33dcfb" />
   </game>
-  <game name="01 - Games/Kirby's Fun Pak/~Hacks/Kirby Super Star (USA) (MSU1) [Hack by Conn v20190517]">
+  <game name="01 - Games/Kirby Super Star/~Hacks/Kirby Super Star (USA) (MSU1) [Hack by Conn v20190517]">
     <rom name="Kirby Super Star (USA) (MSU1)-1.pcm" size="3884268" sha1="ff5f77465f5a71c927ebfebd6d02ca469adcb0aa" crc="54b3c9de" />
     <rom name="Kirby Super Star (USA) (MSU1)-10.pcm" size="786064" sha1="f4263277372a1b83bff122a40efffd68d6bc6919" crc="9bcea5fc" />
     <rom name="Kirby Super Star (USA) (MSU1)-11.pcm" size="43033496" sha1="d6af011b7fd08e1e996f60337242934127e17ba1" crc="0bfe523c" />
@@ -8702,7 +8702,7 @@
     <rom name="Kirby Super Star (USA) (MSU1).msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
     <rom name="Kirby Super Star (USA) (MSU1).sfc" size="4194304" sha1="863cd7e80b626c449e869a1c5ea68ac92284a300" crc="ffd13e4a" />
   </game>
-  <game name="01 - Games/Kirby's Ghost Trap">
+  <game name="01 - Games/Kirby's Avalanche">
     <rom name="Kirby's Avalanche (USA).sfc" size="1048576" sha1="95e4ac5f3f95863ffd8c6519f93a52b631c97d4a" crc="21e658b8" />
     <rom name="Kirby's Ghost Trap (Europe).sfc" size="1048576" sha1="51118691a6e5761f9031d50d00ef7b8510a899ea" crc="dd0d08be" />
     <rom name="Super Puyo Puyo (Japan) (Rev 1).sfc" size="1048576" sha1="ac5305fc7919f62f5e21712c290c119a88e0ac2e" crc="9b386875" />
@@ -10086,19 +10086,19 @@
   <game name="01 - Games/Logos Panic Goaisatsu">
     <rom name="Logos Panic Goaisatsu (Japan).sfc" size="1310720" sha1="73d817b43224c3fa5e1bee697d25b7090c23b099" crc="4808e2b2" />
   </game>
-  <game name="01 - Games/Looney Tunes - Road Runner">
+  <game name="01 - Games/Road Runner's Death Valley Rally">
     <rom name="Looney Tunes - Road Runner (Europe).sfc" size="1048576" sha1="70aa994c8ecb3a8c585a92d3b484b647e83d9651" crc="bb2b8e2e" />
     <rom name="Looney Tunes - Road Runner vs Wile E. Coyote (Japan) (En).sfc" size="1048576" sha1="457b8faddaed4e8733a067d9c1e33d4f6abfeb0c" crc="82399957" />
     <rom name="Road Runner's Death Valley Rally (USA).sfc" size="1048576" sha1="881dbd1700914d3897182b3ecb05f558a64b6750" crc="5980d75d" />
   </game>
-  <game name="01 - Games/Looney Tunes - Road Runner/~Prototypes and Betas">
+  <game name="01 - Games/Road Runner's Death Valley Rally/~Prototypes and Betas">
     <rom name="Road Runner (USA) (Beta).sfc" size="1048576" sha1="9c8bf060d020af55c81859899d7bc9a907842b0d" crc="83ba85a5" />
   </game>
-  <game name="01 - Games/Looney Tunes Basketball">
+  <game name="01 - Games/Looney Tunes B-Ball">
     <rom name="Looney Tunes B-Ball (USA).sfc" size="2097152" sha1="83affabb0d0c3d01bdb0969359df4570e457fb4e" crc="6d3bc96f" />
     <rom name="Looney Tunes Basketball (Europe).sfc" size="2097152" sha1="100afca042722209352682d705e3ae73bbb91ca8" crc="fdf2f478" />
   </game>
-  <game name="01 - Games/Looney Tunes Basketball/~Prototypes and Betas">
+  <game name="01 - Games/Looney Tunes B-Ball/~Prototypes and Betas">
     <rom name="Looney Tunes - Hoop It Up! (USA) (Beta).sfc" size="2097152" sha1="52f4242b427b2862d4dcb437caf79986ded6f2e6" crc="90f07cf1" />
   </game>
   <game name="01 - Games/Lord Monarch">
@@ -10115,11 +10115,11 @@
     <rom name="Super Nobunaga no Yabou - Bushou Fuuunroku (Japan) (Rev 1).sfc" size="1048576" sha1="589749852c4d4133232409fd613b3f8db4bd8b9e" crc="e42ca25a" />
     <rom name="Super Nobunaga no Yabou - Bushou Fuuunroku (Japan).sfc" size="1048576" sha1="bd8fce89eb6759a3430f4db057954c8b2c5c6842" crc="686f5a90" />
   </game>
-  <game name="01 - Games/Lost Vikings II, The - Norse by Norsewest">
+  <game name="01 - Games/Lost Vikings 2">
     <rom name="Lost Vikings 2 (USA).sfc" size="1048576" sha1="7a461513fcea58e3c8c9dbaa431ab6635dbb3ffd" crc="3aa01dbd" />
     <rom name="Lost Vikings II, The - Norse by Norsewest (Europe) (En,Fr,De).sfc" size="1048576" sha1="fa76c28408d6d9b441423c1349e1908d8c155001" crc="3c49a285" />
   </game>
-  <game name="01 - Games/Lost Vikings II, The - Norse by Norsewest/~Hacks">
+  <game name="01 - Games/Lost Vikings 2/~Hacks">
     <rom name="Lost Vikings 2 (USA) [FastROM hack by Sluffy v0.80].sfc" size="2097152" sha1="3d7d351a3c81860fdfd26b43286f89fd5472c356" crc="c7737a20" />
   </game>
   <game name="01 - Games/Lost Vikings, The">
@@ -10176,7 +10176,7 @@
   <game name="01 - Games/Lufia &amp; the Fortress of Doom/~Prototypes and Betas">
     <rom name="Lufia &amp; the Fortress of Doom (USA) (Beta).sfc" size="1048576" sha1="0afe70d30bcc08ec3315f196c6d566d40fbcb259" crc="ef4473c0" />
   </game>
-  <game name="01 - Games/Lufia">
+  <game name="01 - Games/Lufia II - Rise of the Sinistrals">
     <rom name="Estpolis Denki II (Japan).sfc" size="2621440" sha1="fb532e487094037aba6cffa0f3d922383e73cb5f" crc="d9665bbc" />
     <rom name="Lufia (Europe).sfc" size="2621440" sha1="495686e039759b400b557d1ec3cf040336adf343" crc="fdb80165" />
     <rom name="Lufia (Germany).sfc" size="3145728" sha1="858197f17ac8081bd7d43f4089a75785a2016c6c" crc="8278693d" />
@@ -10184,7 +10184,7 @@
     <rom name="Lufia (Spain).sfc" size="3145728" sha1="eaf67e123573ca50d7fb8828c59e4f7a1df23fa2" crc="d93c0dd4" />
     <rom name="Lufia II - Rise of the Sinistrals (USA).sfc" size="2621440" sha1="a89931c1f29b161b8be717dfab4a4adb54b42b84" crc="20f2ac29" />
   </game>
-  <game name="01 - Games/Lufia/~Hacks/Lufia II - Rise of the Sinistrals (USA) (MSU1) [Hack by Conn v20181113]">
+  <game name="01 - Games/Lufia II - Rise of the Sinistrals/~Hacks/Lufia II - Rise of the Sinistrals (USA) (MSU1) [Hack by Conn v20181113]">
     <rom name="Lufia II - Rise of the Sinistrals (USA) (MSU1)-0.pcm" size="17966700" sha1="593c8a236b3171e1ebbbab15ed123b98742287fd" crc="f74b2b3d" />
     <rom name="Lufia II - Rise of the Sinistrals (USA) (MSU1)-1.pcm" size="20593040" sha1="eda5225cad8af676c68e3ca072550fa36ff9cf94" crc="8467a207" />
     <rom name="Lufia II - Rise of the Sinistrals (USA) (MSU1)-10.pcm" size="16269452" sha1="ee2e17aab9e5608ecd2ed04707d0206c18b5538c" crc="62babd52" />
@@ -10380,7 +10380,7 @@
   <game name="01 - Games/Magic Sword/~Hacks">
     <rom name="Magic Sword (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" sha1="cacf04a98e1a1fb1825970343c3112c3321dbac7" crc="62d4d59a" />
   </game>
-  <game name="01 - Games/Magical Drop 2">
+  <game name="01 - Games/Magical Drop II">
     <rom name="Magical Drop 2 (Japan).sfc" size="2097152" sha1="33c8b174eaec2095eba54bd4f8e3751cb638f8ff" crc="2cf5094c" />
     <rom name="Magical Drop 2 (World) (Evercade).sfc" size="3145728" sha1="a8cd502ed94d54b797fbbd286ea5b8b21bc82939" crc="4d88489f" />
     <rom name="Magical Drop 2 - Bunka Housou Special Version (Japan).sfc" size="2097152" sha1="2602129615be0b06e9e4e431ab7f987a41c87b2b" crc="569a1cec" />
@@ -10538,13 +10538,13 @@
     <rom name="Majin Tensei (Japan) [T-En by DDSTranslation v4.0] [Add by Badnest v1.0].sfc" size="2097152" sha1="f72aafdad6f1155cf2e9d9b66336cf7a35bbf5d6" crc="2044710a" />
     <rom name="Majin Tensei (Japan) [T-En by DDSTranslation v4.0].sfc" size="2097152" sha1="7caa4fadbd49969f8a2c70e9ef4c9e0e14085498" crc="42b1176b" />
   </game>
-  <game name="01 - Games/Major Title">
+  <game name="01 - Games/Irem Skins Game, The">
     <rom name="Irem Skins Game, The (USA) (Arcade).sfc" size="1048576" sha1="eabfba1e747acdc53702258910e9dddbc291f613" crc="473db113" />
     <rom name="Irem Skins Game, The (USA).sfc" size="1048576" sha1="c65b1a6effbc4a876ead6554704d821f52f39618" crc="b95ddc44" />
     <rom name="Major Title (Europe).sfc" size="1048576" sha1="fe75b3082464a90a8fcc9eb0e224d1045b9e4314" crc="3075cb04" />
     <rom name="Major Title (Japan) (En).sfc" size="1048576" sha1="2b4a6fe13ad464be863e50c93e9da75ab93ba1ee" crc="0e98f71d" />
   </game>
-  <game name="01 - Games/Major Title/~Prototypes and Betas">
+  <game name="01 - Games/Irem Skins Game, The/~Prototypes and Betas">
     <rom name="Irem Skins Game, The (USA) (Beta).sfc" size="1048576" sha1="c809e6e7d5cd2f28a4fe79ea36c9abb14ab278ba" crc="f1550f25" />
   </game>
   <game name="01 - Games/Majuu Ou">
@@ -10697,7 +10697,7 @@
   <game name="01 - Games/Matsumura Kunihiro Den - Saikyou no Rekishi o Nurikaero!/~Prototypes and Betas">
     <rom name="Matsumura Kunihiro Den - Saikyou no Rekishi o Nurikaero! (Japan) (Beta).sfc" size="3145728" sha1="c50aadfd7d08f7140e6b22b2d81235f2b3bba82d" crc="d379085b" />
   </game>
-  <game name="01 - Games/MazezaM Challenge DX">
+  <game name="01 - Games/MazezaM Challenge">
     <rom name="MazezaM Challenge (World) (En,Fr) (v1.2) (Aftermarket) (Unl).sfc" size="524288" sha1="d263ffb10a1e4b8b177292fdb48973358a7c5aba" crc="076ac3fe" />
     <rom name="MazezaM Challenge (World) (NEO Compo 2012) (Aftermarket) (Unl).sfc" size="524288" sha1="cdf110fd6e176f12cb65deccaa7b29d3d230327d" crc="86b790c7" />
     <rom name="MazezaM Challenge (World) (v1.1) (NEO Compo 2012) (Aftermarket) (Unl).sfc" size="524288" sha1="020ff0de87968b6f1591358a580a9043d1f1d979" crc="5e468fb4" />
@@ -11540,17 +11540,17 @@
   <game name="01 - Games/Mick &amp; Mack as the Global Gladiators/~Prototypes and Betas">
     <rom name="Mick &amp; Mack as the Global Gladiators (USA) (Proto) [b].sfc" size="2097152" sha1="920adcfce57ec5e882a39a95e616053a438ce91a" crc="240442ea" />
   </game>
-  <game name="01 - Games/Mickey Mania">
+  <game name="01 - Games/Mickey Mania - The Timeless Adventures of Mickey Mouse">
     <rom name="Mickey Mania (Europe).sfc" size="2097152" sha1="69a1f2a6541565f86abbb568dbf04a8bb3ac90b0" crc="75fddf27" />
     <rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (Japan).sfc" size="2097152" sha1="5e7c62d7304cc302367f57d6c2c6b5cdf9f2ac57" crc="b6c13316" />
     <rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).sfc" size="2097152" sha1="34b11763d672df886789c428f7cf8a567876a57e" crc="08806b5b" />
   </game>
-  <game name="01 - Games/Mickey Mania/~Hacks">
+  <game name="01 - Games/Mickey Mania - The Timeless Adventures of Mickey Mouse/~Hacks">
     <rom name="Mickey Mania (Europe) [FastROM hack by kandowontu v1.0].sfc" size="2097152" sha1="e7b4bcce82e206bd8e1b94cc742b945b9f562969" crc="d46a4adc" />
     <rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (Japan) [FastROM hack by kandowontu v1.0].sfc" size="2097152" sha1="44c0d45a0f651cf8f2316fc8dbb515d057b03738" crc="b449d364" />
     <rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) [FastROM hack by kandowontu v1.0].sfc" size="2097152" sha1="9e50b61a36b9e0ae649c004b4a6ce579a6042066" crc="20be1d73" />
   </game>
-  <game name="01 - Games/Mickey Mania/~Hacks/Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (MSU1) [Hack by PepilloPev v1.0]">
+  <game name="01 - Games/Mickey Mania - The Timeless Adventures of Mickey Mouse/~Hacks/Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (MSU1) [Hack by PepilloPev v1.0]">
     <rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (MSU1)-1.pcm" size="4958912" sha1="6c8148143e307d07fa5288d145fed61420b40aba" crc="65e7b7b8" />
     <rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (MSU1)-10.pcm" size="21174892" sha1="8984870b0c296d2a30ec012191affbe5de640069" crc="d39c2bda" />
     <rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (MSU1)-11.pcm" size="21516864" sha1="c91d96fa8fea2d697ae8146ed91635080c354091" crc="4c7d2bee" />
@@ -11576,7 +11576,7 @@
     <rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (MSU1).msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
     <rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (MSU1).sfc" size="2097152" sha1="6549f76e411e714021dac145193bbe8c506601e8" crc="dc4c5e69" />
   </game>
-  <game name="01 - Games/Mickey Mania/~Prototypes and Betas">
+  <game name="01 - Games/Mickey Mania - The Timeless Adventures of Mickey Mouse/~Prototypes and Betas">
     <rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (Japan) (Beta).sfc" size="2097152" sha1="5695f1614b2333598da4db26606339babd133bd7" crc="b9c629b0" />
     <rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Beta 1) (Debug).sfc" size="2097152" sha1="52e174d3e45aae2d77d909b1914db51776ef4584" crc="7f768797" />
     <rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Beta 2).sfc" size="2097152" sha1="cf0defe9afb10234b7ce8ee52dbbff23428d386f" crc="32dd0733" />
@@ -12184,7 +12184,7 @@
     <rom name="Mystic Ark (Japan) [T-En by Aeon Genesis v1.01].sfc" size="4194304" sha1="4b03bb1d36acca9e46742570bfb24512d5498cce" crc="b2bcc9c9" />
     <rom name="Mystic Ark (Japan) [T-En by Dynamic Designs v1.01].sfc" size="4194304" sha1="43ac31392762c5caad775e2bbd2e7c09376137fe" crc="40eb80f1" />
   </game>
-  <game name="01 - Games/Mystic Quest Legend">
+  <game name="01 - Games/Final Fantasy - Mystic Quest">
     <rom name="Final Fantasy - Mystic Quest (USA) (Rev 1).sfc" size="524288" sha1="6be74b73b736bc6027c0e92619874da7c498bed0" crc="2c52c792" />
     <rom name="Final Fantasy - Mystic Quest (USA).sfc" size="524288" sha1="787c535aaca7b57f6b85fc02ceef106f7fe5ea59" crc="6b19a2c6" />
     <rom name="Final Fantasy USA - Mystic Quest (Japan).sfc" size="524288" sha1="ffc05a65ef43fa5c56c9930af1af527509c1ae05" crc="1da17f0c" />
@@ -12192,7 +12192,7 @@
     <rom name="Mystic Quest Legend (France).sfc" size="524288" sha1="6c2bcb3be5ad46cc96fd35b50446931fc046a167" crc="f997debc" />
     <rom name="Mystic Quest Legend (Germany).sfc" size="524288" sha1="bd190854c0f725160ed6f6b0669e3cdd2308ccca" crc="f21760df" />
   </game>
-  <game name="01 - Games/Mystic Quest Legend/~Hacks/Final Fantasy - Mystic Quest (USA) (Rev 1) (MSU1) [Hack by Conn v3]">
+  <game name="01 - Games/Final Fantasy - Mystic Quest/~Hacks/Final Fantasy - Mystic Quest (USA) (Rev 1) (MSU1) [Hack by Conn v3]">
     <rom name="Final Fantasy - Mystic Quest (USA) (Rev 1) (MSU1)-0.pcm" size="5292008" sha1="91011c4513a9050d07c464800d1d744615ab2ee8" crc="fa053e29" />
     <rom name="Final Fantasy - Mystic Quest (USA) (Rev 1) (MSU1)-1.pcm" size="15501384" sha1="10d9528c1b72743218875acf3fde4186bbf6ba86" crc="ccbd811a" />
     <rom name="Final Fantasy - Mystic Quest (USA) (Rev 1) (MSU1)-10.pcm" size="12007900" sha1="dd5a91f374e802f9e90df420c0cfb2a8ed059daa" crc="3c0542c8" />
@@ -12441,12 +12441,12 @@
   <game name="01 - Games/NHL 98/~Hacks">
     <rom name="NHL 98 (USA) [FastROM hack by kandowontu v1.0].sfc" size="2097152" sha1="14fd585a3518fcf51e457c365067814a821f98e6" crc="89573959" />
   </game>
-  <game name="01 - Games/NHL Hockey '94">
+  <game name="01 - Games/NHL '94">
     <rom name="NHL '94 (USA).sfc" size="1048576" sha1="10dcd21be9c5542e82b0b94473bf5ff569b36cf5" crc="42212a77" />
     <rom name="NHL Hockey '94 (Europe).sfc" size="1048576" sha1="7ff7f505dd76b9ab5c02fcfc7ef46d228922eb66" crc="208fbf59" />
     <rom name="NHL Pro Hockey '94 (Japan).sfc" size="1048576" sha1="42c2056c0304be4ae54385993ad80fa8f639117d" crc="bc37d603" />
   </game>
-  <game name="01 - Games/NHL Hockey '94/~Prototypes and Betas">
+  <game name="01 - Games/NHL '94/~Prototypes and Betas">
     <rom name="NHL '94 (USA) (Beta).sfc" size="1048576" sha1="872727944a3d79ebdf21da4be945a8ae619e7b5a" crc="00ff0c74" />
   </game>
   <game name="01 - Games/NHLPA Hockey 93">
@@ -13024,12 +13024,12 @@
     <rom name="Ninja Gaiden Trilogy (USA) (MSU1).msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
     <rom name="Ninja Gaiden Trilogy (USA) (MSU1).sfc" size="1572864" sha1="365d2cb599ad9b5f26b592397a5795f8711d2040" crc="96e7539b" />
   </game>
-  <game name="01 - Games/Ninjawarriors - The New Generation">
+  <game name="01 - Games/Ninjawarriors">
     <rom name="Ninjawarriors (USA).sfc" size="1572864" sha1="18b946459af12a8d35914a5bfb62ac4cf21f9266" crc="7537d8d7" />
     <rom name="Ninjawarriors - The New Generation (Europe).sfc" size="1572864" sha1="f3c00b4a8f52160593fa296b3e4e21e20f53b8e3" crc="733764d7" />
     <rom name="Ninjawarriors Again, The (Japan).sfc" size="1572864" sha1="2705b8f7707d2071911f5aabba3144d302441e48" crc="3bc037b6" />
   </game>
-  <game name="01 - Games/Ninjawarriors - The New Generation/~Hacks/Ninjawarriors (USA) (MSU1) [Hack by Revenant v1]">
+  <game name="01 - Games/Ninjawarriors/~Hacks/Ninjawarriors (USA) (MSU1) [Hack by Revenant v1]">
     <rom name="Ninjawarriors (USA) (MSU1)-1.pcm" size="12190008" sha1="491e97211f25172921f0c1f1498fdf0140c942b6" crc="91936765" />
     <rom name="Ninjawarriors (USA) (MSU1)-10.pcm" size="17730748" sha1="b181f801a37fd507bf30de0e361ade5450a8efa6" crc="eb45cb66" />
     <rom name="Ninjawarriors (USA) (MSU1)-11.pcm" size="15622140" sha1="c3eb3ce770f4bb4bb10809f4575591d2823882a7" crc="45135223" />
@@ -13066,7 +13066,7 @@
     <rom name="Ninjawarriors (USA) (MSU1).msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
     <rom name="Ninjawarriors (USA) (MSU1).sfc" size="1572864" sha1="226c63fdcd36884dfbb25e64794b8a7facfad6e4" crc="0070ab4b" />
   </game>
-  <game name="01 - Games/Ninjawarriors - The New Generation/~Hacks">
+  <game name="01 - Games/Ninjawarriors/~Hacks">
     <rom name="Ninjawarriors (USA) [FastROM hack by kandowontu v1.0].sfc" size="1572864" sha1="7c9331458bee84ccfb3fa9002f601acf844538eb" crc="77027bbf" />
     <rom name="Ninjawarriors Again, The (Japan) [FastROM hack by kandowontu v1.1].sfc" size="1572864" sha1="fc32f79a6528fdde318ad39c3b36e32ec12c5a48" crc="f844ce41" />
   </game>
@@ -13093,12 +13093,12 @@
   <game name="01 - Games/Nintendo Power Magazine 107">
     <rom name="Nintendo Power Magazine 107 (Japan) (Magazine).bs" size="524288" sha1="d991321ff6cbbbcaf780297d597330f6f74fd2ce" crc="f3ed881c" />
   </game>
-  <game name="01 - Games/Nintendo Scope 6">
+  <game name="01 - Games/Super Scope 6">
     <rom name="Nintendo Scope 6 (Europe).sfc" size="1048576" sha1="e5efb589e2dd783ef2d99f01caa866d8a3a04d16" crc="b1859ca4" />
     <rom name="Super Scope 6 (Japan).sfc" size="1048576" sha1="e8c0be08b9394580fad7efdc8645e7e639089dab" crc="7887f968" />
     <rom name="Super Scope 6 (USA).sfc" size="1048576" sha1="11ba3ba6f7cbcff6d22d74e4ffa3a0f447bb2e6b" crc="b141ea99" />
   </game>
-  <game name="01 - Games/Nintendo Scope 6/~Hacks/Super Scope 6 (USA) (MSU1) [Hack by Kurrono v20231705]">
+  <game name="01 - Games/Super Scope 6/~Hacks/Super Scope 6 (USA) (MSU1) [Hack by Kurrono v20231705]">
     <rom name="Super Scope 6 (USA) (MSU1)-0.pcm" size="795624" sha1="f4d8a4eb8188bf5417d7f1de01ca593267b6e667" crc="14fdcf80" />
     <rom name="Super Scope 6 (USA) (MSU1)-1.pcm" size="17449264" sha1="ed42be858fe4ed4df2f8e0c85808ea8413c64697" crc="4265e3d3" />
     <rom name="Super Scope 6 (USA) (MSU1)-10.pcm" size="3262880" sha1="f8fa115baecaa051123f692fa048ba718b1005b2" crc="ff4d4020" />
@@ -13603,7 +13603,7 @@
   <game name="01 - Games/Pieces/~Prototypes and Betas">
     <rom name="Jigsaw Party (Japan) (Beta).sfc" size="1048576" sha1="e992ba74c48e5ac41479bc786f82f948fb871ce4" crc="f3f2ac30" />
   </game>
-  <game name="01 - Games/Pierre le Chef is... Out to Lunch">
+  <game name="01 - Games/Out to Lunch">
     <rom name="Out to Lunch (USA).sfc" size="1048576" sha1="0a8051f7744ec11464f75c235a4a5d003da799d1" crc="3d0c8974" />
     <rom name="Pierre le Chef is... Out to Lunch (Europe).sfc" size="1048576" sha1="c5d52c27c4eeb1f34fbb91899cb809280867008b" crc="a9764a20" />
   </game>
@@ -13961,12 +13961,12 @@
     <rom name="Power Rangers Zeo - Battle Racers (Europe).sfc" size="1048576" sha1="bdafd8414e832acb4f85c2f3a539ba9b9af8bcc9" crc="6aa46cfc" />
     <rom name="Power Rangers Zeo - Battle Racers (USA).sfc" size="1048576" sha1="f83f07f2a6de60ed5e96e7f08de42ed69b9f6e62" crc="389300cf" />
   </game>
-  <game name="01 - Games/Power Rangers">
+  <game name="01 - Games/Mighty Morphin Power Rangers">
     <rom name="Mighty Morphin Power Rangers (Japan) (En).sfc" size="2097152" sha1="5f2c815e36b3c7e1fd0b8e66dddfe14d7a453ff2" crc="812329c2" />
     <rom name="Mighty Morphin Power Rangers (USA).sfc" size="2097152" sha1="f2b093f57b511fc30d40114649dafc342872186b" crc="a56eb77a" />
     <rom name="Power Rangers (Europe).sfc" size="2097152" sha1="f0cff996ec3ab7da5ff7e8474647fde767dd0b12" crc="1df7233c" />
   </game>
-  <game name="01 - Games/Power Rangers/~Hacks">
+  <game name="01 - Games/Mighty Morphin Power Rangers/~Hacks">
     <rom name="Mighty Morphin Power Rangers (USA) [FastROM hack by kandowontu v1.1] [bugged title screen].sfc" size="2097152" sha1="19306243417da8ed6ea403c9710b4ab02dadf9d6" crc="bb3a72c3" />
   </game>
   <game name="01 - Games/Power Slide/~Prototypes and Betas">
@@ -14154,13 +14154,13 @@
   <game name="01 - Games/Putty Squad/~Prototypes and Betas">
     <rom name="Putty Squad (USA) (Proto).sfc" size="1048576" sha1="765352a55bfb58e52f08e403823b0c77e8650300" crc="8e57bb02" />
   </game>
-  <game name="01 - Games/Puzzle Bobble - Bust-A-Move">
+  <game name="01 - Games/Bust-A-Move">
     <rom name="Bust-A-Move (USA).sfc" size="524288" sha1="43b8da73ee83c82b3a70092503f26c73e2333eee" crc="3266fd23" />
     <rom name="Puzzle Bobble (Japan).sfc" size="524288" sha1="918c7b5bf263001cc4bfc53b4a42dac1fd4f897a" crc="96bd588b" />
     <rom name="Puzzle Bobble - Bust-A-Move (Europe) (Rev 1).sfc" size="524288" sha1="dda7cfae48f7bd8d868b147c3459d28df84830fc" crc="ada6a87f" />
     <rom name="Puzzle Bobble - Bust-A-Move (Europe).sfc" size="524288" sha1="79528190898a9e737e3b00838b168cc649ba6429" crc="c5d1ddb3" />
   </game>
-  <game name="01 - Games/Puzzle Bobble - Bust-A-Move/~Hacks/Bust-A-Move (USA) (MSU1) [Hack by Zdrmonster v1.02]">
+  <game name="01 - Games/Bust-A-Move/~Hacks/Bust-A-Move (USA) (MSU1) [Hack by Zdrmonster v1.02]">
     <rom name="Bust-A-Move (USA) (MSU1)-1.pcm" size="7662916" sha1="7187f1c62117c1286cb2c38513deb9ea264b748a" crc="f2de870f" />
     <rom name="Bust-A-Move (USA) (MSU1)-2.pcm" size="607896" sha1="e5f37a3dd6f501243718fac04685bfa7b471a9e5" crc="9870845f" />
     <rom name="Bust-A-Move (USA) (MSU1)-3.pcm" size="1072024" sha1="dac3ae1f918256b88584587dacf34e5096bb43a2" crc="d7e2af3b" />
@@ -14301,16 +14301,16 @@
   <game name="01 - Games/Ranma 1-2 - Ougi Jaanken/~Hacks">
     <rom name="Ranma 1-2 - Ougi Jaanken (Japan) [FastROM hack by bankbank v1.04].sfc" size="1048576" sha1="f969b63b02170e25f58662929d51ee91d603afd4" crc="15f561d3" />
   </game>
-  <game name="01 - Games/Ranma 1-2">
+  <game name="01 - Games/Ranma 1-2 - Hard Battle">
     <rom name="Ranma 1-2 (Europe).sfc" size="1572864" sha1="da01db3aaa4aaf8f62acf218be9d4becffa92e3e" crc="e6c51ff7" />
     <rom name="Ranma 1-2 (France).sfc" size="1572864" sha1="f852d5312fb2290049cdc76b9e902c02c5e5fdb3" crc="3fe1854a" />
     <rom name="Ranma 1-2 - Bakuretsu Rantou Hen (Japan).sfc" size="1572864" sha1="0688c92e57a68424fdd08ef4d506cd3cf0d8386a" crc="053b2615" />
     <rom name="Ranma 1-2 - Hard Battle (USA).sfc" size="1572864" sha1="e64a9798de444c1872b4c943b564ba880ccb8464" crc="8e4dadcd" />
   </game>
-  <game name="01 - Games/Ranma 1-2/~Prototypes and Betas">
+  <game name="01 - Games/Ranma 1-2 - Hard Battle/~Prototypes and Betas">
     <rom name="Ranma 1-2 (Europe) (Beta).sfc" size="1572864" sha1="6dccdafb2addf9ab5bae673c81542b3da45a4bdb" crc="9264e9a7" />
   </game>
-  <game name="01 - Games/Ranma 1-2/~Translations">
+  <game name="01 - Games/Ranma 1-2 - Hard Battle/~Translations">
     <rom name="Ranma 1-2 - Treasure of the Red Cat Gang (Japan) [T-En by Dynamic Designs v0.99] [Manga] [n].sfc" size="1572864" sha1="747065e5be951ce5fb0646480b1a262ee2868dc9" crc="e42ada3e" />
     <rom name="Ranma 1-2 - Treasure of the Red Cat Gang (Japan) [T-En by Dynamic Designs v1.00] [Anime] [n].sfc" size="1572864" sha1="d7c1097218b81d8abdec882246a59b3f58d69375" crc="304da83a" />
   </game>
@@ -14464,13 +14464,13 @@
   <game name="01 - Games/Rise of the Robots/~Prototypes and Betas">
     <rom name="Rise of the Robots (USA) (Beta).sfc" size="4194304" sha1="c307f453d3df3bcf319e4cf11031331da269440f" crc="12ad026e" />
   </game>
-  <game name="01 - Games/Rival Turf">
+  <game name="01 - Games/Rival Turf!">
     <rom name="Rival Turf (Europe).sfc" size="1048576" sha1="d0cd30b8fae1f48827b68e66bb67c9e6a3b48979" crc="e8a6b3d1" />
     <rom name="Rival Turf! (USA).sfc" size="1048576" sha1="86541ccb1b3e886794ef2165d93d018b158569e2" crc="ca988f59" />
     <rom name="Rushing Beat (Japan).sfc" size="1048576" sha1="19ca57776d3b3cdbc8cc3444cb26e7de1e40e9b9" crc="a6f0693d" />
     <rom name="Rushing Beat (World) (Evercade).sfc" size="1048576" sha1="85e3e581b33c633da07d595dc482eb3fe614ab30" crc="b8a7b64f" />
   </game>
-  <game name="01 - Games/Rival Turf/~Hacks/Rival Turf! (USA) (MSU1) [Hack by Conn v1.0]">
+  <game name="01 - Games/Rival Turf!/~Hacks/Rival Turf! (USA) (MSU1) [Hack by Conn v1.0]">
     <rom name="Rival Turf! (USA) (MSU1)-1.pcm" size="12888584" sha1="6330f5a941a01e9e97e3cc881bba4f69b22b6ff3" crc="1b07d23a" />
     <rom name="Rival Turf! (USA) (MSU1)-10.pcm" size="5128712" sha1="075659810a5bd70372266244115809bad4009128" crc="50a2d9a3" />
     <rom name="Rival Turf! (USA) (MSU1)-11.pcm" size="663272" sha1="0a67f7c1ffa0257e374570e9b3b2c9066dd1ae0b" crc="6da36ef3" />
@@ -14490,10 +14490,10 @@
     <rom name="Rival Turf! (USA) (MSU1).msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
     <rom name="Rival Turf! (USA) (MSU1).sfc" size="1572864" sha1="e56236b76e77175f46962ffaaedcff2c1404298c" crc="bd9063c2" />
   </game>
-  <game name="01 - Games/Rival Turf/~Hacks">
+  <game name="01 - Games/Rival Turf!/~Hacks">
     <rom name="Rushing Beat (Japan) [FastROM hack by kandowontu v1.0].sfc" size="1048576" sha1="23acd93b1c5c29f460e5beaf4b63c5694b141044" crc="cb9c8975" />
   </game>
-  <game name="01 - Games/Rival Turf/~Translations/Rushing Beat (Japan) (MSU1) [T-En by FlashPV v1.0] [Hack by Conn v1.0] [FastROM hack by Kandowontu v1.0]">
+  <game name="01 - Games/Rival Turf!/~Translations/Rushing Beat (Japan) (MSU1) [T-En by FlashPV v1.0] [Hack by Conn v1.0] [FastROM hack by Kandowontu v1.0]">
     <rom name="Rushing Beat (Japan) (MSU1) [T-En]-1.pcm" size="12888584" sha1="6330f5a941a01e9e97e3cc881bba4f69b22b6ff3" crc="1b07d23a" />
     <rom name="Rushing Beat (Japan) (MSU1) [T-En]-10.pcm" size="5128712" sha1="075659810a5bd70372266244115809bad4009128" crc="50a2d9a3" />
     <rom name="Rushing Beat (Japan) (MSU1) [T-En]-11.pcm" size="663272" sha1="0a67f7c1ffa0257e374570e9b3b2c9066dd1ae0b" crc="6da36ef3" />
@@ -14513,7 +14513,7 @@
     <rom name="Rushing Beat (Japan) (MSU1) [T-En].msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
     <rom name="Rushing Beat (Japan) (MSU1) [T-En].sfc" size="1572864" sha1="c6a6710377b0633544b6cd52c684e7b32680cf8f" crc="21208571" />
   </game>
-  <game name="01 - Games/Rival Turf/~Translations">
+  <game name="01 - Games/Rival Turf!/~Translations">
     <rom name="Rushing Beat (Japan) [T-En by FlashPV v1.0] [FastROM hack by kandowontu v1.0].sfc" size="1048576" sha1="df6086efecb971947339cad5df320fb3ef94fc88" crc="e9c2f7c5" />
     <rom name="Rushing Beat (Japan) [T-En by FlashPV v1.0].sfc" size="1048576" sha1="b499b534ba56fe2856c64cc462fdda6ab636caec" crc="e50381bf" />
   </game>
@@ -14551,17 +14551,17 @@
     <rom name="Williams Arcade's Greatest Hits (Europe) [FastROM hack by kandowontu v1.0].sfc" size="524288" sha1="dc9e9b786bff1b06e28373ab5ff025a6ff5a277b" crc="9307846b" />
     <rom name="Williams Arcade's Greatest Hits (USA) [FastROM hack by kandowontu v1.0].sfc" size="524288" sha1="74d97c3a21fe723fc7abe7149334d02605051a7f" crc="0875ffe4" />
   </game>
-  <game name="01 - Games/Rock 'N' Roll Racing">
+  <game name="01 - Games/Rock N' Roll Racing">
     <rom name="Rock 'N' Roll Racing (Europe).sfc" size="1048576" sha1="61430be47083d7e7f5879a69247dd17ddaff50d1" crc="b02daf39" />
     <rom name="Rock N' Roll Racing (Japan).sfc" size="1048576" sha1="f0673d5446e42c4dbf1c177f9ad02ee2f5ba36fc" crc="a206384c" />
     <rom name="Rock N' Roll Racing (USA).sfc" size="1048576" sha1="66d864dd07f8eae86cf4e1f60f176b405a2ddbe9" crc="7d06f473" />
   </game>
-  <game name="01 - Games/Rock 'N' Roll Racing/~Hacks">
+  <game name="01 - Games/Rock N' Roll Racing/~Hacks">
     <rom name="Rock N' Roll Racing (USA) [FastROM &amp; Mega Drive hack by Ti v1.1] [Region lock+SRAM checks removed].sfc" size="2097152" sha1="b776fce79c3279bc57214c17e85a78c6f628b7af" crc="5679918c" />
     <rom name="Rock N' Roll Racing (USA) [FastROM &amp; Mega Drive hack by Ti v1.1].sfc" size="2097152" sha1="9ea8c3095d32e65c78ddd72e111f89d7ef314a18" crc="7e57b9e4" />
     <rom name="Rock N' Roll Racing (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" sha1="20946fd6fe519c3813c4ae280385145678fd7696" crc="a15cecef" />
   </game>
-  <game name="01 - Games/Rock 'N' Roll Racing/~Hacks/Rock n' Roll Racing (USA) (MSU1) [Hack by DarkShock v1.0]">
+  <game name="01 - Games/Rock N' Roll Racing/~Hacks/Rock n' Roll Racing (USA) (MSU1) [Hack by DarkShock v1.0]">
     <rom name="Rock n' Roll Racing (USA) (MSU1)-0.pcm" size="64593928" sha1="fb73f851dba63f8506d6aa7ef3dd4471efcea6a5" crc="310ab877" />
     <rom name="Rock n' Roll Racing (USA) (MSU1)-1.pcm" size="25722888" sha1="0b99da01d150e3f3135911fcdb159360351c85d5" crc="2f95f03c" />
     <rom name="Rock n' Roll Racing (USA) (MSU1)-2.pcm" size="36593512" sha1="af7593c4bb3f6b6977eff50e8fbbe528721243d0" crc="199f341e" />
@@ -14570,7 +14570,7 @@
     <rom name="Rock n' Roll Racing (USA) (MSU1).msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
     <rom name="Rock n' Roll Racing (USA) (MSU1).sfc" size="1048576" sha1="08874596a09b3cad921d56cd7dfe91bda25b47b8" crc="a350a731" />
   </game>
-  <game name="01 - Games/Rock 'N' Roll Racing/~Prototypes and Betas">
+  <game name="01 - Games/Rock N' Roll Racing/~Prototypes and Betas">
     <rom name="Rock &amp; Roll Racing (Europe) (Beta).sfc" size="1048576" sha1="0455d62d519ffce8785465841395373f33e7d13f" crc="bf8b07a9" />
     <rom name="Rock N' Roll Racing (USA) (Beta 1).sfc" size="1048576" sha1="0b9020de0be865fd2cf499bebba367668e762a28" crc="2e47f7d7" />
     <rom name="Rock N' Roll Racing (USA) (Beta 2).sfc" size="1048576" sha1="9a2ad21b8c727fd497636210772d1a0fbb0f89f6" crc="40685b41" />
@@ -15212,7 +15212,7 @@
   <game name="01 - Games/Seijuu Maden Beasts &amp; Blades">
     <rom name="Seijuu Maden Beasts &amp; Blades (Japan).sfc" size="2621440" sha1="e0067694f59e5190bcf02c92ddf016ec3c55fb7a" crc="d0aea27c" />
   </game>
-  <game name="01 - Games/Seiken Densetsu 3">
+  <game name="01 - Games/Trials of Mana">
     <rom name="Seiken Densetsu 3 (Japan) (Seiken Densetsu Collection).sfc" size="4194304" sha1="daa9a51e05faea3fb5928b0d2fa43531a9361020" crc="e8cb48aa" />
     <rom name="Seiken Densetsu 3 (Japan).sfc" size="4194304" sha1="209c55fd2a8d7963905e3048b7d40094d6bea965" crc="863ed0b8" />
     <rom name="Trials of Mana (World) (De) (Collection of Mana).sfc" size="6291456" sha1="d882e706dd201f9d0c94199e3317778f14461fb2" crc="ddb47390" />
@@ -15224,7 +15224,7 @@
     <rom name="Trials of Mana (World) (Fr) (Collection of Mana).sfc" size="6291456" sha1="f0ad9af7e8dee731d2c8112d4e954e9b238032bc" crc="d4f43f86" />
     <rom name="Trials of Mana (World) (Fr) (Rev 1) (Collection of Mana).sfc" size="6291456" sha1="241d5eea760fbdcffcfafd1064d68f18ec38fb94" crc="3d09832a" />
   </game>
-  <game name="01 - Games/Seiken Densetsu 3/~Hacks/Trials of Mana (World) (MSU1) [Hack by Conn v6]">
+  <game name="01 - Games/Trials of Mana/~Hacks/Trials of Mana (World) (MSU1) [Hack by Conn v6]">
     <rom name="Trials of Mana (World) (MSU1)-0.pcm" size="8" sha1="b269d2bf9b36b1a379bc8b1995a4bd6a40827e59" crc="0585f30d" />
     <rom name="Trials of Mana (World) (MSU1)-1.pcm" size="24001496" sha1="d78ad79213f61f3e52cdf5876d1cf6cf25f2ddae" crc="eef9d00f" />
     <rom name="Trials of Mana (World) (MSU1)-10.pcm" size="22138744" sha1="3d05bb5b000053ec24d08bee9d7e8313739500f2" crc="155d9b82" />
@@ -15304,10 +15304,10 @@
     <rom name="Trials of Mana (World) (MSU1).msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
     <rom name="Trials of Mana (World) (MSU1).sfc" size="6291456" sha1="ce87a742ef04065136a7eed85932370301a118df" crc="764dc183" />
   </game>
-  <game name="01 - Games/Seiken Densetsu 3/~Prototypes and Betas">
+  <game name="01 - Games/Trials of Mana/~Prototypes and Betas">
     <rom name="Trials of Mana (World) (En) (Beta) (Collection of Mana).sfc" size="6291456" sha1="d9757453fc9799ecd6780202b3f603e7ab2168af" crc="dfb821e4" />
   </game>
-  <game name="01 - Games/Seiken Densetsu 3/~Translations/Seiken Densetsu 3 (Japan) (MSU1) [T-En by LNF &amp; Neill Corlett &amp; SoM2Freak v1.01] [Hack by Conn v6]">
+  <game name="01 - Games/Trials of Mana/~Translations/Seiken Densetsu 3 (Japan) (MSU1) [T-En by LNF &amp; Neill Corlett &amp; SoM2Freak v1.01] [Hack by Conn v6]">
     <rom name="Seiken Densetsu 3 (Japan) (MSU1) [T-En]-0.pcm" size="8" sha1="b269d2bf9b36b1a379bc8b1995a4bd6a40827e59" crc="0585f30d" />
     <rom name="Seiken Densetsu 3 (Japan) (MSU1) [T-En]-1.pcm" size="24001496" sha1="d78ad79213f61f3e52cdf5876d1cf6cf25f2ddae" crc="eef9d00f" />
     <rom name="Seiken Densetsu 3 (Japan) (MSU1) [T-En]-10.pcm" size="22138744" sha1="3d05bb5b000053ec24d08bee9d7e8313739500f2" crc="155d9b82" />
@@ -15387,7 +15387,7 @@
     <rom name="Seiken Densetsu 3 (Japan) (MSU1) [T-En].msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
     <rom name="Seiken Densetsu 3 (Japan) (MSU1) [T-En].sfc" size="4194304" sha1="7149d6b41143c389c4965f7199ff7e07482e0fb1" crc="a4ffb76e" />
   </game>
-  <game name="01 - Games/Seiken Densetsu 3/~Translations">
+  <game name="01 - Games/Trials of Mana/~Translations">
     <rom name="Seiken Densetsu 3 (Japan) [T-En by LNF &amp; Neill Corlett &amp; SoM2Freak v1.01].sfc" size="4194304" sha1="d614cf1466911a7d3212ca77475645c3229b3403" crc="8d748300" />
   </game>
   <game name="01 - Games/Sengoku Denshou">
@@ -15540,11 +15540,11 @@
     <rom name="Shin Megami Tensei II (Japan) [T-En by Aeon Genesis v1.00] [Fiend tile hack by A Friendly Irin v1.1].sfc" size="2621440" sha1="f13fceb7ef771e0e6a6a47619c6d474b9534c4b9" crc="9f4bad20" />
     <rom name="Shin Megami Tensei II (Japan) [T-En by Aeon Genesis v1.00].sfc" size="2621440" sha1="a5c2f5f448a0905630dfb8e1b3b9f361b25ec50b" crc="591821a2" />
   </game>
-  <game name="01 - Games/Shin Megami Tensei if">
+  <game name="01 - Games/Shin Megami Tensei if...">
     <rom name="Shin Megami Tensei if... (Japan) (Rev 1).sfc" size="2097152" sha1="1c03587a05b24555d9dc3f6d3afd1bb4bd104090" crc="77d02030" />
     <rom name="Shin Megami Tensei if... (Japan).sfc" size="2097152" sha1="fb8a7005b62549a09de00ca83a795ca1a1560a7d" crc="4dd73cba" />
   </game>
-  <game name="01 - Games/Shin Megami Tensei if/~Translations">
+  <game name="01 - Games/Shin Megami Tensei if.../~Translations">
     <rom name="Shin Megami Tensei if... (Japan) [T-En by Aeon Genesis v1.0] [Add by A Friendly Irin v1.05].sfc" size="2621440" sha1="d246a280274e4be921332a02ccacbfcd96690cbf" crc="547c8d6c" />
     <rom name="Shin Megami Tensei if... (Japan) [T-En by Aeon Genesis v1.0].sfc" size="2621440" sha1="069dfb12d312d114a83e6b27c4c7d1f01f3d4e02" crc="031f11b7" />
   </game>
@@ -15602,7 +15602,7 @@
     <rom name="Shin Momotarou Densetsu (Japan) (Rev 1).sfc" size="2097152" sha1="a9e0b5e6b0479871792f8b44f032b71fdb8f12b4" crc="4a653411" />
     <rom name="Shin Momotarou Densetsu (Japan).sfc" size="2097152" sha1="6d28a77ead1eef3139b0d89eb0ab0599ed3cb70b" crc="68aea5b8" />
   </game>
-  <game name="01 - Games/Shin Nekketsu Kouha - Kunio-tachi no Banka">
+  <game name="01 - Games/River City Girls Zero">
     <rom name="River City Girls Zero (World) (De) (Switch).sfc" size="4194304" sha1="6a66f295029d80fae8c76d94362378e7e2e69d00" crc="127f554b" />
     <rom name="River City Girls Zero (World) (Es) (Switch).sfc" size="4194304" sha1="c7fed035eae81645a56060db21e70ab60fdcff3e" crc="324b4d54" />
     <rom name="River City Girls Zero (World) (Fr) (Switch).sfc" size="4194304" sha1="0530cfa2174098796078d3a46f82bd7c36cf09c5" crc="6b036f40" />
@@ -15617,10 +15617,10 @@
     <rom name="River City Girls Zero (World) (Zh-Hant) (Switch).sfc" size="4194304" sha1="bb69a166a6b1b2b5be3d6ed2a1ddb756430d7e73" crc="f2ee9bc6" />
     <rom name="Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan).sfc" size="2097152" sha1="5522830fec471f2e7b6456da426f198f8282af64" crc="31be696c" />
   </game>
-  <game name="01 - Games/Shin Nekketsu Kouha - Kunio-tachi no Banka/~Hacks">
+  <game name="01 - Games/River City Girls Zero/~Hacks">
     <rom name="Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan) [FastROM hack by kandowontu v1.0].sfc" size="2097152" sha1="4774562a66ea80d2a174d6fdde91ff3ce1d9532c" crc="19ccdd68" />
   </game>
-  <game name="01 - Games/Shin Nekketsu Kouha - Kunio-tachi no Banka/~Translations">
+  <game name="01 - Games/River City Girls Zero/~Translations">
     <rom name="Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan) [T-En by Aeon Genesis v1.00] [FastROM hack by kandowontu v1.0].sfc" size="2097152" sha1="8c6cc1c034167b7d20cb2a8e59013d7e16febce2" crc="a9ae5610" />
     <rom name="Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan) [T-En by Aeon Genesis v1.00].sfc" size="2097152" sha1="a9859784ad545ff299ae3736285e89940e03e0dd" crc="80a89f49" />
   </game>
@@ -15766,7 +15766,7 @@
     <rom name="SimCity 2000 - The Ultimate City Simulator (Japan).sfc" size="2097152" sha1="5cd2b71045f12e9955546b8f06136619b2e1eb0e" crc="b0e89cc6" />
     <rom name="SimCity 2000 - The Ultimate City Simulator (USA).sfc" size="2097152" sha1="3947efbfbdc64788b23528624370c9e33abf7712" crc="2d5dc011" />
   </game>
-  <game name="01 - Games/SimCity Jr">
+  <game name="01 - Games/SimCity Jr.">
     <rom name="SimCity Jr. (Japan).sfc" size="2097152" sha1="46ff3f8a9b2e85ee786d16ee7211b34967ef4567" crc="03503a0b" />
   </game>
   <game name="01 - Games/SimCity">
@@ -15924,31 +15924,31 @@
   <game name="01 - Games/Snow White in Happily Ever After">
     <rom name="Snow White in Happily Ever After (USA).sfc" size="1048576" sha1="ffb0baaec4318287359307932683721bb18fa568" crc="d68d1ab3" />
   </game>
-  <game name="01 - Games/Soccer Kid">
+  <game name="01 - Games/Adventures of Kid Kleets, The">
     <rom name="Adventures of Kid Kleets, The (USA) (En,Fr,Es).sfc" size="1310720" sha1="ab1bc78dc622e746262f6cf7b4d248449fbc9509" crc="1664ae48" />
     <rom name="Soccer Kid (Europe) (En,Fr,De,Es,It).sfc" size="1310720" sha1="1560651300a09b2724365b0b558d13ba320099f9" crc="2a9966c0" />
     <rom name="Soccer Kid (Japan).sfc" size="1310720" sha1="44481022ecc20d521a0d4b1ebe80a6f915b6ef58" crc="a39c674e" />
     <rom name="Soccer Kid (World) (En,Fr,De,Es,It) (Evercade).sfc" size="1310720" sha1="b49cfe84c69c81103aa344e843eace7d8514d0ba" crc="7d2fd6d8" />
     <rom name="Soccer Kid (World) (En,Fr,De,Es,It) (GOG).sfc" size="1310720" sha1="6e06fdddd60ac092f20c60274943cee8e557697d" crc="4853f92b" />
   </game>
-  <game name="01 - Games/Soccer Kid/~Hacks">
+  <game name="01 - Games/Adventures of Kid Kleets, The/~Hacks">
     <rom name="Adventures of Kid Kleets, The (USA) (En,Fr,Es) [Camera &amp; FastROM hack by MaxwelOlinda v1.0].sfc" size="1310720" sha1="d478fe2eac69c06335dceac440e66e774f10202c" crc="82ed113d" />
     <rom name="Adventures of Kid Kleets, The (USA) (En,Fr,Es) [FastROM hack by kandowontu v1.0].sfc" size="1310720" sha1="68a634d5ce10d987ae4a51ebc26790acc3592921" crc="ae242945" />
     <rom name="Soccer Kid (Europe) (En,Fr,De,Es,It) [FastROM hack by kandowontu v1.0].sfc" size="1310720" sha1="354a37144678e9509892e91a1e47e7c9c7c334e4" crc="d9c0b52f" />
   </game>
-  <game name="01 - Games/Soccer Kid/~Prototypes and Betas">
+  <game name="01 - Games/Adventures of Kid Kleets, The/~Prototypes and Betas">
     <rom name="Soccer Kid (Japan) (Beta).sfc" size="1572864" sha1="0febe3fadf3c6bee5408c56140fb4a87949701b8" crc="d2938bdf" />
   </game>
-  <game name="01 - Games/Soccer Shootout">
+  <game name="01 - Games/Capcom's Soccer Shootout">
     <rom name="Capcom's Soccer Shootout (USA).sfc" size="1572864" sha1="630d8a2d25f7caa8dbb5c317c1f35707094538ec" crc="ee314ae5" />
     <rom name="J.League Excite Stage '94 (Japan) (Rev 1).sfc" size="1572864" sha1="6a23bca3ebfbad41875a737f7d64204342f0e574" crc="c9e33615" />
     <rom name="J.League Excite Stage '94 (Japan).sfc" size="1572864" sha1="3a8d418f81d94435692adfed77b6a5fc7e775071" crc="d96b3936" />
     <rom name="Soccer Shootout (Europe).sfc" size="1572864" sha1="4ad0793c4b1c598ad5611670a9eaf5bf8e7eb148" crc="bbcd16f4" />
   </game>
-  <game name="01 - Games/Soccer Shootout/~Pirate">
+  <game name="01 - Games/Capcom's Soccer Shootout/~Pirate">
     <rom name="Super Descentralizado 1995 (Peru) (Es) (Pirate).sfc" size="2097152" sha1="6006fa76f11ef773ebfb6d8c49ceef711ee01b56" crc="0bc88449" />
   </game>
-  <game name="01 - Games/Soccer Shootout/~Prototypes and Betas">
+  <game name="01 - Games/Capcom's Soccer Shootout/~Prototypes and Betas">
     <rom name="Capcom's Soccer Shootout (USA) (Beta).sfc" size="1572864" sha1="7166c05333c85375cd1bf6ca2392b338fb7397f2" crc="89178bc0" />
   </game>
   <game name="01 - Games/Socks the Cat Rocks the Hill">
@@ -16389,7 +16389,7 @@
     <rom name="Starwing 2 (Japan) (Beta) [T-En by Aeon Genesis v1.00] [Add by ManuLoewe v2010720] [Add by Josete2k v1.0] [n].sfc" size="1048576" sha1="41f5b2d871015f70112bc3057b639a23a663babd" crc="88c69a3b" />
     <rom name="Starwing 2 (USA) (Classic Mini) [Add by Josete2k] [n].sfc" size="1048576" sha1="fb466f1069b0a1201f51b875ae3860230ea136c6" crc="e6ed7101" />
   </game>
-  <game name="01 - Games/Starwing">
+  <game name="01 - Games/Star Fox">
     <rom name="Star Fox (Japan) (Rev 1).sfc" size="1048576" sha1="39ff7354a7fa02295c899b7a7ec3556998ac2636" crc="ad668a41" />
     <rom name="Star Fox (Japan).sfc" size="1048576" sha1="a2dceab341ef20c836d4d3426f37f0ec396bbdcb" crc="41a60b3f" />
     <rom name="Star Fox (USA) (Rev 1).sfc" size="1048576" sha1="1d1ccfff6b4eb5389c28a91f754c12b7614158c3" crc="b18676b2" />
@@ -16402,7 +16402,7 @@
     <rom name="Starwing - Competition (Germany) (Competition Cart).sfc" size="1048576" sha1="daf6c7bdbf8c9733705b1c586c85be9edd864a23" crc="b25f606a" />
     <rom name="Super Star Fox Weekend (USA) (Competition Cart, Nintendo Power mail-order).sfc" size="1048576" sha1="2ba5f446dcb56d1164e28b337ae7b4833278b6d9" crc="cd1f04b8" />
   </game>
-  <game name="01 - Games/Starwing/~Hacks">
+  <game name="01 - Games/Star Fox/~Hacks">
     <rom name="Star Fox (Japan) [FastROM &amp; SuperFX3 &amp; Rumble hack by Sunlit &amp; Randal Linden v20260730].sfc" size="1572864" sha1="f582a88bc1661b908ed5a80dd6248d4135cbc0cd" crc="081f5132" />
     <rom name="Star Fox (Japan) [SuperFX2 hack by kandowontu &amp; Vitor Vilela v1.02].sfc" size="2097152" sha1="4b05daeec960a82d6ccb0ea9336b11a4201475f0" crc="09376f25" />
     <rom name="Star Fox (USA) [FastROM &amp; SuperFX2 hack by Catador &amp; kandowontu &amp; LivelyZephyrs v1.2].sfc" size="1048576" sha1="992ab8bfa5663d40579e7bbd0b736efc0813da62" crc="12b516a9" />
@@ -16412,7 +16412,7 @@
     <rom name="Starwing (Europe) [SuperFX2 hack by kandowontu &amp; Vitor Vilela v1.02].sfc" size="2097152" sha1="812550c30b74fadd48ef30ab4baf7a6d619d30bf" crc="d928025b" />
     <rom name="Starwing (Germany) [SuperFX2 hack by kandowontu &amp; Vitor Vilela v1.02].sfc" size="2097152" sha1="4a4a36e398cc163106c01977168d1a5dbd17e8bf" crc="610536e6" />
   </game>
-  <game name="01 - Games/Starwing/~Hacks/Star Fox (USA) (MSU1) [Hack by Conn &amp; Kurrono v20211224] [FastROM &amp; SuperFX2 hack by Catador &amp; Kandowontu &amp; LivelyZephyrs v1.0]">
+  <game name="01 - Games/Star Fox/~Hacks/Star Fox (USA) (MSU1) [Hack by Conn &amp; Kurrono v20211224] [FastROM &amp; SuperFX2 hack by Catador &amp; Kandowontu &amp; LivelyZephyrs v1.0]">
     <rom name="Star Fox (USA) (MSU1)-1.pcm" size="32631060" sha1="8785fef5026ba063c48979ba6bfef98a3b8ae867" crc="46707e29" />
     <rom name="Star Fox (USA) (MSU1)-10.pcm" size="20079672" sha1="214fdf94386c6a7fe5dcdb93916735726792f999" crc="97396585" />
     <rom name="Star Fox (USA) (MSU1)-100.pcm" size="1052012" sha1="ff8f70068e747f2a9e3a1b8c28015036d2715df8" crc="26ab5a46" />
@@ -16484,7 +16484,7 @@
     <rom name="Star Fox (USA) (MSU1).msu" size="183415301" sha1="6d58bac421af5acb2a4f7e36242aaeacb48c606d" crc="8c1a59ee" />
     <rom name="Star Fox (USA) (MSU1).sfc" size="2097152" sha1="254bf43279c70fcb53d7cd1d9ed4fe950a802449" crc="36a597ce" />
   </game>
-  <game name="01 - Games/Starwing/~Prototypes and Betas">
+  <game name="01 - Games/Star Fox/~Prototypes and Betas">
     <rom name="Starwing (Germany) (Beta).sfc" size="1048576" sha1="90c2bf8bae58bcd5ad104ef0aab44a2b21975093" crc="42275e73" />
   </game>
   <game name="01 - Games/Stealth">
@@ -16741,13 +16741,13 @@
   <game name="01 - Games/Street Sports - Street Hockey '95/~Prototypes and Betas">
     <rom name="Street Sports - Street Hockey '95 (USA) (Beta).sfc" size="3145728" sha1="f6a0a06682b28806fea90478d768ea0a8605c31a" crc="29296976" />
   </game>
-  <game name="01 - Games/Striker">
+  <game name="01 - Games/World Soccer 94 - Road to Glory">
     <rom name="Eric Cantona Football Challenge (France) (En,Fr,De,Es,It,Nl,Sv).sfc" size="524288" sha1="188c653e31174cc1ec720f471dbdfbeb5a86fa2e" crc="d190cf58" />
     <rom name="Striker (Europe) (En,Fr,De,Es,It,Nl,Sv).sfc" size="524288" sha1="580746916e3963c9867c8b9b2fa951279ba9d573" crc="60b2d4a8" />
     <rom name="World Soccer (Japan) (En).sfc" size="524288" sha1="9437591e9a8cdfc352b61fa21efb0f59a909b1f7" crc="a3096a8e" />
     <rom name="World Soccer 94 - Road to Glory (USA).sfc" size="524288" sha1="d1cf0b5659fc4139b079eb7b80080ed7d4d7c04b" crc="0aae0a10" />
   </game>
-  <game name="01 - Games/Striker/~Prototypes and Betas">
+  <game name="01 - Games/World Soccer 94 - Road to Glory/~Prototypes and Betas">
     <rom name="Striker (Europe) (En,Fr,De,Es,It,Nl,Sv) (Beta 1).sfc" size="524288" sha1="92ad4372b7e3fe648e21031f3be60cb156494802" crc="fce4da63" />
     <rom name="Striker (Europe) (En,Fr,De,Es,It,Nl,Sv) (Beta 2).sfc" size="524288" sha1="cc8e8d77a03aaf266863ac16af55601e4b274629" crc="89ac1eaa" />
   </game>
@@ -16855,29 +16855,29 @@
   <game name="01 - Games/Super Air Diver 2/~Hacks">
     <rom name="Super Air Diver 2 (Japan) (En) [FastROM hack by kandowontu v1.0].sfc" size="1310720" sha1="5f72e132c0d61ee7e4a05adf5b6e28e1174e2ee2" crc="fd918bad" />
   </game>
-  <game name="01 - Games/Super Air Diver">
+  <game name="01 - Games/Lock On">
     <rom name="Lock On (USA).sfc" size="524288" sha1="1f5e53a0391a902de6ee9407ed10803c84e23cc3" crc="84f7e078" />
     <rom name="Super Air Diver (Europe).sfc" size="524288" sha1="f70567b9dc858bdb66d73d539390b7f74f00ff8a" crc="0b57c764" />
     <rom name="Super Air Diver (Japan).sfc" size="524288" sha1="ffb81b82ea027673cbfc26f6ebd9f05c2d60d6c8" crc="971e74ba" />
   </game>
-  <game name="01 - Games/Super Aleste">
+  <game name="01 - Games/Space Megaforce">
     <rom name="Space Megaforce (USA).sfc" size="1048576" sha1="a5f8b381c3abe29ddb6c5513fb14a905227a6984" crc="11202781" />
     <rom name="Super Aleste (Europe).sfc" size="1048576" sha1="5332dd6fed76e129a3eceec13f44493a3d13998a" crc="e02f9206" />
     <rom name="Super Aleste (Japan).bs" size="1048576" sha1="36721f15cf9e2a65aada7353d12d5246e245ebb2" crc="75993866" />
     <rom name="Super Aleste (Japan).sfc" size="1048576" sha1="da4f108d894dabe16aba9c25f04443df3ed4945a" crc="94d28ff9" />
   </game>
-  <game name="01 - Games/Super Aleste/~Hacks">
+  <game name="01 - Games/Space Megaforce/~Hacks">
     <rom name="Space Megaforce (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" sha1="3b363f22df501d29166ef4df63c2ed826aec34df" crc="1ee84376" />
     <rom name="Super Aleste (Japan) [FastROM hack by kandowontu v1.1].sfc" size="3145728" sha1="b72d9a0a33d3ced35c7f23a243448511a0cba765" crc="3f92d6bd" />
   </game>
-  <game name="01 - Games/Super Aleste/~Prototypes and Betas">
+  <game name="01 - Games/Space Megaforce/~Prototypes and Betas">
     <rom name="Super Aleste (Japan) (Beta).sfc" size="1048576" sha1="2f356398b09825fbbe143ed3afdcf591a61e453e" crc="a895e8f2" />
   </game>
-  <game name="01 - Games/Super Aleste/~Translations">
+  <game name="01 - Games/Space Megaforce/~Translations">
     <rom name="Super Aleste (Japan) [T-En by Asiwish v1.2] [FastROM hack by kandowontu v1.0].sfc" size="1048576" sha1="80b60bb23afb42ebb94904875d6bfa820968eb6b" crc="471c7390" />
     <rom name="Super Aleste (Japan) [T-En by Asiwish v1.2].sfc" size="1048576" sha1="550b0a44141d27ae0c0d70f224e9a6e3b7511265" crc="1f03cddf" />
   </game>
-  <game name="01 - Games/Super B.C. Kid">
+  <game name="01 - Games/Super Bonk">
     <rom name="Super B.C. Kid (Europe).sfc" size="1572864" sha1="773d1d4c1d4f974e0af25c754280f376ea00f510" crc="5615d5ed" />
     <rom name="Super Bonk (USA).sfc" size="1572864" sha1="9231c961fff66854761816ea71d75b6e38f42d8f" crc="5688b581" />
     <rom name="Super Genjin (Japan).sfc" size="1572864" sha1="43b17582287d9302ca4f695a34db2c9c0ae58f2b" crc="b24af648" />
@@ -16933,7 +16933,7 @@
     <rom name="Super Battletank 2 (Spain).sfc" size="2097152" sha1="04faa0072a039d5d1698da013b1db0d22c2f5604" crc="d3802a47" />
     <rom name="Super Battletank 2 (USA).sfc" size="2097152" sha1="41c7441f3b66b6b62e36b2d4e95f4e66a0634ba3" crc="70a292d6" />
   </game>
-  <game name="01 - Games/Super Battletank">
+  <game name="01 - Games/Garry Kitchen's Super Battletank - War in the Gulf">
     <rom name="Garry Kitchen's Super Battletank - War in the Gulf (USA) (Rev 1).sfc" size="524288" sha1="85f6f3e84f5ee57e09424dbd9f89cf069bbc41ea" crc="77811b34" />
     <rom name="Garry Kitchen's Super Battletank - War in the Gulf (USA).sfc" size="524288" sha1="ceb2babcdbdcb55903bdfbf9a70edf103c162bf3" crc="2ce0c852" />
     <rom name="Super Battletank (Europe).sfc" size="524288" sha1="93a86dd8d83c1edf7f0d028820b90355c2d4627e" crc="fe7de9ce" />
@@ -17128,7 +17128,7 @@
   <game name="01 - Games/Super Castlevania IV/~Prototypes and Betas">
     <rom name="Akumajou Dracula (Japan) (Beta).sfc" size="1048576" sha1="269e7a529125328bf5f65647b1d8b8d69596917e" crc="a2a811f6" />
   </game>
-  <game name="01 - Games/Super Chase H.Q">
+  <game name="01 - Games/Super Chase H.Q.">
     <rom name="Super Chase H.Q. (Australia).sfc" size="1048576" sha1="138320659a5168f59ff3f8e8bebd98a0592a271e" crc="01211c80" />
     <rom name="Super Chase H.Q. (USA).sfc" size="1048576" sha1="d962fe88bd6d1bba78386c4f42ec4fd183d8da9b" crc="6ef3b9c7" />
     <rom name="Super H.Q. - Criminal Chaser (Japan).sfc" size="1048576" sha1="5f7d31a93c7244c01733098ee1f05655e7f0a8c1" crc="bf252997" />
@@ -17224,10 +17224,10 @@
   <game name="01 - Games/Super Dunk Star">
     <rom name="Super Dunk Star (Japan) (En).sfc" size="1048576" sha1="2ed755825b9d40ebe74b43166e67f259ded7637b" crc="2d391540" />
   </game>
-  <game name="01 - Games/Super E.D.F">
+  <game name="01 - Games/Super E.D.F.">
     <rom name="Super E.D.F. (Japan) (En).bs" size="1048576" sha1="5301ae75b3707df9c60e4c7b1a2e6b90bece1e6e" crc="2dd53ba4" />
   </game>
-  <game name="01 - Games/Super E.D.F/~Hacks">
+  <game name="01 - Games/Super E.D.F./~Hacks">
     <rom name="Super E.D.F. (Japan) (En) [FastROM hack by kandowontu v1.1].sfc" size="1048576" sha1="8edbb115fbda48bc80b8d3133ac5b428b9ce3f84" crc="69d9fd6d" />
   </game>
   <game name="01 - Games/Super Excidium Event">
@@ -17480,7 +17480,7 @@
     <rom name="Super Goal! 2 (World) (Evercade).sfc" size="524288" sha1="4a7ba7cfb2212fbdfd17fd698aeb14ac2a59aa23" crc="598116a5" />
     <rom name="Takeda Nobuhiro no Super Cup Soccer (Japan).sfc" size="524288" sha1="c598ca9e5c27b9ccee2d04a6bad3379bdfe47043" crc="1bb2a0a4" />
   </game>
-  <game name="01 - Games/Super Goal!">
+  <game name="01 - Games/Goal!">
     <rom name="Goal! (USA).sfc" size="1048576" sha1="2f4dcc8ae4553be208ca71a353261adfc11d0e9d" crc="935ea22c" />
     <rom name="Super Cup Soccer (Japan) (En).sfc" size="1048576" sha1="f6feea0f042834c86ec11a350ab06daaac69cb81" crc="14a03974" />
     <rom name="Super Goal! (Europe).sfc" size="1048576" sha1="d5d677eb2a2804d7b88e29351cf99b6e669b71a1" crc="bb624450" />
@@ -17525,7 +17525,7 @@
     <rom name="Super High Impact (USA) (Beta 1).sfc" size="1048576" sha1="a4b749231991eb44b5ee8d9e979a33d3b84ec97c" crc="6c771cbd" />
     <rom name="Super High Impact (USA) (Beta 2).sfc" size="1048576" sha1="fa9a48b0f1df82331a5da173fa501863b5105e53" crc="b0b76a2d" />
   </game>
-  <game name="01 - Games/Super Hockey">
+  <game name="01 - Games/NHL Stanley Cup">
     <rom name="NHL Stanley Cup (USA) (En,Fr).sfc" size="1048576" sha1="d5fd9281a7d7cd25d87ed917873914829937d626" crc="584ce502" />
     <rom name="Super Hockey (Europe).sfc" size="1048576" sha1="00f91e952aec27cf799d50c6aaaca7454e32640b" crc="781514e4" />
     <rom name="Super Hockey (France) (En,Fr).sfc" size="1048576" sha1="b6a8a554e405a7dcdd5aa7dca467ca5b8db58434" crc="c9cf2601" />
@@ -18090,7 +18090,7 @@
     <rom name="Super Mario Bros. Maker (World) (Proto 1) (NES Conversion) (Aftermarket) (Unl).sfc" size="4194304" sha1="3cc905838a9f32e7214973ab4d6f6d348da596ea" crc="5cc7f538" />
     <rom name="Super Mario Bros. Maker (World) (Proto 2) (NES Conversion) (Aftermarket) (Unl).sfc" size="4194304" sha1="588b6701ef24b4397257436a83590e10529fa1c8" crc="faaca0f5" />
   </game>
-  <game name="01 - Games/Super Mario Bros">
+  <game name="01 - Games/Super Mario Bros.">
     <rom name="Super Mario All-Stars (Europe) (Super Mario All-Stars - 25th Anniversary).sfc" size="2097152" sha1="157e10291b8b190eec5f985e62c56e5d4728a578" crc="24dd9cf6" />
     <rom name="Super Mario All-Stars (Europe) (Virtual Console).sfc" size="2097152" sha1="a6ab9f6186741af606919569469ed8bd4d9748ff" crc="98e5aa9e" />
     <rom name="Super Mario All-Stars (Europe).sfc" size="2097152" sha1="cc41f4b229df01a5adf44c63b6c60e766a73c1ad" crc="925ffa69" />
@@ -18109,7 +18109,7 @@
     <rom name="Super Mario Collection (Japan) (Rev 1) (Virtual Console).sfc" size="2097152" sha1="9a7c5453abfd35756adae4f3f13da581c15418f3" crc="f8d9137f" />
     <rom name="Super Mario Collection (Japan).sfc" size="2097152" sha1="bee927b5ffe277ebd537b0872d2424eeac37b8e3" crc="232bb5b8" />
   </game>
-  <game name="01 - Games/Super Mario Bros/~Hacks/Super Mario All-Stars (USA) (MSU1) [Hack by Conn v20210212]">
+  <game name="01 - Games/Super Mario Bros./~Hacks/Super Mario All-Stars (USA) (MSU1) [Hack by Conn v20210212]">
     <rom name="Super Mario All-Stars (USA) (MSU1)-1.pcm" size="15574604" sha1="21f3a4d8efbcb689793b269b33647d4c5788f04e" crc="21f5526b" />
     <rom name="Super Mario All-Stars (USA) (MSU1)-10.pcm" size="1545152" sha1="eff362272451f5b0c57d341e9ac15f86fd9392dc" crc="c6e855ad" />
     <rom name="Super Mario All-Stars (USA) (MSU1)-100.pcm" size="5882652" sha1="bfd5ba4fd07c55aa8d7db4478646ecb0e89cd343" crc="a25da335" />
@@ -18195,7 +18195,7 @@
     <rom name="Super Mario All-Stars (USA) (MSU1).msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
     <rom name="Super Mario All-Stars (USA) (MSU1).sfc" size="2097152" sha1="2403879b5e18ce21ca16747d27b80fdde8521d9b" crc="4303b367" />
   </game>
-  <game name="01 - Games/Super Mario Bros/~Hacks">
+  <game name="01 - Games/Super Mario Bros./~Hacks">
     <rom name="Super Mario All-Stars (USA) [FastROM hack by kandowontu v1.1].sfc" size="2097152" sha1="53c0d7958fcfc0ac2c8a9bd9be52a14db9bb8b64" crc="2d6114f0" />
     <rom name="Super Mario All-Stars + Super Mario World (USA) [FastROM hack by kandowontu v1.0].sfc" size="2621440" sha1="b2bdcd170016750419bdd2b21abfce7cb4004c6f" crc="17a39d06" />
   </game>
@@ -18877,17 +18877,17 @@
   <game name="01 - Games/Super Pachinko Taisen">
     <rom name="Super Pachinko Taisen (Japan).sfc" size="524288" sha1="68ca21f2e49916ce72ec58ddeb9cb89b63608e27" crc="ed959cc9" />
   </game>
-  <game name="01 - Games/Super Pang">
+  <game name="01 - Games/Super Buster Bros.">
     <rom name="Super Buster Bros. (USA) (Rev 1).sfc" size="524288" sha1="ea228ed04f101dfaf5d865d2aeb839bd509bd3ca" crc="9526d1aa" />
     <rom name="Super Buster Bros. (USA).sfc" size="524288" sha1="48b0c96010bbecbdeaedb37475b5114276f1cb5a" crc="c86872d3" />
     <rom name="Super Pang (Europe).sfc" size="524288" sha1="a37d345c89bc368f9e439c65a6b4b5302e51e47d" crc="3644cacc" />
     <rom name="Super Pang (Japan).sfc" size="524288" sha1="120064e018fc9ee47586cea093e97f0adf3c6025" crc="ca54f001" />
   </game>
-  <game name="01 - Games/Super Pang/~Hacks">
+  <game name="01 - Games/Super Buster Bros./~Hacks">
     <rom name="Super Buster Bros. (USA) (Rev 1) [FastROM hack by kandowontu v1.0].sfc" size="524288" sha1="1989be5b78a7039d531b3eb61a62072a294cf3b1" crc="b3713cf1" />
     <rom name="Super Pang (Europe) [FastROM hack by kandowontu v1.0].sfc" size="524288" sha1="01aa14352187d85dc2a55f1ce23eb736a6fe99d4" crc="97a76b12" />
   </game>
-  <game name="01 - Games/Super Pang/~Prototypes and Betas">
+  <game name="01 - Games/Super Buster Bros./~Prototypes and Betas">
     <rom name="Super Buster Bros. (USA) (Beta).sfc" size="524288" sha1="a1aa95121747f0d61d67b716e86c05902760fb65" crc="be13d788" />
     <rom name="Super Buster Bros. (USA) (Rev 1) (Beta).sfc" size="524288" sha1="013c053a287a22d065cb06360139c82cd5e76cab" crc="3c3c2562" />
   </game>
@@ -18923,7 +18923,7 @@
   <game name="01 - Games/Super Power League">
     <rom name="Super Power League (Japan).sfc" size="1572864" sha1="40805aa74278eee3a8c0163ee9ec4f1dae512111" crc="56f3a65a" />
   </game>
-  <game name="01 - Games/Super Probotector - Alien Rebels">
+  <game name="01 - Games/Contra III - The Alien Wars">
     <rom name="Contra III - The Alien Wars (USA) (Virtual Console).sfc" size="1048576" sha1="d2ecbd2b514fa1f63560a6258a74314c384f0449" crc="a2e60061" />
     <rom name="Contra III - The Alien Wars (USA).sfc" size="1048576" sha1="265886e3f665adf2507e7b2f08b6b2ed9d0018b2" crc="84da7cfe" />
     <rom name="Contra III - The Alien Wars (World) (Contra Anniversary Collection).sfc" size="1048576" sha1="baddfec9f565e2083bac06dfdcd527fd869bb778" crc="6128275a" />
@@ -18933,7 +18933,7 @@
     <rom name="Super Probotector - Alien Rebels (Europe).sfc" size="1048576" sha1="a0f16ed356cf99de2e1b72fb289c9c7fce8f2ab3" crc="420bd975" />
     <rom name="Super Probotector - Alien Rebels (World) (Contra Anniversary Collection).sfc" size="1048576" sha1="ea8dc2f783dda1ef57cc7f909d0f16edd9234be0" crc="22d08e51" />
   </game>
-  <game name="01 - Games/Super Probotector - Alien Rebels/~Hacks/Contra III - The Alien Wars (USA) (MSU1) [Hack by PepilloPev v7] [SA1 hack by Vitor Vilela v1.2] [Restoration hack by SCD]">
+  <game name="01 - Games/Contra III - The Alien Wars/~Hacks/Contra III - The Alien Wars (USA) (MSU1) [Hack by PepilloPev v7] [SA1 hack by Vitor Vilela v1.2] [Restoration hack by SCD]">
     <rom name="Contra III - The Alien Wars (USA) (MSU1)-0.pcm" size="7542564" sha1="fd47c8fa0e8822d89211e4eb70947a4b174f44ec" crc="13e981db" />
     <rom name="Contra III - The Alien Wars (USA) (MSU1)-1.pcm" size="22596940" sha1="00de50fce1b0f87a566b190f4a88d752f614c74e" crc="aea1e8ee" />
     <rom name="Contra III - The Alien Wars (USA) (MSU1)-10.pcm" size="4077788" sha1="766ada62cbf0e004f68350d6277c63d3b17bd26a" crc="026bcdb4" />
@@ -18953,13 +18953,13 @@
     <rom name="Contra III - The Alien Wars (USA) (MSU1).msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
     <rom name="Contra III - The Alien Wars (USA) (MSU1).sfc" size="1048576" sha1="8f8a19cb33273cbf9d654c518786ff8a91167f06" crc="cfb90cf3" />
   </game>
-  <game name="01 - Games/Super Probotector - Alien Rebels/~Hacks">
+  <game name="01 - Games/Contra III - The Alien Wars/~Hacks">
     <rom name="Contra III - The Alien Wars (USA) [FastROM hack by MaxwelOlinda v1.1] [Restoration hack by SCD v20170902].sfc" size="1048576" sha1="84d21bcaff72b708ef2d650d29a6fc3d39a2caf3" crc="d4761382" />
     <rom name="Contra III - The Alien Wars (USA) [FastROM hack by MaxwelOlinda v1.1].sfc" size="1048576" sha1="99fc547a002f5e6bc3eb177974858ae9f6614c41" crc="a2e42770" />
     <rom name="Contra III - The Alien Wars (USA) [SA1 hack by Vitor Vilela v1.2] [Restoration hack by SCD v20170902].sfc" size="1048576" sha1="27deb7850b4c16bc5e904746fafc6c074ac45e0d" crc="2750f126" />
     <rom name="Contra III - The Alien Wars (USA) [SA1 hack by Vitor Vilela v1.2].sfc" size="1048576" sha1="4572dcf51c73734b415bc0d1f1bd4ca912ba5110" crc="ff3ee176" />
   </game>
-  <game name="01 - Games/Super Probotector - Alien Rebels/~Prototypes and Betas">
+  <game name="01 - Games/Contra III - The Alien Wars/~Prototypes and Betas">
     <rom name="Contra III - The Alien Wars (USA) (Beta).sfc" size="1048576" sha1="1cb7a2c4dedef86415536f4ec2b1ae466c4f1632" crc="ffdf4355" />
     <rom name="Contra IV - The Alien Wars (USA) (Beta).sfc" size="1048576" sha1="2eb43544c6f6bf892ce2a4df0c3b4921b84ad56d" crc="c438ddd3" />
     <rom name="Super Probotector - Alien Rebels (Europe) (Beta) (Debug).sfc" size="1048576" sha1="b746f47cbc6b9e99a3fa1e2ca8bf529ee5c14758" crc="7c09b80a" />
@@ -19234,17 +19234,17 @@
   <game name="01 - Games/Super Rugby">
     <rom name="Super Rugby (Japan).sfc" size="1048576" sha1="4cdf73e7f528a8c6a9f47a6e728cf9a631cd3316" crc="757ad630" />
   </game>
-  <game name="01 - Games/Super SWIV">
+  <game name="01 - Games/Firepower 2000">
     <rom name="Firepower 2000 (USA).sfc" size="1048576" sha1="9ca23cf83594d2c17ac790684de278f3fa91b360" crc="327416d4" />
     <rom name="Super SWIV (Europe).sfc" size="1048576" sha1="797a9082f78c8e38d4d5f79e69373139f2552054" crc="b6d94361" />
     <rom name="Super SWIV (Japan) (En).sfc" size="1048576" sha1="40cfde9cfd4c3b175957ffc49163bad8238e64cd" crc="70f28a6d" />
   </game>
-  <game name="01 - Games/Super SWIV/~Hacks">
+  <game name="01 - Games/Firepower 2000/~Hacks">
     <rom name="Firepower 2000 (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" sha1="2d214578bb2d49ffeb2bb9656cbda9de48103d86" crc="cad03d53" />
     <rom name="Super SWIV (Europe) [FastROM hack by kandowontu v1.0].sfc" size="1048576" sha1="44420c8b6c3a8e4d75675954d3396001060acd78" crc="c98e6927" />
     <rom name="Super SWIV (Japan) (En) [FastROM hack by kandowontu v1.0].sfc" size="1048576" sha1="0a0074072b7b70d340a264bb6ed4872fb8a7b493" crc="7ae43d39" />
   </game>
-  <game name="01 - Games/Super SWIV/~Prototypes and Betas">
+  <game name="01 - Games/Firepower 2000/~Prototypes and Betas">
     <rom name="Super SWIV (Japan) (En) (Beta 1).sfc" size="1048576" sha1="47513aaa534c52472a3ab35a3adec5c211217c8e" crc="4d66b5d7" />
     <rom name="Super SWIV (Japan) (En) (Beta 2).sfc" size="1048576" sha1="31bb1fe49802c1a3dfec3057d8a4ecdbc202188c" crc="ce9b4051" />
   </game>
@@ -19278,12 +19278,12 @@
     <rom name="Super Slap Shot (Japan) (En).sfc" size="524288" sha1="a10d51c5e86ca9f00ec822de74228a4108d1d435" crc="403c692d" />
     <rom name="Super Slap Shot (USA).sfc" size="524288" sha1="198ddfa080ffac5fbe2570b0b3e63f041247a5f4" crc="7355c9b9" />
   </game>
-  <game name="01 - Games/Super Smash T.V">
+  <game name="01 - Games/Super Smash T.V.">
     <rom name="Smash T.V. (Japan) (En).sfc" size="524288" sha1="cc88454c2bff47862f1764eb50d3a386a1236652" crc="3147ad34" />
     <rom name="Super Smash T.V. (Europe).sfc" size="524288" sha1="c96589e1246fd7ef4ad80c202ba9ae680012075d" crc="9a502573" />
     <rom name="Super Smash T.V. (USA).sfc" size="524288" sha1="eafef16aa34e12e99d1a8bbe138b0a0e39dbbef1" crc="2d0b20d0" />
   </game>
-  <game name="01 - Games/Super Smash T.V/~Hacks/Super Smash T.V. (USA) (MSU1) [Hack by Cubear v1.0]">
+  <game name="01 - Games/Super Smash T.V./~Hacks/Super Smash T.V. (USA) (MSU1) [Hack by Cubear v1.0]">
     <rom name="Super Smash T.V. (USA) (MSU1)-1.pcm" size="46663800" sha1="6a19a29217693043835aeb878ff9b48dbba565c7" crc="48fa865b" />
     <rom name="Super Smash T.V. (USA) (MSU1)-2.pcm" size="45563364" sha1="9b706d8d25865814a14c625882645581ad1102da" crc="dd573278" />
     <rom name="Super Smash T.V. (USA) (MSU1)-3.pcm" size="15765420" sha1="f36622faf790a3710bc3809edb341c8083682675" crc="93e9aeaf" />
@@ -19293,7 +19293,7 @@
     <rom name="Super Smash T.V. (USA) (MSU1).msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
     <rom name="Super Smash T.V. (USA) (MSU1).sfc" size="524288" sha1="f84f4510fc54e64e08efbee27a4f669df602c070" crc="95d217c7" />
   </game>
-  <game name="01 - Games/Super Smash T.V/~Hacks">
+  <game name="01 - Games/Super Smash T.V./~Hacks">
     <rom name="Super Smash T.V. (USA) [FastROM hack by kandowontu v1.0].sfc" size="524288" sha1="2c5080bd16d90f6825939b9ef2b230439e45f37b" crc="b1aac9d1" />
   </game>
   <game name="01 - Games/Super Soccer">
@@ -19547,12 +19547,12 @@
     <rom name="Super Strike Eagle (Europe) (En,Fr,De,Es,It).sfc" size="1048576" sha1="c9eb8f4627b3b2a090ffb7dafaf255536b52c6d1" crc="3abab85b" />
     <rom name="Super Strike Eagle (USA).sfc" size="1048576" sha1="2c84fe80423798fb62a2d5335f53742580486dc1" crc="ecf79841" />
   </game>
-  <game name="01 - Games/Super Strike Gunner">
+  <game name="01 - Games/Strike Gunner S.T.G">
     <rom name="Strike Gunner S.T.G (Japan) (En).sfc" size="1048576" sha1="b5112c6a237621a726091e130fb783a2ba0e8dca" crc="ae2b4567" />
     <rom name="Strike Gunner S.T.G (USA).sfc" size="1048576" sha1="110e46dc4d6301c3b41f8a9337e4ba78719b7917" crc="d054e288" />
     <rom name="Super Strike Gunner (Europe).sfc" size="1048576" sha1="fb29e8e06baeb4a79dd332fb4584e533276169b7" crc="f74acb48" />
   </game>
-  <game name="01 - Games/Super Strike Gunner/~Hacks">
+  <game name="01 - Games/Strike Gunner S.T.G/~Hacks">
     <rom name="Strike Gunner S.T.G (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" sha1="614474c47b400292b6bbd037e902c3eb521d4ffe" crc="19323fd9" />
   </game>
   <game name="01 - Games/Super Sudoku">
@@ -20127,7 +20127,7 @@
   <game name="01 - Games/Tecmo Super NBA Basketball/~Prototypes and Betas">
     <rom name="Tecmo Super NBA Basketball (USA) (Beta) (SNS-XM).sfc" size="1048576" sha1="e86526d56c77ab160365d4e485fbc8b7ad79811b" crc="819f3a66" />
   </game>
-  <game name="01 - Games/Teenage Mutant Hero Turtles - Tournament Fighters">
+  <game name="01 - Games/Teenage Mutant Ninja Turtles - Tournament Fighters">
     <rom name="Teenage Mutant Hero Turtles - Tournament Fighters (Europe).sfc" size="2097152" sha1="a72747217f1c43c54c1b8a175dfad171023cd78e" crc="0dda3124" />
     <rom name="Teenage Mutant Ninja Turtles - Mutant Warriors (Japan) (The Cowabunga Collection).sfc" size="2097152" sha1="13302405ba219522218fa1d36a444ceb19632716" crc="f1f59f0f" />
     <rom name="Teenage Mutant Ninja Turtles - Mutant Warriors (Japan).sfc" size="2097152" sha1="b1b7b0860100d98f676edc6a59d45da542efe83c" crc="7e97e194" />
@@ -20135,7 +20135,7 @@
     <rom name="Teenage Mutant Ninja Turtles - Tournament Fighters (USA) (The Cowabunga Collection).sfc" size="2097152" sha1="628b64809e89b3bae970e01dbc0c637f1ba5ee5a" crc="36d08b33" />
     <rom name="Teenage Mutant Ninja Turtles - Tournament Fighters (USA).sfc" size="2097152" sha1="c2460ce4aeda68f6170bdf9cfa52467b56e15ebf" crc="e2fe5dbf" />
   </game>
-  <game name="01 - Games/Teenage Mutant Hero Turtles - Tournament Fighters/~Hacks/Teenage Mutant Ninja Turtles - Tournament Fighters (USA) (MSU1) [Hack by Kurrono v1.0]">
+  <game name="01 - Games/Teenage Mutant Ninja Turtles - Tournament Fighters/~Hacks/Teenage Mutant Ninja Turtles - Tournament Fighters (USA) (MSU1) [Hack by Kurrono v1.0]">
     <rom name="Teenage Mutant Ninja Turtles - Tournament Fighters (USA) (MSU1)-10.pcm" size="7709756" sha1="5111e0f2148202038df4b58380ad64e6f9adf90a" crc="5435a1a3" />
     <rom name="Teenage Mutant Ninja Turtles - Tournament Fighters (USA) (MSU1)-102.pcm" size="6252428" sha1="a9d6c9bc45a92a46deb6924bfdb5bdb857d6c922" crc="dc15e77c" />
     <rom name="Teenage Mutant Ninja Turtles - Tournament Fighters (USA) (MSU1)-106.pcm" size="5726512" sha1="d567ed782878b2ac18bd1af7da1c3fe684912461" crc="fd53dfef" />
@@ -20177,10 +20177,10 @@
     <rom name="Teenage Mutant Ninja Turtles - Tournament Fighters (USA) (MSU1).msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
     <rom name="Teenage Mutant Ninja Turtles - Tournament Fighters (USA) (MSU1).sfc" size="2097152" sha1="b5a2d29041078feaa03785be1d16998231f9e4bd" crc="77a7e0c1" />
   </game>
-  <game name="01 - Games/Teenage Mutant Hero Turtles - Tournament Fighters/~Prototypes and Betas">
+  <game name="01 - Games/Teenage Mutant Ninja Turtles - Tournament Fighters/~Prototypes and Betas">
     <rom name="Teenage Mutant Ninja Turtles - Tournament Fighters (USA) (Beta).sfc" size="2097152" sha1="473d222be60c16287b7585d3d6781717fcdf7b46" crc="63e37d86" />
   </game>
-  <game name="01 - Games/Teenage Mutant Hero Turtles IV - Turtles in Time">
+  <game name="01 - Games/Teenage Mutant Ninja Turtles IV - Turtles in Time">
     <rom name="Teenage Mutant Hero Turtles IV - Turtles in Time (Europe).sfc" size="1048576" sha1="59add584f16b607607348e65c245ca6ad7a5fcb8" crc="b0a3441e" />
     <rom name="Teenage Mutant Ninja Turtles - Turtles in Time (Japan) (The Cowabunga Collection).sfc" size="1048576" sha1="ea0c44fc9e30ee9b7a46de4d3f2d8574a7cde185" crc="a12dbce4" />
     <rom name="Teenage Mutant Ninja Turtles - Turtles in Time (Japan).sfc" size="1048576" sha1="514e7fb70e1e5e06c5a873262e145a555655d62d" crc="bdba1b55" />
@@ -20188,7 +20188,7 @@
     <rom name="Teenage Mutant Ninja Turtles IV - Turtles in Time (USA) (The Cowabunga Collection).sfc" size="1048576" sha1="4a2354b257f35cb089a274e5422da0342c328891" crc="372af410" />
     <rom name="Teenage Mutant Ninja Turtles IV - Turtles in Time (USA).sfc" size="1048576" sha1="4f8fc0f45023e0339e501054b253c33f479a001a" crc="5940bd99" />
   </game>
-  <game name="01 - Games/Teenage Mutant Hero Turtles IV - Turtles in Time/~Hacks/Teenage Mutant Ninja Turtles IV - Turtles in Time (USA) (MSU1) [Hack by Cubear v1.0]">
+  <game name="01 - Games/Teenage Mutant Ninja Turtles IV - Turtles in Time/~Hacks/Teenage Mutant Ninja Turtles IV - Turtles in Time (USA) (MSU1) [Hack by Cubear v1.0]">
     <rom name="Teenage Mutant Ninja Turtles IV - Turtles in Time (USA) (MSU1)-0.pcm" size="3841300" sha1="c4b1bab261e6ee08339d47212293683055fc7c58" crc="ca04a2ff" />
     <rom name="Teenage Mutant Ninja Turtles IV - Turtles in Time (USA) (MSU1)-104.pcm" size="695996" sha1="db917091f2fd5a901747a122b4e9789821bf3ba7" crc="1fea42ea" />
     <rom name="Teenage Mutant Ninja Turtles IV - Turtles in Time (USA) (MSU1)-112.pcm" size="636724" sha1="8ced14c72628b40195cc31830f2e7ea793ba0b8e" crc="32c9be7c" />
@@ -20226,10 +20226,10 @@
     <rom name="Teenage Mutant Ninja Turtles IV - Turtles in Time (USA) (MSU1).msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
     <rom name="Teenage Mutant Ninja Turtles IV - Turtles in Time (USA) (MSU1).sfc" size="1048576" sha1="f3f8b1b29b12772f9f7fef154fb263db40a013ee" crc="333f8f41" />
   </game>
-  <game name="01 - Games/Teenage Mutant Hero Turtles IV - Turtles in Time/~Hacks">
+  <game name="01 - Games/Teenage Mutant Ninja Turtles IV - Turtles in Time/~Hacks">
     <rom name="Teenage Mutant Ninja Turtles IV - Turtles in Time (USA) [FastROM hack by kandowontu v1.1].sfc" size="1048576" sha1="d24ea29354f72235cb6e3b0186ba0f3035e22694" crc="bd1ddd80" />
   </game>
-  <game name="01 - Games/Teenage Mutant Hero Turtles IV - Turtles in Time/~Prototypes and Betas">
+  <game name="01 - Games/Teenage Mutant Ninja Turtles IV - Turtles in Time/~Prototypes and Betas">
     <rom name="Teenage Mutant Ninja Turtles IV - Turtles in Time (USA) (Beta 1).sfc" size="1048576" sha1="5f0450d0b99074fc8a93fd712736e96be278b938" crc="0598c5f4" />
     <rom name="Teenage Mutant Ninja Turtles IV - Turtles in Time (USA) (Beta 2).sfc" size="1048576" sha1="ee31f375f4cb8d8be5bbece349abb8e09de1b302" crc="805f6a1a" />
   </game>
@@ -20549,13 +20549,13 @@
   <game name="01 - Games/Tiny Toon Adventures - Buster Busts Loose!/~Prototypes and Betas">
     <rom name="Tiny Toon Adventures - Buster Busts Loose! (USA) (Beta).sfc" size="1048576" sha1="3bee604951621e20912cd6eadcc80534e30e27ee" crc="f1f8f87a" />
   </game>
-  <game name="01 - Games/Tiny Toon Adventures - Wild &amp; Wacky Sports">
+  <game name="01 - Games/Tiny Toon Adventures - Wacky Sports Challenge">
     <rom name="Tiny Toon Adventures - Dotabata Daiundoukai (Japan).sfc" size="1048576" sha1="14427a94a447d8c9bf3748b8fb1717a50b9bebe9" crc="01344c8e" />
     <rom name="Tiny Toon Adventures - Wacky Sports Challenge (USA).sfc" size="1048576" sha1="8443eb248f64511add665f200ea6fb802101039e" crc="afe72ff0" />
     <rom name="Tiny Toon Adventures - Wild &amp; Wacky Sports (Europe) (Rev 1).sfc" size="1048576" sha1="9abc8f255bdb1870e91b4f74d6e5588412efcff9" crc="0f3b758d" />
     <rom name="Tiny Toon Adventures - Wild &amp; Wacky Sports (Europe).sfc" size="1048576" sha1="5adc0e760353db9ac4e060deb8eb9755f94b461d" crc="ae78b20e" />
   </game>
-  <game name="01 - Games/Tiny Toon Adventures - Wild &amp; Wacky Sports/~Prototypes and Betas">
+  <game name="01 - Games/Tiny Toon Adventures - Wacky Sports Challenge/~Prototypes and Betas">
     <rom name="Tiny Toon Adventures - Wild &amp; Wacky Sports (Europe) (Beta).sfc" size="1048576" sha1="55555c60137dadd498fd1435ad116125ab67666e" crc="f13002c7" />
   </game>
   <game name="01 - Games/Titus the Fox/~Prototypes and Betas">
@@ -21284,11 +21284,11 @@
     <rom name="Unholy Night - The Darkness Hunter (USA) (Unl) (MSU1).msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
     <rom name="Unholy Night - The Darkness Hunter (USA) (Unl) (MSU1).sfc" size="4194304" sha1="cf3b6f15394ed8a4133b6af83eede663703973c7" crc="9173d8bc" />
   </game>
-  <game name="01 - Games/Unirally">
+  <game name="01 - Games/Uniracers">
     <rom name="Uniracers (USA).sfc" size="2097152" sha1="cb249cf7301bdd985e6fe4bc4c942bf4f86d7d83" crc="383858c7" />
     <rom name="Unirally (Europe).sfc" size="2097152" sha1="d39ec113ef153ec9b7bacf12ed4a47f1a6d63a06" crc="d8583ed7" />
   </game>
-  <game name="01 - Games/Unirally/~Prototypes and Betas">
+  <game name="01 - Games/Uniracers/~Prototypes and Betas">
     <rom name="Unirally (Europe) (Beta).sfc" size="2097152" sha1="14e7574ac2dacdf8a736df26414cb2f772684cfb" crc="c362c7b1" />
   </game>
   <game name="01 - Games/Universal Soldier/~Prototypes and Betas">
@@ -21325,13 +21325,13 @@
   <game name="01 - Games/VS. Collection">
     <rom name="VS. Collection (Japan).sfc" size="524288" sha1="1b651e943b3b8c17815e5619837af600e3097557" crc="a9fcfd53" />
   </game>
-  <game name="01 - Games/Val d'Isere Championship">
+  <game name="01 - Games/Tommy Moe's Winter Extreme - Skiing and Snowboarding">
     <rom name="Ski Paradise with Snowboard (Japan).sfc" size="1048576" sha1="bd26e09cfd2efa05d7a2b99b376815d011f48930" crc="dbb603d4" />
     <rom name="Tommy Moe's Winter Extreme - Skiing and Snowboarding (USA).sfc" size="1048576" sha1="1135e1be00d8ad5d99a78862fc48bcb9fc58057b" crc="3d005f22" />
     <rom name="Val d'Isere Championship (Europe) (Rev 1).sfc" size="1048576" sha1="3518bf0c7539f2441a8e73ad1c59a0e9971489b6" crc="de31d87a" />
     <rom name="Val d'Isere Championship (Europe).sfc" size="1048576" sha1="9b41348b640f49cbf0e7ab7f553d36b6f00aba95" crc="01b3114a" />
   </game>
-  <game name="01 - Games/Val d'Isere Championship/~Prototypes and Betas">
+  <game name="01 - Games/Tommy Moe's Winter Extreme - Skiing and Snowboarding/~Prototypes and Betas">
     <rom name="Val d'Isere Championship (Europe) (Beta).sfc" size="1048576" sha1="610d31c0eeff4161bb3385c28b0c66250b6d2b0d" crc="66623ee2" />
   </game>
   <game name="01 - Games/Vegas Stakes">
@@ -21746,7 +21746,7 @@
   <game name="01 - Games/Winter Gold">
     <rom name="Winter Gold (Europe).sfc" size="2097152" sha1="dc7f33e6bb587d7290f6a2587bb31af15724dfa3" crc="0f8378a6" />
   </game>
-  <game name="01 - Games/Winter Olympics - Lillehammer '94">
+  <game name="01 - Games/Winter Olympic Games - Lillehammer '94">
     <rom name="Winter Olympic Games - Lillehammer '94 (USA) (En,Fr,De,Es,It,Pt,Sv,No).sfc" size="2097152" sha1="f95834fecdd4045324ae5bcf66a0591c2b01d4da" crc="0704abe4" />
     <rom name="Winter Olympics - Lillehammer '94 (Europe) (En,Fr,De,Es,It,Pt,Sv,No).sfc" size="2097152" sha1="dde7484aac121c94fbe5e840077aa73b1cf7df13" crc="fcb1c794" />
   </game>
@@ -21842,12 +21842,12 @@
   <game name="01 - Games/Wolfchild/~Hacks">
     <rom name="Wolfchild (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" sha1="547eedc955841ba34513db785d82707b32782c8e" crc="3c93f59b" />
   </game>
-  <game name="01 - Games/Wolfenstein 3D">
+  <game name="01 - Games/Wolfenstein 3-D">
     <rom name="Wolfenstein 3-D (USA).sfc" size="1048576" sha1="88fe872eb984af84f8ca7633ef5bd3904a2baeb4" crc="6582a8f5" />
     <rom name="Wolfenstein 3D (Europe).sfc" size="1048576" sha1="97dd894d4c0008fe935ed5c54b8d5ce2e0a32b7a" crc="6a455ee2" />
     <rom name="Wolfenstein 3D - The Claw of Eisenfaust (Japan).sfc" size="1048576" sha1="0dad8a2226c3fda0eeba96b37fb24eeb8d198513" crc="cc47b8f9" />
   </game>
-  <game name="01 - Games/Wolfenstein 3D/~Hacks/Wolfenstein 3-D (USA) (MSU1) [Hack by Conn &amp; DarkSamus993 &amp; PepilloPev &amp; Polargames v1.2]">
+  <game name="01 - Games/Wolfenstein 3-D/~Hacks/Wolfenstein 3-D (USA) (MSU1) [Hack by Conn &amp; DarkSamus993 &amp; PepilloPev &amp; Polargames v1.2]">
     <rom name="Wolfenstein 3-D (USA) (MSU1)-0.pcm" size="15829604" sha1="cd97df28edc97ac01eeadb51ffeb1d91f59efcaf" crc="1a56d4b8" />
     <rom name="Wolfenstein 3-D (USA) (MSU1)-1.pcm" size="24258416" sha1="59f00b8af33b5cf1d553f121efa6404f388c4091" crc="9ab5a03d" />
     <rom name="Wolfenstein 3-D (USA) (MSU1)-10.pcm" size="15506756" sha1="3de7c2c9c76251a2926fe25d464653254778720d" crc="d2c571e1" />
@@ -21871,7 +21871,7 @@
     <rom name="Wolfenstein 3-D (USA) (MSU1).msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
     <rom name="Wolfenstein 3-D (USA) (MSU1).sfc" size="1048576" sha1="0a374c0eb68e58351efb70b599c794517befdf79" crc="33f6ad68" />
   </game>
-  <game name="01 - Games/Wolfenstein 3D/~Prototypes and Betas">
+  <game name="01 - Games/Wolfenstein 3-D/~Prototypes and Betas">
     <rom name="Wolfenstein 3D (USA) (Beta 1).sfc" size="1048576" sha1="a420602687ca86f75708da463e1effef85ebdc14" crc="63e442b4" />
     <rom name="Wolfenstein 3D (USA) (Beta 2).sfc" size="1048576" sha1="837b0181f2e9cf75728330ed1d3400e9b6f5212d" crc="2bebdb00" />
   </game>
@@ -21910,12 +21910,12 @@
     <rom name="World Class Rugby (Europe) (Beta).sfc" size="524288" sha1="96214ad2e89298ba2685deab8f880ff1a578f195" crc="7e5db156" />
     <rom name="World Class Rugby (Japan) (En) (Beta).sfc" size="524288" sha1="faa1328dceacb68f692c55c9e1651ae29b774d43" crc="d49d0e10" />
   </game>
-  <game name="01 - Games/World Cup Striker">
+  <game name="01 - Games/Elite Soccer">
     <rom name="Elite Soccer (USA).sfc" size="1048576" sha1="44c845ef4e75ab1881f3ddc89976dff9d23c018f" crc="62abaee1" />
     <rom name="World Cup Striker (Europe) (En,Fr,De).sfc" size="1048576" sha1="3e199976050b0e6f53b8529409671354948d450f" crc="6d16f5e7" />
     <rom name="World Cup Striker (Japan).sfc" size="1048576" sha1="8304e45d14c752e0b31baa416fd9b88187dda144" crc="cab690a1" />
   </game>
-  <game name="01 - Games/World Cup Striker/~Prototypes and Betas">
+  <game name="01 - Games/Elite Soccer/~Prototypes and Betas">
     <rom name="World Cup Striker (Europe) (En,Fr,De) (Beta).sfc" size="1048576" sha1="12edba034ab414b17502499c333e891a9f72d0e8" crc="6928d52a" />
   </game>
   <game name="01 - Games/World Cup USA 94">
@@ -21987,14 +21987,14 @@
     <rom name="World Heroes (Japan).sfc" size="2097152" sha1="138b9d359a5eebac2de609eaadf96987c49672df" crc="1ff42561" />
     <rom name="World Heroes (USA).sfc" size="2097152" sha1="ddc03392f9e07eba675818bd231dad4af8c8c128" crc="1228ad30" />
   </game>
-  <game name="01 - Games/World League Basketball">
+  <game name="01 - Games/NCAA Basketball">
     <rom name="NCAA Basketball (USA) (Arcade).sfc" size="1048576" sha1="e1620f48b17ae6f4aa4ce3220fbb975a476af28f" crc="20cfc61c" />
     <rom name="NCAA Basketball (USA) (Rev 1).sfc" size="1048576" sha1="261683b05f2f9149cb8d367a76d8a3c3b864dd7c" crc="200370a2" />
     <rom name="NCAA Basketball (USA).sfc" size="1048576" sha1="04eae5352b59a6035098a716248ce11edefb21dd" crc="8d4c2300" />
     <rom name="Super Dunk Shot (Japan) (En).sfc" size="1048576" sha1="12e31dcc65676c784bda58a684d40d9203232f15" crc="4674e469" />
     <rom name="World League Basketball (Europe).sfc" size="1048576" sha1="fb9c8f6bd892a7f1798b508e8b2623511ab6d3ff" crc="2642234d" />
   </game>
-  <game name="01 - Games/World League Basketball/~Prototypes and Betas">
+  <game name="01 - Games/NCAA Basketball/~Prototypes and Betas">
     <rom name="NCAA Basketball (USA) (Beta).sfc" size="1048576" sha1="f9ed0a13f0e7e90eaf3f84cce9df125449287358" crc="25c43074" />
   </game>
   <game name="01 - Games/World League Soccer">
@@ -22102,7 +22102,7 @@
   <game name="01 - Games/Yo-Yo Shuriken">
     <rom name="Yo-Yo Shuriken (World) (Aftermarket) (Unl).sfc" size="262144" sha1="d33c355826f78254d73418b3205e204783d2abba" crc="c66723b7" />
   </game>
-  <game name="01 - Games/Yogi Bear's Cartoon Capers">
+  <game name="01 - Games/Adventures of Yogi Bear">
     <rom name="Adventures of Yogi Bear (USA).sfc" size="1048576" sha1="2f6950f1330709ea4de33995df6b9b9877ece587" crc="7448d45c" />
     <rom name="Yogi Bear (Japan) (En).sfc" size="1048576" sha1="bec43433ee8de72adc168a2169195a8bae703740" crc="1a6f48a5" />
     <rom name="Yogi Bear's Cartoon Capers (Europe).sfc" size="1048576" sha1="f2e7853b18613cba9a529676bb8f91275a400341" crc="31703471" />
@@ -22616,14 +22616,14 @@
   <game name="01 - Games/Zig Zag Cat - Dachou Club mo Oosawagi da">
     <rom name="Zig Zag Cat - Dachou Club mo Oosawagi da (Japan).sfc" size="1572864" sha1="fd1262a5e51bc76400a10e0673231aa7bfa0cffa" crc="53554d5e" />
   </game>
-  <game name="01 - Games/Zombies">
+  <game name="01 - Games/Zombies Ate My Neighbors">
     <rom name="Zombies (Europe) (Virtual Console).sfc" size="1048576" sha1="ee7fd2aee0accaaaccb8cdfc163e5eef13edf642" crc="27716e55" />
     <rom name="Zombies (Europe).sfc" size="1048576" sha1="b378006fcf270ac8dd3b960a5d432024248cdb21" crc="fabff8bd" />
     <rom name="Zombies Ate My Neighbors (USA) (Limited Run Games).sfc" size="1048576" sha1="701cb7610b465eafa59b6c814b5cc5b0d315841c" crc="b57c9228" />
     <rom name="Zombies Ate My Neighbors (USA) (Virtual Console).sfc" size="1048576" sha1="5d3500b263d16d2e65b4f32e66c087829cc266b2" crc="2ff51b1d" />
     <rom name="Zombies Ate My Neighbors (USA).sfc" size="1048576" sha1="1be79496d7a38b293d6a5d9fba0e16f3cb37d5ff" crc="7cfc0c7c" />
   </game>
-  <game name="01 - Games/Zombies/~Hacks/Zombies Ate My Neighbors (USA) (MSU1) [Hack by PepilloPev v20211108]">
+  <game name="01 - Games/Zombies Ate My Neighbors/~Hacks/Zombies Ate My Neighbors (USA) (MSU1) [Hack by PepilloPev v20211108]">
     <rom name="Zombies Ate My Neighbors (USA) (MSU1)-1.pcm" size="26763104" sha1="cd85b342148ed58a2cc13126f85df2a09a674466" crc="9ad86dd9" />
     <rom name="Zombies Ate My Neighbors (USA) (MSU1)-2.pcm" size="20506412" sha1="eca452ca8884d11d51de4cff4603c21a1ec98ba1" crc="6a7ff1d6" />
     <rom name="Zombies Ate My Neighbors (USA) (MSU1)-3.pcm" size="21696152" sha1="368410d0eca076724dc2b178826df53eebc4918a" crc="e5c2e3fe" />
@@ -22638,7 +22638,7 @@
     <rom name="Zombies Ate My Neighbors (USA) (MSU1).msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
     <rom name="Zombies Ate My Neighbors (USA) (MSU1).sfc" size="4194304" sha1="7c58031bdf688ba71effbf0f15b7c51aaca9ec7d" crc="827cc6fc" />
   </game>
-  <game name="01 - Games/Zombies/~Prototypes and Betas">
+  <game name="01 - Games/Zombies Ate My Neighbors/~Prototypes and Betas">
     <rom name="Monsters (Europe) (Beta).sfc" size="1048576" sha1="ba7d1ef309b5a6e560d021faf306a3f12f8f4dce" crc="399669f2" />
   </game>
   <game name="01 - Games/Zool - Ninja of the 'Nth' Dimension">

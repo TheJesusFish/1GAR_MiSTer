@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>TGFX16</name>
-    <version>2026-10-16</version>
+    <version>2026-10-17</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/1941 - Counter Attack">
@@ -219,7 +219,7 @@
   <game name="01 - Games/Champions Forever Boxing">
     <rom name="Champions Forever Boxing (USA).pce" size="524288" sha1="db7005b4679276bc65d04a45da131db7b47bae75" crc="15ee889a" />
   </game>
-  <game name="01 - Games/Chase H.Q">
+  <game name="01 - Games/Chase H.Q.">
     <rom name="Chase H.Q. (USA).pce" size="393216" sha1="d29a7440573324b5560185e6e012cb54a77e88f2" crc="9298254c" />
     <rom name="Taito Chase H.Q. (Japan).pce" size="393216" sha1="f4cd413a1f87027194b7cadfbaaa714c137e877f" crc="6f4fd790" />
   </game>

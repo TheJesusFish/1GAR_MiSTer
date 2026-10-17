@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>Astrocade</name>
-    <version>2026-10-16</version>
+    <version>2026-10-17</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/280 Zzzap ~ Dodgem">
@@ -72,10 +72,10 @@
   <game name="01 - Games/Conan the Barbarian/~Prototypes and Betas">
     <rom name="Conan the Barbarian (USA) (Proto).bin" size="8192" sha1="bc4f757271fca69e0de3973f43d363c4474e2fb7" crc="15b1afea" />
   </game>
-  <game name="01 - Games/Cosmic Raiders">
+  <game name="01 - Games/Cosmic Raider">
     <rom name="Cosmic Raider (USA).bin" size="8192" sha1="09ae145e3dbfd132f5130a0cbb508f4fbcf35bee" crc="2a77b3fb" />
   </game>
-  <game name="01 - Games/Cosmic Raiders/~Prototypes and Betas">
+  <game name="01 - Games/Cosmic Raider/~Prototypes and Betas">
     <rom name="Cosmic Raiders (USA) (Proto) (Alt).bin" size="8192" sha1="30044130dd3b41295351fa3905d53e26e52b3745" crc="37670f78" />
     <rom name="Cosmic Raiders (USA) (Proto).bin" size="8192" sha1="b71b81eeaf10b59efb1b51d88b1e758305d5f1e4" crc="869b692e" />
     <rom name="Cosmic Raiders (v3.5) (USA) (Proto).bin" size="8192" sha1="337cdffe2260dc6d36d674fa35047cb5a3598bf9" crc="e3d723a0" />

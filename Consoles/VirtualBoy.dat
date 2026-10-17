@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>VirtualBoy</name>
-    <version>2026-10-16</version>
+    <version>2026-10-17</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/3-D BattleSnake">
@@ -67,7 +67,7 @@
   <game name="01 - Games/Insmouth Mansion/~Translations">
     <rom name="Insmouth Mansion (Japan) [T-En by Thunderstruck v1.0] [n].vb" size="1048576" sha1="37f0351b1711a9580a7346127bc54b3927bc7e1e" crc="04ccbe94" />
   </game>
-  <game name="01 - Games/Jack Bros">
+  <game name="01 - Games/Jack Bros.">
     <rom name="Jack Bros. (USA).vb" size="1048576" sha1="0e086d7ef2bd8b97315196943fd0b71da07aa8f1" crc="a44de03c" />
     <rom name="Jack Bros. no Meiro de Hiihoo! (Japan).vb" size="1048576" sha1="a973406590382ee503037271330d68d2834b79db" crc="cab61e8b" />
   </game>

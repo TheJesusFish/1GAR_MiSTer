@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>Atari2600</name>
-    <version>2026-10-16</version>
+    <version>2026-10-17</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/3-D Genesis/~Prototypes and Betas">
@@ -191,7 +191,7 @@
     <rom name="Barnstorming (Europe).a26" size="4096" sha1="0e146b4081ae08d7a527bd0e7abd23bb1d42dffb" crc="f866dbf7" />
     <rom name="Barnstorming (USA).a26" size="4096" sha1="372663097b419ced64f44ef743fe8d0af4317f46" crc="4a005181" />
   </game>
-  <game name="01 - Games/Base Attack">
+  <game name="01 - Games/Z-Tack">
     <rom name="Base Attack (Europe).a26" size="4096" sha1="4e2ccb0afe236a76193ad500bab57abb82632a5a" crc="81f1e5dd" />
     <rom name="Z-Tack (USA).a26" size="4096" sha1="552e2bd37601da4961b0346353c93cce223e429e" crc="42a76f54" />
   </game>
@@ -357,7 +357,7 @@
     <rom name="Burning Desire (Europe).a26" size="4096" sha1="fcf8eeac23e146d20f93812ab5a9872045f95b52" crc="f2593d9b" />
     <rom name="Burning Desire (USA).a26" size="4096" sha1="b233c37aa5164a54e2e7cc3dc621b331ddc6e55b" crc="92f91d36" />
   </game>
-  <game name="01 - Games/Burying E.T">
+  <game name="01 - Games/Burying E.T.">
     <rom name="Burying E.T. (World) (Aftermarket) (Unl).a26" size="8192" sha1="cff888c3c49065d5380c83007d73b718099875f3" crc="d2a620c9" />
   </game>
   <game name="01 - Games/Cabbage Patch Kids - Adventures in the Park/~Prototypes and Betas">
@@ -553,7 +553,7 @@
   <game name="01 - Games/Death Trap">
     <rom name="Death Trap (USA).a26" size="4096" sha1="5f710a1148740760b4ebcc42861a1f9c3384799e" crc="fdf79a60" />
   </game>
-  <game name="01 - Games/Defender II">
+  <game name="01 - Games/Stargate">
     <rom name="Defender II (USA) (Alt).a26" size="8192" sha1="d7b506b84f28e1b917a2978753d5a40eb197537a" crc="93217704" />
     <rom name="Stargate (Europe).a26" size="8192" sha1="07920046ed55519797274117f2f8c8c7e530f623" crc="d3f6a968" />
     <rom name="Stargate (USA).a26" size="8192" sha1="4f87be0ef16a1d0389226d1fbda9b4c16b06e13e" crc="cde3530e" />
@@ -891,7 +891,7 @@
   <game name="01 - Games/Gyruss">
     <rom name="Gyruss (USA).a26" size="8192" sha1="4bd87ba8b3b6d7850e3ea41b4d494c3b12659f27" crc="0d78e8a9" />
   </game>
-  <game name="01 - Games/H.E.R.O">
+  <game name="01 - Games/H.E.R.O.">
     <rom name="H.E.R.O. (Europe).a26" size="8192" sha1="3186a670ba626127151e364f33ca1bf0e189dfea" crc="27ffd4e6" />
     <rom name="H.E.R.O. (USA).a26" size="8192" sha1="282f94817401e3725c622b73a0c05685ce761783" crc="721e95b7" />
   </game>
@@ -942,7 +942,7 @@
   <game name="01 - Games/I Want My Mommy">
     <rom name="I Want My Mommy (USA).a26" size="4096" sha1="f7e782214b5f9227e34c00f590be50534f1fda91" crc="57908550" />
   </game>
-  <game name="01 - Games/I.Q. Memory Teaser">
+  <game name="01 - Games/I.Q. 180">
     <rom name="I.Q. 180 (USA).a26" size="4096" sha1="8483fd18dddafbdfbcbd1c43bc7de2cc05a1894d" crc="4dc2a674" />
     <rom name="I.Q. Memory Teaser (Europe).a26" size="4096" sha1="fa05a35de4c401704538cc256f46440f42de3ddb" crc="75ab6ba8" />
     <rom name="IQ 180 (USA).a26" size="4096" sha1="f157de7adac8d14231d3f8e6f35df8c39bb1b75f" crc="5ea5d7e3" />
@@ -1085,7 +1085,7 @@
   <game name="01 - Games/Lost Luggage">
     <rom name="Lost Luggage (USA).a26" size="4096" sha1="e8492fe9d62750df682358fe59a4d4272655eb96" crc="551bdd37" />
   </game>
-  <game name="01 - Games/M.A.D">
+  <game name="01 - Games/M.A.D.">
     <rom name="Angriff der Luftflotten (Germany).a26" size="4096" sha1="ac58ac94ceab78725a1182cc7b907376c011b0c8" crc="74fe8262" />
     <rom name="M.A.D. (USA).a26" size="4096" sha1="d6e2b7765a9d30f91c9b2b8d0adf61ec5dc2b30a" crc="5cb68fe5" />
   </game>
@@ -1107,7 +1107,7 @@
   <game name="01 - Games/Marineflieger">
     <rom name="Marineflieger (Europe).a26" size="4096" sha1="919fb7d1531aa6b181e96f8648168491be7a2f20" crc="229512e4" />
   </game>
-  <game name="01 - Games/Mario Bros">
+  <game name="01 - Games/Mario Bros.">
     <rom name="Mario Bros. (USA).a26" size="8192" sha1="49425ff154b92ca048abb4ce5e8d485c24935035" crc="8fbf7e90" />
   </game>
   <game name="01 - Games/Master Builder">
@@ -1182,7 +1182,7 @@
     <rom name="Missile Command (USA).a26" size="4096" sha1="faa06bb0643dbf556b13591c31917d277a83110b" crc="cff14904" />
     <rom name="Missile Control (Europe).a26" size="4096" sha1="224e7a310afdb91c6915743e72b7b53b38eb5754" crc="ac80976b" />
   </game>
-  <game name="01 - Games/Mission 3,000 A.D">
+  <game name="01 - Games/Mission 3,000 A.D.">
     <rom name="Mission 3,000 A.D. (USA).a26" size="4096" sha1="652bb092e9ba2958e242b1440acdd6c08a884ec5" crc="b959a92f" />
     <rom name="Mission 3000 (Europe).a26" size="4096" sha1="999dc390a7a3f7be7c88022506c70bd4208b26d8" crc="55b140fe" />
   </game>
@@ -1615,7 +1615,7 @@
     <rom name="O Monstro Marinho (Europe).a26" size="4096" sha1="c2f43f35d95797c06a581654406256c72e422ba4" crc="3a1a392b" />
     <rom name="Sea Monster (USA).a26" size="4096" sha1="0fac0c8611fbe2803b2a95d0328260d1c03a4c8b" crc="d6490bf3" />
   </game>
-  <game name="01 - Games/Seahawk">
+  <game name="01 - Games/Sea Hawk">
     <rom name="Sea Hawk (USA).a26" size="4096" sha1="87cb2eb01f8e82fddb3a66e468fab68ae55778da" crc="5224dc7b" />
     <rom name="Seahawk (Europe).a26" size="4096" sha1="b4ead7656696a983dec3192c71cc4d63e9a67825" crc="5d3c699e" />
   </game>
@@ -1802,10 +1802,10 @@
     <rom name="Spike's Peak (Europe).a26" size="8192" sha1="6bf52bd85e251bed8aa8e04e2fd2f1bcc41ea986" crc="7ef3236a" />
     <rom name="Spike's Peak (USA).a26" size="8192" sha1="205241a12778829981e9281d9c6fa137f11e1376" crc="50efea8d" />
   </game>
-  <game name="01 - Games/Spinning Fireball">
+  <game name="01 - Games/Fire Spinner">
     <rom name="Fire Spinner (USA).a26" size="4096" sha1="e30e6195642884954bc98df2e82c3e972db49a57" crc="f497456e" />
   </game>
-  <game name="01 - Games/Spinning Fireball/~Prototypes and Betas">
+  <game name="01 - Games/Fire Spinner/~Prototypes and Betas">
     <rom name="Spinning Fireball (USA) (Proto).a26" size="4096" sha1="2b184acdf908328a1c134c918d16a68cc2e57f94" crc="fa40c6d3" />
   </game>
   <game name="01 - Games/Spitfire Attack">

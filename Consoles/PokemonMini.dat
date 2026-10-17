@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>PokemonMini</name>
-    <version>2026-10-16</version>
+    <version>2026-10-17</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/Mini Running Ant">
@@ -34,7 +34,7 @@
   <game name="01 - Games/Pokemon Party Mini - Chansey's Dribble">
     <rom name="Pokemon Party Mini - Chansey's Dribble (Europe) (GameCube).min" size="524288" sha1="c9a5f335c93e9bacf198b976d430cf798bc517bc" crc="ba504497" />
   </game>
-  <game name="01 - Games/Pokemon Party Mini - Pikachu's Rocket Start">
+  <game name="01 - Games/Pokemon Party Mini - Rocket Start">
     <rom name="Pokemon Party Mini - Pikachu's Rocket Start (Europe) (GameCube).min" size="524288" sha1="b1922f3d43f3a4e36876c3e0e8428809fd999efc" crc="f15964af" />
     <rom name="Pokemon Party Mini - Rocket Start (USA) (GameCube).min" size="524288" sha1="840d43fe55e8e056940ff0b7bc6d7e4e11b5e047" crc="44c5271e" />
   </game>

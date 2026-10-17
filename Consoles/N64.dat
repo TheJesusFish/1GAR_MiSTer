@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>N64</name>
-    <version>2026-10-16</version>
+    <version>2026-10-17</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - 64DD Games/Dezaemon DD/~Prototypes and Betas">
@@ -123,7 +123,7 @@
   <game name="01 - Games/AI Shougi 3/~Translations">
     <rom name="AI Shougi 3 (Japan) [T-En by GammaTrove v1.0].z64" size="3935056" sha1="539dfe8b867557974757eda668bab641da7b04dd" crc="7624a83d" />
   </game>
-  <game name="01 - Games/Action Replay Pro 64">
+  <game name="01 - Games/GameShark Pro">
     <rom name="Action Replay Pro 64 (Europe) (v3.0) (Unl).bin" size="262144" sha1="d5e4e8c875d6bda0afafb1b2513b16b1cb88dfc1" crc="c992dfb4" />
     <rom name="Action Replay Pro 64 (Europe) (v3.3) (Unl).bin" size="262144" sha1="c3426114f5da1fb7abde15a766d362698ad07166" crc="9fbabfda" />
     <rom name="GameShark Pro (USA) (v2.0) (Unl).bin" size="262144" sha1="19148a009ef8e1013ab35c8141781184b141699f" crc="ef9edf87" />
@@ -161,7 +161,7 @@
   <game name="01 - Games/Alien Sun/~Prototypes and Betas">
     <rom name="Alien Sun (World) (Proto) (N64brew Game Jam 2023) (Aftermarket) (Unl).z64" size="2162688" sha1="99340bea6e216b37da07e1a16aa39248fc228a6f" crc="c49538e7" />
   </game>
-  <game name="01 - Games/All Star Tennis '99">
+  <game name="01 - Games/All Star Tennis 99">
     <rom name="All Star Tennis '99 (Europe) (En,Fr,De,Es,It).z64" size="8388608" sha1="09ddbd45f4962735def65399b5792e3bb5bd7d3c" crc="996e845f" />
     <rom name="All Star Tennis 99 (USA).z64" size="8388608" sha1="3a6446409d63dcac0d5c860a3e2888a378474887" crc="a7dcf638" />
   </game>
@@ -179,7 +179,7 @@
   <game name="01 - Games/Animal Forest/~Translations">
     <rom name="Animal Forest (Japan) [T-En by Zoinkity v021210] [i] [n].z64" size="33554432" sha1="1d7ee0f42824b2cdb85242862909b564f499c17b" crc="46239627" />
   </game>
-  <game name="01 - Games/Armorines - Project S.W.A.R.M">
+  <game name="01 - Games/Armorines - Project S.W.A.R.M.">
     <rom name="Armorines - Project S.W.A.R.M. (Europe).z64" size="16777216" sha1="66f2b431d2275b2563692bfd053d4c0118e0e0c2" crc="600bc49e" />
     <rom name="Armorines - Project S.W.A.R.M. (Germany).z64" size="16777216" sha1="68f9dda2863f7625a36f115419956dd9f249afe6" crc="5bab9100" />
     <rom name="Armorines - Project S.W.A.R.M. (USA).z64" size="16777216" sha1="d9f55acf77a54eeb7f62577aa5711769ebeadde3" crc="630a19e2" />
@@ -246,7 +246,7 @@
   <game name="01 - Games/Bassmasters 2000/~Prototypes and Betas">
     <rom name="Bassmasters 2000 (USA) (Beta).z64" size="12582912" sha1="72f1de2965025c0f3b4c0f3f36115f2a00e3ad24" crc="59537347" />
   </game>
-  <game name="01 - Games/Batman of the Future - Return of the Joker">
+  <game name="01 - Games/Batman Beyond - Return of the Joker">
     <rom name="Batman Beyond - Return of the Joker (USA).z64" size="4194304" sha1="f7382358250965e9757ba9a89fe42d033dbe7fe8" crc="35299f9c" />
     <rom name="Batman of the Future - Return of the Joker (Europe) (En,Fr,De).z64" size="4194304" sha1="3954131395f98e605072bea11cc85842da58f754" crc="82a4bb8a" />
   </game>
@@ -279,7 +279,7 @@
   <game name="01 - Games/Big2Small">
     <rom name="Big2Small (World) (Aftermarket) (Unl).z64" size="1048576" sha1="1186ad255e5b30d0b066f770ad08094c15f54827" crc="35b5c0c9" />
   </game>
-  <game name="01 - Games/Bio F.R.E.A.K.S">
+  <game name="01 - Games/Bio F.R.E.A.K.S.">
     <rom name="Bio F.R.E.A.K.S. (Europe).z64" size="16777216" sha1="8a85ec7d68954a36569f28f6a26981d6f283fd6d" crc="2c4eb906" />
     <rom name="Bio F.R.E.A.K.S. (USA).z64" size="16777216" sha1="e20e9124480b559aa7148412c8993804501e180d" crc="dfbf448c" />
   </game>
@@ -344,12 +344,12 @@
     <rom name="Bust-A-Move 2 - Arcade Edition (Europe).z64" size="8388608" sha1="f92a1b19c522ba6cf20a9d7883321e6e283da32f" crc="04731bab" />
     <rom name="Bust-A-Move 2 - Arcade Edition (USA).z64" size="8388608" sha1="8f1aad51e733958d1a9a7a0cb7516fc7a293ca7b" crc="9f54cd2d" />
   </game>
-  <game name="01 - Games/Bust-A-Move 3 DX">
+  <game name="01 - Games/Bust-A-Move '99">
     <rom name="Bust-A-Move '99 (USA).z64" size="8388608" sha1="8d874677cfbfa88c5e52bc13327d518be3b756ba" crc="c285fc69" />
     <rom name="Bust-A-Move 3 DX (Europe).z64" size="8388608" sha1="2bd376c3db3080d0a2328ef4052e59c3df71797e" crc="95595889" />
     <rom name="Puzzle Bobble 64 (Japan).z64" size="8388608" sha1="9a4cdde04e6c42cf7957bf578a0b15ca90203280" crc="ea837423" />
   </game>
-  <game name="01 - Games/Bust-A-Move 3 DX/~Prototypes and Betas">
+  <game name="01 - Games/Bust-A-Move '99/~Prototypes and Betas">
     <rom name="Bust-A-Move 3 DX (USA) (Beta) (1998-08-28).z64" size="8388608" sha1="a0f53d92c8ab70aae0d8605c1cf8f2092a81d720" crc="0ee608d2" />
   </game>
   <game name="01 - Games/California Speed">
@@ -495,11 +495,11 @@
     <rom name="CyberTiger (Europe).z64" size="16777216" sha1="ae220ac1cd6d892098937dc639c925f9ef158759" crc="7319d9af" />
     <rom name="CyberTiger (USA).z64" size="16777216" sha1="14e0635ccc2a80c77fd0a888a2e7977c55c6e129" crc="10cc5f15" />
   </game>
-  <game name="01 - Games/Daffy Duck Starring as Duck Dodgers">
+  <game name="01 - Games/Duck Dodgers Starring Daffy Duck">
     <rom name="Daffy Duck Starring as Duck Dodgers (Europe) (En,Fr,De,Es,It,Nl).z64" size="16777216" sha1="5499b5284c04cee98186e68198d6bfe73fee0cdb" crc="c61f6bb9" />
     <rom name="Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es).z64" size="16777216" sha1="2c840e2991d6a2af63c4efe830240fc49d93fc9a" crc="3177a905" />
   </game>
-  <game name="01 - Games/Daffy Duck Starring as Duck Dodgers/~Prototypes and Betas">
+  <game name="01 - Games/Duck Dodgers Starring Daffy Duck/~Prototypes and Betas">
     <rom name="Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta 1).z64" size="16777216" sha1="53febb3e7511f581f15cdf3d6ff65e1527ad3348" crc="f2012442" />
     <rom name="Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta 2) (2000-03-07).z64" size="16777216" sha1="8a8e3f304bf875a7e3651bf3a38ee50bc8d1db1a" crc="0046b0ec" />
   </game>
@@ -557,7 +557,7 @@
   <game name="01 - Games/Dolphin Controller Test">
     <rom name="Dolphin Controller Test (Japan) (Test Program).z64" size="8388608" sha1="39833526fe2c2437644c47c0a2b0ddd11f8728a4" crc="675eb439" />
   </game>
-  <game name="01 - Games/Donald Duck - Quack Attack">
+  <game name="01 - Games/Donald Duck - Goin' Quackers">
     <rom name="Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It).z64" size="33554432" sha1="f992a60c6e28ba818900e008faab01739715ae74" crc="0075d32b" />
     <rom name="Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It).z64" size="33554432" sha1="7d95bc1c2e07adcec437a389e31c884adb6a8fd2" crc="e6220482" />
   </game>
@@ -724,7 +724,7 @@
     <rom name="FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv).z64" size="12582912" sha1="148d6424d2135afefecde74092701c491027c23e" crc="28b1221c" />
     <rom name="FIFA - Road to World Cup 98 - World Cup e no Michi (Japan).z64" size="12582912" sha1="d8a0c9ef8ff258d061a639e7572d0d9e3038a895" crc="ae346df6" />
   </game>
-  <game name="01 - Games/FIFA 64">
+  <game name="01 - Games/FIFA Soccer 64">
     <rom name="FIFA 64 (Europe) (En,Fr,De).z64" size="8388608" sha1="eacdf23e27ec1e0639042bf03804222851e4f151" crc="ae2583fb" />
     <rom name="FIFA Soccer 64 (USA) (En,Fr,De).z64" size="8388608" sha1="603c5bf64497dca86c4eb802f97f1c32e75a68a8" crc="57de7cab" />
   </game>
@@ -774,7 +774,7 @@
     <rom name="Flying Dragon (USA).z64" size="12582912" sha1="5472fe1dcaaacaecba8d1bed8eab4a2146e58665" crc="91bc9aeb" />
     <rom name="Hiryuu no Ken Twin (Japan).z64" size="12582912" sha1="c7a76b061c383600378e52a39dada8d2be58325b" crc="ba6a687e" />
   </game>
-  <game name="01 - Games/Forsaken">
+  <game name="01 - Games/Forsaken 64">
     <rom name="Forsaken (Europe) (En,Fr,Es,It).z64" size="8388608" sha1="ac24c6e48fcd03c32aef484188ba842b619ff613" crc="5ed736d9" />
     <rom name="Forsaken (Germany).z64" size="8388608" sha1="f1be08780d117c44fc10a0dba792d6c5be7d4093" crc="9793abc2" />
     <rom name="Forsaken 64 (USA).z64" size="8388608" sha1="7c670b224acfa960df902c866febb679806cb3fb" crc="76c4333d" />
@@ -794,7 +794,7 @@
   <game name="01 - Games/Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou!">
     <rom name="Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan).z64" size="33554432" sha1="f97b070a1fa6ab3d190b36d6b68a2ef182d35233" crc="2aa6d2a1" />
   </game>
-  <game name="01 - Games/G.A.S.P!! Fighters' NEXTream">
+  <game name="01 - Games/Deadly Arts">
     <rom name="Deadly Arts (USA).z64" size="12582912" sha1="aa8566669575e3fea05daf5688d4fe05df735cd9" crc="3db8130e" />
     <rom name="G.A.S.P!! Fighters' NEXTream (Europe).z64" size="12582912" sha1="b069f2c0b6ab4fbd486861c4d3aaf8a149ab4529" crc="5aa63b04" />
     <rom name="G.A.S.P!! Fighters' NEXTream (Japan).z64" size="12582912" sha1="86693e6c1623708438ebf23ab0e78dd6ea8c8fa7" crc="6ead2d89" />
@@ -917,7 +917,7 @@
   <game name="01 - Games/Hey You, Pikachu!/~Prototypes and Betas">
     <rom name="Pikachuu Genki de Chuu (Japan) (Beta).z64" size="16777216" sha1="a6b2845c2c6e34b34ea2e039b4a3131abd752ba8" crc="bb313242" />
   </game>
-  <game name="01 - Games/Holy Magic Century">
+  <game name="01 - Games/Quest 64">
     <rom name="Eltale Monsters (Japan).z64" size="16777216" sha1="4161b5c100ec82b0241b20ca8f81366e23564ccb" crc="24d937bf" />
     <rom name="Holy Magic Century (Europe).z64" size="16777216" sha1="139607eba03326fbe9d899663c56e64042d51e84" crc="84ff9890" />
     <rom name="Holy Magic Century (France).z64" size="16777216" sha1="610bf1f4a5cbeb2d6dc3ae1dafc5b3b818f69c26" crc="284170ed" />
@@ -989,7 +989,7 @@
   <game name="01 - Games/International Superstar Soccer 64/~Pirate">
     <rom name="Ronaldinho's Soccer 64 (Brazil) (Pirate).z64" size="8388608" sha1="93119cee958ad7a7b28f6a945cfaa7829fe340da" crc="c296eca1" />
   </game>
-  <game name="01 - Games/International Track &amp; Field - Summer Games">
+  <game name="01 - Games/International Track &amp; Field 2000">
     <rom name="Ganbare! Nippon! Olympics 2000 (Japan).z64" size="12582912" sha1="f683446894a704df016b90cc3409ecdb70cba0aa" crc="73133cd2" />
     <rom name="International Track &amp; Field - Summer Games (Europe) (En,Fr,De).z64" size="12582912" sha1="b3d5a2128813bd077dd3e161978e3c1717e278e0" crc="b3181ee0" />
     <rom name="International Track &amp; Field 2000 (USA).z64" size="12582912" sha1="61d7958e61b50fd933faf5d3ae70807fa53818fb" crc="da443f0b" />
@@ -1190,7 +1190,7 @@
     <rom name="Lunar Assault 64 (World) (v1.1) (PAL) (Aftermarket) (Unl).z64" size="8388608" sha1="bf045c57a5c0570a64002f526a2fec40ac1c23b0" crc="4492d734" />
     <rom name="Lunar Assault 64 (World) (v1.2) (NTSC) (Aftermarket) (Unl).z64" size="8388608" sha1="9c5903d527aa16a5aab79944ba7ad555ea4ebade" crc="cc382df0" />
   </game>
-  <game name="01 - Games/Lylatwars">
+  <game name="01 - Games/Star Fox 64">
     <rom name="Lylat Wars (Australia) (En,Fr,De).z64" size="12582912" sha1="47a8ccc11450f9044ca2292b9fc3c58949b9caac" crc="9a3425da" />
     <rom name="Lylatwars (Europe) (En,Fr,De).z64" size="12582912" sha1="05b307b8804f992af1a1e2fbafbd588501fdf799" crc="50a9c0b1" />
     <rom name="Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console).z64" size="12582912" sha1="a39f14f0d1224095717fabc021023203cb7561d5" crc="6508d4ad" />
@@ -1254,7 +1254,7 @@
   <game name="01 - Games/Mahjong Master">
     <rom name="Mahjong Master (Japan).z64" size="8388608" sha1="556dd6dbbec02680e47362552d2babd4f8720050" crc="b68d596f" />
   </game>
-  <game name="01 - Games/Major League Baseball Featuring Ken Griffey Jr">
+  <game name="01 - Games/Major League Baseball Featuring Ken Griffey Jr.">
     <rom name="Major League Baseball Featuring Ken Griffey Jr. (Australia).z64" size="16777216" sha1="e300e8acb110d72bc5bfee4fc4981e09b881300e" crc="e08f7578" />
     <rom name="Major League Baseball Featuring Ken Griffey Jr. (USA).z64" size="16777216" sha1="54b8c97523089d92754c2582a7b7a43246947122" crc="2ef1ea20" />
   </game>
@@ -1331,13 +1331,13 @@
   <game name="01 - Games/Mega Man 64/~Prototypes and Betas">
     <rom name="Mega Man 64 (USA) (Beta).z64" size="67108864" sha1="7fc1db2b88cd43a5e76697ee449bc946e9a48c03" crc="d3562b57" />
   </game>
-  <game name="01 - Games/Michael Owen's WLS 2000">
+  <game name="01 - Games/Mia Hamm Soccer 64">
     <rom name="Mia Hamm Soccer 64 (USA) (En,Es).z64" size="16777216" sha1="62ce9d1c1f4cf7beaa1ef7c456c155f63f13f057" crc="2db3d3d6" />
     <rom name="Michael Owen's WLS 2000 (Europe).z64" size="16777216" sha1="f629a56ed36fb3889841a047d7c4cd2b9731eb43" crc="bb680cbe" />
     <rom name="RTL World League Soccer 2000 (Germany).z64" size="16777216" sha1="a68294e47c82639c9bcdae1b7306ac2a2e2f47b5" crc="0a17da7b" />
     <rom name="Telefoot Soccer 2000 (France).z64" size="16777216" sha1="ffc1f3271929b0e7d6467fdcbed9e0ccf2eba0a5" crc="7bd20931" />
   </game>
-  <game name="01 - Games/Michael Owen's WLS 2000/~Prototypes and Betas">
+  <game name="01 - Games/Mia Hamm Soccer 64/~Prototypes and Betas">
     <rom name="Mia Hamm Soccer 64 (USA) (En,Es) (Beta) (2000-08-01).z64" size="16777216" sha1="b8ac1c8ffde8d0c0c83110b471194f5d8c338834" crc="f3262479" />
     <rom name="Mia Hamm Soccer 64 (USA) (En,Es) (Beta) (2000-09-01).z64" size="16777216" sha1="099e80f45569926ac18a20e7b3fddb78239916ed" crc="ff29150a" />
     <rom name="Michael Owen's WLS 2000 (Europe) (En,Fr,De,Es,It) (Beta).z64" size="16777216" sha1="0e9da442af5fa4717767184c513a7c556bb31bd6" crc="1b02906c" />
@@ -1389,7 +1389,7 @@
     <rom name="Mission Lost Control (World) (N64brew Game Jam 2021) (Aftermarket) (Unl).z64" size="10829280" sha1="82e5bfc204b9a75e7c322b2fac0b90f1de889541" crc="e7486d4b" />
     <rom name="Mission Lost Control (World) (v1.1) (Aftermarket) (Unl).z64" size="10829776" sha1="fc8dd48dba8ae7446e942cc3f3d01540c986fb2e" crc="05e4893a" />
   </game>
-  <game name="01 - Games/Monaco Grand Prix - Racing Simulation 2">
+  <game name="01 - Games/Monaco Grand Prix">
     <rom name="Monaco Grand Prix (USA).z64" size="16777216" sha1="477f945dc38f930336e0d05cfdcba2c4c30f6a31" crc="e2bbeac1" />
     <rom name="Monaco Grand Prix - Racing Simulation 2 (Europe) (En,Fr,Es,It).z64" size="16777216" sha1="39a7f5515dd822a32c0fc8d9e01a72f0c8b2a1f7" crc="3f5e5830" />
     <rom name="Racing Simulation 2 (Germany).z64" size="16777216" sha1="08bc64cb8c64db9b048fc1522fd5e808ff63ce1a" crc="ba73a7e4" />
@@ -1425,7 +1425,7 @@
   <game name="01 - Games/Ms. Pac-Man - Maze Madness">
     <rom name="Ms. Pac-Man - Maze Madness (USA).z64" size="12582912" sha1="99028c738b5ac5ff99d73698b50d14f5e58ddea7" crc="e34c7060" />
   </game>
-  <game name="01 - Games/Mystical Ninja 2 Starring Goemon">
+  <game name="01 - Games/Goemon's Great Adventure">
     <rom name="Ganbare Goemon - Dero Dero Douchuu Obake Tenkomori (Japan).z64" size="16777216" sha1="2ab71b71665a688d40832e16d897548ece9f0dd4" crc="08c41e0e" />
     <rom name="Goemon's Great Adventure (USA).z64" size="16777216" sha1="9f9e860816f9e2a68bb5f4f56086e0c7450c64d7" crc="52d418e1" />
     <rom name="Mystical Ninja 2 Starring Goemon (Europe) (En,Fr,De).z64" size="16777216" sha1="aadd1d7e943cbfa5496a370158b5f8fe17b06415" crc="3502dbbe" />
@@ -1473,12 +1473,12 @@
     <rom name="NBA Live 99 (Europe) (En,Fr,De,Es,It).z64" size="16777216" sha1="530ef95c12f0ca73bc4e178a397ce677a57ad858" crc="a316df37" />
     <rom name="NBA Live 99 (USA) (En,Fr,De,Es,It).z64" size="16777216" sha1="89e47ffac3eae25b37e1a20ce66ca24e343912dd" crc="9be0a7ac" />
   </game>
-  <game name="01 - Games/NBA Pro 98">
+  <game name="01 - Games/NBA in the Zone '98">
     <rom name="NBA Pro 98 (Europe).z64" size="12582912" sha1="94416270d83a87e360bac5059cc5f7365ca120ac" crc="04b75ccc" />
     <rom name="NBA in the Zone '98 (Japan).z64" size="12582912" sha1="c4dc9049094100d48a010d39f2901e1ab164a8fa" crc="aed2700a" />
     <rom name="NBA in the Zone '98 (USA).z64" size="12582912" sha1="a306d80f483f8bb5891a543919c53fac61d9348f" crc="a245d737" />
   </game>
-  <game name="01 - Games/NBA Pro 99">
+  <game name="01 - Games/NBA in the Zone '99">
     <rom name="NBA Pro 99 (Europe).z64" size="12582912" sha1="5decf930d859e8b834a5f897955880556ca6aadf" crc="588e60e8" />
     <rom name="NBA in the Zone '99 (USA).z64" size="12582912" sha1="6964baec49592e64c34782b55e234c7bd32c8a99" crc="eab083b8" />
     <rom name="NBA in the Zone 2 (Japan).z64" size="12582912" sha1="a7685c8833256ecd1033862ea077e75147f9c49a" crc="41093b73" />
@@ -1530,7 +1530,7 @@
     <rom name="NHL Breakaway 99 (Europe).z64" size="12582912" sha1="46147db00bd9d80f0d22e8eb1b00603106de2692" crc="572060e0" />
     <rom name="NHL Breakaway 99 (USA).z64" size="12582912" sha1="65c0f8bf81d8dec3e5d719b167a61a73b2436e84" crc="75f75b9d" />
   </game>
-  <game name="01 - Games/NHL Pro 99">
+  <game name="01 - Games/NHL Blades of Steel '99">
     <rom name="NHL Blades of Steel '99 (USA).z64" size="12582912" sha1="c55e9771b1548cfe4297646adcfcafe85712da5e" crc="1ee678fe" />
     <rom name="NHL Pro 99 (Europe).z64" size="12582912" sha1="4ff557ccd19982699b3aa82d4c44f436d1d87f93" crc="e272867e" />
   </game>
@@ -1603,7 +1603,7 @@
   <game name="01 - Games/Onegai Monsters">
     <rom name="Onegai Monsters (Japan).z64" size="16777216" sha1="7592f4c16b8e040539b5dcc201fab2965a5e8c8d" crc="ac72a1c7" />
   </game>
-  <game name="01 - Games/Operation WinBack">
+  <game name="01 - Games/WinBack - Covert Operations">
     <rom name="Operation WinBack (Europe) (En,Fr,De,Es,It).z64" size="16777216" sha1="133f17162b2734286f9e94f64acb1538b11506b2" crc="fb96f166" />
     <rom name="WinBack (Japan) (Rev 1).z64" size="16777216" sha1="660f8778bc816046e1bcc11e1a975fed5db17410" crc="927383bb" />
     <rom name="WinBack (Japan).z64" size="16777216" sha1="d6db9e2509b760403f5db330142055af842fb52c" crc="d35360b0" />
@@ -1612,11 +1612,11 @@
   <game name="01 - Games/PD Ultraman Battle Collection 64">
     <rom name="PD Ultraman Battle Collection 64 (Japan).z64" size="33554432" sha1="16783d9de1ff772e215f47441612d6805aa98c67" crc="86cc80b5" />
   </game>
-  <game name="01 - Games/PGA European Tour Golf">
+  <game name="01 - Games/PGA European Tour">
     <rom name="PGA European Tour (USA).z64" size="16777216" sha1="6e8dfccfe93318a597e99c9186d5e8cdca3be987" crc="7cdfcdaa" />
     <rom name="PGA European Tour Golf (Europe) (En,Fr,De,Es,It).z64" size="16777216" sha1="f9e838cf5cfd0fa493d5e5f7a7d450a80787c814" crc="6b5ff959" />
   </game>
-  <game name="01 - Games/PGA European Tour Golf/~Prototypes and Betas">
+  <game name="01 - Games/PGA European Tour/~Prototypes and Betas">
     <rom name="PGA European Tour Golf (Europe) (En,De) (Beta).z64" size="16777216" sha1="2044b6bfcf119771486c6b96be9bfe58ef840478" crc="c98562e7" />
   </game>
   <game name="01 - Games/Pachinko 365 Nichi">
@@ -1797,7 +1797,7 @@
     <rom name="Rampage 2 - Universal Tour (USA) (LodgeNet).z64" size="12582912" sha1="0a6c390b7d1a96b93fc28faa3b11cf18400b1773" crc="c28afc5e" />
     <rom name="Rampage 2 - Universal Tour (USA).z64" size="12582912" sha1="36d1b741f6ea896b05ab7ceeac8b78684cbdac6b" crc="7614ee0d" />
   </game>
-  <game name="01 - Games/Rat Attack">
+  <game name="01 - Games/Rat Attack!">
     <rom name="Rat Attack (Europe) (En,Fr,De,Es,It,Nl).z64" size="8388608" sha1="b27e328f7600b7a2e175e4a36d8c85073eaf4d0e" crc="dd4fa798" />
     <rom name="Rat Attack! (USA).z64" size="8388608" sha1="0682b6745832984f43652c0589e4ecf37f937790" crc="2315fea7" />
   </game>
@@ -1869,13 +1869,13 @@
   <game name="01 - Games/Rocket - Robot on Wheels/~Prototypes and Betas">
     <rom name="Rocket - Robot on Wheels (Europe) (En,Fr,De) (Beta) (1999-09-29).z64" size="16777216" sha1="e71b55674692fddc896b0ab7fa57d8271c2e160e" crc="725dbfaf" />
   </game>
-  <game name="01 - Games/Rugrats - Treasure Hunt">
+  <game name="01 - Games/Rugrats - Scavenger Hunt">
     <rom name="Razmoket, Les - La Chasse aux Tresors (France).z64" size="16777216" sha1="69c06b2d31bc6bc66cd028705d81024f21a7654c" crc="66766469" />
     <rom name="Rugrats - Die grosse Schatzsuche (Germany).z64" size="16777216" sha1="32caba1042cabbf366852d629d3fee1a5186bce3" crc="23aed3a2" />
     <rom name="Rugrats - Scavenger Hunt (USA).z64" size="16777216" sha1="fb2a62f1625630d6f0beb5fd00a32e12155d50e8" crc="a87faf82" />
     <rom name="Rugrats - Treasure Hunt (Europe).z64" size="16777216" sha1="5ff0b82077559dd4c206a7a7d13eabeabc82e9c4" crc="3338b7c8" />
   </game>
-  <game name="01 - Games/Rugrats - Treasure Hunt/~Prototypes and Betas">
+  <game name="01 - Games/Rugrats - Scavenger Hunt/~Prototypes and Betas">
     <rom name="Rugrats - Scavenger Hunt (USA) (Beta) (1999-04-02).z64" size="16777216" sha1="4b359040d63801f89b0f583b13384a529e393f94" crc="b839ea50" />
   </game>
   <game name="01 - Games/Rugrats in Paris - The Movie">
@@ -1887,7 +1887,7 @@
     <rom name="Rush 2 - Extreme Racing USA (USA) (LodgeNet).z64" size="12582912" sha1="1556edd66c54bf6ec200915ac4265f078c1555a2" crc="c7e9d391" />
     <rom name="Rush 2 - Extreme Racing USA (USA).z64" size="12582912" sha1="01b0a31b1accc18061e8c85f6c5edf0dbd79f097" crc="9eb14ea8" />
   </game>
-  <game name="01 - Games/S.C.A.R.S">
+  <game name="01 - Games/S.C.A.R.S.">
     <rom name="S.C.A.R.S. (Europe) (En,Fr,De).z64" size="8388608" sha1="8b4ebad8b7f50381ba2e16d0c475332837bb5780" crc="4e37b6f2" />
     <rom name="S.C.A.R.S. (USA).z64" size="8388608" sha1="1e87e7bc5b7bc877abc790ebff122ed6e2be828e" crc="22916735" />
   </game>
@@ -2113,7 +2113,7 @@
   <game name="01 - Games/Super Robot Taisen 64">
     <rom name="Super Robot Taisen 64 (Japan).z64" size="33554432" sha1="9883aef6e20a46e110560c505999f3e21a1897de" crc="85df2771" />
   </game>
-  <game name="01 - Games/Super Smash Bros">
+  <game name="01 - Games/Super Smash Bros.">
     <rom name="Nintendo All-Star! Dairantou Smash Brothers (Japan).z64" size="16777216" sha1="4b71f0e01878696733eefa9c80d11c147ecb4984" crc="04c9d3b1" />
     <rom name="Super Smash Bros. (Australia).z64" size="16777216" sha1="a9bf83fe73361e8d042c33ed48b3851d7d46712c" crc="e96779fa" />
     <rom name="Super Smash Bros. (Europe) (En,Fr,De).z64" size="33554432" sha1="6ee8a41fef66280ce3e3f0984d00b96079442fb9" crc="45a91cb1" />
@@ -2221,23 +2221,23 @@
   <game name="01 - Games/Tony Hawk's Pro Skater 3">
     <rom name="Tony Hawk's Pro Skater 3 (USA).z64" size="16777216" sha1="7b9438120c67214afaea09f4b106c54ef8f366c5" crc="62a8ce7d" />
   </game>
-  <game name="01 - Games/Tony Hawk's Skateboarding">
+  <game name="01 - Games/Tony Hawk's Pro Skater">
     <rom name="Tony Hawk's Pro Skater (USA) (Rev 1).z64" size="12582912" sha1="4900b6c92fb8df1765e91e891dccc525bb102fe1" crc="6182a092" />
     <rom name="Tony Hawk's Pro Skater (USA).z64" size="12582912" sha1="fc1b4dec85e6874fa7321edc24f5a1e78600d9d0" crc="f5c1b64f" />
     <rom name="Tony Hawk's Skateboarding (Europe).z64" size="12582912" sha1="c321cd05eec58765467878ac8015784535280e3c" crc="39e4f766" />
   </game>
-  <game name="01 - Games/Tony Hawk's Skateboarding/~Prototypes and Betas">
+  <game name="01 - Games/Tony Hawk's Pro Skater/~Prototypes and Betas">
     <rom name="Tony Hawk's Pro Skater (USA) (Beta).z64" size="12582912" sha1="7a08f68eccb524da95b24960df5b3add4aa5e178" crc="3e4358bf" />
   </game>
   <game name="01 - Games/Toon Panic/~Prototypes and Betas">
     <rom name="Toon Panic (Japan) (Proto).z64" size="12582912" sha1="c0da7fe28d05fab82f79703fdf9d807b9d7ee70e" crc="cf396c4e" />
   </game>
-  <game name="01 - Games/Top Gear Hyper Bike">
+  <game name="01 - Games/Top Gear Hyper-Bike">
     <rom name="Top Gear Hyper Bike (Europe).z64" size="16777216" sha1="ff4eb866c48700fa978a5e663cda1499c8eac0b4" crc="bae57ea7" />
     <rom name="Top Gear Hyper Bike (Japan).z64" size="16777216" sha1="7db7337260af8f153b6291b13e655f192b59ec01" crc="09b2cda1" />
     <rom name="Top Gear Hyper-Bike (USA).z64" size="16777216" sha1="c7593b3d0d793cf03616df02501735221624ac04" crc="6eebc26a" />
   </game>
-  <game name="01 - Games/Top Gear Hyper Bike/~Prototypes and Betas">
+  <game name="01 - Games/Top Gear Hyper-Bike/~Prototypes and Betas">
     <rom name="Top Gear Hyper-Bike (USA) (Beta).z64" size="16777216" sha1="293d93a9b116bb77789c76c42988b278f1514fe1" crc="34dff195" />
   </game>
   <game name="01 - Games/Top Gear Overdrive">
@@ -2334,7 +2334,7 @@
     <rom name="Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-16).z64" size="33554432" sha1="f589ace7e502422b41178cc7cdae29a3bde9e117" crc="d6c552d0" />
     <rom name="Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-18).z64" size="33554432" sha1="0bac8aa24d636f1b8e5a65a7fd95b9c282c3e495" crc="667b553d" />
   </game>
-  <game name="01 - Games/Twisted Edge - Snowboarding">
+  <game name="01 - Games/Twisted Edge - Extreme Snowboarding">
     <rom name="King Hill 64 - Extreme Snowboarding (Japan).z64" size="12582912" sha1="10924ab3c8909b18dae64fede304af2a08d7ffe1" crc="f120cc52" />
     <rom name="Twisted Edge - Extreme Snowboarding (USA).z64" size="12582912" sha1="8888228ad423df143c2c820130fb0658df64c930" crc="bfbcc038" />
     <rom name="Twisted Edge - Snowboarding (Europe).z64" size="12582912" sha1="de12629f2538f80e25901decafc7ccc18c7d481c" crc="bf0c1291" />

@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>NEOGEO</name>
-    <version>2026-10-16</version>
+    <version>2026-10-17</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/19YY - Ichikyo Wai Wai">
@@ -13,35 +13,35 @@
     <rom name="2020 Super Baseball (set 2) [2020bba].neo" size="7081984" sha1="1c6cc756faaa40fd921b4fa955a97976b5f52cb5" />
     <rom name="2020 Super Baseball (set 3) [2020bbh].neo" size="7081984" sha1="6ef200526e3aaafdc2a480b380f0301f4b711eec" />
   </game>
-  <game name="01 - Games/3 Count Bout - Fire Suplex">
+  <game name="01 - Games/3 Count Bout">
     <rom name="3 Count Bout - Fire Suplex (NGM-043 ~ NGH-043) [3countb].neo" size="13897728" sha1="d4cc02f92353c483d9eecc7d26f6afe5d665477a" />
   </game>
-  <game name="01 - Games/Aero Fighters 2 - Sonic Wings 2">
+  <game name="01 - Games/Aero Fighters 2">
     <rom name="Aero Fighters 2 - Sonic Wings 2 [sonicwi2].neo" size="13897728" sha1="db2b875f28b58c7cff5b147e91529c8ed77a898d" />
   </game>
-  <game name="01 - Games/Aero Fighters 3 - Sonic Wings 3">
+  <game name="01 - Games/Aero Fighters 3">
     <rom name="Aero Fighters 3 - Sonic Wings 3 [sonicwi3].neo" size="21237760" sha1="fab8e5e07caa96fc122779e6e3b739c1c1b462b9" />
   </game>
-  <game name="01 - Games/Aggressors of Dark Kombat - Tsuukai GANGAN Koushinkyoku">
+  <game name="01 - Games/Aggressors of Dark Kombat">
     <rom name="Aggressors of Dark Kombat - Tsuukai GANGAN Koushinkyoku (ADM-008 ~ ADH-008) [aodk].neo" size="23334912" sha1="e8744878045bf87a442ce8d6ae987cf6de41e323" />
   </game>
-  <game name="01 - Games/Alpha Mission II - ASO II - Last Guardian">
+  <game name="01 - Games/Alpha Mission II">
     <rom name="Alpha Mission II - ASO II - Last Guardian (NGM-007 ~ NGH-007) [alpham2].neo" size="6164480" sha1="c93f33c2eab91f44f68aea6c2c2381cf0122bf9b" />
   </game>
-  <game name="01 - Games/Alpha Mission II - ASO II - Last Guardian/~Prototypes and Betas">
+  <game name="01 - Games/Alpha Mission II/~Prototypes and Betas">
     <rom name="Alpha Mission II - ASO II - Last Guardian (prototype) [alpham2p].neo" size="9179136" sha1="44e30be9444495fe9ad21a41e9eeb08afd3b84ab" />
   </game>
   <game name="01 - Games/Andro Dunos">
     <rom name="Andro Dunos (NGM-049 ~ NGH-049) [androdun].neo" size="4460544" sha1="40b177d5803be15d6014fba2ec9c676f4ecfb8d9" />
   </game>
-  <game name="01 - Games/Art of Fighting - Ryuuko no Ken">
+  <game name="01 - Games/Art of Fighting">
     <rom name="Art of Fighting - Ryuuko no Ken (NGM-044 ~ NGH-044) [aof].neo" size="13373440" sha1="77fe9609cb72682970d2d3ff567ee08e96adb3ca" />
   </game>
-  <game name="01 - Games/Art of Fighting 2 - Ryuuko no Ken 2">
+  <game name="01 - Games/Art of Fighting 2">
     <rom name="Art of Fighting 2 - Ryuuko no Ken 2 (NGH-056) [aof2a].neo" size="23334912" sha1="dd84f48fa2b9ff7fa4dd24a0987faf0f631e3ba8" />
     <rom name="Art of Fighting 2 - Ryuuko no Ken 2 (NGM-056) [aof2].neo" size="23334912" sha1="bf49eb0a6e89b74c39e33e3ce16a395cb8a82bda" />
   </game>
-  <game name="01 - Games/Art of Fighting 3 - The Path of the Warrior - Art of Fighting - Ryuuko no Ken Gaiden">
+  <game name="01 - Games/Art of Fighting 3 - The Path of the Warrior">
     <rom name="Art of Fighting 3 - The Path of the Warrior (Korean release) [aof3k].neo" size="39063552" sha1="228a8d8452583a3a0cc0857be9d09ea43b0a0ae9" />
     <rom name="Art of Fighting 3 - The Path of the Warrior - Art of Fighting - Ryuuko no Ken Gaiden [aof3].neo" size="39063552" sha1="55c4211dfb7054cb8d2a9db172c581dccf8ab9aa" />
   </game>
@@ -67,7 +67,7 @@
   <game name="01 - Games/Blazing Star">
     <rom name="Blazing Star [blazstar].neo" size="45355008" sha1="4a7706aba7ede5acb4417d36d14c93940d61ad3a" />
   </game>
-  <game name="01 - Games/Blue's Journey - Raguy">
+  <game name="01 - Games/Blue's Journey">
     <rom name="Blue's Journey - Raguy (ALH-001) [bjourneyh].neo" size="6557696" sha1="e34a8db64910c7c434bf8a9d17e92bc8ec4eaeb0" />
     <rom name="Blue's Journey - Raguy (ALM-001 ~ ALH-001) [bjourney].neo" size="7606272" sha1="94e9f9fd007c490c098f4348f2a2639472435a25" />
   </game>
@@ -95,7 +95,7 @@
   <game name="01 - Games/Chibi Maruko-chan: Maruko Deluxe Quiz">
     <rom name="Chibi Maruko-chan: Maruko Deluxe Quiz [marukodq].neo" size="15994880" sha1="b1db27b985e805c51134c4f948c519e61595c6fb" />
   </game>
-  <game name="01 - Games/Choutetsu Brikin'ger - Iron Clad/~Prototypes and Betas">
+  <game name="01 - Games/Ironclad/~Prototypes and Betas">
     <rom name="Choutetsu Brikin'ger - Iron Clad (prototype) [ironclad].neo" size="23334912" sha1="e9a03c946ecb5144286e556e1e979230791141e0" />
     <rom name="Choutetsu Brikin'ger - Iron Clad (prototype, bootleg) [ironclado].neo" size="23334912" sha1="594fe20b04b07e9953e725805dd85919e83a26a6" />
   </game>
@@ -126,23 +126,23 @@
   <game name="01 - Games/Eight Man">
     <rom name="Eight Man (NGM-025 ~ NGH-025) [eightman].neo" size="6033408" sha1="baa64ae076a076e1f2bdc90d3100f3ef612c6b7e" />
   </game>
-  <game name="01 - Games/Far East of Eden - Kabuki Klash - Tengai Makyou - Shin Den">
+  <game name="01 - Games/Far East of Eden - Kabuki Klash">
     <rom name="Far East of Eden - Kabuki Klash - Tengai Makyou - Shin Den [kabukikl].neo" size="26480640" sha1="2867ff2edfac9a009073273a3ea5ec58254898e2" />
   </game>
-  <game name="01 - Games/Fatal Fury - King of Fighters - Garou Densetsu - Shukumei no Tatakai">
+  <game name="01 - Games/Fatal Fury - King of Fighters">
     <rom name="Fatal Fury - King of Fighters - Garou Densetsu - Shukumei no Tatakai (NGM-033 ~ NGH-033) [fatfury1].neo" size="7213056" sha1="43a32868e9b2eab5e5eb774ef4f1a6516545e28f" />
   </game>
-  <game name="01 - Games/Fatal Fury 2 - Garou Densetsu 2 - Arata-naru Tatakai">
+  <game name="01 - Games/Fatal Fury 2">
     <rom name="Fatal Fury 2 - Garou Densetsu 2 - Arata-naru Tatakai (NGM-047 ~ NGH-047) [fatfury2].neo" size="13897728" sha1="444c6a579a6ba37928a3d9217e9796e05d1ed09e" />
   </game>
-  <game name="01 - Games/Fatal Fury 3 - Road to the Final Victory - Garou Densetsu 3 - Haruka-naru Tatakai">
+  <game name="01 - Games/Fatal Fury 3 - Road to the Final Victory">
     <rom name="Fatal Fury 3 - Road to the Final Victory - Garou Densetsu 3 - Haruka-naru Tatakai (NGM-069 ~ NGH-069) [fatfury3].neo" size="34869248" sha1="64b3cd8075c48766d2fd1d696cc7a0c0972e9c27" />
   </game>
-  <game name="01 - Games/Fatal Fury Special - Garou Densetsu Special">
+  <game name="01 - Games/Fatal Fury Special">
     <rom name="Fatal Fury Special - Garou Densetsu Special (NGM-058 ~ NGH-058, set 1) [fatfursp].neo" size="19664896" sha1="a0be4785ff17a61a87e593ffa4a87a65b9890155" />
     <rom name="Fatal Fury Special - Garou Densetsu Special (NGM-058 ~ NGH-058, set 2) [fatfurspa].neo" size="19664896" sha1="d4f4e85858de3e8a053cddfa511bd67383bbe42e" />
   </game>
-  <game name="01 - Games/Fight Fever - Wang Jung Wang">
+  <game name="01 - Games/Fight Fever">
     <rom name="Fight Fever - Wang Jung Wang (set 1) [fightfev].neo" size="12849152" sha1="4f0cd768f9de330af6e2ac66fbb408b03e3c95c5" />
     <rom name="Fight Fever - Wang Jung Wang (set 2) [fightfeva].neo" size="12849152" sha1="417ec6ea710a2fb9afb3ad328c228a13e4a3dcb0" />
   </game>
@@ -155,7 +155,7 @@
   <game name="01 - Games/Galaxy Fight - Universal Warriors">
     <rom name="Galaxy Fight - Universal Warriors [galaxyfg].neo" size="22286336" sha1="151d5b61185e87e4d40f233d3e87c94ec5dd9cc1" />
   </game>
-  <game name="01 - Games/Ganryu - Musashi Ganryuki">
+  <game name="01 - Games/Ganryu">
     <rom name="Ganryu - Musashi Ganryuki [ganryu].neo" size="23334912" sha1="81c2f4a5b27ee55452d6ba6b36535d6127235650" />
   </game>
   <game name="01 - Games/Garou - Mark of the Wolves">
@@ -201,7 +201,7 @@
     <rom name="Jockey Grand Prix (set 1) [jockeygp].neo" size="20582400" sha1="69120b758759918206471a41854e4f14def9f16e" />
     <rom name="Jockey Grand Prix (set 2) [jockeygpa].neo" size="20582400" sha1="cf7a7fbf282bf159efc47bb5c94b12389af8adcd" />
   </game>
-  <game name="01 - Games/Karnov's Revenge - Fighter's History Dynamite">
+  <game name="01 - Games/Karnov's Revenge">
     <rom name="Karnov's Revenge - Fighter's History Dynamite [karnovr].neo" size="15994880" sha1="cb7566917e59d53ab34f35a6221d818c856eeef0" />
   </game>
   <game name="01 - Games/King of the Monsters 2 - The Next Thing">
@@ -215,7 +215,7 @@
     <rom name="King of the Monsters (set 1) [kotm].neo" size="7213056" sha1="b083f8f6dc7955b88baf1cac4129392e9f1c8629" />
     <rom name="King of the Monsters (set 2) [kotmh].neo" size="7213056" sha1="6182e89b67f2c329f83581691eda1a3510920769" />
   </game>
-  <game name="01 - Games/Kizuna Encounter - Super Tag Battle - Fu'un Super Tag Battle">
+  <game name="01 - Games/Kizuna Encounter - Super Tag Battle">
     <rom name="Kizuna Encounter - Super Tag Battle - Fu'un Super Tag Battle [kizuna].neo" size="40112128" sha1="a2b3c20cb0e42ea3a3e4d1021e28a3df1cd4f305" />
     <rom name="Kizuna Encounter - Super Tag Battle 4 Way Battle Version - Fu'un Super Tag Battle Special Version [kizuna4p].neo" size="40112128" sha1="5e4f6701475cf1e52ba1eb29e38a5844ca7725de" />
   </game>
@@ -231,7 +231,7 @@
   <game name="01 - Games/League Bowling">
     <rom name="League Bowling (NGM-019 ~ NGH-019) [lbowling].neo" size="3411968" sha1="5643f8ef101587d47698fd522e7cac81c404d7b1" />
   </game>
-  <game name="01 - Games/Legend of Success Joe - Ashita no Joe Densetsu">
+  <game name="01 - Games/Legend of Success Joe">
     <rom name="Legend of Success Joe - Ashita no Joe Densetsu [legendos].neo" size="6033408" sha1="f7935cc220c365b7638cc931b0c86e47e93d0bbb" />
   </game>
   <game name="01 - Games/Looptris Plus">
@@ -256,10 +256,10 @@
   <game name="01 - Games/Mahjong Kyo Retsuden">
     <rom name="Mahjong Kyo Retsuden (NGM-004 ~ NGH-004) [mahretsu].neo" size="5509120" sha1="23a5591b0a2d727a02191ba752479264c6fa6c3f" />
   </game>
-  <game name="01 - Games/Matrimelee - Shin Gouketsuji Ichizoku Toukon">
+  <game name="01 - Games/Matrimelee">
     <rom name="Matrimelee - Shin Gouketsuji Ichizoku Toukon (NGM-2660 ~ NGH-2660) [matrim].neo" size="89788416" sha1="98b2659dedc72e950f40df539fd77e707be57ed3" />
   </game>
-  <game name="01 - Games/Matrimelee - Shin Gouketsuji Ichizoku Toukon/~Hacks">
+  <game name="01 - Games/Matrimelee/~Hacks">
     <rom name="Matrimelee - Shin Gouketsuji Ichizoku Toukon (bootleg) [matrimbl].neo" size="89788416" sha1="1e8894d2e24743fe9d2efc551a47ef405d7ff919" />
   </game>
   <game name="01 - Games/Metal Slug - Super Vehicle-001">
@@ -298,7 +298,7 @@
   <game name="01 - Games/Minasan no Okagesamadesu! Dai Sugoroku Taikai">
     <rom name="Minasan no Okagesamadesu! Dai Sugoroku Taikai (MOM-001 ~ MOH-001) [minasan].neo" size="7081984" sha1="d17f40ce3a9dfb6b4323422f432991c9cc0fa0cf" />
   </game>
-  <game name="01 - Games/Money Puzzle Exchanger - Money Idol Exchanger">
+  <game name="01 - Games/Money Puzzle Exchanger">
     <rom name="Money Puzzle Exchanger - Money Idol Exchanger [miexchng].neo" size="11276288" sha1="7a49b62423ef18ba538d2d707487364db98f3afb" />
   </game>
   <game name="01 - Games/Mutation Nation">
@@ -316,7 +316,7 @@
   <game name="01 - Games/Neo Mr. Do!">
     <rom name="Neo Mr. Do! [neomrdo].neo" size="7606272" sha1="a250f51615dc79bc04a6b8f5b93e218c221b9b29" />
   </game>
-  <game name="01 - Games/Neo Turf Masters - Big Tournament Golf">
+  <game name="01 - Games/Neo Turf Masters">
     <rom name="Neo Turf Masters - Big Tournament Golf [turfmast].neo" size="19140608" sha1="1f6f96c19341dc036ff7e71749fc2e812aa14cc0" />
   </game>
   <game name="01 - Games/Neo-Geo Cup '98 - The Road to the Victory">
@@ -347,14 +347,14 @@
   <game name="01 - Games/Panic Bomber">
     <rom name="Panic Bomber [panicbom].neo" size="6033408" sha1="da82607976d473a7dae549c8637dc6d0cb678842" />
   </game>
-  <game name="01 - Games/Pleasure Goal - Futsal - 5 on 5 Mini Soccer">
+  <game name="01 - Games/Pleasure Goal">
     <rom name="Pleasure Goal - Futsal - 5 on 5 Mini Soccer (NGM-219) [pgoal].neo" size="19140608" sha1="39feb35124a960c8404a63c63bf4c0575ab4cb3e" />
   </game>
   <game name="01 - Games/Pochi and Nyaa">
     <rom name="Pochi and Nyaa (Ver 2.00) [pnyaaa].neo" size="22679552" sha1="3dc79e9f835ba26b3677973984f7e08061d353e3" />
     <rom name="Pochi and Nyaa (Ver 2.02) [pnyaa].neo" size="22679552" sha1="16edc4f71aa74a3cca6875ffa5f1f3d0e875f586" />
   </game>
-  <game name="01 - Games/Pop 'n Bounce - Gapporin">
+  <game name="01 - Games/Pop 'n Bounce">
     <rom name="Pop 'n Bounce - Gapporin [popbounc].neo" size="7606272" sha1="382e7cceecc85132bb544e7a5feb66852cb20277" />
   </game>
   <game name="01 - Games/Power Spikes II">
@@ -366,13 +366,13 @@
   <game name="01 - Games/Pulstar">
     <rom name="Pulstar [pulstar].neo" size="41160704" sha1="852f38df3f18168f98fb01d9d38f2069d583c922" />
   </game>
-  <game name="01 - Games/Puzzle Bobble - Bust-A-Move">
+  <game name="01 - Games/Bust-A-Move">
     <rom name="Puzzle Bobble - Bust-A-Move (Neo-Geo, NGM-083) [pbobblen].neo" size="9703424" sha1="337d79d550b83cf353089f632874264aa025fb11" />
   </game>
-  <game name="01 - Games/Puzzle Bobble - Bust-A-Move/~Hacks">
+  <game name="01 - Games/Bust-A-Move/~Hacks">
     <rom name="Puzzle Bobble - Bust-A-Move (Neo-Geo, bootleg) [pbobblenb].neo" size="5509120" sha1="ee980629eb5255028ce4d406c90f9c9f1a53fa5c" />
   </game>
-  <game name="01 - Games/Puzzle Bobble 2 - Bust-A-Move Again">
+  <game name="01 - Games/Bust-A-Move Again">
     <rom name="Puzzle Bobble 2 - Bust-A-Move Again (Neo-Geo) [pbobbl2n].neo" size="20189184" sha1="d223da46bfe0bb2e6cd6d0fd31736d176aeb0e2e" />
   </game>
   <game name="01 - Games/Puzzle De Pon! R!">
@@ -381,7 +381,7 @@
   <game name="01 - Games/Puzzle De Pon!">
     <rom name="Puzzle De Pon! [puzzledp].neo" size="3411968" sha1="77d4f302790ef808bf65b8c00a9a80b5e3537689" />
   </game>
-  <game name="01 - Games/Puzzled - Joy Joy Kid">
+  <game name="01 - Games/Puzzled">
     <rom name="Puzzled - Joy Joy Kid (NGM-021 ~ NGH-021) [joyjoy].neo" size="3018752" sha1="b4d3f4ddb5b58c6168d62738c8dd5db1fa2f4063" />
   </game>
   <game name="01 - Games/Quiz Daisousa Sen - The Last Count Down">
@@ -399,21 +399,21 @@
     <rom name="Rage of the Dragons (NGH-2640?) [rotdh].neo" size="87298048" sha1="4a1aeb67ee399f15852ff04171751c0d81ac0e7c" />
     <rom name="Rage of the Dragons (NGM-2640?) [rotd].neo" size="92540928" sha1="7c63cfa51e62de98620ce6f2fb596e963962489c" />
   </game>
-  <game name="01 - Games/Ragnagard - Shin-Oh-Ken">
+  <game name="01 - Games/Ragnagard">
     <rom name="Ragnagard - Shin-Oh-Ken [ragnagrd].neo" size="44306432" sha1="ceb05e66861f07080648d4d6de80f9ad9a969796" />
   </game>
-  <game name="01 - Games/Real Bout Fatal Fury - Real Bout Garou Densetsu">
+  <game name="01 - Games/Real Bout Fatal Fury">
     <rom name="Real Bout Fatal Fury - Real Bout Garou Densetsu (Korean release) [rbff1k].neo" size="45355008" sha1="dd27f2f10ac5c642c09a954a7cc7994b9142f6d4" />
     <rom name="Real Bout Fatal Fury - Real Bout Garou Densetsu (Korean release, bug fix revision) [rbff1ka].neo" size="45355008" sha1="298c10aedc8ccbfbc8690f058f92905ba6674f01" />
     <rom name="Real Bout Fatal Fury - Real Bout Garou Densetsu (NGM-095 ~ NGH-095) [rbff1].neo" size="45355008" sha1="67aa91dc1d320341a045a53fdf001d8630aceed9" />
     <rom name="Real Bout Fatal Fury - Real Bout Garou Densetsu (bug fix revision) [rbff1a].neo" size="45355008" sha1="662b3bf15e1276f4a30de5a8cd24597f87e79a57" />
   </game>
-  <game name="01 - Games/Real Bout Fatal Fury 2 - The Newcomers - Real Bout Garou Densetsu 2 - The Newcomers">
+  <game name="01 - Games/Real Bout Fatal Fury 2 - The Newcomers">
     <rom name="Real Bout Fatal Fury 2 - The Newcomers (Korean release) [rbff2k].neo" size="70651904" sha1="3651b357fc1eb10c50d1825d59e486ba9e2b604a" />
     <rom name="Real Bout Fatal Fury 2 - The Newcomers - Real Bout Garou Densetsu 2 - The Newcomers (NGH-2400) [rbff2h].neo" size="70651904" sha1="7d6b61e0d6b7993290709c6358e472dc247503ec" />
     <rom name="Real Bout Fatal Fury 2 - The Newcomers - Real Bout Garou Densetsu 2 - The Newcomers (NGM-2400) [rbff2].neo" size="70651904" sha1="492628590c0b9068ad01ca6d2f45e7767ed57855" />
   </game>
-  <game name="01 - Games/Real Bout Fatal Fury Special - Real Bout Garou Densetsu Special">
+  <game name="01 - Games/Real Bout Fatal Fury Special">
     <rom name="Real Bout Fatal Fury Special - Real Bout Garou Densetsu Special (Korean release) [rbffspeck].neo" size="51646464" sha1="5cdf4b9a7c0224cb78560bab49ac700f437035a6" />
     <rom name="Real Bout Fatal Fury Special - Real Bout Garou Densetsu Special [rbffspec].neo" size="51646464" sha1="aa809932530185d841f2534f6a3117d89b133a39" />
   </game>
@@ -434,48 +434,48 @@
     <rom name="SNK vs. Capcom - SVC Chaos Plus (bootleg set 2) [svcplusa].neo" size="90443776" sha1="47504d52dd728184ce845713c721f8aa82d3f8dc" />
     <rom name="SNK vs. Capcom - SVC Chaos Super Plus (bootleg) [svcsplus].neo" size="92540928" sha1="bd68b754b8a45b88253325afb020b5ea4c1fe5b4" />
   </game>
-  <game name="01 - Games/Samurai Shodown - Samurai Spirits">
+  <game name="01 - Games/Samurai Shodown">
     <rom name="Samurai Shodown - Samurai Spirits (NGH-045) [samshoh].neo" size="15470592" sha1="29335cb20c15caa8abe75265ac21445dfc3b2d74" />
     <rom name="Samurai Shodown - Samurai Spirits (NGM-045) [samsho].neo" size="17043456" sha1="c895b1ee35abe0eb1ee0e9aebd2e15d5c66dbc2d" />
   </game>
-  <game name="01 - Games/Samurai Shodown II - Shin Samurai Spirits - Haohmaru Jigokuhen">
+  <game name="01 - Games/Samurai Shodown II">
     <rom name="Samurai Shodown II - Shin Samurai Spirits - Haohmaru Jigokuhen (NGM-063 ~ NGH-063) [samsho2].neo" size="26480640" sha1="75c4ed931a6fd9bc829940a7bca933ec9414d0d1" />
     <rom name="Saulabi Spirits - Jin Saulabi Tu Hon (Korean release of Samurai Shodown II, set 1) [samsho2k].neo" size="26480640" sha1="b7fff9aa27d64013a4066956391e7c4604d56113" />
     <rom name="Saulabi Spirits - Jin Saulabi Tu Hon (Korean release of Samurai Shodown II, set 2) [samsho2ka].neo" size="26480640" sha1="44fd1eecb0b956147eb0809cdbadeb6d07b13680" />
   </game>
-  <game name="01 - Games/Samurai Shodown III - Samurai Spirits - Zankurou Musouken">
+  <game name="01 - Games/Samurai Shodown III">
     <rom name="Fighters Swords (Korean release of Samurai Shodown III) [fswords].neo" size="36966400" sha1="4f7b0dcca61fe720dce353231385448f3ed3369d" />
     <rom name="Samurai Shodown III - Samurai Spirits - Zankurou Musouken (NGH-087) [samsho3h].neo" size="36966400" sha1="0ba8dc7fff559ef579fb6143242c92778b2c8307" />
     <rom name="Samurai Shodown III - Samurai Spirits - Zankurou Musouken (NGM-087) [samsho3].neo" size="36966400" sha1="9f4322c040c5065bebfbae88d0be05f2f915a652" />
   </game>
-  <game name="01 - Games/Samurai Shodown IV - Amakusa's Revenge - Samurai Spirits - Amakusa Kourin">
+  <game name="01 - Games/Samurai Shodown IV - Amakusa's Revenge">
     <rom name="Paewang Jeonseol - Legend of a Warrior (Korean censored Samurai Shodown IV) [samsho4k].neo" size="49549312" sha1="aebab849ff824d601617794257a36615caa19e79" />
     <rom name="Samurai Shodown IV - Amakusa's Revenge - Samurai Spirits - Amakusa Kourin (NGM-222 ~ NGH-222) [samsho4].neo" size="49549312" sha1="991c229242a4d273cd5a01902ea7747387b4e135" />
   </game>
-  <game name="01 - Games/Samurai Shodown V - Samurai Spirits Zero">
+  <game name="01 - Games/Samurai Shodown V">
     <rom name="Samurai Shodown V - Samurai Spirits Zero (NGH-2700) [samsho5h].neo" size="92934144" sha1="31e549c292934273daad7948598e61e1f1af67cf" />
     <rom name="Samurai Shodown V - Samurai Spirits Zero (NGM-2700, set 1) [samsho5].neo" size="92934144" sha1="41e7119d5fab5e7e28650c44d989578c7c2fe764" />
     <rom name="Samurai Shodown V - Samurai Spirits Zero (NGM-2700, set 2) [samsho5a].neo" size="92934144" sha1="83b376db9465e85c2da0ca8bb130f2b44a92879b" />
   </game>
-  <game name="01 - Games/Samurai Shodown V - Samurai Spirits Zero/~Hacks">
+  <game name="01 - Games/Samurai Shodown V/~Hacks">
     <rom name="Samurai Shodown V - Samurai Spirits Zero (bootleg) [samsho5b].neo" size="92540928" sha1="5b3f325e8d2c19e040b5cff9d230f300f7a37ca9" />
   </game>
-  <game name="01 - Games/Samurai Shodown V Special - Samurai Spirits Zero Special">
+  <game name="01 - Games/Samurai Shodown V Special">
     <rom name="Samurai Shodown V Special - Samurai Spirits Zero Special (NGH-2720, 1st release, censored) [samsh5spho].neo" size="92934144" sha1="bc8b416c020a36de711602e4aa17609fe7cd4ad0" />
     <rom name="Samurai Shodown V Special - Samurai Spirits Zero Special (NGH-2720, 2nd release, less censored) [samsh5sph].neo" size="92934144" sha1="9f5a5ad6a7f68fffeee34d27a4605c735d453d9b" />
     <rom name="Samurai Shodown V Special - Samurai Spirits Zero Special (NGM-2720) [samsh5sp].neo" size="92934144" sha1="a5597eef96ddc92e04e41b422d92901ca1b05e4e" />
   </game>
-  <game name="01 - Games/Savage Reign - Fu'un Mokushiroku - Kakutou Sousei">
+  <game name="01 - Games/Savage Reign">
     <rom name="Savage Reign - Fu'un Mokushiroku - Kakutou Sousei [savagere].neo" size="25432064" sha1="391957cbb39c5bb24e0a38c47c12d23b5afe167a" />
   </game>
-  <game name="01 - Games/Sengoku - Sengoku Denshou">
+  <game name="01 - Games/Sengoku">
     <rom name="Sengoku - Sengoku Denshou (NGH-017, US) [sengokuh].neo" size="7213056" sha1="a73aed56e5ea8106927e6b9fb3d97984a56c17b5" />
     <rom name="Sengoku - Sengoku Denshou (NGM-017 ~ NGH-017) [sengoku].neo" size="7213056" sha1="0e57f040d22c76c60703a59cf6444849b69a0cd1" />
   </game>
-  <game name="01 - Games/Sengoku 2 - Sengoku Denshou 2">
+  <game name="01 - Games/Sengoku 2">
     <rom name="Sengoku 2 - Sengoku Denshou 2 [sengoku2].neo" size="10752000" sha1="8f847635ac7b4d667b265324866a1c87f40c467f" />
   </game>
-  <game name="01 - Games/Sengoku 3 - Sengoku Densho 2001">
+  <game name="01 - Games/Sengoku 3">
     <rom name="Sengoku 3 - Sengoku Densho 2001 (set 1) [sengoku3].neo" size="50991104" sha1="e480e3bf11a5f4d3a74758d4f9eb6d13c2f17348" />
     <rom name="Sengoku 3 - Sengoku Densho 2001 (set 2) [sengoku3a].neo" size="50991104" sha1="3bdf7648a77d1179dace5d7a2b618b78bfb2daa0" />
   </game>
@@ -496,19 +496,19 @@
     <rom name="Soccer Brawl (NGH-031) [socbrawlh].neo" size="6033408" sha1="cd748099cc43f4118e936355e07cd2f462e884fd" />
     <rom name="Soccer Brawl (NGM-031) [socbrawl].neo" size="6033408" sha1="673599c859c8e62e08e1d750ebdec5eb5cf40545" />
   </game>
-  <game name="01 - Games/Spin Master - Miracle Adventure">
+  <game name="01 - Games/Spin Master">
     <rom name="Spin Master - Miracle Adventure [spinmast].neo" size="11800576" sha1="7ca7d37dd4a9cd79b6a1062d97ea4725eee6a593" />
   </game>
-  <game name="01 - Games/Stakes Winner - Stakes Winner - GI Kinzen Seiha e no Michi">
+  <game name="01 - Games/Stakes Winner">
     <rom name="Stakes Winner - Stakes Winner - GI Kinzen Seiha e no Michi [stakwin].neo" size="12849152" sha1="eb45000b84ba1af36dc31f8c4780638dec72c4a3" />
   </game>
-  <game name="01 - Games/Stakes Winner - Stakes Winner - GI Kinzen Seiha e no Michi/~Prototypes and Betas">
+  <game name="01 - Games/Stakes Winner/~Prototypes and Betas">
     <rom name="Stakes Winner - Stakes Winner - GI Kinzen Seiha e no Michi (early development board) [stakwindev].neo" size="11669504" sha1="43a43c1a25ac45bdf97684d24ee0cb3abd0c136d" />
   </game>
   <game name="01 - Games/Stakes Winner 2">
     <rom name="Stakes Winner 2 [stakwin2].neo" size="23334912" sha1="088141a5260262a9475dcd171c3454b71cdc970c" />
   </game>
-  <game name="01 - Games/Street Hoop - Street Slam - Dunk Dream">
+  <game name="01 - Games/Street Slam">
     <rom name="Street Hoop - Street Slam - Dunk Dream (DEM-004 ~ DEH-004) [strhoop].neo" size="12849152" sha1="addd8840ef465e0228bc83eafe13e701e785cfa0" />
   </game>
   <game name="01 - Games/Strikers 1945 Plus">
@@ -517,16 +517,16 @@
   <game name="01 - Games/Super Bubble Pop">
     <rom name="Super Bubble Pop [sbp].neo" size="13766656" sha1="108ac74e10e77ffd828e7287bbca3c36d6ac1c20" />
   </game>
-  <game name="01 - Games/Super Dodge Ball - Kunio no Nekketsu Toukyuu Densetsu">
+  <game name="01 - Games/Super Dodge Ball">
     <rom name="Super Dodge Ball - Kunio no Nekketsu Toukyuu Densetsu [sdodgeb].neo" size="19140608" sha1="8c51a3d862a5275beac3e5a31e11b078930c8efd" />
   </game>
-  <game name="01 - Games/Super Sidekicks - Tokuten Ou">
+  <game name="01 - Games/Super Sidekicks">
     <rom name="Super Sidekicks - Tokuten Ou [ssideki].neo" size="9179136" sha1="87269ccf6b1584ed5a064e9e070bd06c03f8761b" />
   </game>
-  <game name="01 - Games/Super Sidekicks 2 - The World Championship - Tokuten Ou 2 - Real Fight Football">
+  <game name="01 - Games/Super Sidekicks 2 - The World Championship">
     <rom name="Super Sidekicks 2 - The World Championship - Tokuten Ou 2 - Real Fight Football (NGM-061 ~ NGH-061) [ssideki2].neo" size="13897728" sha1="152d47bd738c9726b60fa4508cd43f52551bf288" />
   </game>
-  <game name="01 - Games/Super Sidekicks 3 - The Next Glory - Tokuten Ou 3 - Eikou e no Chousen">
+  <game name="01 - Games/Super Sidekicks 3 - The Next Glory">
     <rom name="Super Sidekicks 3 - The Next Glory - Tokuten Ou 3 - Eikou e no Chousen [ssideki3].neo" size="21237760" sha1="c415e4b38944ceaddc34d7f72a7d4c6d55be7bec" />
   </game>
   <game name="01 - Games/Tecmo World Soccer '96">
@@ -542,7 +542,7 @@
     <rom name="The Eye of Typhoon (Tsunami Edition, beta 7) [etyphoon].neo" size="59969536" sha1="99516cb261e22f9782581d5ec61810a35eb883b1" />
     <rom name="The Eye of Typhoon (alpha) [etyphoon_a].neo" size="93523968" sha1="1b1992400ea0e8904b10d7268a5d51750e40635a" />
   </game>
-  <game name="01 - Games/The Irritating Maze - Ultra Denryu Iraira Bou">
+  <game name="01 - Games/The Irritating Maze">
     <rom name="The Irritating Maze - Ultra Denryu Iraira Bou [irrmaze].neo" size="13897728" sha1="7e10c67c197623bbd714b36c773408f90b48c7a4" />
   </game>
   <game name="01 - Games/The King of Fighters '94">
@@ -568,7 +568,7 @@
     <rom name="The King of Fighters '97 Chongchu Jianghu Plus 2003 (bootleg) [kof97oro].neo" size="60035072" sha1="8305e065e40a31eb3658e2059a3c709798a3531b" />
     <rom name="The King of Fighters '97 Plus (bootleg) [kof97pls].neo" size="60035072" sha1="c0af522ccbfcd7464572725c6e034b0a5169361a" />
   </game>
-  <game name="01 - Games/The King of Fighters '98 - The Slugfest - King of Fighters '98 - Dream Match Never Ends">
+  <game name="01 - Games/The King of Fighters '98 - The Slugfest">
     <rom name="The King of Fighters '98 - The Slugfest - King of Fighters '98 - Dream Match Never Ends (Korean board, set 1) [kof98k].neo" size="90574848" sha1="49d9c8d1aea21ae793176b84664c2b23e6db8ada" />
     <rom name="The King of Fighters '98 - The Slugfest - King of Fighters '98 - Dream Match Never Ends (Korean board, set 2) [kof98ka].neo" size="90574848" sha1="a485c7ef98a12d1d0ed56da6e0f9ed980cf2c0b4" />
     <rom name="The King of Fighters '98 - The Slugfest - King of Fighters '98 - Dream Match Never Ends (NGH-2420) [kof98h].neo" size="89526272" sha1="90ac9d5be5f0059d90822faa0a46d674aac7ae05" />
@@ -622,18 +622,18 @@
     <rom name="The King of Fighters 2004 Plus - Hero (bootleg of The King of Fighters 2003) [kf2k3pl].neo" size="91492352" sha1="01c5ed516ebb9589a685e4dc65c2edaa8d62bbaf" />
     <rom name="The King of Fighters 2004 Ultra Plus (bootleg of The King of Fighters 2003) [kf2k3upl].neo" size="92540928" sha1="e29dffd7512d55ef20471f942664187593827505" />
   </game>
-  <game name="01 - Games/The Last Blade - Bakumatsu Roman - Gekka no Kenshi">
+  <game name="01 - Games/The Last Blade">
     <rom name="The Last Blade - Bakumatsu Roman - Gekka no Kenshi (NGH-2340) [lastbladh].neo" size="64229376" sha1="6e689979f4165f09c72bbfecc1a12ae953ace506" />
     <rom name="The Last Blade - Bakumatsu Roman - Gekka no Kenshi (NGM-2340) [lastblad].neo" size="64229376" sha1="4760a008f9afbac15e7d392322f25e7b55b75592" />
     <rom name="The Last Soldier (Korean release of The Last Blade) [lastsold].neo" size="64229376" sha1="3ac4957aaef2a4e8098fd1a518c4bac294d1bb2d" />
   </game>
-  <game name="01 - Games/The Last Blade 2 - Bakumatsu Roman - Dai Ni Maku Gekka no Kenshi">
+  <game name="01 - Games/The Last Blade 2">
     <rom name="The Last Blade 2 - Bakumatsu Roman - Dai Ni Maku Gekka no Kenshi (NGM-2430 ~ NGH-2430) [lastbld2].neo" size="72617984" sha1="3a4dbff2a57ca3218d0589ced87fa3885cc5fdee" />
   </game>
   <game name="01 - Games/The Super Spy">
     <rom name="The Super Spy (NGM-011 ~ NGH-011) [superspy].neo" size="7344128" sha1="e957b8c017563c5e7713ed1d8c1044b52bdf1363" />
   </game>
-  <game name="01 - Games/The Ultimate 11 - The SNK Football Championship - Tokuten Ou - Honoo no Libero">
+  <game name="01 - Games/The Ultimate 11 - The SNK Football Championship">
     <rom name="The Ultimate 11 - The SNK Football Championship - Tokuten Ou - Honoo no Libero [ssideki4].neo" size="29626368" sha1="2b31cbf4eae4f389b0f204058376e4ab9ce35446" />
   </game>
   <game name="01 - Games/Thrash Rally">
@@ -670,13 +670,13 @@
     <rom name="Violent Vengeance (beta 2.05) [violentv_b2].neo" size="55775232" sha1="121c49302507b5914426b53b8a1eae5115a05d51" />
     <rom name="Violent Vengeance (beta 3.28) [violentv].neo" size="55775232" sha1="f80a068aeea3330e31a484f40a45053da1d6798b" />
   </game>
-  <game name="01 - Games/Voltage Fighter - Gowcaizer - Choujin Gakuen Gowcaizer">
+  <game name="01 - Games/Voltage Fighter - Gowcaizer">
     <rom name="Voltage Fighter - Gowcaizer - Choujin Gakuen Gowcaizer [gowcaizr].neo" size="24383488" sha1="9830b921ba0e4a20ec587b95dd766edc6b9ef132" />
   </game>
   <game name="01 - Games/Waku Waku 7">
     <rom name="Waku Waku 7 [wakuwak7].neo" size="36966400" sha1="4fc08fc1e023e55e53842e4a167069901d858705" />
   </game>
-  <game name="01 - Games/Windjammers - Flying Power Disc">
+  <game name="01 - Games/Windjammers">
     <rom name="Windjammers - Flying Power Disc [wjammers].neo" size="9703424" sha1="207833b3a6d3d6f58ead7321e199859561f95ec4" />
   </game>
   <game name="01 - Games/World Heroes 2 Jet">
@@ -697,10 +697,10 @@
   <game name="01 - Games/Xeno Crisis">
     <rom name="Xeno Crisis [xenocris].neo" size="23269376" sha1="17cf52ff61a02912aab19e84e650f4db9eb111ec" />
   </game>
-  <game name="01 - Games/Zed Blade - Operation Ragnarok">
+  <game name="01 - Games/Zed Blade">
     <rom name="Zed Blade - Operation Ragnarok [zedblade].neo" size="14422016" sha1="257b292e68772887c01d574b365b77c1a45e79fb" />
   </game>
-  <game name="01 - Games/Zintrick - Oshidashi Zentrix/~Hacks">
+  <game name="01 - Games/Zintrick/~Hacks">
     <rom name="Zintrick - Oshidashi Zentrix (bootleg of CD version) [zintrckb].neo" size="7606272" sha1="da6b7be43994ad67193623198a7855189853c7d4" />
   </game>
   <game name="01 - Games/Zupapa!">

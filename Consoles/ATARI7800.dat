@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>ATARI7800</name>
-    <version>2026-10-16</version>
+    <version>2026-10-17</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/1942">
@@ -259,7 +259,7 @@
     <rom name="Legend of Silverpeak (World) (v1.00) (Aftermarket) (Unl).a78" size="524416" sha1="1fb196b41f1736268c649b8988291c03d4b61145" crc="414c68a4" />
     <rom name="Legend of Silverpeak (World) (v1.01) (Aftermarket) (Unl).a78" size="524416" sha1="cea2b21e00c228718e96dabcbd2dbec8f021c64b" crc="863579d2" />
   </game>
-  <game name="01 - Games/Mario Bros">
+  <game name="01 - Games/Mario Bros.">
     <rom name="Mario Bros. (Europe).a78" size="49280" sha1="933f9a1e7c5b48f294c519fa13ef5021355fd45f" crc="6939a732" />
     <rom name="Mario Bros. (USA).a78" size="49280" sha1="fd2fc8b274a33210db27a276daf587f0c68a25f6" crc="321f74a5" />
   </game>

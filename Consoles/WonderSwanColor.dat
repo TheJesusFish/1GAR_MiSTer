@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>WonderSwanColor</name>
-    <version>2026-10-16</version>
+    <version>2026-10-17</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/3D Othello">
@@ -513,7 +513,7 @@
   <game name="01 - Games/Romancing Sa-Ga">
     <rom name="Romancing Sa-Ga (Japan).wsc" size="4194304" sha1="06fcc9aad3ae478db6eed27621af4f56a6488a67" crc="9c98d97d" />
   </game>
-  <game name="01 - Games/SD Gundam - Operation U.C">
+  <game name="01 - Games/SD Gundam - Operation U.C.">
     <rom name="SD Gundam - Operation U.C. (Japan).wsc" size="2097152" sha1="152c4d63b1b17f2c717a43efc75d718b614f9ddc" crc="f0acda5c" />
   </game>
   <game name="01 - Games/SD Gundam Eiyuu Den - Kishi Densetsu">
