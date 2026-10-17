@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<datafile>
+  <header>
+    <name>AVision</name>
+    <version>2026-10-16</version>
+    <romvault forcepacking="fileonly" />
+  </header>
+  <game name="01 - Games/Defender">
+    <rom name="Defender (USA, Europe).bin" size="4096" sha1="33e6bc08b3e8a951942e078102e90fbc8ba729a8" crc="3e280096" />
+  </game>
+  <game name="01 - Games/Space Force">
+    <rom name="Space Force (USA, Europe).bin" size="4096" sha1="86c1a6eb8a5070f4be32bf4e83c0d5951e831d27" crc="c70d4028" />
+  </game>
+  <game name="01 - Games/Super Cobra">
+    <rom name="Super Cobra (USA, Europe).bin" size="4096" sha1="fd059081d8d82f51dd1415cc3710f1fa5ebb1336" crc="b6045c9e" />
+  </game>
+  <game name="01 - Games/Turtles">
+    <rom name="Turtles (USA, Europe).bin" size="4096" sha1="88748cf4080646e0a2f115a7f6e6001916314816" crc="33a23eba" />
+  </game>
+</datafile>

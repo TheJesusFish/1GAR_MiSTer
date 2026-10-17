@@ -1,0 +1,1118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<datafile>
+  <header>
+    <name>AtariLynx</name>
+    <version>2026-10-16</version>
+    <romvault forcepacking="fileonly" />
+  </header>
+  <game name="01 - Games/2048">
+    <rom name="2048 (World) (Aftermarket) (Unl).lnx" size="262208" sha1="a6bea51787bf14f7399cb5e1d2e3389d28fdc292" crc="e55a9ed0" />
+  </game>
+  <game name="01 - Games/4Ttude">
+    <rom name="4Ttude (World) (v1.0) (Atari Lynx 30th Birthday) (Aftermarket) (Unl).lnx" size="123916" sha1="88650b2eec3ae8820966ff713cd586cb7c426f87" crc="b651d8ca" />
+    <rom name="4Ttude (World) (v1.0) (Atari Lynx 30th Birthday) (Aftermarket) (Unl).lyx" size="262144" sha1="57f313ad2378b3147a116b8de4a9c461af8f94bb" crc="04444023" />
+    <rom name="4Ttude (World) (v1.1) (Aftermarket) (Unl).lnx" size="136886" sha1="6870b1696d103e1436a034525c549078df72efef" crc="e2ed27fd" />
+    <rom name="4Ttude (World) (v1.1) (Aftermarket) (Unl).lyx" size="262144" sha1="2815677ab56550c5587aeb14e058dea402c98ed5" crc="11f62511" />
+    <rom name="4Ttude (World) (v1.2) (Aftermarket) (Unl).lnx" size="131404" sha1="73b9a7429225716ee4c3b407f961295a26292f4b" crc="2157cd39" />
+    <rom name="4Ttude (World) (v1.2) (Aftermarket) (Unl).lyx" size="262144" sha1="d6e40f128149b65248f1142a2c2ff930b28abc43" crc="3941a51d" />
+  </game>
+  <game name="01 - Games/8bit-Slicks">
+    <rom name="8bit-Slicks (World) (Aftermarket) (Unl).lnx" size="524352" sha1="3b25b20f21ca3d90498cd58ff45265227391267b" crc="898fa3c7" />
+  </game>
+  <game name="01 - Games/A.P.B">
+    <rom name="A.P.B. (USA, Europe).lyx" size="262144" sha1="c2bf00de769895cbed03c056eb9c8fa1a7ea59ef" crc="f6fb48fb" />
+  </game>
+  <game name="01 - Games/Alien vs Predator/~Prototypes and Betas">
+    <rom name="Alien vs Predator (Europe) (Proto) (1993-12-17).lyx" size="262144" sha1="27427ed186d034d71e100cbff5d0072a717af9e0" crc="540e9bb7" />
+  </game>
+  <game name="01 - Games/Alien">
+    <rom name="Alien (World) (v1.02) (Aftermarket) (Unl).lnx" size="135610" sha1="9982d65d1a3eef98e669ac7fb090400ab8d3eead" crc="1f324a19" />
+    <rom name="Alien (World) (v1.02) (Aftermarket) (Unl).lyx" size="262144" sha1="fdc610c669186f0ac4ed0aa0450af8f07e55d2d7" crc="0f5c46c3" />
+    <rom name="Alien (World) (v1.03) (Aftermarket) (Unl).lnx" size="169309" sha1="f7209c94cac77c112960b9b60a6f126b0674fb0d" crc="6abc548c" />
+    <rom name="Alien (World) (v1.03) (Aftermarket) (Unl).lyx" size="262144" sha1="bff09196f621baff703bb349d91547f1565c9617" crc="4f46e18b" />
+    <rom name="Alien (World) (v1.04) (Aftermarket) (Unl).lnx" size="234997" sha1="9913acb2152d5a90fc85ccd2b5c33e26840c12c9" crc="399592de" />
+    <rom name="Alien (World) (v1.04) (Aftermarket) (Unl).lyx" size="262144" sha1="874147325c48457bc573edc122d1c93dab126386" crc="447a8386" />
+    <rom name="Alien (World) (v1.06) (Aftermarket) (Unl).lnx" size="227582" sha1="66f4d7912cd15695ef283e1b69421b30eda8e9f3" crc="fb03ee88" />
+    <rom name="Alien (World) (v1.06) (Aftermarket) (Unl).lyx" size="262144" sha1="d297ca1a4aa466bf514fe63b256537222d92ae8d" crc="a7b2c685" />
+  </game>
+  <game name="01 - Games/Alpine Games">
+    <rom name="Alpine Games (World) (Aftermarket) (Unl).lyx" size="524288" sha1="fb71ad96f0730f88acd7d51eaa761e475a015d6c" crc="95a1ea09" />
+  </game>
+  <game name="01 - Games/Always Winter, Never Christmas">
+    <rom name="Always Winter, Never Christmas (World) (Aftermarket) (Unl).lnx" size="188985" sha1="d3c88d674f2e417171d568965e41a7fb341a74dd" crc="548bfcf8" />
+    <rom name="Always Winter, Never Christmas (World) (Aftermarket) (Unl).lyx" size="262144" sha1="db724361314ed7e16b32887307978d1241576e99" crc="d4ecef80" />
+  </game>
+  <game name="01 - Games/Angry Motes">
+    <rom name="Angry Motes (World) (Aftermarket) (Unl).lnx" size="65408" sha1="318d71e7e4d0fe8d820732e19fdefd2007797e20" crc="7103fd0a" />
+    <rom name="Angry Motes (World) (Aftermarket) (Unl).lyx" size="262144" sha1="b79b13e5dcf5d13d1ef435a3d112ebee62bad6c8" crc="d6220c93" />
+  </game>
+  <game name="01 - Games/Anti A-Bomb Aircraft Artillery">
+    <rom name="Anti A-Bomb Aircraft Artillery (World) (v1.0) (Aftermarket) (Unl).lnx" size="262208" sha1="9e6c9126684f888d808897bb37dc8d2b34a7e394" crc="2d991dde" />
+    <rom name="Anti A-Bomb Aircraft Artillery (World) (v1.1) (Aftermarket) (Unl).lnx" size="262208" sha1="f834e7842c3039a5959f3aa7562a725ef006e3c0" crc="6ce7d8e2" />
+  </game>
+  <game name="01 - Games/Assembloids">
+    <rom name="Assembloids (World) (v1.00) (Digital) (Atari Lynx 30th Birthday) (Aftermarket) (Unl).lnx" size="131136" sha1="b93046ab098f174dd99b1251bfcfe4e1d164a741" crc="e763f08b" />
+    <rom name="Assembloids (World) (v1.04) (Digital) (Aftermarket) (Unl).lnx" size="131136" sha1="fb2aec2c2822d840b7caf95edcafa2631bc60391" crc="5a555584" />
+  </game>
+  <game name="01 - Games/Asteroids Chasers/~Prototypes and Betas">
+    <rom name="Asteroids Chasers (World) (2020-08-14) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="3f7d32509e09fb5b1da78f7b0a5565e027dd0390" crc="9ee4efe6" />
+    <rom name="Asteroids Chasers (World) (2020-08-16) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="469e4f887d01ce240732efb4059024da8ef39565" crc="2c89bbf4" />
+  </game>
+  <game name="01 - Games/Atari Tabletops Collection">
+    <rom name="Atari Tabletops Collection (World) (v1.0) (Aftermarket) (Unl).lnx" size="262208" sha1="074196305e1013045bb87c26924f5063cde2bd90" crc="a3d82ab7" />
+    <rom name="Atari Tabletops Collection (World) (v1.1) (Aftermarket) (Unl).lnx" size="262208" sha1="64426fe6b71688d55c85597bc19d83c8fc9b8dd9" crc="1168a376" />
+  </game>
+  <game name="01 - Games/Atomix/~Prototypes and Betas">
+    <rom name="Atomix (World) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="10aedff8e61e06c6f35e738034a0d9f19d41fc2e" crc="904ba764" />
+  </game>
+  <game name="01 - Games/Attack (Yastuna)">
+    <rom name="Yastuna Volume 1 - The Alchemy of Cubes (World) (v1.00) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="2c311788def1e4ec7d5adc64e2fbb44c851861e8" crc="a87ed55e" />
+    <rom name="Yastuna Volume 1 - The Alchemy of Cubes (World) (v1.01) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="edf7c73f04586a31cbcad856e166eb4d55e76373" crc="62793fe8" />
+  </game>
+  <game name="01 - Games/Awesome Golf">
+    <rom name="Awesome Golf (USA, Europe).lyx" size="262144" sha1="74441b96ce5bf2be68945fbe93bda259f97816b7" crc="0483cd2a" />
+    <rom name="Awesome Golf (World) (Atari Lynx Collection 1) (Unl).lnx" size="262208" sha1="55c7d7bdc246133c4454eb2eab1fe7eb7f24c9e3" crc="55c41e59" />
+  </game>
+  <game name="01 - Games/Banana Ghost/~Prototypes and Betas">
+    <rom name="Banana Ghost (World) (v0.1) (Proto) (Aftermarket) (Unl).lnx" size="23069" sha1="d912c560b4914960d01732da04a2a7fe9c2af315" crc="f571ba19" />
+    <rom name="Banana Ghost (World) (v0.1) (Proto) (Aftermarket) (Unl).lyx" size="262144" sha1="102fee4f4c0072e83a8656d99c41ff7ea5a08e27" crc="70c345f8" />
+    <rom name="Banana Ghost (World) (v0.2) (Proto) (Aftermarket) (Unl).lnx" size="23340" sha1="a3ec2d0b95a9998592543985063b2a6f03c48146" crc="5cde7400" />
+    <rom name="Banana Ghost (World) (v0.2) (Proto) (Aftermarket) (Unl).lyx" size="262144" sha1="f2cdec472db395dadd1d20670b4b11740c2a9f40" crc="cd8d53f1" />
+  </game>
+  <game name="01 - Games/Bars/~Prototypes and Betas">
+    <rom name="Bars (World) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="5759a0e72afc731affa9b9a836b395c7c3b4cee4" crc="c5cf8853" />
+  </game>
+  <game name="01 - Games/Baseball Heroes">
+    <rom name="Baseball Heroes (USA, Europe).lyx" size="262144" sha1="b30a1fe12dc3e69e1a179a5e4d1799d93996fc24" crc="3943c116" />
+  </game>
+  <game name="01 - Games/Basketbrawl">
+    <rom name="Basketbrawl (USA, Europe).lyx" size="131072" sha1="46ae8e1504e2944525d535280a3ed32e0873788a" crc="4161bb4a" />
+    <rom name="Basketbrawl (World) (Atari Lynx Collection 1) (Unl).lnx" size="262208" sha1="cfe4708a881564b1ad75cdbe6da526c06d19a9c1" crc="a41b3d47" />
+  </game>
+  <game name="01 - Games/Bathman">
+    <rom name="Bathman (World) (Aftermarket) (Unl).lnx" size="32182" sha1="829d71251877fb8b02ef3fcf084c5297e469ea3f" crc="6e35c07e" />
+    <rom name="Bathman (World) (Aftermarket) (Unl).lyx" size="262144" sha1="0a45259dbff52c96476d9a49d0c7c474d0c507ed" crc="2b842bff" />
+  </game>
+  <game name="01 - Games/Batman Returns">
+    <rom name="Batman Returns (USA, Europe).lyx" size="262144" sha1="2e25b17a221d4d9598811fbf84ab0da3016f26e4" crc="277f82c2" />
+  </game>
+  <game name="01 - Games/Batman Returns/~Prototypes and Betas">
+    <rom name="Batman Returns (USA, Europe) (Rev 1) (Proto).lyx" size="262144" sha1="a671d498eca1c51bf851bca1913b1af99f1b16ec" crc="5b5795a8" />
+  </game>
+  <game name="01 - Games/Battle Wheels">
+    <rom name="Battle Wheels (USA, Europe).lyx" size="131072" sha1="4577550d20a22cb685d51b411396d5085a852be6" crc="779faece" />
+  </game>
+  <game name="01 - Games/Battlezone 2000">
+    <rom name="Battlezone 2000 (USA, Europe).lyx" size="262144" sha1="fb50ddee638aa316c7eae6d50961e3b69b112c4f" crc="30fee726" />
+  </game>
+  <game name="01 - Games/Bbomb Bbot">
+    <rom name="Bbomb Bbot (World) (LynxJam 2024) (Aftermarket) (Unl).lnx" size="32224" sha1="18b4a490a5c15067685d730f777204f0b8d6d8e1" crc="f4f6ece0" />
+    <rom name="Bbomb Bbot (World) (LynxJam 2024) (Aftermarket) (Unl).lyx" size="262144" sha1="5359b6ca4b6962e7fd642a1056ac4d91360d67ed" crc="9da7a4de" />
+  </game>
+  <game name="01 - Games/Bezerkoids/~Prototypes and Betas">
+    <rom name="Befok (World) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="2ab5f83692ac25e378ab800f7922d82db1909f23" crc="ed85a2a4" />
+    <rom name="Bezerkoids (World) (Proto 1) (Aftermarket) (Unl).lnx" size="36089" sha1="b2a7a2f789119f7f3438e7ef40a2711f6063797e" crc="99378100" />
+    <rom name="Bezerkoids (World) (Proto 1) (Aftermarket) (Unl).lyx" size="262144" sha1="e58ec231925c42f4a0aaa6ef18713f5ef6101bb6" crc="6bdf6d54" />
+    <rom name="Bezerkoids (World) (Proto 2) (Aftermarket) (Unl).lnx" size="36438" sha1="d3c8249ff2d700e78e5e419a33505f5a9258f282" crc="83dae4da" />
+    <rom name="Bezerkoids (World) (Proto 2) (Aftermarket) (Unl).lyx" size="262144" sha1="d42a808fa5e49cfc59e6d7c9b714d26693bd5d7d" crc="e2e11b2d" />
+    <rom name="Bezerkoids (World) (Proto 3) (Aftermarket) (Unl).lnx" size="37013" sha1="80b128008e657c79b2b8782721c3880e3d424150" crc="5084be23" />
+    <rom name="Bezerkoids (World) (Proto 3) (Aftermarket) (Unl).lyx" size="262144" sha1="1a1e3749682e58f73fb61bc63c0b3988c00d6ea9" crc="728eeb4e" />
+  </game>
+  <game name="01 - Games/Bill &amp; Ted's Excellent Adventure">
+    <rom name="Bill &amp; Ted's Excellent Adventure (USA, Europe).lyx" size="262144" sha1="f09ce08d93a479feaceceb79eb48b337aff49fae" crc="143a313e" />
+  </game>
+  <game name="01 - Games/Biniax">
+    <rom name="Biniax (World) (v1.0) (Aftermarket) (Unl).lnx" size="27267" sha1="483e76bdf34561c311830be6b69ddfc4d9570915" crc="66894cb9" />
+    <rom name="Biniax (World) (v1.0) (Aftermarket) (Unl).lyx" size="262144" sha1="00002a8f2e0dfdf031a690f5f6bb08d81ecbe040" crc="fdca4017" />
+  </game>
+  <game name="01 - Games/Biniax/~Prototypes and Betas">
+    <rom name="Biniax (World) (v0.1) (Beta) (Aftermarket) (Unl).lnx" size="15350" sha1="95e7c6c6bbfc6d4fb3e456bf059c2990bbda4206" crc="7bc96d96" />
+    <rom name="Biniax (World) (v0.1) (Beta) (Aftermarket) (Unl).lyx" size="262144" sha1="6813c1f3eb4039b10ec888605af05da76b741f64" crc="613658ab" />
+    <rom name="Biniax (World) (v0.2) (Beta) (Aftermarket) (Unl).lnx" size="21422" sha1="b81ae09c40743fd3123a5bec9da3109592d2fd10" crc="3fe195d2" />
+    <rom name="Biniax (World) (v0.2) (Beta) (Aftermarket) (Unl).lyx" size="262144" sha1="105a360930eb9b2d448d577a60ba3ae69eee5931" crc="d65ddbc3" />
+    <rom name="Biniax (World) (v0.3) (Beta) (Aftermarket) (Unl).lnx" size="22707" sha1="a0b1a702ddc82e7aad1893058e7c91188ee04d42" crc="9b3350f0" />
+    <rom name="Biniax (World) (v0.3) (Beta) (Aftermarket) (Unl).lyx" size="262144" sha1="057d4576e79bbf8bf6fec64a2ab2a1c6a86286cb" crc="5a3f90a0" />
+  </game>
+  <game name="01 - Games/Bitchy">
+    <rom name="Bitchy (World) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="453c2a18c1d72e1680c16df521aed7023682e27a" crc="51f718d2" />
+  </game>
+  <game name="01 - Games/Black Pit/~Prototypes and Betas">
+    <rom name="Black Pit (World) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="9a23cd945eb8f5752053c06e491d6a8fd6e825b6" crc="081a63b9" />
+  </game>
+  <game name="01 - Games/Blackjack (Lynx Casino)">
+    <rom name="Lynx Casino (USA, Europe).lyx" size="262144" sha1="4b82a9bc02330c9213c2bbd74d547d520c4e6fa3" crc="1091a268" />
+  </game>
+  <game name="01 - Games/Blackjack (MegaPak Vol.1)">
+    <rom name="MegaPak Vol.1 (World) (Aftermarket) (Unl).lnx" size="262208" sha1="5cc9a1211770e6ee119799c1c958f7f33720c4f6" crc="14c4fce0" />
+  </game>
+  <game name="01 - Games/Blasting Robots">
+    <rom name="Blasting Robots (World) (LynxJam 2024) (Aftermarket) (Unl).lnx" size="262208" sha1="cf4ca9febf407571c0757e4a34bfe79d0949c162" crc="46f78d78" />
+    <rom name="Blasting Robots (World) (LynxJam 2024) (Aftermarket) (Unl).lyx" size="262144" sha1="8658d13d69e6e7eebbeca073e227e86b32fc2b6a" crc="ecc8b05c" />
+  </game>
+  <game name="01 - Games/Block Out">
+    <rom name="Block Out (USA, Europe).lyx" size="131072" sha1="ae177cf76953b7e0a56b03096bb5c9c9c9051177" crc="3cd75df3" />
+  </game>
+  <game name="01 - Games/Blue Lightning">
+    <rom name="Blue Lightning (World).lyx" size="131072" sha1="be08076586f76db368db1769380dcbb6de2a6513" crc="daf587b1" />
+  </game>
+  <game name="01 - Games/Blue Lightning/~Prototypes and Betas">
+    <rom name="Blue Lightning (World) (Beta) (1989-06-02).lyx" size="131072" sha1="119600777ae1694aae34083d7df14d283fca25ce" crc="abf22530" />
+  </game>
+  <game name="01 - Games/Bobo/~Prototypes and Betas">
+    <rom name="Bobo (World) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="5b2f31a615dee1b6db9c78f26262f4ee42121437" crc="31ba9d36" />
+  </game>
+  <game name="01 - Games/Bowling Area/~Prototypes and Betas">
+    <rom name="Bowling Area (World) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="b01afb67867cac6139e62505b3e31c4beb4032a5" crc="8cbc09ca" />
+  </game>
+  <game name="01 - Games/Bubble Trouble">
+    <rom name="Bubble Trouble (USA, Europe).lyx" size="262144" sha1="cb9f78ffb02216979a03abb66301e4d3a8f01bfe" crc="333daece" />
+  </game>
+  <game name="01 - Games/Bug Hunt/~Prototypes and Betas">
+    <rom name="Bug Hunt (World) (Proto) (Aftermarket) (Unl).lnx" size="223593" sha1="275c7ac269204f8fa5e34ee8f2d2f8a131c05d0f" crc="4e0f428e" />
+    <rom name="Bug Hunt (World) (Proto) (Aftermarket) (Unl).lyx" size="262144" sha1="ac85bd3764de4d66b77c85efd4c914eb074bc31f" crc="5216089a" />
+  </game>
+  <game name="01 - Games/Bug's Trip Redux, A">
+    <rom name="Bug's Trip Redux, A (World) (Aftermarket) (Unl).lnx" size="524352" sha1="9871176b5250e10b7c681f195c4b128f7e543b0d" crc="eac2b399" />
+  </game>
+  <game name="01 - Games/Buildings (Yastuna)">
+    <rom name="Yastuna Volume 1 - The Alchemy of Cubes (World) (v1.00) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="2c311788def1e4ec7d5adc64e2fbb44c851861e8" crc="a87ed55e" />
+    <rom name="Yastuna Volume 1 - The Alchemy of Cubes (World) (v1.01) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="edf7c73f04586a31cbcad856e166eb4d55e76373" crc="62793fe8" />
+  </game>
+  <game name="01 - Games/Burst Bot">
+    <rom name="Burst Bot (World) (LynxJam 2024) (Aftermarket) (Unl).lnx" size="65408" sha1="781c08d1dff3daa85c82409d40d5b674cdabd966" crc="99172cb3" />
+    <rom name="Burst Bot (World) (LynxJam 2024) (Aftermarket) (Unl).lyx" size="262144" sha1="ecae453b57d0398261d9d9607a45eeea7797b589" crc="19e3b016" />
+  </game>
+  <game name="01 - Games/C-Gull">
+    <rom name="C-Gull (World) (Aftermarket) (Unl).lnx" size="262208" sha1="360711ae9135264fefa0c2dd1d2121666a87214d" crc="20999493" />
+  </game>
+  <game name="01 - Games/CSS - Traffic Regulation">
+    <rom name="CSS - Traffic Regulation (World) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="3bf0f084c151d028db1b9272c793ecdecbe34155" crc="289b21e9" />
+  </game>
+  <game name="01 - Games/California Games">
+    <rom name="California Games (World).lyx" size="131072" sha1="f13e010102ca527a9c393acb52bb949a1ba93e3e" crc="a08f0b59" />
+  </game>
+  <game name="01 - Games/California Games/~Prototypes and Betas">
+    <rom name="California Games (World) (Beta).lyx" size="131072" sha1="89a5011be4173c28a3b73aa6a078866588509e6e" crc="14c01e5f" />
+  </game>
+  <game name="01 - Games/Carzilla/~Prototypes and Betas">
+    <rom name="Carzilla (World) (v0.4) (Proto) (LynxJam 2024) (Aftermarket) (Unl).lnx" size="262208" sha1="c4c016951688908f491a42c6b1741a471a938cec" crc="c603af76" />
+  </game>
+  <game name="01 - Games/Catkanoid">
+    <rom name="Catkanoid (World) (Aftermarket) (Unl).lnx" size="14766" sha1="3c531b12980c12c9e91943d4b749b97b82448b2d" crc="d04dd5d2" />
+    <rom name="Catkanoid (World) (Aftermarket) (Unl).lyx" size="262144" sha1="d8ddb7796b5b0206dd2eb00437a00275853c24a5" crc="8327ac2f" />
+  </game>
+  <game name="01 - Games/Centipede/~Prototypes and Betas">
+    <rom name="Centipede (USA) (Proto).lyx" size="131072" sha1="59a5185203e3550b1cad7b28489915bc8de80851" crc="97501709" />
+  </game>
+  <game name="01 - Games/Championship Rally">
+    <rom name="Championship Rally (World) (Aftermarket) (Unl).lnx" size="524352" sha1="7a488b968a76f53794f5ad96120864ab1b3a6dd4" crc="f965bf77" />
+  </game>
+  <game name="01 - Games/Chase">
+    <rom name="Chase (World) (Aftermarket) (Unl).lnx" size="262208" sha1="4e5319b8b37ccac2f4a06cd2e3d199256695219c" crc="d093125b" />
+  </game>
+  <game name="01 - Games/Chasm Warden/~Prototypes and Betas">
+    <rom name="Chasm Warden (World) (Proto) (Aftermarket) (Unl).lnx" size="65408" sha1="43d43ee8bf8684d1fcf2afdc40693fe280652bbb" crc="2b3bf41f" />
+    <rom name="Chasm Warden (World) (Proto) (Aftermarket) (Unl).lyx" size="262144" sha1="e8b63f669642569bfcd3b17bc4f5f3f9ea80d3eb" crc="b665ae38" />
+  </game>
+  <game name="01 - Games/Checkered Flag">
+    <rom name="Checkered Flag (USA, Europe).lyx" size="262144" sha1="f115bb5f98992d98c8d11b1daa68bb1961b59660" crc="19c5a7a5" />
+  </game>
+  <game name="01 - Games/Chip's Challenge">
+    <rom name="Chip's Challenge (World).lyx" size="131072" sha1="6a90e6627086e13d99bacbcaafea7ab2f6aba8a0" crc="6a5f53ed" />
+  </game>
+  <game name="01 - Games/Choplifter X">
+    <rom name="Choplifter X (World) (Aftermarket) (Unl).lnx" size="262208" sha1="0bead2c32fbb4c7ffec8ed507c33d31bfc2063bc" crc="f2bc7ff2" />
+  </game>
+  <game name="01 - Games/ChopperX">
+    <rom name="MegaPak Vol.1 (World) (Aftermarket) (Unl).lnx" size="262208" sha1="5cc9a1211770e6ee119799c1c958f7f33720c4f6" crc="14c4fce0" />
+  </game>
+  <game name="01 - Games/Circuit Dude/~Prototypes and Betas">
+    <rom name="Circuit Dude (World) (Proto) (Aftermarket) (Unl).lnx" size="51870" sha1="0fcd548b066d9a6aaac71071f1dcf977c4030a3c" crc="234bc3f1" />
+    <rom name="Circuit Dude (World) (Proto) (Aftermarket) (Unl).lyx" size="262144" sha1="3b7ea1c115f539a95ff3098b7c90118bf7af761e" crc="e205d7ca" />
+  </game>
+  <game name="01 - Games/Clicks!">
+    <rom name="Clicks! (World) (Aftermarket) (Unl).lnx" size="262208" sha1="565cdc8f04477652133766f3c383883d92f6e0c3" crc="c99de075" />
+  </game>
+  <game name="01 - Games/Columns/~Prototypes and Betas">
+    <rom name="Columns (World) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="cf7d23e7f7b7bcbc914b14895d860d8968db406c" crc="702e51e3" />
+  </game>
+  <game name="01 - Games/Conquistador">
+    <rom name="Conquistador (World) (v1.0) (Aftermarket) (Unl).lnx" size="262208" sha1="74d71dee9aaca266a5f8260ba623d29770a81a66" crc="f2df4b90" />
+    <rom name="Conquistador (World) (v1.1) (Aftermarket) (Unl).lnx" size="262208" sha1="82f60697bfff842628fe9d74b996a0d52a00dc83" crc="8179896c" />
+  </game>
+  <game name="01 - Games/Craps (Lynx Casino)">
+    <rom name="Lynx Casino (USA, Europe).lyx" size="262144" sha1="4b82a9bc02330c9213c2bbd74d547d520c4e6fa3" crc="1091a268" />
+  </game>
+  <game name="01 - Games/Crate Challenge">
+    <rom name="Crate Challenge (World) (v1.1) (Aftermarket) (Unl).lnx" size="19350" sha1="f9c1c3b2c5e1fa2dd561d8c89dffa2c253bc304f" crc="41c5c90b" />
+    <rom name="Crate Challenge (World) (v1.1) (Aftermarket) (Unl).lyx" size="262144" sha1="03a3900e02883a437f783256c5b28de194503072" crc="b0399e76" />
+  </game>
+  <game name="01 - Games/Cross Bomber">
+    <rom name="Cross Bomber (World) (Aftermarket) (Unl).lnx" size="9054" sha1="e6b4e868e82c83c5c3767b7353d92e7b0f743ede" crc="83c59f2d" />
+    <rom name="Cross Bomber (World) (Aftermarket) (Unl).lyx" size="262144" sha1="6ed5d232f2cf0ae62e047632d75a766fc772c27b" crc="dfed165d" />
+  </game>
+  <game name="01 - Games/Cross Chase">
+    <rom name="Cross Chase (World) (v1.0) (Aftermarket) (Unl).lnx" size="14619" sha1="c529ffd315706f9e4ed6dc49b93e207eec7d8220" crc="533af2b2" />
+    <rom name="Cross Chase (World) (v1.0) (Aftermarket) (Unl).lyx" size="262144" sha1="9faa6a5536d987329ce403cf68dcc16a74bfa1f0" crc="9658b6ed" />
+    <rom name="Cross Chase (World) (v1.1) (Aftermarket) (Unl).lnx" size="14746" sha1="b1804c25a59f5e00c8972ebae337c30ddbe3af72" crc="89496f19" />
+    <rom name="Cross Chase (World) (v1.1) (Aftermarket) (Unl).lyx" size="262144" sha1="7a5f4b51cce8ee360a2fb594165d827352fe6c62" crc="7201f4ba" />
+    <rom name="Cross Chase (World) (v1.2) (Aftermarket) (Unl).lnx" size="15388" sha1="597ddad37597ef8c30b34ba35bc714aa0f52c574" crc="8221e039" />
+    <rom name="Cross Chase (World) (v1.2) (Aftermarket) (Unl).lyx" size="262144" sha1="67065764b8d06c4f5d306c522348470d4ba397d1" crc="6cc58515" />
+  </game>
+  <game name="01 - Games/Cross Horde">
+    <rom name="Cross Horde (World) (Aftermarket) (Unl).lnx" size="12512" sha1="c2bb217f702d0b76943439f73682306240cb80f4" crc="944e733a" />
+    <rom name="Cross Horde (World) (Aftermarket) (Unl).lyx" size="262144" sha1="c69fd60fd5bb1be5fa693d7a11c502ada984a2b7" crc="140c018f" />
+  </game>
+  <game name="01 - Games/Cross Shoot">
+    <rom name="Cross Shoot (World) (Aftermarket) (Unl).lnx" size="21430" sha1="95c03450189780a01eb5f0a689552bcd71edc3b6" crc="87c4c029" />
+    <rom name="Cross Shoot (World) (Aftermarket) (Unl).lyx" size="262144" sha1="da3efbc57efd6dad023557ff422c2a2ad85b2301" crc="0025f4b5" />
+  </game>
+  <game name="01 - Games/Cross Snake">
+    <rom name="Cross Snake (World) (Aftermarket) (Unl).lnx" size="14595" sha1="d2451017e868e8ed866896bd9155d6ea71b6fa77" crc="6ec89559" />
+    <rom name="Cross Snake (World) (Aftermarket) (Unl).lyx" size="262144" sha1="1a2fb17ab60d61a61ccb39e4f3f9bd1faec646ef" crc="5487a1fe" />
+  </game>
+  <game name="01 - Games/Crystal Mines II - Buried Treasure">
+    <rom name="Crystal Mines II - Buried Treasure (World) (Unl).lnx" size="262208" sha1="f74cf43a8e9d58abf85b4ef95385d4fa804810ea" crc="5ada9b79" />
+  </game>
+  <game name="01 - Games/Crystal Mines II">
+    <rom name="Crystal Mines II (USA, Europe).lyx" size="131072" sha1="3364bde38508c5c4fed5575295cc80c6f72edebe" crc="aec474c8" />
+  </game>
+  <game name="01 - Games/Cyber Virus">
+    <rom name="Cyber Virus (World) (Aftermarket) (Unl).lnx" size="262208" sha1="c631441d48a53b229a32e7c0db5616f1d90f1b22" crc="a683a04c" />
+  </game>
+  <game name="01 - Games/Cyberpunk Experiment 2037/~Prototypes and Betas">
+    <rom name="Cyberpunk Experiment 2037 (World) (2020-04-13) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="ff12fea34610f49213509e6c005e9735408af06d" crc="8ecf7c04" />
+    <rom name="Cyberpunk Experiment 2037 (World) (2020-04-14) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="54c689c2a3dbce7fef0d645af641f9b1143e8fc0" crc="dfa90127" />
+    <rom name="Cyberpunk Experiment 2037 (World) (2020-04-21) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="be840a5492296d110384bbf1d3f4777f6ff78bb9" crc="06dbe9b9" />
+    <rom name="Cyberpunk Experiment 2037 (World) (2020-06-01) (Proto) (Aftermarket) (Unl).lnx" size="524352" sha1="387074aa2eed381f14a7decf285390ef88fa8c35" crc="6d312a14" />
+  </game>
+  <game name="01 - Games/Daemon's Gate/~Prototypes and Betas">
+    <rom name="Daemon's Gate (USA) (Proto 1).lyx" size="262144" sha1="5a3a21eb5de37367d294e057f70a1f325bf23c4a" crc="99729395" />
+    <rom name="Daemon's Gate (USA) (Proto 2).lyx" size="262144" sha1="4bd08d8edd5f551782eedc4d32cf627b9fb16c8b" crc="ef529ed4" />
+  </game>
+  <game name="01 - Games/Dance, Bro!">
+    <rom name="Dance, Bro! (World) (Aftermarket) (Unl).lnx" size="36698" sha1="b1ec5a6d91f75aee32e926ef71515f5b48b2e4dc" crc="76f2eab8" />
+    <rom name="Dance, Bro! (World) (Aftermarket) (Unl).lyx" size="262144" sha1="a1ba5a4fc2a48d35ffde50aa1fa4230ed4d87acb" crc="76195d5b" />
+  </game>
+  <game name="01 - Games/Desert Strike - Return to the Gulf">
+    <rom name="Desert Strike - Return to the Gulf (USA, Europe).lyx" size="262144" sha1="3149d8ba5661fd61dc94d518a0cb6d7b3a8f319f" crc="b9ac1fe5" />
+  </game>
+  <game name="01 - Games/Dinolympics">
+    <rom name="Dinolympics (USA, Europe).lyx" size="262144" sha1="0dad2286934c6a317407db066f00233c27f54bbe" crc="50386cfa" />
+  </game>
+  <game name="01 - Games/Dirty Larry - Renegade Cop">
+    <rom name="Dirty Larry - Renegade Cop (USA, Europe).lyx" size="262144" sha1="ca856dc880663d7f105ae5aa2ff160b9fc209f92" crc="d565fbb7" />
+  </game>
+  <game name="01 - Games/Double Dragon">
+    <rom name="Double Dragon (USA, Europe).lyx" size="262144" sha1="7fc3663bec878b138cfc51f14154823f9701c9e7" crc="fbfc0f05" />
+  </game>
+  <game name="01 - Games/Dracula - The Undead">
+    <rom name="Dracula - The Undead (USA, Europe).lyx" size="262144" sha1="8f393f0fa8ce832e6298db72f539ce4b961700e2" crc="33bb74c7" />
+    <rom name="Dracula - The Undead (World) (Atari Lynx Collection 1) (Unl).lnx" size="262208" sha1="0b791c0ee0f71d9a564732ae41398f7193303d02" crc="95b4a0e6" />
+  </game>
+  <game name="01 - Games/DrunkWitch">
+    <rom name="DrunkWitch (World) (Aftermarket) (Unl).lnx" size="38231" sha1="2515ab1e9f83dbdaa76991172318bd59f8a6d9f1" crc="e351d205" />
+    <rom name="DrunkWitch (World) (Aftermarket) (Unl).lyx" size="262144" sha1="f03d5ee5425b52581edb3ce15f484bfeac6ef911" crc="061d9270" />
+  </game>
+  <game name="01 - Games/Dungeddon">
+    <rom name="Dungeddon (World) (v1.1) (Aftermarket) (Unl).lnx" size="65536" sha1="111d1658ee324bdf944acae5e1cf6e93a8060362" crc="a3bcb0a4" />
+    <rom name="Dungeddon (World) (v1.1) (Aftermarket) (Unl).lyx" size="262144" sha1="6b790a04614340be7cbe5ee675725e9c4b76a182" crc="6a9bd2a8" />
+  </game>
+  <game name="01 - Games/Dungeddon/~Prototypes and Betas">
+    <rom name="Dungeddon (World) (Beta) (Aftermarket) (Unl).lnx" size="65536" sha1="d413fa59ca961832fcafa268ba43504764d47b93" crc="6334dabb" />
+    <rom name="Dungeddon (World) (Beta) (Aftermarket) (Unl).lyx" size="262144" sha1="ca59cba03adf4a45f05524dbc7f196748364e8cb" crc="4c62b125" />
+  </game>
+  <game name="01 - Games/Eggsavier's Cackleberry Rescue">
+    <rom name="Eggsavier's Cackleberry Rescue (World) (v1.0) (Aftermarket) (Unl).lnx" size="20716" sha1="ac4ca076d570366ed9998aa3a1de896c1cdeb1d4" crc="bc4737a3" />
+    <rom name="Eggsavier's Cackleberry Rescue (World) (v1.0) (Aftermarket) (Unl).lyx" size="262144" sha1="88dfd421e795b3434762db9d7eb9fb38d7aa7dde" crc="67fbf545" />
+    <rom name="Eggsavier's Cackleberry Rescue (World) (v1.1) (Aftermarket) (Unl).lnx" size="524352" sha1="538f827f3b33f9ce72c39acfc8c9ae3ff59e70fa" crc="9aff55ca" />
+  </game>
+  <game name="01 - Games/Electrocop">
+    <rom name="Electrocop (World).lyx" size="131072" sha1="5bd6614bc98a882ec2f465278fe4f1ed6a4e972b" crc="bd97116b" />
+  </game>
+  <game name="01 - Games/Electrocop/~Prototypes and Betas">
+    <rom name="Net Runner (World) (Beta).lyx" size="131072" sha1="822425ef2a1f90e3a3fac17a851ade6f04d1f246" crc="29e6ca48" />
+  </game>
+  <game name="01 - Games/Elvira and the Party Monsters">
+    <rom name="Pinball Jam (USA, Europe).lyx" size="262144" sha1="d9f911dc35a6b70ba38569d47c96da25ffc7f40e" crc="14d38ca7" />
+  </game>
+  <game name="01 - Games/Escape from Dungeon of Deja Vu/~Prototypes and Betas">
+    <rom name="Escape from Dungeon of Deja Vu (World) (Proto) (Aftermarket) (Unl).lnx" size="16333" sha1="5e627a414c547b53eeb26b98db06cd911fab455e" crc="685d67b4" />
+    <rom name="Escape from Dungeon of Deja Vu (World) (Proto) (Aftermarket) (Unl).lyx" size="262144" sha1="287f17c23899118aa4dc72c41db25649df799bc5" crc="c294b0e8" />
+  </game>
+  <game name="01 - Games/European Soccer Challenge">
+    <rom name="European Soccer Challenge (USA, Europe).lyx" size="131072" sha1="f1d0390a36055ef2b7cb5f7ce44f622a63d82e80" crc="f83397f9" />
+  </game>
+  <game name="01 - Games/Eye of the Beholder">
+    <rom name="Eye of the Beholder (World) (Unl).lyx" size="524288" sha1="ca3057aefeff15c1c73990d4cae5aca117878f61" crc="f1b307cb" />
+  </game>
+  <game name="01 - Games/Eye of the Beholder/~Prototypes and Betas">
+    <rom name="Eye of the Beholder (USA) (Proto 1).lyx" size="131072" sha1="65c0517a59e0e93bad91245ee8085b3483428707" crc="6bceaa9c" />
+    <rom name="Eye of the Beholder (USA) (Proto 2) (Aftermarket) (Unl).lyx" size="524288" sha1="c06fc630278f618b09388ebf05e4f131cb3b8794" crc="ae8c70f0" />
+  </game>
+  <game name="01 - Games/Fat Bobby">
+    <rom name="Fat Bobby (USA, Europe).lyx" size="262144" sha1="766ed1a28528535338e176559a145afaffacf3ef" crc="9034ee27" />
+  </game>
+  <game name="01 - Games/Fidelity Ultimate Chess Challenge, The">
+    <rom name="Fidelity Ultimate Chess Challenge, The (USA, Europe).lyx" size="131072" sha1="f6afa50f161fffe5975cf5688a9314b8039d940f" crc="7e4b5945" />
+  </game>
+  <game name="01 - Games/Fidelity Ultimate Chess Challenge, The/~Prototypes and Betas">
+    <rom name="Fidelity Ultimate Chess Challenge, The (USA, Europe) (Beta).lyx" size="131072" sha1="9ec09a4fc10916d19092e1fc9897ed40a351f865" crc="fd65ee0d" />
+  </game>
+  <game name="01 - Games/Final Melee">
+    <rom name="Final Melee (World) (Aftermarket) (Unl).lnx" size="44977" sha1="7b0cebe2de5bcadb4e065b7e9556bcc9469b6f96" crc="3934d862" />
+    <rom name="Final Melee (World) (Aftermarket) (Unl).lyx" size="262144" sha1="d1ac6049cd6af26266e02a36525b23cc08976e9e" crc="e5e9c13e" />
+  </game>
+  <game name="01 - Games/Find a Way to My Heart">
+    <rom name="Find a Way to My Heart (World) (Aftermarket) (Unl).lnx" size="59155" sha1="344a4d6bd3a9da389129fed25124b3e91486ea09" crc="39c6b499" />
+    <rom name="Find a Way to My Heart (World) (Aftermarket) (Unl).lyx" size="262144" sha1="7cc93d9bfc28218cdd094b2b080210c2c5a7717a" crc="f047aa45" />
+    <rom name="Find a Way to My Heart (World) (Atari Lynx 30th Birthday) (Aftermarket) (Unl).lnx" size="59155" sha1="49b162de0368d65c970c922c382a175633f84d6d" crc="c1d5954b" />
+    <rom name="Find a Way to My Heart (World) (Atari Lynx 30th Birthday) (Aftermarket) (Unl).lyx" size="262144" sha1="14791f1f304adc0974ceaf8e8b2f12ec16a823b4" crc="9b688fe5" />
+  </game>
+  <game name="01 - Games/Fishing for Atari">
+    <rom name="Fishing for Atari (World) (Aftermarket) (Unl).lnx" size="262208" sha1="a6d70049dc9b3dee7f68b3c400fb87cbdaf3a16d" crc="16564e58" />
+  </game>
+  <game name="01 - Games/Fission/~Prototypes and Betas">
+    <rom name="Fission (World) (v0.6) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="9fca8b97e6378afa5a3f9f31bc58be75e41cb763" crc="12a0846e" />
+  </game>
+  <game name="01 - Games/Fortress Fighter/~Prototypes and Betas">
+    <rom name="Fortress Fighter (World) (Proto) (Aftermarket) (Unl).lnx" size="26431" sha1="8027175582630159c57bb0fdca40b94005b49bbd" crc="273e4001" />
+    <rom name="Fortress Fighter (World) (Proto) (Aftermarket) (Unl).lyx" size="262144" sha1="88a33ddcb16ccb1982877bdd1c2d44c6d3be075b" crc="51049932" />
+  </game>
+  <game name="01 - Games/Full Court Press/~Prototypes and Betas">
+    <rom name="Full Court Press (USA) (Proto).lyx" size="262144" sha1="6419332f565cf090313044c1815e540c72d8dd8a" crc="ff9e0126" />
+  </game>
+  <game name="01 - Games/Garci/~Prototypes and Betas">
+    <rom name="Garci (World) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="455fd1f2fbe5f9ace7d0bebabb3b5c1c479e0f64" crc="556e6908" />
+  </game>
+  <game name="01 - Games/Gates of Zendocon">
+    <rom name="Gates of Zendocon (World).lyx" size="131072" sha1="4eb4d3eb29231b2e36d8ef6ede64a568f469c5fe" crc="494cc568" />
+  </game>
+  <game name="01 - Games/Gates of Zendocon/~Prototypes and Betas">
+    <rom name="Gates of Zendocon (World) (Beta) (1989-06-01).lyx" size="131072" sha1="7d0070cd21b223b0f6a02cb0f5c5680f64fdac93" crc="88871760" />
+  </game>
+  <game name="01 - Games/Gauntlet - The Third Encounter">
+    <rom name="Gauntlet - The Third Encounter (World).lyx" size="131072" sha1="41d27f0717a93d05a9d3d1110f571f791d330f55" crc="7f0ec7ad" />
+  </game>
+  <game name="01 - Games/Gauntlet - The Third Encounter/~Prototypes and Betas">
+    <rom name="Gauntlet - The Third Encounter (World) (Beta) (1990-01-12).lyx" size="131072" sha1="00444683df3ab0af3eac272ee0d379cb5ecf52d5" crc="41f5de73" />
+    <rom name="Gauntlet - The Third Encounter (World) (Beta) (1990-06-04).lyx" size="131072" sha1="f2623da3f8d762f4a834eebbf0e521117ec39428" crc="dcd723e3" />
+    <rom name="Gemquest (World) (Beta).lyx" size="131072" sha1="c5152c20f34c1e5458bca1a45f9e2cfc35050ccc" crc="8302c463" />
+  </game>
+  <game name="01 - Games/Gift Catcher">
+    <rom name="Gift Catcher (World) (Aftermarket) (Unl).lnx" size="262208" sha1="fd854aa6153d12a5f4c03b25df43db7b0a1d7aa2" crc="d81558c6" />
+  </game>
+  <game name="01 - Games/Glob Shoot/~Prototypes and Betas">
+    <rom name="Glob Shoot (World) (v0.62) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="69465b7450da757018accd081e237fc4b70da0be" crc="28b0a691" />
+  </game>
+  <game name="01 - Games/Gnop!/~Prototypes and Betas">
+    <rom name="Gnop! (World) (v0.4) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="d72c97cc6d0d8de3dd02e329b8ff060cb97e4552" crc="96793b21" />
+    <rom name="Gnop! (World) (v0.6) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="0f3c4448ea46163a070df47fa8c933a67a6ae812" crc="5262916e" />
+  </game>
+  <game name="01 - Games/Gomoku/~Prototypes and Betas">
+    <rom name="Gomoku (World) (Aftermarket) (Unl).lnx" size="262208" sha1="997454c71c7393f947130c265b9eec69cecf9460" crc="491d3b2c" />
+  </game>
+  <game name="01 - Games/Gordo 106">
+    <rom name="Gordo 106 (USA, Europe).lyx" size="262144" sha1="298163cf4355d0e8aaba264cd7dcd828b1fc6bec" crc="d20a85fc" />
+    <rom name="Gordo 106 (World) (Atari Lynx Collection 1) (Unl).lnx" size="262208" sha1="39170bbbc637833abc33f121a1c304562a769a02" crc="b90d79de" />
+  </game>
+  <game name="01 - Games/Grail of the Lava Kingdom, The/~Prototypes and Betas">
+    <rom name="Grail of the Lava Kingdom, The (World) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="7afb42f1b0425bcc875e37429ebbbcff68898f17" crc="c65832c3" />
+  </game>
+  <game name="01 - Games/Griel's Quest for the Sangraal/~Prototypes and Betas">
+    <rom name="Griel's Quest for the Sangraal (World) (v0.1) (Proto) (Aftermarket) (Unl).lnx" size="18602" sha1="06558b0d6e7544e55d48d6dccaf7cfef444b1c86" crc="ddb687b9" />
+    <rom name="Griel's Quest for the Sangraal (World) (v0.1) (Proto) (Aftermarket) (Unl).lyx" size="262144" sha1="2e3ac8fab6e9b4b8579f33fccd7f0dc3c61c5a36" crc="79b96056" />
+    <rom name="Griel's Quest for the Sangraal (World) (v0.2) (Proto) (Aftermarket) (Unl).lnx" size="19136" sha1="8ab63f06e7976319f2cd6c38943bad21efe2b8a0" crc="d1b46364" />
+    <rom name="Griel's Quest for the Sangraal (World) (v0.2) (Proto) (Aftermarket) (Unl).lyx" size="262144" sha1="efbca2804e4e5e242b063d52a7928a395586ce43" crc="6ddb5c69" />
+    <rom name="Griel's Quest for the Sangraal (World) (v0.3) (Proto) (Aftermarket) (Unl).lnx" size="43720" sha1="5ad3be8763356d5f392ac2906118c49d79bf7598" crc="c9db02e3" />
+    <rom name="Griel's Quest for the Sangraal (World) (v0.3) (Proto) (Aftermarket) (Unl).lyx" size="262144" sha1="bcba8cb6de27ce96282229a60b9b1a9fbe88cef7" crc="731bb543" />
+    <rom name="Griel's Quest for the Sangraal (World) (v0.4) (Proto) (Aftermarket) (Unl).lnx" size="79099" sha1="ed87ef91e8b0a91f7b9c8c7dde57a6e53295fda3" crc="91a7386b" />
+    <rom name="Griel's Quest for the Sangraal (World) (v0.4) (Proto) (Aftermarket) (Unl).lyx" size="262144" sha1="e344ad4ebd044c39e5e8dfdbd70189b65daafd1a" crc="8a2adadd" />
+  </game>
+  <game name="01 - Games/Grogger">
+    <rom name="Grogger (World) (Aftermarket) (Unl).lnx" size="65536" sha1="b79e1528c131c3ff829bb81bbd2fef75acb4c669" crc="e9381a57" />
+    <rom name="Grogger (World) (Aftermarket) (Unl).lyx" size="262144" sha1="c71f91ebecc49d3a3c24b0602c6b7bd796462c5f" crc="79aec28e" />
+  </game>
+  <game name="01 - Games/Growing Ties">
+    <rom name="Growing Ties (World) (Aftermarket) (Unl).lnx" size="55844" sha1="810a39729142402e230a5176a64a0f4a739a532f" crc="04922b6d" />
+    <rom name="Growing Ties (World) (Aftermarket) (Unl).lyx" size="262144" sha1="aca7b610f164461ca1efbb42f554a214528a9365" crc="2ca3c6db" />
+  </game>
+  <game name="01 - Games/Grub-O-Grotto">
+    <rom name="Grub-O-Grotto (World) (Aftermarket) (Unl).lnx" size="65536" sha1="cc19c07f86143ff4fab8f087e1d1f22687a5f4f3" crc="17e47478" />
+    <rom name="Grub-O-Grotto (World) (Aftermarket) (Unl).lyx" size="262144" sha1="e6a8afcb994b8225d5f00115eb05dcf63f4a44dd" crc="36e230d0" />
+  </game>
+  <game name="01 - Games/Guardians, The - Storm Over Doria/~Prototypes and Betas">
+    <rom name="Guardians, The - Storm Over Doria (USA) (Proto 1).lyx" size="262144" sha1="9f02145a5640c4c373f45dcb5566e5ac36f32851" crc="0e335aa8" />
+    <rom name="Guardians, The - Storm Over Doria (USA) (Proto 2).lyx" size="262144" sha1="31cadc20427c6be236db6024bcd280fc1661c235" crc="8f0e72c6" />
+  </game>
+  <game name="01 - Games/Hard Drivin'">
+    <rom name="Hard Drivin' (USA, Europe).lyx" size="131072" sha1="6d33abd50d46f900e8762d6e64b51e647ea98b07" crc="6df63834" />
+  </game>
+  <game name="01 - Games/Hero Dust/~Prototypes and Betas">
+    <rom name="Hero Dust (World) (Proto) (Aftermarket) (Unl).lnx" size="48843" sha1="564ad2c4a88c16ef77de8b3c2bc7377421e44fb8" crc="4ef69c75" />
+    <rom name="Hero Dust (World) (Proto) (Aftermarket) (Unl).lyx" size="262144" sha1="fcd12ccc05ffc5f5f3c4dc065275e6497b35b7ca" crc="2cafa643" />
+  </game>
+  <game name="01 - Games/High Roller (MegaPak Vol.1)">
+    <rom name="MegaPak Vol.1 (World) (Aftermarket) (Unl).lnx" size="262208" sha1="5cc9a1211770e6ee119799c1c958f7f33720c4f6" crc="14c4fce0" />
+  </game>
+  <game name="01 - Games/Hockey">
+    <rom name="Hockey (USA, Europe).lyx" size="262144" sha1="707af2b63c75b777ec519b63f0b8e86565356357" crc="e8b45707" />
+  </game>
+  <game name="01 - Games/Hotdog">
+    <rom name="Hotdog (World) (Aftermarket) (Unl).lnx" size="524352" sha1="973a168ea781160b4139e50a993d99e8b540672c" crc="3473bcd9" />
+  </game>
+  <game name="01 - Games/Hungry Monsters">
+    <rom name="Hungry Monsters (World) (v1.0) (Retro Platform Jam #4) (Aftermarket) (Unl).lnx" size="54338" sha1="8ab8e8a1158a9fd7396053fa97c56acf2937f381" crc="877446ae" />
+    <rom name="Hungry Monsters (World) (v1.0) (Retro Platform Jam #4) (Aftermarket) (Unl).lyx" size="262144" sha1="037b6d1f29fd91210ef72926e25401e6d413ed83" crc="8b30b6eb" />
+    <rom name="Hungry Monsters (World) (v1.1) (Aftermarket) (Unl).lnx" size="54428" sha1="09b8c4372766347261e4f112501153074f6461bb" crc="780a136c" />
+    <rom name="Hungry Monsters (World) (v1.1) (Aftermarket) (Unl).lyx" size="262144" sha1="9619caaabb128d87f48927626a87a37a095d7c96" crc="501935c4" />
+  </game>
+  <game name="01 - Games/Hydra">
+    <rom name="Hydra (USA, Europe).lyx" size="262144" sha1="fc0c7cabf3a2ee821f7441b71d19d52205f97721" crc="e3041c6c" />
+  </game>
+  <game name="01 - Games/Hydra/~Prototypes and Betas">
+    <rom name="Hydra (USA, Europe) (Beta).lyx" size="262144" sha1="edd8b97e5bc128a2cf22251e0b9cdf982e423ef8" crc="793620c2" />
+  </game>
+  <game name="01 - Games/Ishido - The Way of Stones">
+    <rom name="Ishido - The Way of Stones (USA, Europe).lyx" size="131072" sha1="78c295af3a57b5bd7d7e1d13ab13ad67885c4e89" crc="5cf8bbf0" />
+    <rom name="Ishido - The Way of Stones (World) (Atari Lynx Collection 1) (Unl).lnx" size="131136" sha1="9491fc8809258f98917b525a7472a43d495ba249" crc="c95c82e6" />
+  </game>
+  <game name="01 - Games/JetPack Hero/~Prototypes and Betas">
+    <rom name="JetPack Hero (World) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="3f64c081b690a7ada6f9dc5847399b79c5c9bfd8" crc="09eefe47" />
+  </game>
+  <game name="01 - Games/Jimmy Connors' Tennis">
+    <rom name="Jimmy Connors' Tennis (USA, Europe).lyx" size="524288" sha1="d9c4220653b2dfbd6b26c0a0c81c40cb3108ee85" crc="2455b6cf" />
+    <rom name="Jimmy Connors' Tennis (World) (Atari Lynx Collection 1) (Unl).lnx" size="524352" sha1="83aaa48b215d7a062af509e96a2e756fc3e4d356" crc="619f9194" />
+  </game>
+  <game name="01 - Games/Joust">
+    <rom name="Joust (USA, Europe).lyx" size="131072" sha1="ead01f532bcaf535065dfd66b26d04b484d0066e" crc="5dba792a" />
+  </game>
+  <game name="01 - Games/Jungle Jack">
+    <rom name="Jungle Jack (World) (Aftermarket) (Unl).lnx" size="18357" sha1="e27ee2e30808160c816bdb6a800795182d1fbcbf" crc="eb2c71e1" />
+    <rom name="Jungle Jack (World) (Aftermarket) (Unl).lyx" size="262144" sha1="c1ba4dedf46c413734515154accc15e9dba24602" crc="6c7e8360" />
+  </game>
+  <game name="01 - Games/Jungle Jack/~Prototypes and Betas">
+    <rom name="Jungle Jack (World) (Beta) (Aftermarket) (Unl).lnx" size="15940" sha1="d6a4da3428d42eaa5ffa881f197bf7b19ed12688" crc="afe540df" />
+    <rom name="Jungle Jack (World) (Beta) (Aftermarket) (Unl).lyx" size="262144" sha1="12640545a04e80e79ce0ea8126ef1f50e9046af2" crc="9c4c4b47" />
+  </game>
+  <game name="01 - Games/Klax">
+    <rom name="Klax (World).lyx" size="262144" sha1="a1d2dc0771f4a30e539ab3261a21cc71adc71550" crc="a53649f1" />
+  </game>
+  <game name="01 - Games/Klax/~Prototypes and Betas">
+    <rom name="Klax (World) (Beta 1).lyx" size="262144" sha1="b6cb710964a5fdd0a236bf38069be40aa4037b6b" crc="4d5d94f4" />
+    <rom name="Klax (World) (Beta 2) (1990-05-22).lyx" size="131072" sha1="e942ac4b30f759c3b6e78edc319a1934af2b1c67" crc="be3ac828" />
+    <rom name="Klax (World) (Beta 3) (1990-07-09).lyx" size="262144" sha1="5666b35c2d7b3eff1d3c2ed79da6c5c3a975b447" crc="1c42d958" />
+  </game>
+  <game name="01 - Games/Knight Moves">
+    <rom name="Knight Moves (World) (Aftermarket) (Unl).lnx" size="262208" sha1="a857c06e615715274eacc5d31d1eb3860e50c8d9" crc="0ec3c368" />
+  </game>
+  <game name="01 - Games/Krazy Ace - Miniature Golf">
+    <rom name="Krazy Ace - Miniature Golf (USA, Europe).lyx" size="262144" sha1="20e9011c922f06d9c8823f15c71e005ac2268295" crc="bed5ba2b" />
+  </game>
+  <game name="01 - Games/Kung Food">
+    <rom name="Kung Food (USA, Europe).lyx" size="262144" sha1="ae1bd18b30dd9ae67472c4c532f4d65d23324555" crc="cd1bd405" />
+  </game>
+  <game name="01 - Games/Lawnmower">
+    <rom name="Lawnmower (World) (v1.1) (Aftermarket) (Unl).lnx" size="185780" sha1="aa30c9c11b150bceaadf0bdac86022105e77399f" crc="a9e989a8" />
+    <rom name="Lawnmower (World) (v1.1) (Aftermarket) (Unl).lyx" size="262144" sha1="f355c66ff0574d00547df19971962048eeacfb59" crc="3e472554" />
+  </game>
+  <game name="01 - Games/Lemmings">
+    <rom name="Lemmings (USA, Europe).lyx" size="262144" sha1="4d430b1aacf207a631f81b2089688b82267d0394" crc="39b9b8cc" />
+  </game>
+  <game name="01 - Games/Lexis">
+    <rom name="Lexis (World) (Aftermarket) (Unl).lnx" size="262208" sha1="7abcbe820466aceb26a64e28167bce7d9c5ca22b" crc="401210cc" />
+  </game>
+  <game name="01 - Games/Lode Runner/~Prototypes and Betas">
+    <rom name="Lode Runner (World) (Proto 1) (Aftermarket) (Unl).lnx" size="262208" sha1="ef4e57abdcfa99897127a68cbd9be4ff8e13c714" crc="4c138261" />
+    <rom name="Lode Runner (World) (Proto 2) (Aftermarket) (Unl).lyx" size="262144" sha1="700e95602fae8439aa992238a8218360b0e5175f" crc="ae5ac8a9" />
+  </game>
+  <game name="01 - Games/Loopz">
+    <rom name="Loopz (World) (v0.7) (Aftermarket) (Unl).lnx" size="262208" sha1="68cb5483883073eede598011e8568d84ba9b7c25" crc="c00f6393" />
+  </game>
+  <game name="01 - Games/Loopz/~Prototypes and Betas">
+    <rom name="Loopz (USA) (v0.04) (Proto) (1992-09-16).lyx" size="262144" sha1="f9e2ece48ed2eab61743836922fa8805c3332b89" crc="d2b07d4d" />
+    <rom name="Loopz (USA) (v0.06) (Proto) (1992-11-05).lyx" size="262144" sha1="b43b0841a5d315d8e515ceaece29875ba6f9afbb" crc="b1c25ef1" />
+  </game>
+  <game name="01 - Games/Lynx Casino">
+    <rom name="Lynx Casino (USA, Europe).lyx" size="262144" sha1="4b82a9bc02330c9213c2bbd74d547d520c4e6fa3" crc="1091a268" />
+  </game>
+  <game name="01 - Games/Lynx Ops/~Prototypes and Betas">
+    <rom name="Lynx Ops (World) (v0.1) (Proto) (Aftermarket) (Unl).lnx" size="34494" sha1="c6c98c5ea191a707eb9dae8b1fe1798dd015d6bc" crc="ea0f0b7f" />
+    <rom name="Lynx Ops (World) (v0.1) (Proto) (Aftermarket) (Unl).lyx" size="262144" sha1="362e38cc14fb1173ce2ac32120a0d70d7860e3e1" crc="4764673c" />
+    <rom name="Lynx Ops (World) (v0.2) (Proto) (Aftermarket) (Unl).lnx" size="37453" sha1="ed6dd7a6f7ef5386c3eb29b2e4e04492b1cb19b6" crc="bd7216bc" />
+    <rom name="Lynx Ops (World) (v0.2) (Proto) (Aftermarket) (Unl).lyx" size="262144" sha1="1f393ea2c21ef3b39c581158e10ea8a826bd0838" crc="a9f5ee4d" />
+  </game>
+  <game name="01 - Games/Lynx Othello">
+    <rom name="Lynx Othello (World) (Aftermarket) (Unl).lnx" size="524352" sha1="3b5259b0669c10e177870d02e2fbd80fe12ad1b6" crc="7ee610f6" />
+  </game>
+  <game name="01 - Games/Lynx Quest">
+    <rom name="Lynx Quest (World) (v1.00) (Atari Lynx 30th Birthday) (Aftermarket) (Unl).lnx" size="524352" sha1="1f0cd1eedac3f7150b265421e1d73b550b36694d" crc="6eaf7608" />
+    <rom name="Lynx Quest (World) (v1.04) (Aftermarket) (Unl).lnx" size="524352" sha1="e0e7aa6791d84c5af9d873cb559f9484eb30d436" crc="03bea8f8" />
+  </game>
+  <game name="01 - Games/Lynx Tris">
+    <rom name="Lynx Tris (World) (Aftermarket) (Unl).lnx" size="262208" sha1="46f2862113b5b1a3a14513adf03bb5624e2e4fd9" crc="c928ce0a" />
+  </game>
+  <game name="01 - Games/Lynx Tris/~Prototypes and Betas">
+    <rom name="Lynx Tris (World) (Beta) (Aftermarket) (Unl).lnx" size="262208" sha1="16eb3ba36c24ed292efb1af5287f336b58def8f9" crc="189f96a1" />
+  </game>
+  <game name="01 - Games/Malibu Bikini Volleyball">
+    <rom name="Malibu Bikini Volleyball (USA, Europe).lyx" size="262144" sha1="9c3d8037d347c0ff23d941eff8b575a4f2f051da" crc="aba6da3d" />
+    <rom name="Malibu Bikini Volleyball (World) (Atari Lynx Collection 1) (Unl).lnx" size="262208" sha1="54782dbe5a1923be588bce6a0f35049345eec1b4" crc="2ff89d87" />
+  </game>
+  <game name="01 - Games/Malibu Bikini Volleyball/~Prototypes and Betas">
+    <rom name="Malibu Bikini Volleyball (USA, Europe) (Beta) (1993-05-11).lyx" size="262144" sha1="452f9a150efe77205cd0162264fc4ad3def7526c" crc="4329084a" />
+  </game>
+  <game name="01 - Games/Marble Madness">
+    <rom name="Marble Madness (World) (Aftermarket) (Unl).lnx" size="262208" sha1="006147cb3b3c4e4551fd18266899ef308814f2ce" crc="86acf2b7" />
+  </game>
+  <game name="01 - Games/Marble Madness/~Prototypes and Betas">
+    <rom name="Marble Madness (World) (Beta) (Aftermarket) (Unl).lnx" size="262208" sha1="8ab71d5fb2fa7955e254caf2d959c480ba8b10d9" crc="73979812" />
+  </game>
+  <game name="01 - Games/Marlboro Go!/~Prototypes and Betas">
+    <rom name="Marlboro Go! (Europe) (Proto 1).lyx" size="262144" sha1="d3fc3ff1843c3ad431ad053ade9dbbe4a8f34822" crc="b17a36ad" />
+    <rom name="Marlboro Go! (Europe) (Proto 2).lyx" size="262144" sha1="26b18b706359b093d0b1bbca4dba9cd2d73e0372" crc="c3fa0d4d" />
+  </game>
+  <game name="01 - Games/MegaPak Vol.1">
+    <rom name="MegaPak Vol.1 (World) (Aftermarket) (Unl).lnx" size="262208" sha1="5cc9a1211770e6ee119799c1c958f7f33720c4f6" crc="14c4fce0" />
+  </game>
+  <game name="01 - Games/Merlain's Quest">
+    <rom name="Yastuna Volume 1 - The Alchemy of Cubes (World) (v1.00) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="2c311788def1e4ec7d5adc64e2fbb44c851861e8" crc="a87ed55e" />
+    <rom name="Yastuna Volume 1 - The Alchemy of Cubes (World) (v1.01) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="edf7c73f04586a31cbcad856e166eb4d55e76373" crc="62793fe8" />
+  </game>
+  <game name="01 - Games/Microvaders/~Prototypes and Betas">
+    <rom name="Microvaders (World) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="8cddfc928253012df4227b9949fbd27e699d7169" crc="839050f3" />
+  </game>
+  <game name="01 - Games/Minimal/~Prototypes and Betas">
+    <rom name="Minimal (World) (Proto) (Aftermarket) (Unl).lnx" size="80244" sha1="01ad56d41bfe37373233ef029638ef84c11517cb" crc="9c975b37" />
+    <rom name="Minimal (World) (Proto) (Aftermarket) (Unl).lyx" size="262144" sha1="115a0d8254b9a0c0a557744cede7180587d2c2ac" crc="e6fc3fcd" />
+  </game>
+  <game name="01 - Games/Missile Command (Super Asteroids combo port)">
+    <rom name="Super Asteroids, Missile Command (USA, Europe).lyx" size="131072" sha1="d15c7382346cae6296e83ef494a8aec3adaf949c" crc="2da7e2a8" />
+  </game>
+  <game name="01 - Games/Monster Demolition/~Prototypes and Betas">
+    <rom name="Monster Demolition (USA) (Proto).lyx" size="131072" sha1="de338227a7fea301da3ee7d83622aa4440f5243b" crc="15aaaf83" />
+  </game>
+  <game name="01 - Games/Moon Runner/~Prototypes and Betas">
+    <rom name="Moon Runner (World) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="53832cfb5ba9ea1fe87abe0b4543fca090dd97f1" crc="0f4ee425" />
+  </game>
+  <game name="01 - Games/Mortal Kombat">
+    <rom name="Mortal Kombat (World) (Aftermarket) (Unl).lnx" size="524352" sha1="99780fa99305811e068273011cb20b14c4b5a1d5" crc="695d4e70" />
+  </game>
+  <game name="01 - Games/Ms. Pac-Man">
+    <rom name="Ms. Pac-Man (World).lyx" size="131072" sha1="ff644034cd840f8c13b643c44ec2c685290e0326" crc="7de3783a" />
+  </game>
+  <game name="01 - Games/MultiPong 1k">
+    <rom name="MultiPong 1k (World) (Aftermarket) (Unl).lnx" size="131136" sha1="b6f7f0755de1909cd609e08569bf363757260b50" crc="310a4660" />
+    <rom name="MultiPong 1k (World) (Aftermarket) (Unl).lyx" size="262144" sha1="4a51992f1524d1a938d12fa0b26201ec9c49e8fe" crc="eb8ff024" />
+  </game>
+  <game name="01 - Games/NFL Football">
+    <rom name="NFL Football (USA, Europe).lyx" size="262144" sha1="caea445bddcf75bcbe13920718279220d1acb869" crc="006fd398" />
+  </game>
+  <game name="01 - Games/Nezumi-kun to Poker Shiyouyo">
+    <rom name="Nezumi-kun to Poker Shiyouyo (World) (Ja) (v1.0) (Aftermarket) (Unl).lnx" size="262208" sha1="20e3dbc73db4e54f48357e0419112596b58c06d4" crc="4b7c8764" />
+    <rom name="Nezumi-kun to Poker Shiyouyo (World) (Ja) (v1.1) (Aftermarket) (Unl).lnx" size="262208" sha1="806a1d6b65ecd4114e51a4fd8eabbb59d70c9a07" crc="8ad51f79" />
+    <rom name="Nezumi-kun to Poker Shiyouyo (World) (Ja) (v1.2) (Aftermarket) (Unl).lnx" size="262208" sha1="2d760edf1316b8d7d79d798ad086fe9b2ce5004a" crc="15e9275a" />
+  </game>
+  <game name="01 - Games/Ninja Gaiden III - The Ancient Ship of Doom">
+    <rom name="Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe).lyx" size="524288" sha1="37861cc3025d9addbace8d07c8f65961cba29eaa" crc="f3e3f811" />
+  </game>
+  <game name="01 - Games/Ninja Gaiden">
+    <rom name="Ninja Gaiden (USA, Europe).lyx" size="262144" sha1="a40b5dabff9c2f6114fdbc587c72312704d7fabb" crc="22d47d51" />
+  </game>
+  <game name="01 - Games/Nutmeg">
+    <rom name="Nutmeg (World) (Aftermarket) (Unl).lnx" size="191899" sha1="c7f36dc10bd0382eb3281a58e18f9937030b9efd" crc="4ef25ea7" />
+    <rom name="Nutmeg (World) (Aftermarket) (Unl).lyx" size="262144" sha1="ab0feb759da1f05d58729e8093dfc290272067a8" crc="206b2e55" />
+  </game>
+  <game name="01 - Games/On Duty">
+    <rom name="On Duty (World) (Aftermarket) (Unl).lnx" size="257056" sha1="39f0f8e7b4e9116536c3e22746cb8e4c580588c1" crc="a9e2c538" />
+    <rom name="On Duty (World) (Aftermarket) (Unl).lyx" size="262144" sha1="800921ac4c5fc8417a42623fc43d2f14fda59b2e" crc="d51b08da" />
+  </game>
+  <game name="01 - Games/On Duty/~Prototypes and Betas">
+    <rom name="On Duty (World) (Beta) (Aftermarket) (Unl).lnx" size="262208" sha1="2baba3187ebdd26ae1cfed53bdb0886c0e3f1e92" crc="f55d0e3d" />
+  </game>
+  <game name="01 - Games/Othello">
+    <rom name="Othello (World) (Aftermarket) (Unl).lnx" size="25244" sha1="d93f151eb622259663b04afea42cd66e8600cb0e" crc="baf58af1" />
+    <rom name="Othello (World) (Aftermarket) (Unl).lyx" size="262144" sha1="e760a5b230204aa706e214a141185ef8c1b08031" crc="294065df" />
+  </game>
+  <game name="01 - Games/Oxymore/~Prototypes and Betas">
+    <rom name="Oxymore (World) (Proto) (Aftermarket) (Unl).lnx" size="131136" sha1="a295fb9786c61ca6102f7424c833c04305ec2f09" crc="4730376d" />
+  </game>
+  <game name="01 - Games/Pac-Land">
+    <rom name="Pac-Land (USA, Europe).lyx" size="131072" sha1="58b57835703e3145a54e1c0ada38c9218bf4cd3d" crc="aa50dd22" />
+  </game>
+  <game name="01 - Games/Pac-Land/~Prototypes and Betas">
+    <rom name="Pac-Land (USA, Europe) (Beta) (1991-05-02).lyx" size="131072" sha1="69be18324f947363ca48ba33f27debebf9dd2e49" crc="ff96df2b" />
+    <rom name="Pac-Land (USA, Europe) (Beta) (1991-05-03).lyx" size="131072" sha1="95074402a47ecfa44c26b1941dd05ca45c6c03cf" crc="3562ec7a" />
+  </game>
+  <game name="01 - Games/Paperboy">
+    <rom name="Paperboy (World).lyx" size="131072" sha1="537bae2c336dc9925f10505d4040965ca7434f5d" crc="4cdfbd57" />
+  </game>
+  <game name="01 - Games/Paperboy/~Prototypes and Betas">
+    <rom name="Paperboy (World) (Beta).lyx" size="262144" sha1="64cb9ceb192c454cbcd98b92c945d18c265e0210" crc="56f6bf14" />
+  </game>
+  <game name="01 - Games/Parafly">
+    <rom name="MegaPak Vol.1 (World) (Aftermarket) (Unl).lnx" size="262208" sha1="5cc9a1211770e6ee119799c1c958f7f33720c4f6" crc="14c4fce0" />
+  </game>
+  <game name="01 - Games/Password (MegaPak Vol.1)">
+    <rom name="MegaPak Vol.1 (World) (Aftermarket) (Unl).lnx" size="262208" sha1="5cc9a1211770e6ee119799c1c958f7f33720c4f6" crc="14c4fce0" />
+  </game>
+  <game name="01 - Games/Peg Solitaire">
+    <rom name="Peg Solitaire (World) (v1.0) (Aftermarket) (Unl).lnx" size="11977" sha1="09ac851d6c05b95d9650004f5ee60a0b3d17fa25" crc="74ec5e19" />
+    <rom name="Peg Solitaire (World) (v1.0) (Aftermarket) (Unl).lyx" size="262144" sha1="e599aaf7ee810235060458a3c0235ca988a4a4e9" crc="75d7da12" />
+    <rom name="Peg Solitaire (World) (v1.1) (Aftermarket) (Unl).lnx" size="37397" sha1="d7fe9d7de50a09e4f971a9b2a3bd03abd76e5a79" crc="c711198c" />
+    <rom name="Peg Solitaire (World) (v1.1) (Aftermarket) (Unl).lyx" size="262144" sha1="3fb04f098a793dd9c305a5dd8ae44df1a8e4ac76" crc="e6800182" />
+    <rom name="Peg Solitaire (World) (v1.2) (256k) (Aftermarket) (Unl).lnx" size="37405" sha1="194301688d88cc3e7c9e97c79524b5ac15cc6f32" crc="df834425" />
+    <rom name="Peg Solitaire (World) (v1.2) (256k) (Aftermarket) (Unl).lyx" size="262144" sha1="ed6e63e97e9dce480c9274062e683e71fa2cf040" crc="3126484c" />
+    <rom name="Peg Solitaire (World) (v1.2) (512k) (Aftermarket) (Unl).lnx" size="39095" sha1="317d0e104d941287189e6242235164db0be29e21" crc="5b6d8fb8" />
+    <rom name="Peg Solitaire (World) (v1.2) (512k) (Aftermarket) (Unl).lyx" size="524288" sha1="2cea231ec38d5065ac400cc2c26016aa00701369" crc="a19b9319" />
+    <rom name="Peg Solitaire (World) (v1.3) (Aftermarket) (Unl).lnx" size="37750" sha1="43e75bbcf3685838471016632e29d2dcdcd7047a" crc="69204da2" />
+    <rom name="Peg Solitaire (World) (v1.3) (Aftermarket) (Unl).lyx" size="524288" sha1="a3deb265f1ca70ecdc31e066350803f6a12ed466" crc="2e71412a" />
+  </game>
+  <game name="01 - Games/Pinball Jam">
+    <rom name="Pinball Jam (USA, Europe).lyx" size="262144" sha1="d9f911dc35a6b70ba38569d47c96da25ffc7f40e" crc="14d38ca7" />
+  </game>
+  <game name="01 - Games/Pit-Fighter">
+    <rom name="Pit-Fighter (USA, Europe).lyx" size="524288" sha1="30f8c7acf41a988578768b251e88b636462752cb" crc="2393135f" />
+  </game>
+  <game name="01 - Games/Pit-Fighter/~Prototypes and Betas">
+    <rom name="Pit-Fighter (USA, Europe) (Beta) (1992-10-13).lyx" size="524288" sha1="457a97a914ad90f11b6fcbe6eda11d29d9d4e016" crc="e7a5a4d0" />
+  </game>
+  <game name="01 - Games/Poachin' Jeff/~Prototypes and Betas">
+    <rom name="Poachin' Jeff (World) (Proto) (Aftermarket) (Unl).lnx" size="38271" sha1="837333e714f33f4755fdf246eeb49bfe71fec2af" crc="e7b36bbb" />
+    <rom name="Poachin' Jeff (World) (Proto) (Aftermarket) (Unl).lyx" size="262144" sha1="7e682643a083e687c6020b7bdf0eb5b29d4a5cc0" crc="d711ff77" />
+  </game>
+  <game name="01 - Games/Poker/~Prototypes and Betas">
+    <rom name="Poker (Europe) (Fr) (Proto).lyx" size="131072" sha1="2f15242d1d144ec8970b6700630932def0e4203a" crc="c45bcd62" />
+  </game>
+  <game name="01 - Games/Police Force (Pinball Jam)">
+    <rom name="Pinball Jam (USA, Europe).lyx" size="262144" sha1="d9f911dc35a6b70ba38569d47c96da25ffc7f40e" crc="14d38ca7" />
+  </game>
+  <game name="01 - Games/Pong-4-Fun/~Prototypes and Betas">
+    <rom name="Pong-4-Fun (World) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="bb775b1460c25811956a53a3aaa39ab1d52490a6" crc="0789649f" />
+  </game>
+  <game name="01 - Games/Ponx">
+    <rom name="Ponx (World) (Aftermarket) (Unl).lyx" size="131072" sha1="25465134779238ac23a9d6858bd1ea171f471a66" crc="bb27e6f0" />
+  </game>
+  <game name="01 - Games/Pounce!/~Prototypes and Betas">
+    <rom name="Pounce! (USA) (Proto).lyx" size="262144" sha1="77649c82e5aad890676700025976bcba0c1eff09" crc="5d1abfe7" />
+  </game>
+  <game name="01 - Games/Power Factor">
+    <rom name="Power Factor (USA, Europe).lyx" size="262144" sha1="1ad5386f43f60d848a40ee1237e5bd153faea23f" crc="99c42034" />
+    <rom name="Power Factor (World) (Atari Lynx Collection 1) (Unl).lnx" size="262208" sha1="2006d1e0ec4277794917714a944e359cc7fe83de" crc="ef013e39" />
+  </game>
+  <game name="01 - Games/Push (Yastuna)">
+    <rom name="Yastuna Volume 1 - The Alchemy of Cubes (World) (v1.00) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="2c311788def1e4ec7d5adc64e2fbb44c851861e8" crc="a87ed55e" />
+    <rom name="Yastuna Volume 1 - The Alchemy of Cubes (World) (v1.01) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="edf7c73f04586a31cbcad856e166eb4d55e76373" crc="62793fe8" />
+  </game>
+  <game name="01 - Games/Puzzler 2000/~Prototypes and Betas">
+    <rom name="Puzzler 2000 (World) (Proto) (Unl).lnx" size="262208" sha1="0804caa4e15bcde2a51b475103787539c2578d0a" crc="d7241881" />
+  </game>
+  <game name="01 - Games/QIX">
+    <rom name="QIX (USA, Europe).lyx" size="131072" sha1="30b8369ea396347d4847990691d880c313aacae7" crc="b9881423" />
+  </game>
+  <game name="01 - Games/Quantum Invasion">
+    <rom name="Quantum Invasion (World) (LynxJam 2024) (Aftermarket) (Unl).lnx" size="28546" sha1="4ea9462fb23f28869dedeebb4bd55b0742621a62" crc="d4536045" />
+    <rom name="Quantum Invasion (World) (LynxJam 2024) (Aftermarket) (Unl).lyx" size="262144" sha1="85df2737808e07ced32f2f084400a97c5821a542" crc="79b0ca08" />
+  </game>
+  <game name="01 - Games/Raid on TriCity">
+    <rom name="Raid on TriCity - First Impact (World) (v1.01) (Aftermarket) (Unl).lnx" size="262208" sha1="fd13ea2180d5f41f685e45ff5e60fcad3dab3a89" crc="351e0206" />
+    <rom name="Raid on TriCity - Second Wave (World) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="d907e2f973ec7f35e0aeb3ed83a0bdb1c0ac6b76" crc="31c972e3" />
+  </game>
+  <game name="01 - Games/Raid on TriCity/~Prototypes and Betas">
+    <rom name="Raid on TriCity (World) (Beta) (Aftermarket) (Unl).lnx" size="262208" sha1="556c8f5aafe3d1b90abf2323763f987ab3580e65" crc="cc318741" />
+    <rom name="Tetris Raiden (World) (Beta) (Aftermarket) (Unl).lnx" size="262208" sha1="73bd239ee93c8a2bcdecd5baad654441cef86460" crc="e319e429" />
+  </game>
+  <game name="01 - Games/Raiden">
+    <rom name="Raiden (World) (Aftermarket) (Unl).lnx" size="524352" sha1="5a22b08214e2855607df156bbc3a0d466dac9d88" crc="c0208caa" />
+  </game>
+  <game name="01 - Games/Raiden/~Prototypes and Betas">
+    <rom name="Raiden (USA) (Beta).lnx" size="262208" sha1="469aa2d72959de155466e84cc284a06609389a2d" crc="d62fe6bf" />
+  </game>
+  <game name="01 - Games/Rainbow/~Prototypes and Betas">
+    <rom name="Rainbow (World) (Proto) (Aftermarket) (Unl).lnx" size="48873" sha1="788dc0ea9db36f449e6ad885e21924a8cbaf6812" crc="d63b9ae4" />
+    <rom name="Rainbow (World) (Proto) (Aftermarket) (Unl).lyx" size="262144" sha1="12ffa24f3c2cd2d3fa7eb4f41d7e5b694a23ce5c" crc="589b1dd1" />
+  </game>
+  <game name="01 - Games/Rampage">
+    <rom name="Rampage (World).lyx" size="262144" sha1="771dbf246386da37670324d34066671f3f43ac0e" crc="b10b7c8e" />
+  </game>
+  <game name="01 - Games/Rampage/~Prototypes and Betas">
+    <rom name="Rampage (World) (Beta).lyx" size="131072" sha1="669222821b28fd835fa6ccdd87cd44d507aa1a24" crc="17f4ee6b" />
+  </game>
+  <game name="01 - Games/Rampart">
+    <rom name="Rampart (USA, Europe).lyx" size="262144" sha1="3c3a0729bb4ddecf5e5fd2d9ced4671d2e0e702e" crc="139f301d" />
+  </game>
+  <game name="01 - Games/Red Square">
+    <rom name="Red Square (World) (v1.0) (Aftermarket) (Unl).lnx" size="262208" sha1="d828d94d1a7951df357db187a74b5bc740548033" crc="e5dc92cc" />
+    <rom name="Red Square (World) (v1.1) (Aftermarket) (Unl).lnx" size="262208" sha1="b27ad508d196f9f4a7ac6f1832d644f7bd42f800" crc="3c35737f" />
+  </game>
+  <game name="01 - Games/Remnant - Planar Wars">
+    <rom name="Remnant - Planar Wars (World) (Aftermarket) (Unl).lnx" size="262208" sha1="c8693e6c59de8464eeba91cda260924643b1aac4" crc="79f22877" />
+  </game>
+  <game name="01 - Games/Remnant - Planar Wars/~Prototypes and Betas">
+    <rom name="Remnant - Planar Wars (World) (2000-05-24) (Beta) (Aftermarket) (Unl).lnx" size="262208" sha1="c25a9dc80aad5fffa0b2ad9ea0f58446654c612d" crc="d0ab56df" />
+  </game>
+  <game name="01 - Games/Road Riot 4WD/~Prototypes and Betas">
+    <rom name="Road Riot 4WD (USA) (Proto 1).lyx" size="262144" sha1="9a6b92eeca38c5333b1025730055190fe3be4b64" crc="bfecefc3" />
+    <rom name="Road Riot 4WD (USA) (Proto 2).lyx" size="262144" sha1="f6d94f7de242d20260985b30a252b24e7cf3884c" crc="eccea0d5" />
+    <rom name="Road Riot 4WD (USA) (Proto 3).lyx" size="262144" sha1="6b83802cc058066d0c3776e52e6944bf18035fd0" crc="82555eeb" />
+    <rom name="Road Riot 4WD (USA) (Proto 4).lyx" size="262144" sha1="63978dfd86782acc101266d7bab8677e32d7ea8f" crc="69959a3b" />
+  </game>
+  <game name="01 - Games/RoadBlasters">
+    <rom name="RoadBlasters (World).lyx" size="262144" sha1="20233381f12a48bc61b2c4b7a8f602a2c8ebc8ba" crc="6867e80c" />
+  </game>
+  <game name="01 - Games/RoadBlasters/~Prototypes and Betas">
+    <rom name="RoadBlasters (World) (Beta).lyx" size="262144" sha1="dc455a1dddee808d060792abaf2a990395fae382" crc="1857ebd1" />
+  </game>
+  <game name="01 - Games/Robo Escape">
+    <rom name="Robo Escape (World) (LynxJam 2024) (Aftermarket) (Unl).lnx" size="35408" sha1="9df01e6463574975681ef81bae81c2cff614c59a" crc="88b85b15" />
+    <rom name="Robo Escape (World) (LynxJam 2024) (Aftermarket) (Unl).lyx" size="262144" sha1="85a581f133880d0e536e76d401fbd3a0da60aab7" crc="106b1d73" />
+  </game>
+  <game name="01 - Games/Robo Reacher">
+    <rom name="Robo Reacher (World) (v2.0) (Aftermarket) (Unl).lnx" size="40195" sha1="bd63131a930e0a145e4ad6b03e017017cfaedc2c" crc="4bee848e" />
+    <rom name="Robo Reacher (World) (v2.0) (Aftermarket) (Unl).lyx" size="262144" sha1="51763494c7c803a487dfe0cffef0665a08b66356" crc="3f5491df" />
+  </game>
+  <game name="01 - Games/Robo-Squash">
+    <rom name="Robo-Squash (World).lyx" size="131072" sha1="144e4aa67babc8f3e24c5547f8664c3c6cff8601" crc="d1dff2b2" />
+  </game>
+  <game name="01 - Games/Robo-Squash/~Prototypes and Betas">
+    <rom name="3D Barrage (World) (Beta).lyx" size="131072" sha1="3758ecbb6ac21fcc2792d0377a58f7e128a59b9a" crc="a90d3629" />
+  </game>
+  <game name="01 - Games/Robotron 2084">
+    <rom name="Robotron 2084 (USA, Europe).lyx" size="131072" sha1="04048aa47c0ff99647608d4d1ccf48ba881a0f89" crc="7a6049b5" />
+  </game>
+  <game name="01 - Games/Robotron 2084/~Prototypes and Betas">
+    <rom name="Robotron 2084 (USA, Europe) (Beta).lnx" size="131136" sha1="7554117d3e4dac4c9751b66aeab3e7d9b416093c" crc="1ddc4d0f" />
+  </game>
+  <game name="01 - Games/Rolling Thunder/~Prototypes and Betas">
+    <rom name="Rolling Thunder (USA) (Proto).lyx" size="262144" sha1="3a9ce2f7ef7889a993c9a8690d66e651b2a118d4" crc="467f8fd9" />
+  </game>
+  <game name="01 - Games/Roulette (Lynx Casino)">
+    <rom name="Lynx Casino (USA, Europe).lyx" size="262144" sha1="4b82a9bc02330c9213c2bbd74d547d520c4e6fa3" crc="1091a268" />
+  </game>
+  <game name="01 - Games/Running Knight">
+    <rom name="Running Knight (World) (Aftermarket) (Unl).lnx" size="28377" sha1="fe6c1092f27d921795d62188ccc5214b387cadcd" crc="b1f2c993" />
+    <rom name="Running Knight (World) (Aftermarket) (Unl).lyx" size="262144" sha1="4899a2ebca41e57e8126805c5f4e504e9b6d554b" crc="86a4604b" />
+  </game>
+  <game name="01 - Games/Rygar">
+    <rom name="Rygar (World).lyx" size="262144" sha1="8743769af583af681fd1d96aadb533d26b1b510d" crc="67e5bdba" />
+  </game>
+  <game name="01 - Games/Rygar/~Prototypes and Betas">
+    <rom name="Rygar (World) (Beta).lyx" size="131072" sha1="7b697f2061e0f498b8263a8eef71e3289ddccb1e" crc="24b14a88" />
+  </game>
+  <game name="01 - Games/S.T.U.N. Runner">
+    <rom name="S.T.U.N. Runner (USA, Europe).lyx" size="262144" sha1="aa570dbbf4682da3297286fc69617c3c9aca2f18" crc="8595c40b" />
+  </game>
+  <game name="01 - Games/Santa Factory">
+    <rom name="Santa Factory (World) (Aftermarket) (Unl).lnx" size="28590" sha1="4acf70ba5aa6b95ec422d476eeb7f9f43a7edfa3" crc="6b2818de" />
+    <rom name="Santa Factory (World) (Aftermarket) (Unl).lyx" size="262144" sha1="41f1fc12d4eb79a222c30ebf6850b470f7a40776" crc="23a6c3fa" />
+  </game>
+  <game name="01 - Games/Santa's Empty Sack">
+    <rom name="Santa's Empty Sack (World) (Aftermarket) (Unl).lnx" size="16895" sha1="397eff7c6a7c1b02a59e03ab0f985b8da9c4d4e8" crc="21042556" />
+    <rom name="Santa's Empty Sack (World) (Aftermarket) (Unl).lyx" size="262144" sha1="e12373d87a0e44c9037c39c5c0b06186657af0c3" crc="6f412521" />
+  </game>
+  <game name="01 - Games/Saving Santa Tree">
+    <rom name="Saving Santa Tree (World) (Aftermarket) (Unl).lnx" size="32768" sha1="04cc0e3b65d9f37664f02d9ecc18b698ed33bdfb" crc="3875444f" />
+    <rom name="Saving Santa Tree (World) (Aftermarket) (Unl).lyx" size="262144" sha1="7e0819afc0e728836786dcc31fe7d519fa7934a1" crc="e1620994" />
+  </game>
+  <game name="01 - Games/Scrapyard Dog">
+    <rom name="Scrapyard Dog (USA, Europe).lyx" size="262144" sha1="df57cd7f119fa6af8f9b24942f0f12314b301075" crc="be166f3b" />
+  </game>
+  <game name="01 - Games/Scrapyard Dog/~Prototypes and Betas">
+    <rom name="Scrapyard Dog (USA, Europe) (Beta) (1991-07-03).lyx" size="262144" sha1="1da1b04398da444ce63e12f8b1c9d7fceb14f6da" crc="0433391a" />
+  </game>
+  <game name="01 - Games/Scroll of theTime Lords - Lovejoy Prologue">
+    <rom name="Scroll of theTime Lords - Lovejoy Prologue (World) (Aftermarket) (Unl).lnx" size="228124" sha1="4d9122e601746db075403033a5faff778bc5dfcf" crc="665e4156" />
+    <rom name="Scroll of theTime Lords - Lovejoy Prologue (World) (Aftermarket) (Unl).lyx" size="262144" sha1="693bc93dc15682f1b78cb27dcecfcda7161f5440" crc="3abc850b" />
+  </game>
+  <game name="01 - Games/Shadow of the Beast">
+    <rom name="Shadow of the Beast (USA, Europe).lyx" size="262144" sha1="8b891b5dafba71740294c8dc818717d3b00be3a5" crc="eb78baa3" />
+  </game>
+  <game name="01 - Games/Shaken, Not Stirred">
+    <rom name="Shaken, Not Stirred (World) (v1.0) (Aftermarket) (Unl).lnx" size="262208" sha1="1ab9ea5ae6a45a7fc00957a3f716b9f79149e3ba" crc="42918b2f" />
+    <rom name="Shaken, Not Stirred (World) (v1.1) (Aftermarket) (Unl).lnx" size="262208" sha1="e1201391bad6610741b7c07a1b0da80435b89c65" crc="6afacbcb" />
+    <rom name="Shaken, Not Stirred (World) (v1.2) (Aftermarket) (Unl).lnx" size="262208" sha1="75a067241868a8ddb56867dd640d83c27b76791e" crc="d3c6d4a3" />
+    <rom name="Shaken, Not Stirred (World) (v1.3) (Aftermarket) (Unl).lnx" size="262208" sha1="59e9642c9342a354200138f53ae97e0ee09a2507" crc="98a946de" />
+  </game>
+  <game name="01 - Games/Shanghai">
+    <rom name="Shanghai (World).lyx" size="131072" sha1="9e67e05545934a7d375597b0e8c469468c5748a4" crc="192bcd04" />
+  </game>
+  <game name="01 - Games/Shanghai/~Prototypes and Betas">
+    <rom name="Shanghai (World) (Beta) (1990-11-07).lyx" size="131072" sha1="40547ea90a928af2822ed4cc5a9edb6340155b9b" crc="452d2845" />
+  </game>
+  <game name="01 - Games/Shuriken">
+    <rom name="Shuriken (World) (Aftermarket) (Unl).lnx" size="14823" sha1="cea5f0b983447992db225cfbc1a6765a30da54da" crc="b7354614" />
+    <rom name="Shuriken (World) (Aftermarket) (Unl).lyx" size="262144" sha1="bd0352c6b6eb413f463ed0e6f387531e343ef235" crc="0480cf82" />
+  </game>
+  <game name="01 - Games/Silas Adventure">
+    <rom name="Silas Adventure (World) (Aftermarket) (Unl).lnx" size="262208" sha1="b936593cc52a94352ef9be6a4df7717488c19796" crc="91d1c4d0" />
+  </game>
+  <game name="01 - Games/Silly Archery">
+    <rom name="Silly Archery (World) (Aftermarket) (Unl).lnx" size="262208" sha1="d0820e4d71df7c90db42e0685b2fb6b0eb1044c4" crc="a116cffb" />
+  </game>
+  <game name="01 - Games/Silly Blaster">
+    <rom name="Silly Blaster (World) (Aftermarket) (Unl).lnx" size="262208" sha1="c73a6f0a297eaec6efa9f51266fc5ebbf684dfc5" crc="9b53b4dd" />
+  </game>
+  <game name="01 - Games/SillySis">
+    <rom name="SillySis (World) (Aftermarket) (Unl).lnx" size="76306" sha1="aa4b19fcd0573bbf6a3b4adfc21c9229d40faea5" crc="203999c4" />
+    <rom name="SillySis (World) (Aftermarket) (Unl).lyx" size="262144" sha1="61e669b5d0c68a1d240e06fc6494825418390bbe" crc="4ae7ba59" />
+  </game>
+  <game name="01 - Games/Sky Raider Redux">
+    <rom name="Sky Raider Redux (World) (Aftermarket) (Unl).lnx" size="524352" sha1="bed57b6708ace4f63438b49d7a08e2fe4b2a04b3" crc="10382808" />
+  </game>
+  <game name="01 - Games/Slot Machines (Lynx Casino)">
+    <rom name="Lynx Casino (USA, Europe).lyx" size="262144" sha1="4b82a9bc02330c9213c2bbd74d547d520c4e6fa3" crc="1091a268" />
+  </game>
+  <game name="01 - Games/Snake/~Prototypes and Betas">
+    <rom name="Snake (World) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="1b514a9404aa95857034d33903e5baab66f0ad48" crc="6d08c0e5" />
+  </game>
+  <game name="01 - Games/Snow Ball">
+    <rom name="Snow Ball (World) (Aftermarket) (Unl).lnx" size="8994" sha1="b96fe94b91c27462ce3ac9faeabe7b40ca0c1a08" crc="5d20fa36" />
+    <rom name="Snow Ball (World) (Aftermarket) (Unl).lyx" size="262144" sha1="982c8101b613770fce7a3b8edd6c4b58ee887f47" crc="9e43e62b" />
+  </game>
+  <game name="01 - Games/Solitaire">
+    <rom name="Solitaire (World) (2009-08-27) (karri) (Aftermarket) (Unl).lnx" size="262208" sha1="95c8560f2ecb8015a500131584f10b082cf7c38c" crc="41cc8b8f" />
+    <rom name="Solitaire (World) (2009-08-28) (karri) (Aftermarket) (Unl).lnx" size="262208" sha1="0375ef21097df935a870e4c2b96324929d4e4ee4" crc="8e5ceb58" />
+    <rom name="Solitaire (World) (2009-08-31) (karri) (Aftermarket) (Unl).lnx" size="262208" sha1="f1696f9f551903de5f799aca65d55573f613ab75" crc="1619fafc" />
+    <rom name="Solitaire (World) (2009-09-28) (karri) (Aftermarket) (Unl).lnx" size="262208" sha1="ba26c61239c00c030220baeaae564a98612f6f1a" crc="1bb3885c" />
+  </game>
+  <game name="01 - Games/Solitaire/~Prototypes and Betas">
+    <rom name="Cardtest (World) (Beta) (Aftermarket) (Unl).lnx" size="262208" sha1="a4376a181f73710cee262d00ee68b3c828d8e4ba" crc="0f4259b7" />
+    <rom name="Klondike (World) (Beta 1) (Aftermarket) (Unl).lnx" size="111846" sha1="3941fa4448918827668bcee9cf108547cd0a7a72" crc="121557fd" />
+    <rom name="Klondike (World) (Beta 1) (Aftermarket) (Unl).lyx" size="262144" sha1="f3a96b67f6806a2dcb77e23fe97f1ef12245390f" crc="0cb83fec" />
+    <rom name="Klondike (World) (Beta 2) (Aftermarket) (Unl).lnx" size="111820" sha1="e00ea7ca7bfaf285430591c4b7e47cccab0b36cd" crc="ea0eed2f" />
+    <rom name="Klondike (World) (Beta 2) (Aftermarket) (Unl).lyx" size="262144" sha1="d12aa018a232f7eff650e2a2f9c3b8903ffe3337" crc="45822e44" />
+  </game>
+  <game name="01 - Games/Sorrow/~Prototypes and Betas">
+    <rom name="Sorrow (World) (Proto) (Aftermarket) (Unl).lnx" size="31543" sha1="71142449cce1f66878ffbf7e58f6c76719b5305d" crc="9feee298" />
+    <rom name="Sorrow (World) (Proto) (Aftermarket) (Unl).lyx" size="262144" sha1="277283f790ac35aae7a1654d998a1a861b4d104d" crc="8aa245d0" />
+  </game>
+  <game name="01 - Games/Space Dance">
+    <rom name="Yastuna Volume 2 - The Space Incident (World) (v1.00) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="4be4ba20a495c5b865e2512d0194d31185b016c5" crc="658929e1" />
+    <rom name="Yastuna Volume 2 - The Space Incident (World) (v1.01) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="4d73a340629190d15533c8bf6f1fb21a503a0784" crc="2f17af66" />
+  </game>
+  <game name="01 - Games/Space Domino">
+    <rom name="Space Domino (World) (Aftermarket) (Unl).lnx" size="262208" sha1="56a0a2c9aa84a2f0716f2f27927a4957a2574c1a" crc="5dcb5014" />
+    <rom name="Yastuna Volume 2 - The Space Incident (World) (v1.00) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="4be4ba20a495c5b865e2512d0194d31185b016c5" crc="658929e1" />
+    <rom name="Yastuna Volume 2 - The Space Incident (World) (v1.01) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="4d73a340629190d15533c8bf6f1fb21a503a0784" crc="2f17af66" />
+  </game>
+  <game name="01 - Games/Space Lock &amp; Space Shoot/~Prototypes and Betas">
+    <rom name="Space Lock &amp; Space Shoot (World) (2005-04-25) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="93cd5201336be2db57e496f87a2265f27c592f8a" crc="e17a58a3" />
+    <rom name="Space Lock &amp; Space Shoot (World) (2005-05-16) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="9b57d425e0b57d200894ee6b2ef48feab273e913" crc="9e017908" />
+  </game>
+  <game name="01 - Games/Space Lock">
+    <rom name="Yastuna Volume 2 - The Space Incident (World) (v1.00) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="4be4ba20a495c5b865e2512d0194d31185b016c5" crc="658929e1" />
+    <rom name="Yastuna Volume 2 - The Space Incident (World) (v1.01) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="4d73a340629190d15533c8bf6f1fb21a503a0784" crc="2f17af66" />
+  </game>
+  <game name="01 - Games/Space Lock/~Prototypes and Betas">
+    <rom name="Space Lock &amp; Space Shoot (World) (2005-04-25) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="93cd5201336be2db57e496f87a2265f27c592f8a" crc="e17a58a3" />
+    <rom name="Space Lock &amp; Space Shoot (World) (2005-05-16) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="9b57d425e0b57d200894ee6b2ef48feab273e913" crc="9e017908" />
+  </game>
+  <game name="01 - Games/Space Shoot">
+    <rom name="Yastuna Volume 2 - The Space Incident (World) (v1.00) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="4be4ba20a495c5b865e2512d0194d31185b016c5" crc="658929e1" />
+    <rom name="Yastuna Volume 2 - The Space Incident (World) (v1.01) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="4d73a340629190d15533c8bf6f1fb21a503a0784" crc="2f17af66" />
+  </game>
+  <game name="01 - Games/Space Shoot/~Prototypes and Betas">
+    <rom name="Space Lock &amp; Space Shoot (World) (2005-04-25) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="93cd5201336be2db57e496f87a2265f27c592f8a" crc="e17a58a3" />
+    <rom name="Space Lock &amp; Space Shoot (World) (2005-05-16) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="9b57d425e0b57d200894ee6b2ef48feab273e913" crc="9e017908" />
+  </game>
+  <game name="01 - Games/Star Blader/~Prototypes and Betas">
+    <rom name="Star Blader (World) (Proto) (Aftermarket) (Unl).lnx" size="204017" sha1="6a77f58847169f8194a4db4ef0d9275ca94f2b12" crc="b2bc2a8e" />
+    <rom name="Star Blader (World) (Proto) (Aftermarket) (Unl).lyx" size="262144" sha1="842376be0f801f1492130f49cddcc221ccb68fd6" crc="9e6b0448" />
+  </game>
+  <game name="01 - Games/Stardreamer/~Prototypes and Betas">
+    <rom name="Stardreamer (World) (Proto) (2003-09-15) (Aftermarket) (Unl).lnx" size="262208" sha1="728027c5b013a93b9abe251191810246fa051524" crc="81d402cd" />
+  </game>
+  <game name="01 - Games/Steel Talons">
+    <rom name="Steel Talons (USA, Europe).lyx" size="262144" sha1="773946365ecf3c862cfa21167750140e4b1adad2" crc="5b2308ed" />
+  </game>
+  <game name="01 - Games/Stinger">
+    <rom name="Stinger (World) (Aftermarket) (Unl).lnx" size="15387" sha1="b25716eeae306660ffb206412d35849c026d80d8" crc="c09dee0f" />
+    <rom name="Stinger (World) (Aftermarket) (Unl).lyx" size="262144" sha1="af5c5fef8a1ae9604812af5c96ccc2532e0b3ce0" crc="ae4be313" />
+  </game>
+  <game name="01 - Games/Sudoku/~Prototypes and Betas">
+    <rom name="Sudoku (World) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="fa02821df545aa416d09b43f880dc9b6b0275dd6" crc="cbb90311" />
+  </game>
+  <game name="01 - Games/Super Asteroids, Missile Command">
+    <rom name="Super Asteroids, Missile Command (USA, Europe).lyx" size="131072" sha1="d15c7382346cae6296e83ef494a8aec3adaf949c" crc="2da7e2a8" />
+  </game>
+  <game name="01 - Games/Super Asteroids">
+    <rom name="Super Asteroids, Missile Command (USA, Europe).lyx" size="131072" sha1="d15c7382346cae6296e83ef494a8aec3adaf949c" crc="2da7e2a8" />
+  </game>
+  <game name="01 - Games/Super Off-Road">
+    <rom name="Super Off-Road (USA, Europe).lyx" size="262144" sha1="9bf10edfedde85467f159afb48d02f1ca43be8f4" crc="690caeb0" />
+  </game>
+  <game name="01 - Games/Super Skweek">
+    <rom name="Super Skweek (USA, Europe).lyx" size="262144" sha1="d6c18bf5e625cbac7434ef0d600ad0da667f24cd" crc="dfa61571" />
+    <rom name="Super Skweek (World) (Atari Lynx Collection 1) (Unl).lnx" size="262208" sha1="2d9ddc4b6394f212afb7b1684adc79f47161a7eb" crc="f0c52c73" />
+  </game>
+  <game name="01 - Games/Swaping Tiles/~Prototypes and Betas">
+    <rom name="Swaping Tiles (World) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="2b246574f5dcfe2238a227be64f645d904f67ea2" crc="f5c2b134" />
+  </game>
+  <game name="01 - Games/Switchblade II">
+    <rom name="Switchblade II (USA, Europe).lyx" size="262144" sha1="256d55e8e9478c53e340321c858df6710a9f69a6" crc="13657705" />
+  </game>
+  <game name="01 - Games/Sybil's Nightmare Run/~Prototypes and Betas">
+    <rom name="Sybil's Nightmare Run (World) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="a487f2430607308b1b47c0b8eff6b8d1efbdb89d" crc="b1fb283f" />
+  </game>
+  <game name="01 - Games/T-Tris">
+    <rom name="T-Tris (World) (Pirate) (Alt).lnx" size="262208" sha1="da55e0b4f1312dc95c9ee2c99f7139a6d3b5f306" crc="86099145" />
+    <rom name="T-Tris (World) (Pirate).lnx" size="262208" sha1="de0186250918daf76125d50ba2f3fc8f2f309110" crc="f4d80d0b" />
+  </game>
+  <game name="01 - Games/Teen Dance">
+    <rom name="Teen Dance (World) (Aftermarket) (Unl).lnx" size="262208" sha1="9b0c515dd4d70af9f4e497dcf519c5bef2d064d7" crc="84b121b8" />
+  </game>
+  <game name="01 - Games/Tetrisnoid">
+    <rom name="Yastuna Volume 1 - The Alchemy of Cubes (World) (v1.00) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="2c311788def1e4ec7d5adc64e2fbb44c851861e8" crc="a87ed55e" />
+    <rom name="Yastuna Volume 1 - The Alchemy of Cubes (World) (v1.01) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="edf7c73f04586a31cbcad856e166eb4d55e76373" crc="62793fe8" />
+  </game>
+  <game name="01 - Games/Tetrisnoid/~Prototypes and Betas">
+    <rom name="Tetrisnoid (World) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="9b391accb940dd48bd45aabfb9e6a9b7f01d392c" crc="f7006643" />
+  </game>
+  <game name="01 - Games/Timeloop">
+    <rom name="Timeloop (World) (Aftermarket) (Unl).lnx" size="262208" sha1="7c30f02e6a908b1c93e8251e0ed3f96234ebe72f" crc="5508e5f5" />
+    <rom name="Timeloop (World) (Aftermarket) (Unl).lyx" size="262144" sha1="558b370f46f63f1c31cc3f7631a70823a5a95035" crc="b8443cf3" />
+  </game>
+  <game name="01 - Games/Tiny Lynx Adventure">
+    <rom name="Tiny Lynx Adventure (World) (Aftermarket) (Unl).lnx" size="10833" sha1="e02cbde3151c2b3f859e9474379de155c1b751cc" crc="42e4c839" />
+    <rom name="Tiny Lynx Adventure (World) (Aftermarket) (Unl).lyx" size="262144" sha1="60348467382dc7b664e84c55bf6753b5dd9a5631" crc="a0a0facb" />
+  </game>
+  <game name="01 - Games/Tipover (Yastuna)">
+    <rom name="Yastuna Volume 1 - The Alchemy of Cubes (World) (v1.00) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="2c311788def1e4ec7d5adc64e2fbb44c851861e8" crc="a87ed55e" />
+    <rom name="Yastuna Volume 1 - The Alchemy of Cubes (World) (v1.01) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="edf7c73f04586a31cbcad856e166eb4d55e76373" crc="62793fe8" />
+  </game>
+  <game name="01 - Games/Titan/~Prototypes and Betas">
+    <rom name="Titan (World) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="5c08fc535299ae274f20a8c3e8e479769b8ad179" crc="f3b3a70b" />
+  </game>
+  <game name="01 - Games/Todd's Adventures in Slime World">
+    <rom name="Todd's Adventures in Slime World (World).lyx" size="131072" sha1="2b9c665456d17726ea57fd06ce2754a14382dc99" crc="ae267e29" />
+  </game>
+  <game name="01 - Games/Toki">
+    <rom name="Toki (USA, Europe).lyx" size="262144" sha1="242fee76ea2ae263511df5d8bd3f7b0ddc81757d" crc="156a4a4c" />
+  </game>
+  <game name="01 - Games/Tournament Cyberball">
+    <rom name="Tournament Cyberball (USA, Europe).lyx" size="262144" sha1="e63cc54e34840a4e3c1aa5bbce4e406895e44534" crc="0590a9e3" />
+  </game>
+  <game name="01 - Games/Town Patrol/~Prototypes and Betas">
+    <rom name="Town Patrol (World) (v0.3) (Proto) (LynxJam 2024) (Aftermarket) (Unl).lnx" size="37939" sha1="6e3501463cb7b19c813c6dc3bcc78617c1beb124" crc="0320958c" />
+    <rom name="Town Patrol (World) (v0.3) (Proto) (LynxJam 2024) (Aftermarket) (Unl).lyx" size="262144" sha1="a56865337c2235338a5696e6edfe5c518266557c" crc="2d133802" />
+    <rom name="Town Patrol (World) (v0.4) (Proto) (Aftermarket) (Unl).lnx" size="39990" sha1="a3a180ba8001cd1bdbd76394a2d33d7c340f6301" crc="9fbe3f4c" />
+    <rom name="Town Patrol (World) (v0.4) (Proto) (Aftermarket) (Unl).lyx" size="262144" sha1="21ce1363fed503ccc11eed2c91f44d3f49532fed" crc="faeba885" />
+  </game>
+  <game name="01 - Games/Tron-6-Fun/~Prototypes and Betas">
+    <rom name="Tron-6-Fun (World) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="8fbebaa1e5e0073f0f7c3094cf081c9d5ed765cf" crc="9c71a46e" />
+  </game>
+  <game name="01 - Games/Tropsy/~Prototypes and Betas">
+    <rom name="Tropsy (World) (Proto) (Aftermarket) (Unl).lnx" size="131136" sha1="e59fbdd7f61e7f6ea14019d395f4d8aa28274eef" crc="4a0e00b1" />
+  </game>
+  <game name="01 - Games/Turbo Sub">
+    <rom name="Turbo Sub (USA, Europe).lyx" size="131072" sha1="1186b3216830c5bbeac6b39aab1039eef27f0785" crc="a4b924d6" />
+  </game>
+  <game name="01 - Games/Twitter Panic/~Prototypes and Betas">
+    <rom name="Twitter Panic (World) (Proto) (Aftermarket) (Unl).lnx" size="262208" sha1="8069e9e80a843ea90e04d326855d2d60da761c3b" crc="3a64f8fd" />
+  </game>
+  <game name="01 - Games/Unnamed">
+    <rom name="Unnamed (World) (Aftermarket) (Unl).lnx" size="524352" sha1="d1ac6247f42e8a1fa8db47c68cff9c7d110a11d7" crc="1a452edd" />
+  </game>
+  <game name="01 - Games/Verbix">
+    <rom name="Verbix (World) (Aftermarket) (Unl).lnx" size="16307" sha1="861805803e4e1ca5b3ae17642d76ff26b1a4276e" crc="616146d6" />
+    <rom name="Verbix (World) (Aftermarket) (Unl).lyx" size="262144" sha1="fd8f99f96a88c9cc9f6492f6be88f20f5fbeb2ec" crc="4aa8cd45" />
+  </game>
+  <game name="01 - Games/Video Poker (Lynx Casino)">
+    <rom name="Lynx Casino (USA, Europe).lyx" size="262144" sha1="4b82a9bc02330c9213c2bbd74d547d520c4e6fa3" crc="1091a268" />
+  </game>
+  <game name="01 - Games/Viking Child">
+    <rom name="Viking Child (USA, Europe).lyx" size="262144" sha1="47c32e4d816dde797b6bba2019f2e296bdad02dd" crc="8d56828b" />
+  </game>
+  <game name="01 - Games/Vikings Saga - Protect the Love">
+    <rom name="Vikings Saga - Save the Love (World) (Aftermarket) (Unl).lnx" size="524352" sha1="593bc6db049993d78caaf16953b8f486bf342356" crc="443648d1" />
+  </game>
+  <game name="01 - Games/Vikings Saga - Save the Love">
+    <rom name="Vikings Saga - Protect the Love (World) (Aftermarket) (Unl).lnx" size="524352" sha1="05fd9dda9836099c2e014f9659981843754f7f13" crc="0c361922" />
+  </game>
+  <game name="01 - Games/Vindicators/~Prototypes and Betas">
+    <rom name="Vindicators (USA) (Proto 1).lyx" size="131072" sha1="750014090b3a74b1d65c7706097ed5268f6fa331" crc="6e084b3a" />
+    <rom name="Vindicators (USA) (Proto 2).lyx" size="131072" sha1="256719372705a0b4d743ce5be9cd1d9398ef7c66" crc="1b62e7cd" />
+  </game>
+  <game name="01 - Games/Warbirds">
+    <rom name="Warbirds (USA, Europe).lyx" size="131072" sha1="2c376581ac20fb5de8538b51820e1f007cca8260" crc="b946ba49" />
+  </game>
+  <game name="01 - Games/Wizzy/~Prototypes and Betas">
+    <rom name="Wizzy (World) (Proto) (Aftermarket) (Unl).lnx" size="296473" sha1="913616168a5b0ebd07a8f728801165cf1c0d5452" crc="d4ff02c3" />
+    <rom name="Wizzy (World) (Proto) (Aftermarket) (Unl).lyx" size="524288" sha1="2bca2156dca7eadac1d8918da03dfcd96813ab51" crc="74cea6a3" />
+  </game>
+  <game name="01 - Games/World Class Soccer">
+    <rom name="World Class Soccer (USA, Europe).lyx" size="262144" sha1="40100a0db681b4efca4a491c88bf76a19105336f" crc="91233794" />
+  </game>
+  <game name="01 - Games/Wyvern Tales">
+    <rom name="Wyvern Tales (World) (Aftermarket) (Unl).lnx" size="524352" sha1="c9d51f9a3b3ba04266a3b4f91869732c5b948ea6" crc="d734e3f4" />
+  </game>
+  <game name="01 - Games/Xenophobe">
+    <rom name="Xenophobe (World).lyx" size="131072" sha1="a1b4f7a4697310cafea1271bd4b41eeafae60ffa" crc="9bed736d" />
+  </game>
+  <game name="01 - Games/Xenophobe/~Prototypes and Betas">
+    <rom name="Xenophobe (World) (Beta 1).lyx" size="131072" sha1="ff5f8278d4db7c2fb19bae48e37e6ec3b6d14833" crc="1504625f" />
+    <rom name="Xenophobe (World) (Beta 2) (1990-11-12).lyx" size="131072" sha1="1c6386c379f5e48f36b2252dbfbfd6a370d328b4" crc="b5406a9a" />
+  </game>
+  <game name="01 - Games/Xump - The Final Run">
+    <rom name="Xump - The Final Run (World) (Retroguru) (Digital) (Aftermarket) (Unl).lnx" size="196907" sha1="069cd375eae026958cd50122472ce185bdad8e78" crc="c3f9cce3" />
+    <rom name="Xump - The Final Run (World) (Retroguru) (Digital) (Aftermarket) (Unl).lyx" size="262144" sha1="65c5fcc10cf768c121e441cee20a97beaecc0b3d" crc="6a71421a" />
+    <rom name="Xump - The Final Run (World) (Songbird) (Digital) (Aftermarket) (Unl).lnx" size="224497" sha1="3a2dcc1bfafbef7c15baac50541fada05bba268f" crc="01cc8eab" />
+    <rom name="Xump - The Final Run (World) (v1.2) (Retroguru) (Digital) (Aftermarket) (Unl).lnx" size="222832" sha1="1381bfbd5caaeefaf44b886068f5542f4005a899" crc="41e546a7" />
+    <rom name="Xump - The Final Run (World) (v1.2) (Retroguru) (Digital) (Aftermarket) (Unl).lyx" size="262144" sha1="f18e6fe666d08e412620b1d8e3d37354d576874e" crc="577d7e7b" />
+  </game>
+  <game name="01 - Games/Xump 2 - Back to Space/~Prototypes and Betas">
+    <rom name="Xump 2 - Back to Space (World) (Proto) (Aftermarket) (Unl).lnx" size="163845" sha1="4a7dbc244cd2fb93ff19a9253b67b1573c43d2e6" crc="24c31987" />
+    <rom name="Xump 2 - Back to Space (World) (Proto) (Aftermarket) (Unl).lyx" size="262144" sha1="1a96f8a1db203a7331ae421bd7eccd70fbaaa3a7" crc="aed70cf1" />
+  </game>
+  <game name="01 - Games/Xybots">
+    <rom name="Xybots (USA, Europe).lyx" size="262144" sha1="5ff3c39a6919db6d2270bb22e80e7680550c47ba" crc="89e2a595" />
+  </game>
+  <game name="01 - Games/YNXA - Leaf and the Guardians of Time/~Prototypes and Betas">
+    <rom name="YNXA - Leaf and the Guardians of Time (World) (Proto 1) (Aftermarket) (Unl).lnx" size="262208" sha1="835948e9159fa511a9b6c62af261efe1d04df575" crc="436e575b" />
+    <rom name="YNXA - Leaf and the Guardians of Time (World) (Proto 2) (LynxJam23) (Aftermarket) (Unl).lnx" size="262208" sha1="87b6bedd7fb2e7bea8a5725ccfd762436b0342cf" crc="3587ce7b" />
+  </game>
+  <game name="01 - Games/YNXA">
+    <rom name="YNXA (World) (Aftermarket) (Unl).lnx" size="524352" sha1="de60b6112df5e6f78fcc61d16ec69f3ef9b0158b" crc="292178a4" />
+    <rom name="YNXA (World) (Game Jam Edition) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="7906ab0dadb57f7a2e180499fe9eeb4c576a15ac" crc="9b62aaff" />
+  </game>
+  <game name="01 - Games/Yastuna Volume 1 - The Alchemy of Cubes">
+    <rom name="Yastuna Volume 1 - The Alchemy of Cubes (World) (v1.00) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="2c311788def1e4ec7d5adc64e2fbb44c851861e8" crc="a87ed55e" />
+    <rom name="Yastuna Volume 1 - The Alchemy of Cubes (World) (v1.01) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="edf7c73f04586a31cbcad856e166eb4d55e76373" crc="62793fe8" />
+  </game>
+  <game name="01 - Games/Yastuna Volume 2 - The Space Incident">
+    <rom name="Yastuna Volume 2 - The Space Incident (World) (v1.00) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="4be4ba20a495c5b865e2512d0194d31185b016c5" crc="658929e1" />
+    <rom name="Yastuna Volume 2 - The Space Incident (World) (v1.01) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="4d73a340629190d15533c8bf6f1fb21a503a0784" crc="2f17af66" />
+  </game>
+  <game name="01 - Games/Z.A.P">
+    <rom name="Z.A.P. (World) (Aftermarket) (Unl).lnx" size="24873" sha1="7cd0c413e12c812fdb6476f7ed661111fe90bec1" crc="6b51794e" />
+    <rom name="Z.A.P. (World) (Aftermarket) (Unl).lyx" size="262144" sha1="51886bea04de447240ada71f416882a2a5e47d80" crc="56e49935" />
+  </game>
+  <game name="01 - Games/Zaku">
+    <rom name="Zaku (World) (Unl).lnx" size="524352" sha1="6377dd0ef9bee6b6bd05736dadd2b36c0a02b8c3" crc="3d82e190" />
+  </game>
+  <game name="01 - Games/Zaku/~Prototypes and Betas">
+    <rom name="Zaku (World) (Beta) (Unl).lnx" size="262208" sha1="24c2f137d4a8040762b8b5f669918675e53637b4" crc="8819e916" />
+  </game>
+  <game name="01 - Games/Zarlor Mercenary">
+    <rom name="Zarlor Mercenary (World).lyx" size="131072" sha1="7005cdfa0a2e4a9611266ce50493cbb32351e069" crc="cb27199d" />
+  </game>
+  <game name="01 - Games/Zarlor Mercenary/~Prototypes and Betas">
+    <rom name="Zarlor Mercenary (World) (Beta).lyx" size="131072" sha1="7c9d84bd1dc2b1aaaa10d1d307d5efa5d1dfb2d5" crc="6d953304" />
+  </game>
+  <game name="02 - Software and Utilities/LCD Tester Vers. 0.90">
+    <rom name="LCD Tester Vers. 0.90 (World).lyx" size="131072" sha1="891d7d4b9201bdcc1839debc2590ff50bf25451e" crc="32eb97eb" />
+  </game>
+  <game name="02 - Software and Utilities/Lynx II Production Test Program">
+    <rom name="Lynx II Production Test Program (USA).lyx" size="262144" sha1="c0d35fcfac44437cf3d6d56e6f8cea0dcb12a296" crc="28ada019" />
+    <rom name="Lynx II Production Test Program (World) (v0.01).lyx" size="262144" sha1="0ad91c566cf9dae4f5c153764d79cfdc1929aa29" crc="c7652c5d" />
+  </game>
+  <game name="02 - Software and Utilities/Maldetetemagic Vol.1">
+    <rom name="Maldetetemagic Vol.1 (World) (Aftermarket) (Unl).lnx" size="262208" sha1="1dd951ec19ee7503df58fc91b1a0e44e8248a244" crc="0ae98b4b" />
+  </game>
+  <game name="02 - Software and Utilities/Maldetetemagic Vol.2">
+    <rom name="Maldetetemagic Vol.2 (World) (Aftermarket) (Unl).lnx" size="262208" sha1="35793fca060d7c1e53132ba04a430fc62d227df5" crc="1a14e75a" />
+  </game>
+  <game name="02 - Software and Utilities/RAM cart/~Prototypes and Betas">
+    <rom name="RAM cart (USA) (Proto) (Program).lyx" size="131072" sha1="2beb2d2c8ea53ba299c0b10450a05e26276042da" crc="74ec2b2b" />
+  </game>
+</datafile>

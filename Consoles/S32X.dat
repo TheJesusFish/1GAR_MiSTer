@@ -1,0 +1,674 @@
+<?xml version='1.0' encoding='utf-8'?>
+<datafile>
+  <header>
+    <name>S32X</name>
+    <version>2026-10-16</version>
+    <romvault forcepacking="fileonly" />
+  </header>
+  <game name="01 - Games/After Burner Complete">
+    <rom name="After Burner Complete (Europe).32x" size="2097152" sha1="c7d56cc75dc9a5206fda6a080cbedae9f48c82bc" crc="029106f5" />
+    <rom name="After Burner Complete (Japan, USA) (En).32x" size="2097152" sha1="9cf575feb036e2f26e78350154d5eb2fd3825325" crc="204044c4" />
+  </game>
+  <game name="01 - Games/Amazing Spider-Man, The - Web of Fire">
+    <rom name="Amazing Spider-Man, The - Web of Fire (USA).32x" size="3145728" sha1="7cc2ea1e10f110338ad880bd3e7ff3bce72e7e9e" crc="29dce257" />
+  </game>
+  <game name="01 - Games/Amazing Spider-Man, The - Web of Fire/~Prototypes and Betas">
+    <rom name="Amazing Spider-Man, The - Web of Fire (USA) (Beta).32x" size="3145728" sha1="c0b7064166d9def225d6720192ac5112c42fcd32" crc="38a1863f" />
+  </game>
+  <game name="01 - Games/BC Racers">
+    <rom name="BC Racers (USA).32x" size="3145728" sha1="9b5fd499eaa442d48a2c97fceb1d505dc8e8ddff" crc="936c3d27" />
+  </game>
+  <game name="01 - Games/Blackthorne">
+    <rom name="Blackthorne (USA).32x" size="3145728" sha1="4bf120cf056fe1417ca5b02fa0372ef33cb8ec11" crc="d1a60a47" />
+  </game>
+  <game name="01 - Games/Brutal - Above the Claw">
+    <rom name="Brutal - Above the Claw (USA).32x" size="3145728" sha1="40aa2c787f37772cdbd7280b8be06b15421fabae" crc="7a72c939" />
+  </game>
+  <game name="01 - Games/ClayFighter 2/~Prototypes and Betas">
+    <rom name="ClayFighter 2 (USA) (Proto).32x" size="1048576" sha1="1d3c372b55fa1418556aea1949995f997227b5fa" crc="59701755" />
+  </game>
+  <game name="01 - Games/Cosmic Carnage">
+    <rom name="Cosmic Carnage (Europe).32x" size="3145728" sha1="900e8ecdcc4460b4c4af3873e1d6bc83da4aee99" crc="9f3fdbc2" />
+    <rom name="Cosmic Carnage (Japan, USA) (En).32x" size="3145728" sha1="9a563ed821b483148339561ebd2b876efa58847b" crc="7c7be6a2" />
+  </game>
+  <game name="01 - Games/Cosmic Carnage/~Prototypes and Betas">
+    <rom name="Cosmic Carnage (Japan, USA) (En) (Beta 1).32x" size="3145728" sha1="f84006cee56748bf2c7249dec3c356409cb0e0a5" crc="d4166241" />
+    <rom name="Cosmic Carnage (Japan, USA) (En) (Beta 2).32x" size="4194304" sha1="926996f4b1f935ce4c3b46e902171c4b4da16385" crc="7b58141c" />
+    <rom name="Cosmic Carnage (Japan, USA) (En) (Beta 3).32x" size="3145728" sha1="c051de6dccc48352d51650f2712dbc7d62a1ec1a" crc="d8b04c24" />
+    <rom name="Cosmic Carnage (Japan, USA) (En) (Beta 4).32x" size="3145728" sha1="bbdfe2b276c255247225efd1e8348be57a42ef4a" crc="e483498b" />
+    <rom name="Cosmic Carnage (Japan, USA) (En) (Beta 5).32x" size="3145728" sha1="17cf3d4671a3313764df42e0f9a25133b0dc4ec9" crc="c6867772" />
+    <rom name="Cosmic Carnage (Japan, USA) (En) (Beta 6).32x" size="3145728" sha1="99bb4c98c7de0668934ab91a6eb01c9f680918b9" crc="bfe27f56" />
+    <rom name="Cosmic Carnage (Japan, USA) (En) (Beta 7).32x" size="3145728" sha1="512d3c9b51e2f3015265dc78757363f45fc0a788" crc="f04f4366" />
+    <rom name="Cosmic Carnage (Japan, USA) (En) (Beta 8).32x" size="3145728" sha1="443c961bfc441b4d0ace5f6e0a8d1bb7abf8ac28" crc="cf89175f" />
+  </game>
+  <game name="01 - Games/Darxide">
+    <rom name="Darxide (Europe) (En,Fr,De,Es).32x" size="2097152" sha1="108b4ffed8643abdefa921cfb58389b119b47f3d" crc="22d7c906" />
+  </game>
+  <game name="01 - Games/Doom">
+    <rom name="Doom (Europe).32x" size="3145728" sha1="4ec03c2114ebffbbcd16859583340d4ea4cd8dd5" crc="53734e3a" />
+    <rom name="Doom (Japan, USA) (En).32x" size="3145728" sha1="b68e9c7af81853b8f05b8696033dfe4c80327e38" crc="208332fd" />
+  </game>
+  <game name="01 - Games/Doom/~Hacks/Doom (Europe) [MD+ hack by D32XR Team v3.2] [OST [MD+ Andrew Hulshult IDKFA Metal Remixes Arranged by Relikk v20241028]]">
+    <rom name="01-d_e1m1_AtDoomsGate.wav" size="33480756" sha1="4baeb6f4b953f7d70e461b64db8f33be331041af" crc="fc0a0c79" />
+    <rom name="02-d_e1m2_TheImpsSong.wav" size="34482736" sha1="698bcfc13d3e47aa9c3c339922b00d447c51086b" crc="eca4973e" />
+    <rom name="03-d_e1m3_DarkHalls.wav" size="42343100" sha1="54b34c75ae7ebef17e640ea6ca25f8e5786e4d9c" crc="56034af4" />
+    <rom name="04-d_e1m4_KitchenAce.wav" size="28887600" sha1="cb449e0bdd0924cabcd9fc7614f07ce286ec321d" crc="d0fa561a" />
+    <rom name="05_27-d_e1m5_Suspense.wav" size="44434592" sha1="fdd6ae3c44672b9b3f53fa7004dcfbae38bf7e40" crc="01f3de80" />
+    <rom name="06_22-d_e1m6_OnTheHunt.wav" size="21506044" sha1="2efa84317929b40ee42685e4970b0f279dee001b" crc="bd5ee221" />
+    <rom name="07_13_21-d_e1m7_DemonsOnThePrey.wav" size="26617244" sha1="8c2c280520b57269f3c21100ac2a1119a68efdd2" crc="c1b23ca7" />
+    <rom name="08_20-d_e1m8_SignOfEvil.wav" size="28674776" sha1="8c6b0154dab49363e0e8188023bffad6f87d6183" crc="3dea327b" />
+    <rom name="09-d_e2m1_ISawedTheDemons.wav" size="25878968" sha1="503d4803e979f083ce264b9a72b53cfc0cbe8056" crc="f7bdff26" />
+    <rom name="10-d_e2m2_TheDemonsFromAdriansPen.wav" size="28285092" sha1="a470f89de464fcb19a81c6ed4d5b50340188245f" crc="715ba5b6" />
+    <rom name="11_30-d_e2m3_IntermissionFromDOOM.wav" size="53205316" sha1="dea2743126d4bf80a2ece883742916ce201e406b" crc="acd9b6f7" />
+    <rom name="12-d_e2m4_TheyreGoingToGetYou.wav" size="46575780" sha1="a4539e9b28c396c43ef6f572b7f4eadf4e7b2e2a" crc="ac7c92ad" />
+    <rom name="14-d_e3m6_Sinister.wav" size="32549924" sha1="4f463880cc026b664a7f6968a9919e8b2d7a3621" crc="97165a1d" />
+    <rom name="15_23-d_e2m7_WaltzOfTheDemons.wav" size="38111776" sha1="f557a090e0c586b73c962a2c3c24db5c7ae7b280" crc="80ba580b" />
+    <rom name="16-d_e2m8_NobodyToldMeAboutid.wav" size="39219516" sha1="658939c4bc0fdd74ea2784e778988fb9f1abc62a" crc="cfdef1fb" />
+    <rom name="17_26-d_e3m1_MouthForWar.wav" size="34878676" sha1="746b98b22d3f7a2e867e92be4e74836a9f954756" crc="f907ed1c" />
+    <rom name="18-d_e3m2_DonnaToTheRescue.wav" size="22584236" sha1="0869933df3effe5459649f35b3ee20f2d4347f61" crc="805d534b" />
+    <rom name="19-d_e3m3_DeepIntoTheCode.wav" size="23096408" sha1="2ba7736405f3637747feea60155dcd9aa67296fa" crc="2822d19a" />
+    <rom name="24-d_e3m8_FacingTheSpider.wav" size="34593300" sha1="23765c48b7d5190a2da909f8c82466248adf2e95" crc="35858e21" />
+    <rom name="25-d_e1m9_HidingTheSecrets.wav" size="13184616" sha1="2913abb266f6eceb1ac0db139889d5c543eec85d" crc="4bd31f7f" />
+    <rom name="28-SweetLittleDeadBunny.wav" size="15439724" sha1="75b47949c9aa90722228f4ae9647c7e36becbeea" crc="12573805" />
+    <rom name="29-TheEndOfDOOM_Victory.wav" size="36806768" sha1="be0cf5acf1cb26020c0c3819e11904044769c727" crc="096a8bae" />
+    <rom name="31-Intro.wav" size="2265040" sha1="35e2c81d15b73a81aec1c4d4e5752cf82f723d49" crc="dd7c331b" />
+    <rom name="Doom (Europe) (MD+).32x" size="5242880" sha1="aa3cbd54997c0179e6a9847cb5ef89030638cbd7" crc="0bdc83fc" />
+    <rom name="Doom (Europe) (MD+).cue" size="3211" sha1="347add55e0565f9facd772e5aca7550a95cddd84" crc="d40d16cd" />
+  </game>
+  <game name="01 - Games/Doom/~Hacks/Doom (Europe) [MD+ hack by D32XR Team v3.2] [OST [MD+ Model 1 Mega Drive - Genesis FM Arranged by Spoony Bard]]">
+    <rom name="Doom (Europe) (MD+).32x" size="5242880" sha1="aa3cbd54997c0179e6a9847cb5ef89030638cbd7" crc="0bdc83fc" />
+    <rom name="Doom (Europe) (MD+).cue" size="2958" sha1="918b555156e338fe5d4e64e088f59f5328c90292" crc="94e53163" />
+    <rom name="E1M1 - At Doom_s Gate.wav" size="16867256" sha1="28a865b60d3bb066e5ef397e1d4d56ff629fad91" crc="9edbff9b" />
+    <rom name="E1M2 - The Imp_s Song.wav" size="27406384" sha1="e7149f88f574cb860db5f97f69500117d3f67a24" crc="7f231e20" />
+    <rom name="E1M3 - Dark Halls.wav" size="48875052" sha1="fe9ffde91bc10ec9e1e821f7247c53607095e4e3" crc="af8f2b8f" />
+    <rom name="E1M4 - Kitchen Ace (And Taking Names).wav" size="27600696" sha1="c3e068af83343794ea67ec0c92f7a8dddb7e8cf4" crc="d20d23b7" />
+    <rom name="E1M5 - Suspense.wav" size="27498532" sha1="ac1a7763e03204038e7f3dd431cfca0b097df527" crc="a170ea72" />
+    <rom name="E1M6 - On the Hunt.wav" size="16100784" sha1="7593eb7b1d547d30513154772720fbe66482f1c2" crc="9de520f9" />
+    <rom name="E1M7 - Demons on the Prey.wav" size="25297452" sha1="65a97ba2692c2301c50a82b9dc24cfd808ddfa42" crc="eb80f937" />
+    <rom name="E1M8 - Sign of Evil.wav" size="25495356" sha1="927d30c23fd54b980fd66b188d0e446e388188bd" crc="5a784326" />
+    <rom name="E1M9 - Hiding the Secrets.wav" size="25300832" sha1="f58f6818cc0973d69755bc83f5d4e97529a7c95d" crc="a1342657" />
+    <rom name="E2M1 - I Sawed the Demons.wav" size="28463244" sha1="6f7c3ff159a88bfb65cc1969df97a05d6f44ffb6" crc="617974f3" />
+    <rom name="E2M2 - The Demons from Adrian_s Pen.wav" size="24437996" sha1="9e16984b78d78b77c481824e7fa9c7254e6b7494" crc="38f99446" />
+    <rom name="E2M4 - They_re Going to Get You.wav" size="44276440" sha1="5c968ee1b04c064ec009bb3996c32fea0455981d" crc="736a6ff3" />
+    <rom name="E2M6 - Sinister.wav" size="32200180" sha1="4f24d04769643ccd889f58ed5d578699f576b73e" crc="3c4b5f6f" />
+    <rom name="E2M7 - Waltz of the Demons.wav" size="18973344" sha1="32cb59b7464570ad272717f95b2d85b0ca9fad35" crc="0244d08d" />
+    <rom name="E2M8 - Nobody Told Me About id.wav" size="30187932" sha1="776ad3ee3fd35466754565e480e6012c17d87f7a" crc="d340bb98" />
+    <rom name="E2M9 - Untitled.wav" size="16867912" sha1="cdd33cab04be4ba105ec81266c7bf3baf1e7b65b" crc="02c4a0e2" />
+    <rom name="E3M2 - Donna to the Rescue.wav" size="20029064" sha1="726ec46196ac651cfd9aad40c4d2b010d215dc2b" crc="9503d2dd" />
+    <rom name="E3M3 - Deep Into the Code.wav" size="21468032" sha1="fd843fe823ca6222b814eddd4ed2900a48b1d17d" crc="eb5cd642" />
+    <rom name="E3M8 - Facing the Spider.wav" size="8030864" sha1="ae7056d7c6bd2dac9476a8f9e8ce8d92eb71f447" crc="74535670" />
+    <rom name="Intermission from DOOM.wav" size="36801236" sha1="4fb5957ccb60b9a1744ef5679d8a52817e55f9fd" crc="3c6b7a87" />
+    <rom name="Sweet Little Dead Bunny.wav" size="10525736" sha1="0a0d5dac7c2d126e3e356bd8555ed7d7b2e980ec" crc="19652b24" />
+    <rom name="The End of DOOM.wav" size="34501456" sha1="fbaf970fcd597315380b6fe7fa23a0fa2eaeb174" crc="b8987422" />
+    <rom name="Title Screen.wav" size="1949740" sha1="891de423546fefeb05f41e34e69bb0c6963ce6b4" crc="4e380edf" />
+  </game>
+  <game name="01 - Games/Doom/~Hacks/Doom (Europe) [MD+ hack by D32XR Team v3.2] [OST [MD+ PlayStation Arranged by Relikk v20220910]]">
+    <rom name="01-d_e1m1-RetributionDawns.wav" size="35641404" sha1="50e7f459bd9c5c302eb1feac236054e985412e86" crc="ce990d25" />
+    <rom name="02-d_e1m2-TheBrokenOnes.wav" size="33274976" sha1="41210d5e87cc70cf1a3ab4b7868718bc575a63e2" crc="6a4e9c9f" />
+    <rom name="03-d_e1m3-SanitysEdge.wav" size="53444448" sha1="e58ef1579b540f25e55a9c9890b3bbddff12ac70" crc="d7a649b4" />
+    <rom name="04-d_e1m4-HellsChurn.wav" size="47079848" sha1="1095a5dc27977f891c016a12ff4b633719e37123" crc="666435a2" />
+    <rom name="05_27-d_e1m5-DigitizedPain.wav" size="25991536" sha1="f1b9ff0c6859743d0e0cd60618b36fa94bc1e9f4" crc="8546ed46" />
+    <rom name="06-d_e1m6-CorruptedCore.wav" size="42685268" sha1="241ce77978598ba6f5e7ca1270b47b37fbd12bcf" crc="5dadff0c" />
+    <rom name="07-d_e1m7-MindMassacre.wav" size="51793504" sha1="9f531bcddc6d4b21cbaef07a3afc9cce6e936a1f" crc="5414125e" />
+    <rom name="08_20-d_e1m8-Mutation.wav" size="41471628" sha1="0e4e539a4ea51028fd975538577f5f9b8ea268d8" crc="6f478285" />
+    <rom name="09-d_e2m1-BreathOfHorror.wav" size="56375000" sha1="193f481e1bf7b702df37021ff88c4a7c829afc27" crc="33a16a35" />
+    <rom name="10-d_e2m2-ACalmPanicRises.wav" size="27387792" sha1="22e4215f889f57507544be2e2ff3a8409ae31cea" crc="6aa39d5e" />
+    <rom name="11-d_e2m3-TheSlowDemonicPulse.wav" size="48093568" sha1="677276461037fe7be05cf1fb57e5b9a843d66444" crc="d658bd32" />
+    <rom name="12-d_e2m4-Corrupted.wav" size="40828820" sha1="947d9c8cc35c4503a5dec51268aedd1e93452499" crc="c1bbc751" />
+    <rom name="13-d_e2m5-SteadfastExtermination.wav" size="57843756" sha1="503e90fe47b86bf089f48d937949d0d16b3ac59f" crc="4d7f5c26" />
+    <rom name="14-d_e2m6-BeyondFear.wav" size="29756144" sha1="9e54ebac768fb5866f26662620cbeba21e1c7483" crc="96fe51cf" />
+    <rom name="15-d_e2m7-BellsOfAgony.wav" size="79275472" sha1="1606fb56c5351dbccfe1946f5951d4591db96bcd" crc="4d6d58f3" />
+    <rom name="16-d_e2m8-BreathOfCorruption.wav" size="47084020" sha1="54266b857b7b53bd1ccdaba7f58f2b16e1e1fe1e" crc="09784930" />
+    <rom name="17_26-d_e3m1-InTheGripOfMadness.wav" size="48093568" sha1="eac43ae21b6b9725f5137eb7bccceb091c3d280c" crc="77176be6" />
+    <rom name="18-d_e3m2-Infectious.wav" size="73942204" sha1="2eee89fb14581d46b8b7348ba528056022f8d332" crc="bceb8b78" />
+    <rom name="19-d_e3m3-Lurkers.wav" size="39264748" sha1="d8cca2aae9180abc40835d5520d4b5f6147fc55b" crc="b4496756" />
+    <rom name="21-d_e3m5-CreepingBrutality.wav" size="26924700" sha1="d4a5908ad8f9f2eb817a634c24f8ab136c2f9d36" crc="4eea6d9b" />
+    <rom name="22-d_e3m6-Lamentation.wav" size="42757676" sha1="8712b13f168f2f73dcd02fa130e3ff10dafde525" crc="e4c1dbc3" />
+    <rom name="23-d_e3m7-TwistedBeyondReason.wav" size="39264748" sha1="5b7b8bdfd10e00e158d7c2c2d1a7a56e8ea098b0" crc="bc689ff1" />
+    <rom name="24-d_e3m8-TheFoulnessConsumes.wav" size="53053364" sha1="b4d7488dcfe392a68c8e398d7f0eded258863fbf" crc="c85dc8e6" />
+    <rom name="25-d_e1m9-Vexation.wav" size="50678092" sha1="a87cc2ce0dc657e2e2cc80efe1ee76fce567a0b1" crc="7d465d96" />
+    <rom name="28-SweetLittleDeadBunny.wav" size="10832384" sha1="8ecc03301914a6b5a659d24361dbebe582956f35" crc="674dc82e" />
+    <rom name="29-TheEndOfDOOM_Victory.wav" size="40308620" sha1="93643e873fe843bb34a7f7f65464f851fbcec020" crc="e65b363f" />
+    <rom name="30-IntermissionFromDOOM.wav" size="32433104" sha1="9e87636d7f0eec073004ceb6138ba4f3ca4a1757" crc="9220d78e" />
+    <rom name="31-Intro.wav" size="2067300" sha1="03aede285c8dbcdf1c56c75931eb6bbcd2d79202" crc="ad27357f" />
+    <rom name="Doom (Europe) (MD+).32x" size="5242880" sha1="aa3cbd54997c0179e6a9847cb5ef89030638cbd7" crc="0bdc83fc" />
+    <rom name="Doom (Europe) (MD+).cue" size="3115" sha1="e734a3ab57bfba91edbe10bbad8abf2dadafe98d" crc="69df2fa1" />
+  </game>
+  <game name="01 - Games/Doom/~Hacks/Doom (Europe) [MD+ hack by D32XR Team v3.2] [OST [MD+ Roland SC-55 MIDI Arranged by Relikk v20220503]]">
+    <rom name="01-d_e1m1_AtDoomsGate.wav" size="17020724" sha1="d2f66ed9bfa67cbea0a5ecb9aa3a1e83319da3f4" crc="5c7c6ad8" />
+    <rom name="02-d_e1m2_TheImpsSong.wav" size="27228488" sha1="49edaceec34ab7a1ef416d4fe5a2fb585c7c1924" crc="08c01ba3" />
+    <rom name="03-d_e1m3_DarkHalls.wav" size="47276588" sha1="836fd04eef64d44b24971849e5be7d48352f58ce" crc="8b0b81fd" />
+    <rom name="04-d_e1m4_KitchenAce.wav" size="29638076" sha1="8fec47f776dbf738c899aaa34e4fd8aa1e8c6853" crc="6f6abe90" />
+    <rom name="05_27-d_e1m5_Suspense.wav" size="28566732" sha1="a86761b1235636a6071c403aaaf2bda38b29cda9" crc="98b8dd3f" />
+    <rom name="06_22-d_e1m6_OnTheHunt.wav" size="14691984" sha1="986c65d73cfcbb976965358701d75fea3e29970e" crc="93d9ce45" />
+    <rom name="07_13_21-d_e1m7_DemonsOnThePrey.wav" size="27344608" sha1="3842cbc64057acaf2be0ac531d21a9f0398d1e75" crc="ff2ea767" />
+    <rom name="08_20-d_e1m8_SignOfEvil.wav" size="26519680" sha1="d02b8514050f672a8927d6f899faecb2ec3e25d2" crc="19155773" />
+    <rom name="09-d_e2m1_ISawedTheDemons.wav" size="26550440" sha1="51d434148326397da95facbb50da1afacdf11429" crc="4068735a" />
+    <rom name="10-d_e2m2_TheDemonsFromAdriansPen.wav" size="26696804" sha1="8415b48a77fb3e2214ee30fd0a5def51d09a835b" crc="8dbd7126" />
+    <rom name="11_30-d_e2m3_IntermissionFromDOOM.wav" size="34402736" sha1="4d9209d3f3a17d6b53175a59ef49339d5b32b427" crc="ab67dda7" />
+    <rom name="12-d_e2m4_TheyreGoingToGetYou.wav" size="43420556" sha1="1e67d4b535be241567e589eae6630c91e7364388" crc="84a61cb6" />
+    <rom name="14-d_e3m6_Sinister.wav" size="31667720" sha1="f8f6af243ae0bf1c0266deb4d7d36c81cb91898d" crc="6ce2301a" />
+    <rom name="15_23-d_e2m7_WaltzOfTheDemons.wav" size="19720788" sha1="af335f286021b9868949926a040b21d086c753c6" crc="03f1eaa7" />
+    <rom name="16-d_e2m8_NobodyToldMeAboutid.wav" size="31189492" sha1="3102c3465ffe7b7e58b7ee30deaab661dcdad9a5" crc="4ab3f220" />
+    <rom name="17_26-d_e3m1_MouthForWar.wav" size="16599040" sha1="db033ef8108ea0ad21a207f216fe30991ee2276d" crc="5830cb09" />
+    <rom name="18-d_e3m2_DonnaToTheRescue.wav" size="20211232" sha1="5ecff8e6eca37c0ad6975f1cb0b5379a8b4e069e" crc="ee43a856" />
+    <rom name="19-d_e3m3_DeepIntoTheCode.wav" size="20982144" sha1="aa20972adfd59bb1a5757e74f0281aa59897b466" crc="d5eb91ad" />
+    <rom name="24-d_e3m8_FacingTheSpider.wav" size="9604216" sha1="26e959d16611e6d08e23de2e6737b7c8b3015b43" crc="20f90b3f" />
+    <rom name="25-d_e1m9_HidingTheSecrets.wav" size="23913400" sha1="cddb518236ccfe9fdafe20f13e8029202d178375" crc="1bc0199d" />
+    <rom name="28-SweetLittleDeadBunny.wav" size="10916128" sha1="563be80bf5afcba1f47481225491cb7a763ce1f8" crc="23ecfbea" />
+    <rom name="29-TheEndOfDOOM_Victory.wav" size="33415196" sha1="3e2c19466693ec1288ed123b96585cc409dd478d" crc="4ec53cbb" />
+    <rom name="31-Intro.wav" size="1940476" sha1="2560f9ec92061e231548aae8555b2110aeff7872" crc="7c6b476e" />
+    <rom name="Doom (Europe) (MD+).32x" size="5242880" sha1="aa3cbd54997c0179e6a9847cb5ef89030638cbd7" crc="0bdc83fc" />
+    <rom name="Doom (Europe) (MD+).cue" size="3180" sha1="1e4c58b2f7b5ae794f74c296c3ed60c964bf30f1" crc="8914b521" />
+  </game>
+  <game name="01 - Games/Doom/~Prototypes and Betas">
+    <rom name="Doom (Japan, USA) (En) (Beta 1).32x" size="4194304" sha1="4fda0184d688886314d929224d92b4a35c712675" crc="646d5c47" />
+    <rom name="Doom (Japan, USA) (En) (Beta 2).32x" size="3894824" sha1="5697176636df575d8b65480708efa85544d44302" crc="8d757b51" />
+    <rom name="Doom (Japan, USA) (En) (Beta 3).32x" size="3760828" sha1="1bf7bc1fc2eafe71d1e72608566d5c0d01d5c79c" crc="102678b3" />
+    <rom name="Doom (Japan, USA) (En) (Beta 4).32x" size="4194304" sha1="0530d326b75e97b04530761f50ced4a226b183d2" crc="b554596f" />
+    <rom name="Doom (Japan, USA) (En) (Beta 5).32x" size="3507720" sha1="2a2c80adb1cf62a71581400357951b2007770e8b" crc="2d09b919" />
+    <rom name="Doom (Japan, USA) (En) (Beta 6).32x" size="3145728" sha1="e472548171a4e6183f16618bfcb5b6c09e7d6744" crc="abc3eb89" />
+    <rom name="Doom (Japan, USA) (En) (Beta 7).32x" size="3145728" sha1="c3e78c38cfd2516f943a10f435664ba06790f1c4" crc="b9ae1316" />
+    <rom name="Doom (Japan, USA) (En) (Beta 8).32x" size="3145728" sha1="f7539c406821b5ae4bcb0f41fe2839d07ab1fdb2" crc="12991053" />
+    <rom name="Doom (Japan, USA) (En) (Beta 9).32x" size="3102248" sha1="b2349f625ac077222b49f0e507c552b24c824bd2" crc="7dcc1c18" />
+    <rom name="Doom RR (Japan, USA) (En) (Beta 1).32x" size="3145728" sha1="63568023c907d636133e1a2fd140afbadb910e98" crc="48399bc5" />
+    <rom name="Doom RR (Japan, USA) (En) (Beta 2).32x" size="3145728" sha1="b298ad7bacca89770bcd6dea796e5dbbfb72e642" crc="6f1572f9" />
+    <rom name="Doom RR (Japan, USA) (En) (Beta 3).32x" size="3145728" sha1="a2d5b5acc7e19abfb927bb0ed110d80d685510c9" crc="955cf84a" />
+  </game>
+  <game name="01 - Games/FIFA Soccer 96">
+    <rom name="FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv).32x" size="3145728" sha1="131ebb717dee4dd1d8f5ab2b9393c23785d3a359" crc="fb14a7c8" />
+  </game>
+  <game name="01 - Games/Golden Axe/~Hacks/Golden Axe (World) (Rev A) [MD+ hack by Neodev v20200219] [32X conversion by Jeroen Visser v0.9.1] [OST [MD+ Arcade Arranged by Relikk v20200504]]">
+    <rom name="01-WildernessRound1.wav" size="19457240" sha1="56cb325673d79beef3581aef7ce34c54edb195c6" crc="1f338f40" />
+    <rom name="02-TurtleVillage1Round2.wav" size="24992820" sha1="ff7d6969ec16bed4465b76d11a813e1299ed0368" crc="5622e467" />
+    <rom name="03-TurtleVillage2Round3.wav" size="7221808" sha1="7d9466892d98129e8a00c6419af73b49c26105b6" crc="1dc1f3ff" />
+    <rom name="04-FiendsPathRound4.wav" size="21705064" sha1="cfe80b80e4bc27ebd173bb6f368cd8ef408052be" crc="798e066a" />
+    <rom name="05-DeathAdderBoss2.wav" size="27207912" sha1="04f36f6363bbfdfa340d64f144c56e88a6c55e5b" crc="78127abb" />
+    <rom name="06-BattlefieldBoss1.wav" size="23905376" sha1="4afe43b78ba73ce73e59b7c8daaad2053e75326d" crc="737f9e90" />
+    <rom name="07-Showdown.wav" size="18489892" sha1="d6e94b4b7fdecb43a894c37c680acafb43c51ca3" crc="a20912e1" />
+    <rom name="08-GameOver.wav" size="548508" sha1="2f9249073fbbf4918534616442d6722efe6922b5" crc="e307c2e4" />
+    <rom name="09-TheBattlePlayerSelect.wav" size="6062932" sha1="853cd367f67983ed3d3f61e5652a0322371c542c" crc="a68ef4df" />
+    <rom name="10-ThiefsThemeBonus.wav" size="7669844" sha1="022e410f207eac44be1bd9707b2290819261bf7d" crc="e7c8855e" />
+    <rom name="11-OldMap.wav" size="3319932" sha1="c7767be63cf1efe24294b3fc334d789f7f057488" crc="66ab4d00" />
+    <rom name="12-Ending.wav" size="3441404" sha1="fff347f195f416ef2a28253c4959679326376180" crc="44e4b971" />
+    <rom name="13-StaffRoll.wav" size="5782644" sha1="ea22e049794deb5988feae5f2e42e173e8303b66" crc="46679e2f" />
+    <rom name="Golden Axe (World) (Rev A) (MD+).32x" size="2097152" sha1="b3fe6ba244705d365f53f97bf2f88670c3a3acdd" crc="064ec032" />
+    <rom name="Golden Axe (World) (Rev A) (MD+).cue" size="1349" sha1="3da6f4d557ba0b14b4208afc54dd6dc573f8c049" crc="66a95a96" />
+  </game>
+  <game name="01 - Games/Golden Axe/~Hacks/Golden Axe (World) (Rev A) [MD+ hack by Neodev v20200219] [32X conversion by Jeroen Visser v0.9.1] [OST [MD+ PC-Engine CD Arranged by Relikk v20200710]]">
+    <rom name="01_Wilderness.wav" size="17262604" sha1="2895517b4b3d46b80421cb8062bcb9e5407201cf" crc="3cb08a2f" />
+    <rom name="02_TurtleVillage1.wav" size="22111428" sha1="c5f7b60db1f5963c9fb3145028a854dfde63a60e" crc="910c51d3" />
+    <rom name="03_TurtleVillage2.wav" size="7719972" sha1="9859182ad5f824afc27d2c7e789f983ab270df22" crc="318bbc3f" />
+    <rom name="04_FiendsPath.wav" size="16166616" sha1="16e0efcc083c7bda15b39eaa79c6292d732836cf" crc="4ba7aabc" />
+    <rom name="05_DeathAdder.wav" size="21423828" sha1="4a4e2c5d96251262b369fd84562539c3593f4bac" crc="4b1fe359" />
+    <rom name="06_BattleField.wav" size="23655928" sha1="0dabd6d8ad2a426ef4fde7b43abd8b86bab40e7b" crc="3f71d544" />
+    <rom name="07_Showdown.wav" size="18489892" sha1="c2de8e6edd886f537c831a84fafadc0959fe3ed9" crc="bd64cb0c" />
+    <rom name="08_GameOver.wav" size="286232" sha1="eaec9eaf59d247e5381f7d49e1ada56806af1b01" crc="01dbbcd5" />
+    <rom name="09_TheBattle.wav" size="6409520" sha1="4836f4de39e51d263836729a8b421d320b67ba74" crc="c6c547dc" />
+    <rom name="10_ThiefsTheme.wav" size="5497180" sha1="ed27f1dfd1ebe8f62f3fb8d7c5734b1893bdd8d8" crc="0b52b569" />
+    <rom name="11_OldMap.wav" size="3495828" sha1="db8ae725503a26e36ee30f2145c170891a003797" crc="28a1a7d6" />
+    <rom name="12_Conclusion.wav" size="3573964" sha1="0ec8d40294398640b86475f4b7c0c42959a8d7d0" crc="3c77b2f4" />
+    <rom name="13_SutakoraSassa.wav" size="6306652" sha1="a85c6d1cd3381e3e49b03c3212eecbc11fbdb8c1" crc="69c30d45" />
+    <rom name="Golden Axe (World) (Rev A) (MD+).32x" size="2097152" sha1="b3fe6ba244705d365f53f97bf2f88670c3a3acdd" crc="064ec032" />
+    <rom name="Golden Axe (World) (Rev A) (MD+).cue" size="1348" sha1="5086cb28999e9ca1661ec2ee5519474168bf3489" crc="2e073e8b" />
+  </game>
+  <game name="01 - Games/Golden Axe/~Hacks/Golden Axe (World) (Rev A) [MD+ hack by Neodev v20200219] [32X conversion by Jeroen Visser v0.9.1] [OST [MD+ PlayStation 2 Sega Ages Vol. 5 Arranged by Relikk v20240311]]">
+    <rom name="01-Wilderness_Round1.wav" size="22313660" sha1="6be45625e863e6a062a8e9df76b45a823df44b88" crc="69642e87" />
+    <rom name="02-TurtleVillage1_Round2.wav" size="23648300" sha1="97b4416fc1a4558500490ad66d86cd7e8015a9ce" crc="e3893651" />
+    <rom name="03-TurtleVillage2_Round3.wav" size="8397800" sha1="9bf28e600268a38b24572665c246afa77d020102" crc="971bccf7" />
+    <rom name="04-FiendsPath_Round4.wav" size="22696228" sha1="3395d61ed66ace73b0c22957c1030fa124fc4c49" crc="3a302f63" />
+    <rom name="05-DeathAdder_Boss2.wav" size="21364836" sha1="70a334d9925850a37bcbaaaf0e754110eba620a7" crc="4a608640" />
+    <rom name="06-Battlefield_Boss1.wav" size="24836552" sha1="81b5f0342e00a0ea163087eeee5ce8f1ea3bfd50" crc="a32a92e7" />
+    <rom name="07-Showdown.wav" size="18867752" sha1="464c7a7768e05261fd868c68eb2f7566ccd0a68c" crc="0d9fa76f" />
+    <rom name="08-GameOver.wav" size="628868" sha1="44e6f29b237ba67e5fdc04b821367f892a8d3168" crc="09947ced" />
+    <rom name="09_14-TheBattle_PlayerSelect_Staff Roll.wav" size="6618512" sha1="7ed63b60e3edee847fe7e30042a35fd28aca1816" crc="c8253db6" />
+    <rom name="10_11-ThiefsTheme_Bonus.wav" size="8079768" sha1="7840ca3f848825696a7ac64d367c290eb875db49" crc="f6a4a655" />
+    <rom name="12_13-OldMap_Ending.wav" size="4004988" sha1="c935e2e484dfea73ad951e2a4f8b9d88d757a9a2" crc="9c62d8e8" />
+    <rom name="Golden Axe (World) (Rev A) (MD+).32x" size="2097152" sha1="b3fe6ba244705d365f53f97bf2f88670c3a3acdd" crc="064ec032" />
+    <rom name="Golden Axe (World) (Rev A) (MD+).cue" size="1426" sha1="71457dfc437fd85ee2b5f617f6e02e9e0e5086a8" crc="7ef7ba68" />
+  </game>
+  <game name="01 - Games/Golden Axe/~Hacks/Golden Axe (World) (Rev A) [MD+ hack by Neodev v20200219] [32X conversion by Jeroen Visser v0.9.1] [OST [MD+ Rich Douglas' Golden Axe Symphony Arranged by Game Sack v20200217]]">
+    <rom name="01Wilderness.wav" size="35295832" sha1="3d1814fe3c145c9df028c04102f61e61e8eb255b" crc="6a77e57d" />
+    <rom name="02TurtleVillage1.wav" size="20383952" sha1="fbca5dc0f0af948ccf13fe95e8d963225c704f34" crc="e0d5cf4f" />
+    <rom name="03TurtleVillage2.wav" size="22017292" sha1="f6fe3408caa9ef2053eadb2135236910e6e9c7b0" crc="f9b26214" />
+    <rom name="04FiendsPath.wav" size="28238668" sha1="fdfbf52794b25cab5a42a0dfcb93487b8d9628a1" crc="b6ec389a" />
+    <rom name="05DeathAdder.wav" size="23244496" sha1="93011dc33cb61f61d14ad5c74f713a7ad6c017c9" crc="561e1e5b" />
+    <rom name="06Battlefield.wav" size="21958432" sha1="11cb7acabf6f8064271b2997b0a3809a68f51deb" crc="54d57653" />
+    <rom name="07Showdown.wav" size="18553452" sha1="5e1fce177b9f56231a6b7ef459fb64d232503ba7" crc="098f4dea" />
+    <rom name="08GameOver.wav" size="813408" sha1="9e5bb456c1978cb1720d4f6ec8150560b419c7f7" crc="d41e604f" />
+    <rom name="09TheBattle.wav" size="11861204" sha1="b3789c367329561fdbf007ee54cf83bbe2df8b0b" crc="75e29623" />
+    <rom name="10ThiefsTheme.wav" size="13956572" sha1="46ed7ec224ef08bed28446c610aa4f47a7bc3aa4" crc="1e4045a2" />
+    <rom name="11OldMap.wav" size="5427932" sha1="cf354be9c70e2f615cf4bd605b20bd3597969007" crc="7650c0bf" />
+    <rom name="12Conclusion.wav" size="3668060" sha1="2b520b4ab7ca66266418ca3a7f2664839460babd" crc="4530a51c" />
+    <rom name="13Sutakora.wav" size="5683976" sha1="26d8dd904ec1270fb2aebcb9c2f2ccd4460d9a10" crc="fd3b3f3a" />
+    <rom name="Golden Axe (World) (Rev A) (MD+).32x" size="2097152" sha1="b3fe6ba244705d365f53f97bf2f88670c3a3acdd" crc="064ec032" />
+    <rom name="Golden Axe (World) (Rev A) (MD+).cue" size="1136" sha1="85990d11b51640ad528eb820024b7e275d8d924a" crc="9e331ce0" />
+  </game>
+  <game name="01 - Games/Golf Magazine Presents - 36 Great Holes Starring Fred Couples">
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).32x" size="3145728" sha1="55848f7c54533fd2a19011db661ef261cd8bdb22" crc="6ef99202" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En).32x" size="3145728" sha1="dc77b1e5c888c2c4284766915a5020bb14ee681d" crc="d3d0a2fe" />
+  </game>
+  <game name="01 - Games/Golf Magazine Presents - 36 Great Holes Starring Fred Couples/~Prototypes and Betas">
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta 1).32x" size="3145728" sha1="f78481e57111295c2f5aeb64cd306c3c5fbf6d97" crc="a63b0636" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta 2).32x" size="3145728" sha1="6a1801ef96cc8c4a6896ab55e105f7fa8d707f51" crc="cc0334bb" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 1).32x" size="1057122" sha1="6a066c44d71199d62dbc368efbc371dd01cc95e1" crc="6726c100" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 10).32x" size="3136712" sha1="ea7539dbeaa86fdc36132e85be48f6577fb6dbb9" crc="36b1708e" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 11).32x" size="3136712" sha1="f317903c11777991417abf95cc45d4888bee25d6" crc="bcaf23fd" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 12).32x" size="3136712" sha1="33620d0bb49c52a24563958b4caec883b2009a90" crc="5226ef71" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 13).32x" size="3136712" sha1="3bff7d113fa7487d015a54d8f27050f2cf296106" crc="ccb9fead" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 14).32x" size="3136712" sha1="abe1d16dff2b2c1752e2f47bb15f97f049d6bfc0" crc="dc4c7c27" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 15).32x" size="3145728" sha1="5fc3837ba3b98f9f2c560d3775da969798a150ee" crc="8fa32086" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 16).32x" size="3136736" sha1="2ea5fcdffa9b8f22b1468eeb2e76134d3f1b3be6" crc="da1026c8" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 17).32x" size="3136724" sha1="34d7bf6b86c877ab068390f660073016a95711e3" crc="8d0713ce" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 18).32x" size="3136724" sha1="a6bee7800f73e2ca12381432154b636ddd279412" crc="e1e98cac" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 19).32x" size="3136724" sha1="0590ff4405fcd0ca8f2fc5293690330fdf63127a" crc="6b656643" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 2).32x" size="3001124" sha1="94c994ce74377ec726b4c0803b51fd4ca6cc4389" crc="622a34a5" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 20).32x" size="3136724" sha1="fa2f2d3887bb3e6010a5c13289f63681cac0404a" crc="0b58f6a5" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 21).32x" size="3145728" sha1="541ddfac44323c589ad23f51a5be984ecfa55539" crc="2ece26db" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 22).32x" size="3145728" sha1="afa1f5c2dab7de2114d3a34794785b0d6768d95c" crc="b5e82f07" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 23).32x" size="3145728" sha1="f0d06074b1b5ce2df77fdaaf74620158efb7f875" crc="38d09772" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 24).32x" size="3145728" sha1="e341e5fca64def64c019310d4f551ff48908291b" crc="8f4f6479" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 25).32x" size="3145728" sha1="5658febd37534280962dc6801efc10604b07603f" crc="9c5011b0" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 26).32x" size="3145728" sha1="19681b2e5d1eafaa09401dca296bea884fbc08c1" crc="41e2d54d" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 27).32x" size="3145728" sha1="5b1140e33357a3d0fdc056ab5a350d588b5e5af9" crc="323c2935" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 28).32x" size="3145728" sha1="7ca51ad03ebb95f017a1b900a4a1592876d0d5c2" crc="3f30c0d2" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 29).32x" size="3145728" sha1="af8eadcf49d0700c7479648865cc08cd40bc2808" crc="ecfe5a0f" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 3).32x" size="3001124" sha1="83b70bea9efa281dd5119334a28ef33bc7426325" crc="cbd33fc7" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 30).32x" size="3145728" sha1="6398a442595650d70a5ce20a52331899c0dfaf62" crc="34bf7c6d" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 31).32x" size="3145728" sha1="e28ab68e8aed7aa8e9f33a6e9c68678272df4d95" crc="c073149f" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 32).32x" size="3145728" sha1="23e84ec4d8cec09992fcff323f32f49f44d23cd2" crc="3893dcfe" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 4).32x" size="4194304" sha1="41e12cb8465acb6e0180deea9b34c2554e3f79e1" crc="e39ba17f" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 5).32x" size="3090536" sha1="2093a7437062dc21c4440a360dd177102ca6cc88" crc="ffe279cc" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 6).32x" size="3090528" sha1="91d78a15094c20fb6a8103d5addbaa4f90d199b8" crc="37a79c9c" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 7).32x" size="3136928" sha1="f6b944876b40b5a52bf1293b71373cb3f5c71a14" crc="91106a69" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 8).32x" size="3136712" sha1="7c295cb39408d21835b76c2c1aeb03b659094593" crc="d261a6c3" />
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta 9).32x" size="3136712" sha1="eff8337257b0cc6221ce459d32191f7d63450d1c" crc="1559541e" />
+  </game>
+  <game name="01 - Games/Knuckles' Chaotix">
+    <rom name="Knuckles' Chaotix (Europe).32x" size="3145728" sha1="5c1a2e327a656217604d4bae7e141764a7e59922" crc="41d63572" />
+    <rom name="Knuckles' Chaotix (Japan, USA) (En).32x" size="3145728" sha1="0c2fff7bc79ed26507c08ac47464c3af19f7ced7" crc="d0b0b842" />
+  </game>
+  <game name="01 - Games/Knuckles' Chaotix/~Prototypes and Betas">
+    <rom name="Knuckles' Chaotix (Japan, USA) (En) (Beta 1).32x" size="3145728" sha1="150dace1482ebf38a0f6242be6d8b7ea19f8a737" crc="d62ae235" />
+    <rom name="Knuckles' Chaotix (Japan, USA) (En) (Beta 10).32x" size="3145728" sha1="0cbbcc96f23917feb844469163bc8ab14da94816" crc="14f43e14" />
+    <rom name="Knuckles' Chaotix (Japan, USA) (En) (Beta 11).32x" size="3145728" sha1="88b122398c1b25f432ae845b799f1308f51aa055" crc="aff06bff" />
+    <rom name="Knuckles' Chaotix (Japan, USA) (En) (Beta 12).32x" size="3145728" sha1="af3bfd9540098581aef08664d625725ffcc90be2" crc="ba0a1108" />
+    <rom name="Knuckles' Chaotix (Japan, USA) (En) (Beta 2).32x" size="4194304" sha1="c62a8be339ffd9dd182a3f8e60b6e27225cfc5f2" crc="4307d738" />
+    <rom name="Knuckles' Chaotix (Japan, USA) (En) (Beta 3).32x" size="4194304" sha1="883c7748c3c352b44238d2bdc9152ac9651e99fb" crc="36a294e0" />
+    <rom name="Knuckles' Chaotix (Japan, USA) (En) (Beta 4).32x" size="4194304" sha1="882ce770f32f4af61ac422accecc8a84e1c52cd3" crc="5523ea78" />
+    <rom name="Knuckles' Chaotix (Japan, USA) (En) (Beta 5).32x" size="4194304" sha1="2b1a5f19113fa4015437ede5a195c5dfb377e5be" crc="468ad032" />
+    <rom name="Knuckles' Chaotix (Japan, USA) (En) (Beta 6).32x" size="3145728" sha1="4e4af26f944cf3b5d99f60f37b20dc67207a4fbe" crc="7b32e440" />
+    <rom name="Knuckles' Chaotix (Japan, USA) (En) (Beta 7).32x" size="3145728" sha1="d965d12c8cce09683d80c08d06c74b7c6e7b8dab" crc="b099e5f6" />
+    <rom name="Knuckles' Chaotix (Japan, USA) (En) (Beta 8).32x" size="3145728" sha1="01c9f4614f282a05b3e86701b4ca18a1a0e1889c" crc="e95d7f57" />
+    <rom name="Knuckles' Chaotix (Japan, USA) (En) (Beta 9).32x" size="3145728" sha1="4c13842abeda86ce6577da67ba5fc24fbfbdc0de" crc="7b716175" />
+  </game>
+  <game name="01 - Games/Kolibri">
+    <rom name="Kolibri (USA, Europe).32x" size="3145728" sha1="191ae0b525ecf32664086d8d748e0b35f776ddfe" crc="20ca53ef" />
+  </game>
+  <game name="01 - Games/Mega Marble World 2/~Prototypes and Betas">
+    <rom name="Mega Marble World 2 (World) (Proto) (Aftermarket) (Unl).32x" size="515852" sha1="316851e0e036cc21b21551b0e2a31e32a265e92d" crc="c00c76e6" />
+  </game>
+  <game name="01 - Games/Metal Head">
+    <rom name="Metal Head (Europe) (En,Ja).32x" size="3145728" sha1="2a7767024e23b55fe193d586a96a3ba3c92e7ea8" crc="bf9b8376" />
+    <rom name="Metal Head (Japan, USA) (En,Ja).32x" size="3145728" sha1="4e872fbb44ecb2bd730abd8cc8f32f96b10582c0" crc="ef5553ff" />
+  </game>
+  <game name="01 - Games/Metal Head/~Prototypes and Betas">
+    <rom name="Metal Head (Japan, USA) (En) (Beta 1).32x" size="3145728" sha1="a81db052a095360439a1da6e41ac19b91561ab27" crc="2ea0ff81" />
+    <rom name="Metal Head (Japan, USA) (En) (Beta 2).32x" size="3145728" sha1="a943ea135d6c685f87957503697cb9f894e12c52" crc="a0343749" />
+    <rom name="Metal Head (Japan, USA) (En) (Beta 3).32x" size="3145728" sha1="e7667f4a4342a5a45b0a010f0fe2e61b2bf99fea" crc="398bcb98" />
+    <rom name="Metal Head (Japan, USA) (En) (Beta 4).32x" size="3145728" sha1="194f45a0651a59305e0e727e407801ff09968a62" crc="8b7bc8a4" />
+    <rom name="Metal Head (Japan, USA) (En) (Beta 5).32x" size="3145728" sha1="d82b26783f0843faabe526167eabf296c84b0c47" crc="fa0fc326" />
+    <rom name="Metal Head (Japan, USA) (En) (Beta 6).32x" size="3145728" sha1="438e172b22ef2b78f5bceb3195da408639ae463c" crc="476d29b0" />
+    <rom name="Metal Head (Japan, USA) (En) (Beta 7).32x" size="3145728" sha1="4d795a7ecab65527e6538ef886c3c3783a1ba936" crc="5369d23f" />
+    <rom name="Metal Head (Japan, USA) (En) (Beta 8).32x" size="3145728" sha1="5a38dce482c7fe38a50c6fd8884b019f1acab2a1" crc="3302b1a1" />
+    <rom name="Metal Head (Japan, USA) (En) (Beta 9).32x" size="3145728" sha1="8d7a9f78860342643502e2ba77b445b4dc7e078e" crc="de99c9ce" />
+  </game>
+  <game name="01 - Games/Mortal Kombat II">
+    <rom name="Mortal Kombat II (Europe).32x" size="4194304" sha1="f75698de887d0ef980f73e35fc4615887a9ad58f" crc="211085ce" />
+    <rom name="Mortal Kombat II (Japan, USA) (En).32x" size="4194304" sha1="d55964bd935110ac2d9cbd3b085b7e8b71b11df2" crc="773c0a85" />
+  </game>
+  <game name="01 - Games/Mortal Kombat II/~Hacks/Mortal Kombat II (Europe) [MSU-MD hack by Jeroen Visser v1.0.4] [OST [MSU-MD Arcade Arranged by Relikk v20210521]]">
+    <rom name="Mortal Kombat II (Europe) (MSU-MD).32x" size="4194304" sha1="41e4279d5ba49497456798b5e2e5377d6b074bfe" crc="b5ce9f05" />
+    <rom name="Mortal Kombat II (Europe) (MSU-MD).bin" size="206244528" sha1="965a3623083b920ace3b2e7d3396f66acdf8f602" crc="bbc36f25" />
+    <rom name="Mortal Kombat II (Europe) (MSU-MD).cue" size="1653" sha1="8b12edfc0c4d5b3ce4ec28ceec6ee2498ec7ff31" crc="c1a4952c" />
+  </game>
+  <game name="01 - Games/Mortal Kombat II/~Hacks/Mortal Kombat II (Japan, USA) (En) [MD+ hack by Jeroen Visser v20220513] [OST [MD+ Arcade Arranged by Relikk v20210521]]">
+    <rom name="1-TitleTheme.wav" size="6459780" sha1="385702232d704d72421d4a90b2540dbc5cf4ab57" crc="c14a3e9e" />
+    <rom name="10-TheTomb_Over.wav" size="2572032" sha1="248e05b10e94ceb79d6c7dce655c4afb262b5711" crc="19b4d6d4" />
+    <rom name="11-Wasteland_ThePit2_KahnsArena.wav" size="7851476" sha1="1443ab104ff55168fa07d59e8d6b0e06eaf6bf51" crc="fa3e8181" />
+    <rom name="12-Wasteland_Critical.wav" size="911808" sha1="dd419d29cb29c9e673e7938692232846a7cc62e1" crc="3e7c67ff" />
+    <rom name="13-Wasteland_Over.wav" size="1201848" sha1="fab3886a8ac487e66d0f24b5146b1f5de046d999" crc="143b0ec9" />
+    <rom name="14-CloudRoom_Portal.wav" size="6149080" sha1="983bfd3163b2a89beec971dc2e68a10e7328de91" crc="2a2e9e6d" />
+    <rom name="15-CloudRoom_Critical.wav" size="347564" sha1="b791dd7d2b4f32e3d4db38f131407083f4ef0cbd" crc="7ddc31be" />
+    <rom name="16-CloudRoom_Over.wav" size="1145052" sha1="b652d9d3d893102ed2c3d77902a688f0de723716" crc="a7585c5c" />
+    <rom name="17-LivingForest.wav" size="6409700" sha1="e1bd1b838069c8bb9a0334abc77467fe78d3ce47" crc="f48ccaf4" />
+    <rom name="18-LivingForest_Critical.wav" size="319796" sha1="c06673f85ec0867fd821fcc986b1e6c75d952021" crc="5705c233" />
+    <rom name="19-LivingForest_Over.wav" size="857488" sha1="1afa1fb4e83094a7dc38b2ddf950b93ac8d1c1a0" crc="3e83a311" />
+    <rom name="2-CharacterSelect.wav" size="709772" sha1="5642763d1a94dfdcbdfcadffe85751eac75b3702" crc="736726fa" />
+    <rom name="20-Armoury.wav" size="7381112" sha1="bc9a08875d6d8dc5d6930427f899a3a41ccb9d14" crc="15182ea4" />
+    <rom name="21-Armoury_Critical.wav" size="340096" sha1="143455cc8b8c65bd3d58cfc596c7f2ed33fab49c" crc="0a791754" />
+    <rom name="22-Armoury_Over.wav" size="1302188" sha1="59130744250206f409ecf0bb6a36f5c645e3318b" crc="2ba6a255" />
+    <rom name="23-FinishHim.wav" size="904156" sha1="a7d6854175c38a2962abed19a4a2d4b0d04f40e1" crc="bf80c190" />
+    <rom name="24-Fatality.wav" size="806636" sha1="e438b9475603dfdf7b77a434e0fa792c4b7d4cbb" crc="bd31153d" />
+    <rom name="25-Babality.wav" size="689260" sha1="c16a21810ef2dab40f9270fae081a2c18e38be7a" crc="433acbae" />
+    <rom name="26-Friendship.wav" size="729860" sha1="68561b0203628787664ff5ad143f981c54a1fb63" crc="a07982f3" />
+    <rom name="27-LiuKangsFriendshipDance.wav" size="938156" sha1="1590cf1e09f9cdda85794ce26cdea897a89ccd18" crc="aac160d6" />
+    <rom name="28-ShaoKhanDefeated.wav" size="2738428" sha1="32cc82d93fc34b6eead1cf19a3ea71a3082d5ec5" crc="9a89fc3e" />
+    <rom name="29-EndingTheme.wav" size="9966856" sha1="2f5455a3ef273b3e91d09eb9dc6dcfc0ba71441b" crc="2aafe44b" />
+    <rom name="3-Selected.wav" size="577776" sha1="26b9acda2ff7ffb0c86876e0ed23dd64d9e1ef17" crc="f90ae2e8" />
+    <rom name="4-YourDestiny.wav" size="709388" sha1="7484c03503ff86ce5f811290b57a571263f84576" crc="10d1d4c2" />
+    <rom name="5-TheDeadPool.wav" size="5114512" sha1="71a0f4b099aadb6daa2296b535da72ec6e1d8196" crc="dd0d64cb" />
+    <rom name="6-TheDeadPool_Critical.wav" size="359468" sha1="191eff3a419910836156365aef0cfa512faa1223" crc="711e607a" />
+    <rom name="7-TheDeadPool_Over.wav" size="1102416" sha1="45ad553fdf08a65cca2692c39bd6f9809f255319" crc="1f5f417d" />
+    <rom name="8-TheTomb_SpecialPortal.wav" size="6354604" sha1="0979cb900af85bb9d64b22026b2030b645d00a4d" crc="d27a1878" />
+    <rom name="9-TheTomb_Critical.wav" size="268580" sha1="4057a78d1138d77766c6141c853179240611cbaa" crc="05a4ff17" />
+    <rom name="Mortal Kombat II (Japan, USA) (En) (MD+).32x" size="4194304" sha1="d884035eb4bd8ff58cc7ed4000dda0e863c99cec" crc="9c4c0fc0" />
+    <rom name="Mortal Kombat II (Japan, USA) (En) (MD+).cue" size="2675" sha1="d62a9fcccb3b8527785cd90e79fe53c6ef15e103" crc="ddb966c8" />
+  </game>
+  <game name="01 - Games/Mortal Kombat II/~Hacks/Mortal Kombat II (Japan, USA) (En) [MSU-MD hack by Jeroen Visser v1.0.4] [OST [MSU-MD Arcade Arranged by Relikk v20210521]]">
+    <rom name="Mortal Kombat II (Europe) (MSU-MD).bin" size="206244528" sha1="965a3623083b920ace3b2e7d3396f66acdf8f602" crc="bbc36f25" />
+    <rom name="Mortal Kombat II (Japan, USA) (En) (MSU-MD).32x" size="4194304" sha1="07a484c84452a058dae11c3c86923c7086405513" crc="3c9d18bc" />
+    <rom name="Mortal Kombat II (Japan, USA) (En) (MSU-MD).cue" size="1653" sha1="8b12edfc0c4d5b3ce4ec28ceec6ee2498ec7ff31" crc="c1a4952c" />
+  </game>
+  <game name="01 - Games/Mortal Kombat II/~Hacks/Mortal Kombat II Arcade Edition (Europe) [MD+ hack by Jeroen Visser v20221231] [Hack by Master Linkuei v1.5b] [n] [OST [MD+ Arcade Arranged by Relikk v20230102] [n]]">
+    <rom name="01-TitleTheme.wav" size="6459794" sha1="a3d6cd4d34ef88113102d3ad01896149262e3a3d" crc="dbcdd89f" />
+    <rom name="02-CharacterSelect.wav" size="709826" sha1="b450fb74dc411dc35c555cfb9fa916351c6b6b96" crc="ef84e2c9" />
+    <rom name="03-Selected.wav" size="577830" sha1="5e98abe0d1862541b218c67d26feffd7d5fd3142" crc="52a0fb05" />
+    <rom name="04-YourDestiny.wav" size="709464" sha1="f694076a54c023fee2c59922c3969ce2d8b1827a" crc="1d502591" />
+    <rom name="05-TheDeadPool.wav" size="5114566" sha1="20f222a38eb4287602f7b71193fb7e9d34202ac7" crc="cd509d19" />
+    <rom name="06-TheDeadPool_Critical.wav" size="359522" sha1="28168d6201465f9a991747d4a936fec3c2cecf39" crc="94d3a956" />
+    <rom name="07-TheDeadPool_Over.wav" size="1102470" sha1="5ca41556e0bd95d6be6f52caf776ebbc9512e67a" crc="95b37291" />
+    <rom name="08-TheTomb_SpecialPortal.wav" size="6354658" sha1="ea8c8b167d39a4473e70530c7381e674a92a88eb" crc="c200a0b4" />
+    <rom name="09-TheTomb_Critical.wav" size="268634" sha1="a7ebbd88f73a8ea03c933c3d68dfa5d347e2fad8" crc="ffcf0c1e" />
+    <rom name="10-TheTomb_Over.wav" size="2572086" sha1="2ac4e60be1cc0831c1925de5ee62a5b9706411fb" crc="3f60ebb1" />
+    <rom name="11-Wasteland_ThePit2_KahnsArena.wav" size="7851530" sha1="26c3f26e25c3477f06544825a5d898e7aca2be5a" crc="c18919ba" />
+    <rom name="12-Wasteland_Critical.wav" size="911862" sha1="693bb455d196639e467a9088c2e070da0a8a2d73" crc="50031d59" />
+    <rom name="13-Wasteland_Over.wav" size="1201902" sha1="38f119e4c3a04455b33aa9fa70689bf4136d1084" crc="98e2a4d5" />
+    <rom name="14-CloudRoom_Portal.wav" size="6149134" sha1="55edba5ff5b0707e8b3f051322d46fed89647415" crc="82e45a3e" />
+    <rom name="15-CloudRoom_Critical.wav" size="347618" sha1="66387fb043152143388c0538d2f37ed64f305bc5" crc="432cd60a" />
+    <rom name="16-CloudRoom_Over.wav" size="1145106" sha1="121b86ac7ef85fad4516eaa5bda1e1b9b34d805f" crc="1ac834e8" />
+    <rom name="17-LivingForest.wav" size="6409754" sha1="a2a7be4b272708688af5df802ef27449c1e48a3b" crc="fe815f79" />
+    <rom name="18-LivingForest_Critical.wav" size="319850" sha1="3c53df5ce5a6e292536fb0405d5ed1718de248c1" crc="872d2d23" />
+    <rom name="19-LivingForest_Over.wav" size="857542" sha1="d72630e469c8b1458147f01861496e424c51f49e" crc="2b37348c" />
+    <rom name="20-Armoury.wav" size="7381166" sha1="7249052cdc7e1b3415bbb62f0f4a40e47450359e" crc="5cf54554" />
+    <rom name="21-Armoury_Critical.wav" size="340150" sha1="2e37b50a1b1af5e1aa914fea13f75f4dd85eacd3" crc="3ff43099" />
+    <rom name="22-Armoury_Over.wav" size="1302242" sha1="e1671b184b7d3a01affc193bb6864f040681932c" crc="abb4b88c" />
+    <rom name="23-FinishHim.wav" size="904210" sha1="f0d2caae373aa37f828eedd3f970ecf8f26d28bc" crc="87a962ba" />
+    <rom name="24-Fatality.wav" size="800480" sha1="0e7c7c0211ee392a9d45d349b4076e2c5b97992b" crc="ad741b25" />
+    <rom name="25-Babality.wav" size="632776" sha1="133fb3c18622f697efa565fb66f3706279bcc794" crc="326c7aaa" />
+    <rom name="26-Friendship.wav" size="663452" sha1="71fb912e7739c3d32844dbcf4f6a2815fe792612" crc="b74e849d" />
+    <rom name="27-LiuKangsFriendshipDance.wav" size="905092" sha1="5680be81c16bd71e1170eb0dc6ab4522f83dbcce" crc="6d44b35a" />
+    <rom name="28-ShaoKhanDefeated.wav" size="2738482" sha1="66f4f4d8060fc88b415e7d3adeeac3bd231cacf3" crc="410ded9d" />
+    <rom name="29-EndingTheme.wav" size="9966910" sha1="3215d88ae8ee3fc0ee4acc76c508850a86a2ac95" crc="26d80068" />
+    <rom name="30-GameOver.wav" size="2384560" sha1="6c86a6e4f30d255a4f27766d1131eb86905aeb49" crc="bdb243ca" />
+    <rom name="31-KombatTomb.wav" size="8106152" sha1="95f114c9f21a366a41ff012f9bcbb96820a6e6fc" crc="5ff1c981" />
+    <rom name="32-KombatTomb_Critical.wav" size="287888" sha1="be0270218b574698381d4cc9e2a5879524a6a108" crc="ce6e9d37" />
+    <rom name="33-KombatTomb_Over.wav" size="1611572" sha1="d6b950a720ccb2337dc5e048db95f2389069b2f4" crc="fc24e1f5" />
+    <rom name="34-Theme.wav" size="31093766" sha1="d580c5a78120bec9bb784f6c574b0a3d5aeba4c8" crc="04c6d492" />
+    <rom name="Mortal Kombat II Arcade Edition (Europe) (MD+) [n].32x" size="4194304" sha1="3d5aa7a43ec7583c84e636f454dc942579fb9d02" crc="0d89f052" />
+    <rom name="Mortal Kombat II Arcade Edition (Europe) (MD+) [n].cue" size="3212" sha1="8a1269229ad798eb55f875fb7c3bc664019f27b5" crc="a7f4127a" />
+  </game>
+  <game name="01 - Games/Motherbase">
+    <rom name="Motherbase (Europe).32x" size="2097152" sha1="00792570c459637d46f26d0ceb301ed9d83f0098" crc="0d6523a3" />
+    <rom name="Zaxxon's Motherbase 2000 (Japan, USA) (En).32x" size="2097152" sha1="60c390f76c394bdd221936c21aecbf98aec49a3d" crc="447d44be" />
+  </game>
+  <game name="01 - Games/Motherbase/~Prototypes and Betas">
+    <rom name="Motherbase (Europe) (Sample).32x" size="2097152" sha1="6d457a613e91ed265b0e2835a02e05558bc7e3ca" crc="e181c5d0" />
+    <rom name="Zaxxon's Motherbase (Japan, USA) (En) (Beta 1).32x" size="2097152" sha1="9db5a93ae5fc4045df342a9f53b904ef130debbf" crc="c65693af" />
+    <rom name="Zaxxon's Motherbase (Japan, USA) (En) (Beta 2).32x" size="2097152" sha1="3a8c794139fe7255e7107877b2d0018a6eaa0300" crc="061c0cf2" />
+    <rom name="Zaxxon's Motherbase (Japan, USA) (En) (Beta 3).32x" size="2097152" sha1="6c93f432610908950b594bb8d289fe81de88fbdf" crc="e92b36c5" />
+    <rom name="Zaxxon's Motherbase (Japan, USA) (En) (Beta 4).32x" size="2097152" sha1="e498f84bea01f073a430d854b47306b7d35ffe08" crc="a1ef9787" />
+    <rom name="Zaxxon's Motherbase (Japan, USA) (En) (Beta 5).32x" size="2097152" sha1="22dfc9a059657f45c7218d3be84c4a8c257ccc38" crc="5856082d" />
+    <rom name="Zaxxon's Motherbase (Japan, USA) (En) (Beta 6).32x" size="2097152" sha1="67afaca4956df2120f62259b1147feaad6098a53" crc="90692a18" />
+    <rom name="Zaxxon's Motherbase (Japan, USA) (En) (Beta 7).32x" size="2097152" sha1="df6898e46cba85541bc7f92090bfcf7000c0e648" crc="20faf0c3" />
+    <rom name="Zaxxon's Motherbase (Japan, USA) (En) (Beta 8).32x" size="2097152" sha1="ed9d3414edc90b7fb6a23732038f5c57710de9d3" crc="adfd5bc6" />
+    <rom name="Zaxxon's Motherbase (Japan, USA) (En) (Beta 9).32x" size="2097152" sha1="ed3b31494407f324f18db4f5056ad6df75dc1a10" crc="1344f08b" />
+  </game>
+  <game name="01 - Games/Motocross Championship">
+    <rom name="Motocross Championship (Europe).32x" size="2097152" sha1="af0cb8626825e1b431eba07b8a9b571186745c16" crc="ae3364e9" />
+    <rom name="Motocross Championship (USA).32x" size="2097152" sha1="5f1a107991aaf9eff0b3ce864b2e3151f56abe7b" crc="a21c5761" />
+  </game>
+  <game name="01 - Games/Motocross Championship/~Prototypes and Betas">
+    <rom name="Motocross Championship (USA) (Beta 1).32x" size="1690952" sha1="102e763c6f4bf65210b307d34d75473fd27d7ae4" crc="0a075812" />
+    <rom name="Motocross Championship (USA) (Beta 10).32x" size="2045684" sha1="3b7cfe05c0a66fc025bbdd3a35ba7828b2fc3c7f" crc="efe307ff" />
+    <rom name="Motocross Championship (USA) (Beta 11).32x" size="2045120" sha1="5dc89f7f2cc03689991c9325a1a2d08c6df5dc1b" crc="c652c802" />
+    <rom name="Motocross Championship (USA) (Beta 12).32x" size="2045624" sha1="ca4db761d26328b99445445b99304e90d7279c3e" crc="6e12d410" />
+    <rom name="Motocross Championship (USA) (Beta 13).32x" size="2097152" sha1="181a58cfc8348e18e5d34ed0a75e79acedcc004e" crc="63db2fb0" />
+    <rom name="Motocross Championship (USA) (Beta 14).32x" size="2097152" sha1="93e13f7d3c4640e9aee7d577e974ab6581c07f91" crc="5ff9eab9" />
+    <rom name="Motocross Championship (USA) (Beta 15).32x" size="2097152" sha1="45f457930884c7a5ec35361e37b1fd8cd91e4487" crc="37f78d3d" />
+    <rom name="Motocross Championship (USA) (Beta 2).32x" size="1608792" sha1="670779a85db5673b23825b91693b1015f841fde3" crc="f3163d21" />
+    <rom name="Motocross Championship (USA) (Beta 3).32x" size="1624764" sha1="bafabf4eb40fb1197dd543fa6ae69df1f87e9d02" crc="2c2dc4df" />
+    <rom name="Motocross Championship (USA) (Beta 4).32x" size="1644464" sha1="3862fe8d98a512e3332748b8f73fcdf84faba489" crc="385ed8c7" />
+    <rom name="Motocross Championship (USA) (Beta 5).32x" size="1661296" sha1="95edb6101eee31588e7b0ce0b67d73206070eb81" crc="ac6cf708" />
+    <rom name="Motocross Championship (USA) (Beta 6).32x" size="1736076" sha1="d641e7b2fd0a44ad603cdc324921a25f1b897288" crc="20c49183" />
+    <rom name="Motocross Championship (USA) (Beta 7).32x" size="1843436" sha1="174158dd18a4d243d3c943c9f8cf080acd91cc3b" crc="59107472" />
+    <rom name="Motocross Championship (USA) (Beta 8).32x" size="2045468" sha1="372a43df94cbed3859bbddad4982fa5301416aed" crc="46970275" />
+    <rom name="Motocross Championship (USA) (Beta 9).32x" size="2045684" sha1="607b9d89e312294ca4e477de238bec2d1bea2a42" crc="cefef428" />
+  </game>
+  <game name="01 - Games/NBA Jam - Tournament Edition">
+    <rom name="NBA Jam - Tournament Edition (World).32x" size="4194304" sha1="c8af3e74c49514669ba6652ec0c81bccf77873b6" crc="6b7994aa" />
+  </game>
+  <game name="01 - Games/NFL Quarterback Club">
+    <rom name="NFL Quarterback Club (World).32x" size="3145728" sha1="a0dc24f2f3a7fc5bfd12791cf25af7f7888843cf" crc="0bc7018d" />
+  </game>
+  <game name="01 - Games/Pinocchio/~Prototypes and Betas">
+    <rom name="Pinocchio (Europe) (Proto).32x" size="4194304" sha1="39ccf67e516bdaec879f1e30b23d5f253e82b6c8" crc="390a90f9" />
+  </game>
+  <game name="01 - Games/Pitfall - The Mayan Adventure">
+    <rom name="Pitfall - The Mayan Adventure (USA).32x" size="3145728" sha1="ee864d1677c6d976d0846eb5f8d8edb839acfb76" crc="f9126f15" />
+  </game>
+  <game name="01 - Games/Pitfall! (Original game port)">
+    <rom name="Pitfall - The Mayan Adventure (USA).32x" size="3145728" sha1="ee864d1677c6d976d0846eb5f8d8edb839acfb76" crc="f9126f15" />
+  </game>
+  <game name="01 - Games/Primal Rage">
+    <rom name="Primal Rage (USA, Europe).32x" size="4194304" sha1="5084dcca51d76173c383ab7d04cbc661673545f7" crc="e78a4d28" />
+  </game>
+  <game name="01 - Games/RBI Baseball '95">
+    <rom name="RBI Baseball '95 (USA).32x" size="2097152" sha1="4f90433a4403fd74cafeea49272689046de4ae43" crc="ff795fdc" />
+  </game>
+  <game name="01 - Games/Sangokushi IV">
+    <rom name="Sangokushi IV (Japan).32x" size="4194304" sha1="74a3ba27c55cff12409bf6c9324ece6247abbad1" crc="e4de7625" />
+  </game>
+  <game name="01 - Games/Sonic the Hedgehog">
+    <rom name="Sonic the Hedgehog (World) (Aftermarket) (Unl).32x" size="533958" sha1="6bfe157720429063f3eb0d4dd9d86d9e087ddde3" crc="2221c701" />
+  </game>
+  <game name="01 - Games/Soulstar X/~Prototypes and Betas">
+    <rom name="Soulstar X (USA) (Proto).32x" size="2097152" sha1="4726988f28c5e49971e1f38e335fecc3f9dd6c1f" crc="5ea52f22" />
+  </game>
+  <game name="01 - Games/Space Harrier">
+    <rom name="Space Harrier (Europe).32x" size="2097152" sha1="8b0495257fa5392ef9ddcc9c3ba1860ae58f4f3d" crc="5cac3587" />
+    <rom name="Space Harrier (Japan, USA) (En).32x" size="2097152" sha1="f32a52a7082761982024e40291dbd962a835b231" crc="86e7f989" />
+  </game>
+  <game name="01 - Games/Space Harrier/~Prototypes and Betas">
+    <rom name="Space Harrier (Japan, USA) (En) (Beta).32x" size="2097152" sha1="05d24d6f6c645866b8b1fde96746e27d0a19bbc6" crc="2c65fa40" />
+  </game>
+  <game name="01 - Games/Spot Goes to Hollywood/~Prototypes and Betas">
+    <rom name="Spot Goes to Hollywood (USA) (Proto).32x" size="3145728" sha1="f233175e65928727a789b89850702af43fa8d4a4" crc="ce6c4b99" />
+  </game>
+  <game name="01 - Games/Star Trek - Starfleet Academy - Starship Bridge Simulator">
+    <rom name="Star Trek - Starfleet Academy - Starship Bridge Simulator (USA).32x" size="2097152" sha1="e5248328b64a1ec4f1079c88ee53ef8d48e99e58" crc="dd9708b9" />
+  </game>
+  <game name="01 - Games/Star Wars Arcade">
+    <rom name="Star Wars Arcade (Europe).32x" size="2621440" sha1="a877cbf704fe7480966fd88a3c39efb6a39392ac" crc="82e82660" />
+    <rom name="Star Wars Arcade (Japan).32x" size="2621440" sha1="282767a07e453e868de52b46bf11def3d071bda6" crc="f4e9b846" />
+    <rom name="Star Wars Arcade (USA).32x" size="2621440" sha1="f4ffaaf1d8330ea971643021be3f3203e1ea065d" crc="2f16b44a" />
+  </game>
+  <game name="01 - Games/Star Wars Arcade/~Hacks/Star Wars Arcade (USA) [MD+ hack by Relikk v20260622] [OST [MD+ John Williams OST Arranged by Relikk v20260622]]">
+    <rom name="01-SoundTest_EndCredits.wav" size="3778972" sha1="16b17aa59ae346fb6444c7a64337150ec44620cf" crc="5e9f9d5e" />
+    <rom name="02-Ending1_TIEFighterAttack.wav" size="5821284" sha1="20d7d6ba1b5115832b572a9873059546cd3a806a" crc="7169468e" />
+    <rom name="03-Continue_CantinaBandTheme.wav" size="10308480" sha1="ff5c4273a875891d59c535b35228c87d310b16a5" crc="408df71b" />
+    <rom name="04-SoundTest_TheBattleOfYavin.wav" size="10063704" sha1="844a1e5a10906254d6b240ddfac40e8699b94840" crc="a8ce3705" />
+    <rom name="05-Ending2_TheThroneRoom.wav" size="8416388" sha1="fbf3960182f726285e0d8a191b12b7baf66cbf83" crc="51cbc515" />
+    <rom name="06-MissionBriefing_TheImperialMarch.wav" size="16492266" sha1="ded9853c2ac9443b192cc0910fce8929880939cf" crc="a1ad2cd5" />
+    <rom name="07-SoundTest_TheAsteroidField.wav" size="8435220" sha1="c5fc1666054115eb71154da987d99a7936f7b43f" crc="2ac75647" />
+    <rom name="08-MainGameplayTheme_ThePitOfCarkoon_SailBargeAssault.wav" size="13294668" sha1="878060d907ec3b7b196582e7f9a6cc5b22ea9a4a" crc="426dfa84" />
+    <rom name="09-Ending3_ThePitOfCarkoon_SailBargeAssault.wav" size="6489996" sha1="5c6b66c879ff0d13fef77f4d9c33830a9d586b47" crc="7774210d" />
+    <rom name="10-GameOver_ImperialMarchJingle.wav" size="1902708" sha1="c4083dbbd523fd985b63caa358889f7c292464bf" crc="07e20cb7" />
+    <rom name="11-TitleScreen_StarWarsTheme.wav" size="14777756" sha1="b56a42e617dcfea49c7011626a99bea1b2f3ff03" crc="a25a71be" />
+    <rom name="Star Wars Arcade (USA) (MD+).32x" size="2621440" sha1="1070f3438f08750448ade0896a28db3a8df997e5" crc="3b08443e" />
+    <rom name="Star Wars Arcade (USA) (MD+).cue" size="1228" sha1="dca6b3e7791930baf926283b95747d1097cfd5c2" crc="6ab6363d" />
+  </game>
+  <game name="01 - Games/Star Wars Arcade/~Prototypes and Betas">
+    <rom name="Star Wars Arcade (Europe) (Beta 1).32x" size="2517257" sha1="75ce473164f678f9f394d719b35850e4899a8cd1" crc="8e7bfc7c" />
+    <rom name="Star Wars Arcade (Europe) (Beta 2).32x" size="2517297" sha1="2f93b915add1357dfcf42135d4ce85e6bb668cf8" crc="7682fe72" />
+    <rom name="Star Wars Arcade (Europe) (Beta 3).32x" size="2621440" sha1="1ade331c81eade613748126882057841dc02a420" crc="c00af920" />
+    <rom name="Star Wars Arcade (Europe) (Beta 4).32x" size="2621440" sha1="c75853fb88f13a01ddca05b2202ed150770c1284" crc="57afc1ac" />
+    <rom name="Star Wars Arcade (Japan) (Beta 1).32x" size="2516793" sha1="f1786e62b7707b8a01b66720f2722d555ec9d4db" crc="6074f26c" />
+    <rom name="Star Wars Arcade (Japan) (Beta 2).32x" size="3145728" sha1="38fde66801083a60c142c3f3e7bae2aa81518acf" crc="a653a183" />
+    <rom name="Star Wars Arcade (Japan) (Beta 3).32x" size="2516513" sha1="24e599b251d643b74a923323a83e43a26d21fafc" crc="9861e21f" />
+    <rom name="Star Wars Arcade (USA) (Beta 1).32x" size="2097152" sha1="8e90bb4b3bde14b819de85944080d4a3caf11c1b" crc="10d4a078" />
+    <rom name="Star Wars Arcade (USA) (Beta 10).32x" size="3145728" sha1="492816545c7309d2b7594b5d4f8d508f4a13e06a" crc="150a0dfd" />
+    <rom name="Star Wars Arcade (USA) (Beta 11).32x" size="3145728" sha1="5d924628b507464ec1b1ca8755cb509cf68b02af" crc="02933d44" />
+    <rom name="Star Wars Arcade (USA) (Beta 2).32x" size="2097152" sha1="37da621707fec11bb08d59cec1fa2c554365afec" crc="b0bb29eb" />
+    <rom name="Star Wars Arcade (USA) (Beta 3).32x" size="2097152" sha1="b7df724434b0e7ef2af198a56021d825f701cf4d" crc="b8d9317c" />
+    <rom name="Star Wars Arcade (USA) (Beta 4).32x" size="2097152" sha1="7e84f2eafef33e211500a551b3d430155368b66e" crc="c6a8582b" />
+    <rom name="Star Wars Arcade (USA) (Beta 5).32x" size="2097152" sha1="761aa97ab8f7524c49a141804246209fd6c970f2" crc="5bdd86d3" />
+    <rom name="Star Wars Arcade (USA) (Beta 6).32x" size="2097152" sha1="b328170014bfc4770479eacc017f76bcaee61389" crc="118a011c" />
+    <rom name="Star Wars Arcade (USA) (Beta 7).32x" size="2467793" sha1="d4c262ba8118f2f2af720a45e461d4254d5163b4" crc="dc5628ba" />
+    <rom name="Star Wars Arcade (USA) (Beta 8).32x" size="2504513" sha1="2ba71086a01e14051dce2a5c24bba49a991cb2e5" crc="efc980fe" />
+    <rom name="Star Wars Arcade (USA) (Beta 9).32x" size="3145728" sha1="9a492a52be224ee9ff41d4ea7df3cee67f028235" crc="34c6a769" />
+  </game>
+  <game name="01 - Games/Stellar Assault">
+    <rom name="Stellar Assault (Japan) (En).32x" size="2097152" sha1="ff4f1a2dded85f3ad43bf28a85c46ad8595d5614" crc="fce4c8c7" />
+    <rom name="Stellar Assault (USA, Europe).32x" size="2097152" sha1="561c8c63dbcabc0b1b6f31673ca75a0bde7abc72" crc="60c49e4d" />
+  </game>
+  <game name="01 - Games/Stellar Assault/~Prototypes and Betas">
+    <rom name="Stellar Assault (Japan) (En) (Beta 1).32x" size="2097152" sha1="6ff8cd79cfa073697dd13cd1c4dc767b4e0c558e" crc="24057310" />
+    <rom name="Stellar Assault (Japan) (En) (Beta 2).32x" size="2097152" sha1="71061c0a02b4cc3c3e39d872bf86b190421cb594" crc="ca0de10e" />
+    <rom name="Stellar Assault (USA, Europe) (Beta 1).32x" size="2097152" sha1="9d72335cb0468a9699f7e92927043387091bc0c9" crc="48ef9ee9" />
+    <rom name="Stellar Assault (USA, Europe) (Beta 2).32x" size="2097152" sha1="5a83e4ebffe8ac7108b45697be7468bd7f111642" crc="25bdde61" />
+    <rom name="Stellar Assault (USA, Europe) (Beta 3).32x" size="2097152" sha1="31a0a0a34719b1259de98458c24cf5eb78f7109c" crc="7eec3665" />
+    <rom name="Stellar Assault (USA, Europe) (Beta 4).32x" size="2097152" sha1="9875b357fd2d651892054d233c608b6f3bbb40e7" crc="fd7fedb2" />
+    <rom name="Stellar Assault (USA, Europe) (Beta 5).32x" size="2097152" sha1="9bae40d4d07a096545b11f6b0434db778c238af5" crc="58962105" />
+  </game>
+  <game name="01 - Games/T-MEK">
+    <rom name="T-MEK (USA, Europe).32x" size="3145728" sha1="173c8425921d83db3e8d181158e7599364f4c0f6" crc="66d2c48f" />
+  </game>
+  <game name="01 - Games/Tempo">
+    <rom name="Tempo (Japan, USA) (En).32x" size="3145728" sha1="6673ba83570b4f2c1b4a22415a56594c3cc6c6a9" crc="14e5c575" />
+  </game>
+  <game name="01 - Games/Tempo/~Prototypes and Betas">
+    <rom name="Tempo (Japan, USA) (En) (Beta 1).32x" size="3145728" sha1="017ee73e0f582893ef3deebfbe74af4babd532a5" crc="7bfe49a3" />
+    <rom name="Tempo (Japan, USA) (En) (Beta 2).32x" size="3145728" sha1="55fd5d5410a820867526d5f7f909bf39d25607c2" crc="48cc1645" />
+    <rom name="Tempo (Japan, USA) (En) (Beta 3).32x" size="3145728" sha1="1b8225ae3e688ebdde482015a389a6cebbdbfd5e" crc="7a02c17b" />
+    <rom name="Tempo (Japan, USA) (En) (Beta 4).32x" size="3145728" sha1="4ec1dd3abf3e5aa0d1a902f20cfa0d16a224b5bf" crc="86637ae4" />
+    <rom name="Tempo (Japan, USA) (En) (Beta 5).32x" size="3145728" sha1="73d31074f08d9dd8061bf0996829dbad46b3d784" crc="6e2bcc9f" />
+    <rom name="Tempo (Japan, USA) (En) (Beta 6).32x" size="3145728" sha1="2e9724e9b7f2d351ad1ddfb34c43014aff4b07dd" crc="e2502fe6" />
+    <rom name="Tempo (Japan, USA) (En) (Beta 7).32x" size="3145728" sha1="7c29092fb82711851f1c681fa717cd59b98f531a" crc="6d0775f3" />
+    <rom name="Tempo (Japan, USA) (En) (Beta 8).32x" size="3145728" sha1="91bca4f05b97b51b96fb1ddcb9b54165f0b621ae" crc="a2ebc91c" />
+  </game>
+  <game name="01 - Games/Toughman Contest">
+    <rom name="Toughman Contest (USA, Europe).32x" size="4194304" sha1="7588b0b8f4e93d5fdc920d3ab7e464154e423da9" crc="14eac7a6" />
+  </game>
+  <game name="01 - Games/Virtua Fighter">
+    <rom name="Virtua Fighter (Europe).32x" size="4194304" sha1="24b3063284a914c76d8d1f681e3ed6323b0d7d0b" crc="25aea73c" />
+    <rom name="Virtua Fighter (Japan, USA) (En).32x" size="4194304" sha1="f35754f4bfe3a53722d7a799f88face0fd13c424" crc="b5de9626" />
+  </game>
+  <game name="01 - Games/Virtua Fighter/~Hacks/Virtua Fighter (Japan, USA) (En) [MD+ hack by Relikk v20260626] [OST [MD+ Sega Saturn Arranged by Relikk v20260626] [incl PicoDrive logo fix]] [PicoDrive logo CUE variant]">
+    <rom name="01-SegaLogo.wav" size="1031668" sha1="cd27d83c23a60c4fce536f2726ba8a717bc762f6" crc="b4e2b41b" />
+    <rom name="01-SegaLogo_picodrive_fix.wav" size="1438020" sha1="e1b8cae450808fb7e3fd5f3c61d903e7209a43e1" crc="c54b656b" />
+    <rom name="02-Win.wav" size="796060" sha1="ffc3a4a0f8fdb07f842166beb1fec7df1ace016e" crc="d4321633" />
+    <rom name="03-Lose.wav" size="821604" sha1="fd528d279fd318cbfc5bf0b1afe7d716fff69905" crc="ada02d7c" />
+    <rom name="04-Continue.wav" size="2831416" sha1="ec2bd9abc527e79441ddfc7e1d0605f20e30bb67" crc="4da98dc7" />
+    <rom name="05-Selector.wav" size="5425284" sha1="f04659f003a6f75f8c698ef8d8573d6e5665ea5d" crc="822d03ae" />
+    <rom name="06-ThemeOfJacky.wav" size="30980212" sha1="e137fbb3334a9e9b70571aebb5cdda63da8deebc" crc="66f2df0b" />
+    <rom name="07-ThemeOfJeffry.wav" size="31611660" sha1="90c2c211428bd7dcc8e1278e037f6e039e97a416" crc="160ef891" />
+    <rom name="08-ThemeOfSarah.wav" size="35439476" sha1="631ec69090a5397764ec1c9adf54d39287c0f1b2" crc="226fd4d4" />
+    <rom name="09-ThemeOfKage.wav" size="34733092" sha1="e57489735fa5ca6a460ce311799e5fb6c2e9328f" crc="e5e801c9" />
+    <rom name="10-ThemeOfPai.wav" size="37889856" sha1="cdc4655059efb9a6da508c0e0eba78806d664c4d" crc="046de729" />
+    <rom name="11-ThemeOfWolf.wav" size="32425804" sha1="75f8f6c805e4da602c18db0aea610c3c38da12db" crc="153cda6d" />
+    <rom name="12-ThemeOfLau.wav" size="37286012" sha1="cfd6e2f2bb8ea747fb29044b4d80cb2aa949fa88" crc="df0d2937" />
+    <rom name="13-ThemeOfAkira.wav" size="43723824" sha1="c0c27bf40771ad3ceac1dda378dbe815ca47d059" crc="d4262fb4" />
+    <rom name="14-ThemeOfDural.wav" size="36258436" sha1="5b8811daf8ba61ef0ffe74c4a5a2838f2859d107" crc="ae9d24b4" />
+    <rom name="15-NameEntry.wav" size="8320360" sha1="2e54144635dbcfa8bab39f7df6bd738945f16662" crc="2198e249" />
+    <rom name="16-___.wav" size="1020784" sha1="fce61baf3f8a13cbe160ba559413409259b13b20" crc="9a70a71a" />
+    <rom name="17-____.wav" size="1025932" sha1="c947af8c35a914c80a8e15c5d12599570ca4a2e5" crc="de64c859" />
+    <rom name="18-_____.wav" size="1861388" sha1="55854027dbc74a2519daceb3c03b2edcd5b87c53" crc="44db4412" />
+    <rom name="19-Opening.wav" size="5662180" sha1="0ded8f0c06497554daac7e105000d3101e2c8c58" crc="08db951a" />
+    <rom name="20-Ending.wav" size="5136740" sha1="da7d2206e1a7a374120bf691b45192408ee9b3d4" crc="81fe966c" />
+    <rom name="21-Result_FM.wav" size="549144" sha1="71614a28dbfd6fa63a029877a5a06d339586953f" crc="572871eb" />
+    <rom name="22-BeginTournament_FM.wav" size="474024" sha1="121f612810cf2745c714eeff532350431871f7f2" crc="03835895" />
+    <rom name="23-Victory_FM.wav" size="1571332" sha1="4aa0e7890834cb633880172c84386017a5b05278" crc="dba79b46" />
+    <rom name="Virtua Fighter (Japan, USA) (En) (MD+) [Rename and use with PicoDrive to fix SEGA logo loop issue].cue" size="2085" sha1="0cd1cb5cf65e94af5b3116a6c0a6896bf3ac6d4d" crc="83203278" />
+    <rom name="Virtua Fighter (Japan, USA) (En) (MD+).32x" size="4194304" sha1="0c726a05228208de55d2580cd2141638d8a69554" crc="23e4f213" />
+    <rom name="Virtua Fighter (Japan, USA) (En) (MD+).cue" size="2085" sha1="0cd1cb5cf65e94af5b3116a6c0a6896bf3ac6d4d" crc="83203278" />
+  </game>
+  <game name="01 - Games/Virtua Fighter/~Hacks/Virtua Fighter (Japan, USA) (En) [MD+ hack by Relikk v20260626] [OST [MD+ Sega Saturn Arranged by Relikk v20260626] [incl PicoDrive logo fix]]">
+    <rom name="01-SegaLogo.wav" size="1031668" sha1="cd27d83c23a60c4fce536f2726ba8a717bc762f6" crc="b4e2b41b" />
+    <rom name="01-SegaLogo_picodrive_fix.wav" size="1438020" sha1="e1b8cae450808fb7e3fd5f3c61d903e7209a43e1" crc="c54b656b" />
+    <rom name="02-Win.wav" size="796060" sha1="ffc3a4a0f8fdb07f842166beb1fec7df1ace016e" crc="d4321633" />
+    <rom name="03-Lose.wav" size="821604" sha1="fd528d279fd318cbfc5bf0b1afe7d716fff69905" crc="ada02d7c" />
+    <rom name="04-Continue.wav" size="2831416" sha1="ec2bd9abc527e79441ddfc7e1d0605f20e30bb67" crc="4da98dc7" />
+    <rom name="05-Selector.wav" size="5425284" sha1="f04659f003a6f75f8c698ef8d8573d6e5665ea5d" crc="822d03ae" />
+    <rom name="06-ThemeOfJacky.wav" size="30980212" sha1="e137fbb3334a9e9b70571aebb5cdda63da8deebc" crc="66f2df0b" />
+    <rom name="07-ThemeOfJeffry.wav" size="31611660" sha1="90c2c211428bd7dcc8e1278e037f6e039e97a416" crc="160ef891" />
+    <rom name="08-ThemeOfSarah.wav" size="35439476" sha1="631ec69090a5397764ec1c9adf54d39287c0f1b2" crc="226fd4d4" />
+    <rom name="09-ThemeOfKage.wav" size="34733092" sha1="e57489735fa5ca6a460ce311799e5fb6c2e9328f" crc="e5e801c9" />
+    <rom name="10-ThemeOfPai.wav" size="37889856" sha1="cdc4655059efb9a6da508c0e0eba78806d664c4d" crc="046de729" />
+    <rom name="11-ThemeOfWolf.wav" size="32425804" sha1="75f8f6c805e4da602c18db0aea610c3c38da12db" crc="153cda6d" />
+    <rom name="12-ThemeOfLau.wav" size="37286012" sha1="cfd6e2f2bb8ea747fb29044b4d80cb2aa949fa88" crc="df0d2937" />
+    <rom name="13-ThemeOfAkira.wav" size="43723824" sha1="c0c27bf40771ad3ceac1dda378dbe815ca47d059" crc="d4262fb4" />
+    <rom name="14-ThemeOfDural.wav" size="36258436" sha1="5b8811daf8ba61ef0ffe74c4a5a2838f2859d107" crc="ae9d24b4" />
+    <rom name="15-NameEntry.wav" size="8320360" sha1="2e54144635dbcfa8bab39f7df6bd738945f16662" crc="2198e249" />
+    <rom name="16-___.wav" size="1020784" sha1="fce61baf3f8a13cbe160ba559413409259b13b20" crc="9a70a71a" />
+    <rom name="17-____.wav" size="1025932" sha1="c947af8c35a914c80a8e15c5d12599570ca4a2e5" crc="de64c859" />
+    <rom name="18-_____.wav" size="1861388" sha1="55854027dbc74a2519daceb3c03b2edcd5b87c53" crc="44db4412" />
+    <rom name="19-Opening.wav" size="5662180" sha1="0ded8f0c06497554daac7e105000d3101e2c8c58" crc="08db951a" />
+    <rom name="20-Ending.wav" size="5136740" sha1="da7d2206e1a7a374120bf691b45192408ee9b3d4" crc="81fe966c" />
+    <rom name="21-Result_FM.wav" size="549144" sha1="71614a28dbfd6fa63a029877a5a06d339586953f" crc="572871eb" />
+    <rom name="22-BeginTournament_FM.wav" size="474024" sha1="121f612810cf2745c714eeff532350431871f7f2" crc="03835895" />
+    <rom name="23-Victory_FM.wav" size="1571332" sha1="4aa0e7890834cb633880172c84386017a5b05278" crc="dba79b46" />
+    <rom name="Virtua Fighter (Japan, USA) (En) (MD+).32x" size="4194304" sha1="0c726a05228208de55d2580cd2141638d8a69554" crc="23e4f213" />
+    <rom name="Virtua Fighter (Japan, USA) (En) (MD+).cue" size="2071" sha1="86f2cab3dcd5ada16351d4619c96b131b4efca1a" crc="1c78e8b2" />
+  </game>
+  <game name="01 - Games/Virtua Fighter/~Prototypes and Betas">
+    <rom name="Virtua Fighter (Japan, USA) (En) (Beta 1).32x" size="4194304" sha1="fbb0d96c22465abb1702499f0a8c68228dcf8fc6" crc="46a88625" />
+    <rom name="Virtua Fighter (Japan, USA) (En) (Beta 2).32x" size="4194304" sha1="28e99cc511e7c539fec66acbf5662f81528389d3" crc="8df6401c" />
+    <rom name="Virtua Fighter (Japan, USA) (En) (Beta 3).32x" size="4194304" sha1="cc6a95d10a95a91337f995a0120cb353196ce080" crc="3b88f987" />
+    <rom name="Virtua Fighter (Japan, USA) (En) (Beta 4).32x" size="4194304" sha1="c931cd60543b41e8bfb29511dcc70e4648471cbf" crc="6a364bce" />
+    <rom name="Virtua Fighter (Japan, USA) (En) (Beta 5).32x" size="4194304" sha1="d26708a26a3add9e4d6083e6b9ccd48776cd4c56" crc="1c4c13f3" />
+    <rom name="Virtua Fighter (Japan, USA) (En) (Beta 6).32x" size="4194304" sha1="4600fb1c80c968728688269dfbd9c480d4d70abe" crc="d4f5484b" />
+    <rom name="Virtua Fighter (Japan, USA) (En) (Beta 7).32x" size="4194304" sha1="7b881a7849320187389d4af5bd4bf8d3ee6fd796" crc="aff4d320" />
+  </game>
+  <game name="01 - Games/Virtua Hamster/~Prototypes and Betas">
+    <rom name="Virtua Hamster (USA) (Proto).32x" size="2097152" sha1="c10f98d9db73ae90be5e5d556b663a5aff015cef" crc="cd54ac37" />
+  </game>
+  <game name="01 - Games/Virtua Racing Deluxe">
+    <rom name="Virtua Racing Deluxe (Europe).32x" size="3145728" sha1="bb26ddde26cd07191d872e8a76a170ca3326f781" crc="27f14b5f" />
+    <rom name="Virtua Racing Deluxe (Japan) (En).32x" size="3145728" sha1="1c64e80eb164ca8d6c6587a55ad60385ba1daf27" crc="0908e888" />
+    <rom name="Virtua Racing Deluxe (USA).32x" size="3145728" sha1="18dfdeb50780c2623e60a6587d7ed701a1cf81f1" crc="7896b62e" />
+  </game>
+  <game name="01 - Games/Virtua Racing Deluxe/~Prototypes and Betas">
+    <rom name="Virtua Racing Deluxe (USA) (Beta 1).32x" size="3145728" sha1="d4e996fd7fb26919017d1056d0de608a34f05184" crc="6ebb3eda" />
+    <rom name="Virtua Racing Deluxe (USA) (Beta 2).32x" size="3145728" sha1="b1385111a39795bf2ea57ab50a4feb479d7e502d" crc="86a318de" />
+    <rom name="Virtua Racing Deluxe (USA) (Beta 3).32x" size="3145728" sha1="88b3ef2bb0ccba25f3f83f218ca090e1a89512fe" crc="99f38344" />
+  </game>
+  <game name="01 - Games/WWF Raw">
+    <rom name="WWF Raw (World).32x" size="4194304" sha1="94b974f2f69f0c10bc18b349fa4ff95ca56fa47b" crc="8eb7cd2c" />
+  </game>
+  <game name="01 - Games/WWF WrestleMania - The Arcade Game">
+    <rom name="WWF WrestleMania - The Arcade Game (USA).32x" size="4194304" sha1="551eedc963cba0e1410b3d229b332ef9ea061469" crc="61833503" />
+  </game>
+  <game name="01 - Games/World Series Baseball Starring Deion Sanders">
+    <rom name="World Series Baseball Starring Deion Sanders (USA).32x" size="3145728" sha1="ab3026eae46a775adb7eaebc13702699557ddc41" crc="6de1bc75" />
+  </game>
+  <game name="01 - Games/X-Men/~Prototypes and Betas">
+    <rom name="X-Men (USA) (Proto).32x" size="4194304" sha1="cd3fa2ace2fdbf4b6402cb52eeb208010bf31029" crc="d61febc0" />
+  </game>
+  <game name="01 - Games/xRick">
+    <rom name="xRick (World) (Aftermarket) (Unl).32x" size="4194304" sha1="f951890e6cd3cfd5e4cba13be8c8aea4f70d36a5" crc="fd07db46" />
+    <rom name="xRick (World) (v1.1) (Aftermarket) (Unl).32x" size="4194304" sha1="62c941dcf36bf30dfd8311609ae6c4bd123cc6a6" crc="79cb7f70" />
+  </game>
+  <game name="02 - Software and Utilities/240p Test Suite">
+    <rom name="240p Test Suite (World) (Program) (Aftermarket) (Unl).32x" size="1966080" sha1="f0039765f9adb55be8ceb4349a8cf80aa23a3429" crc="0e320ae8" />
+  </game>
+  <game name="02 - Software and Utilities/240p Test Suite/240p Test Suite (v1.0)">
+    <rom name="240pSuite_32X_1.0.32x" size="1966080" sha1="f0039765f9adb55be8ceb4349a8cf80aa23a3429" crc="0e320ae8" />
+  </game>
+  <game name="02 - Software and Utilities/CMD Download Cartridge">
+    <rom name="CMD Download Cartridge (USA) (Proto) (Program).32x" size="262144" sha1="460439b83ce50021339acf5fca4a63b45c0c1c0b" crc="6c2176ca" />
+  </game>
+  <game name="02 - Software and Utilities/Mars Check Program">
+    <rom name="Mars Check Program (USA) (Program).32x" size="4194304" sha1="7654c6d3cf2883c30df51cf38d723ab7902280c4" crc="8f7260fb" />
+  </game>
+</datafile>

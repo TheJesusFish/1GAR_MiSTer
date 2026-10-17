@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<datafile>
+  <header>
+    <name>PocketChallengeV2</name>
+    <version>2026-10-16</version>
+    <romvault forcepacking="fileonly" />
+  </header>
+  <game name="02 - Software and Utilities/Challenge Eiwa Jiten">
+    <rom name="Challenge Eiwa Jiten (Japan) (6FQ410).pc2" size="16777216" sha1="3f5f33a61b14d2bf1e9a627754a4a5663fd12466" crc="d5338aad" />
+  </game>
+  <game name="02 - Software and Utilities/Chuu 1 Ei Suu Koku Pack (New Crown, Total English Taiou Ban)">
+    <rom name="Chuu 1 Ei Suu Koku Pack (New Crown, Total English Taiou Ban) (Japan) (6FP103).pc2" size="8388608" sha1="4d02a1090063e782fc406cc72ae58ba4312b6a4a" crc="a863f998" />
+  </game>
+  <game name="02 - Software and Utilities/Chuu 1 Ei Suu Koku Pack (New Horizon, Columbus21 Taiou Ban)">
+    <rom name="Chuu 1 Ei Suu Koku Pack (New Horizon, Columbus21 Taiou Ban) (Japan) (5FP101).pc2" size="8388608" sha1="7bac95d781584c965daa53c0006586e8d3dc0787" crc="e6ebc64c" />
+    <rom name="Chuu 1 Ei Suu Koku Pack (New Horizon, Columbus21 Taiou Ban) (Japan) (6FP101).pc2" size="8388608" sha1="c4083d7c2901847070d829a1816dae3a2cf887cb" crc="2980a25b" />
+  </game>
+  <game name="02 - Software and Utilities/Chuu 1 Ei Suu Koku Pack (Sunshine, One World Taiou Ban)">
+    <rom name="Chuu 1 Ei Suu Koku Pack (Sunshine, One World Taiou Ban) (Japan) (5FP102).pc2" size="8388608" sha1="fa4976ad4525cdb36b2745cfc8440f5fe5bfbad8" crc="976b8627" />
+    <rom name="Chuu 1 Ei Suu Koku Pack (Sunshine, One World Taiou Ban) (Japan) (6FP102).pc2" size="8388608" sha1="37358480a2c306613a01bcf730ef5e4834701ff2" crc="a4bbd00e" />
+  </game>
+  <game name="02 - Software and Utilities/Chuu 1 Ei Suu Koku Pack">
+    <rom name="Chuu 1 Ei Suu Koku Pack (Japan) (6FP105).pc2" size="16777216" sha1="f842220a95a9bed6ef372da1380bafb53ff6c92a" crc="51b5822d" />
+  </game>
+  <game name="02 - Software and Utilities/Chuu 1 English (New Crown, Total English Taiou Ban)">
+    <rom name="Chuu 1 English (New Crown, Total English Taiou Ban) (Japan) (2BB113).pc2" size="4194304" sha1="3a8ded7174ad8e0003604dca4ea158eeefac4610" crc="4e0b65b4" />
+    <rom name="Chuu 1 English (New Crown, Total English Taiou Ban) (Japan) (3BB113).pc2" size="4194304" sha1="dfd6b82886022cae68c841fafe5955911ecd016a" crc="a4719115" />
+    <rom name="Chuu 1 English (New Crown, Total English Taiou Ban) (Japan) (4BB113).pc2" size="4194304" sha1="e82f95cfd0596735016a8b0c0496ab22584e26d4" crc="ddf6d418" />
+  </game>
+  <game name="02 - Software and Utilities/Chuu 1 English (New Horizon, Columbus21 Taiou Ban)">
+    <rom name="Chuu 1 English (New Horizon, Columbus21 Taiou Ban) (Japan) (2BB111).pc2" size="4194304" sha1="8919701e0e909d26ffe009fdd988aefa662dd532" crc="e5ae0f0d" />
+    <rom name="Chuu 1 English (New Horizon, Columbus21 Taiou Ban) (Japan) (3BB111).pc2" size="4194304" sha1="719a41eaf2c4a569665813e70719ab50ebc50d70" crc="8f8f75c4" />
+    <rom name="Chuu 1 English (New Horizon, Columbus21 Taiou Ban) (Japan) (4BB111).pc2" size="4194304" sha1="31d5ce1f78281ef4525e4aed97b1cb81df2fdf8d" crc="62a7256c" />
+  </game>
+  <game name="02 - Software and Utilities/Chuu 1 English (Sunshine, One World Taiou Ban)">
+    <rom name="Chuu 1 English (Sunshine, One World Taiou Ban) (Japan) (2BB112).pc2" size="4194304" sha1="48c75faf5b27151290578db49d43871b4944c892" crc="7ab74681" />
+    <rom name="Chuu 1 English (Sunshine, One World Taiou Ban) (Japan) (3BB112).pc2" size="4194304" sha1="1273b619efcf1be2138ad2d3cc0aea9fc7275bbb" crc="9de13db9" />
+  </game>
+  <game name="02 - Software and Utilities/Chuu 1 Kokugo - Hyakunin Isshu">
+    <rom name="Chuu 1 Kokugo - Hyakunin Isshu (Japan) (2BK401).pc2" size="2097152" sha1="316ad2548f6233ecea087ac752c206eb25d31682" crc="7622d70a" />
+  </game>
+  <game name="02 - Software and Utilities/Chuu 1 Suugaku">
+    <rom name="Chuu 1 Suugaku (Japan) (2BM110).pc2" size="2097152" sha1="a21d7c39ef64a37e0055c17d97c2ae7da29b8240" crc="723a239d" />
+  </game>
+  <game name="02 - Software and Utilities/Chuu 2 Ei Suu Koku Pack (New Crown, Total English Taiou Ban)">
+    <rom name="Chuu 2 Ei Suu Koku Pack (New Crown, Total English Taiou Ban) (Japan) (4BP203).pc2" size="8388608" sha1="ca25ee90ec1c50998398f05da092d2d616dbe331" crc="fdb39f68" />
+    <rom name="Chuu 2 Ei Suu Koku Pack (New Crown, Total English Taiou Ban) (Japan) (6FP203).pc2" size="8388608" sha1="9529ba9a06846dc6d9cedf13881363922e63fbe0" crc="1bbb32a0" />
+    <rom name="Chuu 2 Ei Suu Koku Pack (New Crown, Total English Taiou Ban) (Japan) (6FP213).pc2" size="8388608" sha1="09229625909348a3bd33cef47b6a835ce12fe9dc" crc="8114353c" />
+  </game>
+  <game name="02 - Software and Utilities/Chuu 2 Ei Suu Koku Pack (New Horizon, Columbus21 Taiou Ban)">
+    <rom name="Chuu 2 Ei Suu Koku Pack (New Horizon, Columbus21 Taiou Ban) (Japan) (4BP201).pc2" size="8388608" sha1="fa9788f16a28ebf16d6fe7858456f35126441a1b" crc="12d96d58" />
+    <rom name="Chuu 2 Ei Suu Koku Pack (New Horizon, Columbus21 Taiou Ban) (Japan) (6FP211).pc2" size="8388608" sha1="e380832379bb0e72669be6a01ff0970ecb69899b" crc="2fd8b59e" />
+  </game>
+  <game name="02 - Software and Utilities/Chuu 2 Ei Suu Koku Pack (Sunshine, One World Taiou Ban)">
+    <rom name="Chuu 2 Ei Suu Koku Pack (Sunshine, One World Taiou Ban) (Japan) (4BP202).pc2" size="8388608" sha1="f4bfb63f7a690286f5ca5d007f704d6c57e64af6" crc="4398df6c" />
+    <rom name="Chuu 2 Ei Suu Koku Pack (Sunshine, One World Taiou Ban) (Japan) (6FP202).pc2" size="8388608" sha1="28b65a2e055cab9c5dcf15f43c6394d607aa9a91" crc="4c37c017" />
+    <rom name="Chuu 2 Ei Suu Koku Pack (Sunshine, One World Taiou Ban) (Japan) (6FP212).pc2" size="8388608" sha1="b6230b8c700daf4d2e613b12900d85a44773f9a4" crc="d2dbdf31" />
+  </game>
+  <game name="02 - Software and Utilities/Chuu 2 Ei Suu Koku Pack">
+    <rom name="Chuu 2 Ei Suu Koku Pack (Japan) (6FP201).pc2" size="8388608" sha1="25f6b510253fc1e079fd0581ef6821670d537229" crc="c8ea7430" />
+  </game>
+  <game name="02 - Software and Utilities/Chuu 2 English (New Crown, Total English Taiou Ban)">
+    <rom name="Chuu 2 English (New Crown, Total English Taiou Ban) (Japan) (3BB213).pc2" size="4194304" sha1="132b298ff2e16097073c0822f81c7023c31b9d33" crc="5c679bd3" />
+  </game>
+  <game name="02 - Software and Utilities/Chuu 2 English (New Horizon, Columbus21 Taiou Ban)">
+    <rom name="Chuu 2 English (New Horizon, Columbus21 Taiou Ban) (Japan) (3BB211).pc2" size="4194304" sha1="cb3e8cc63630a5b2976a0dab0f811e43fd8a1e5e" crc="784fd6fb" />
+  </game>
+  <game name="02 - Software and Utilities/Chuu 2 English (Sunshine, One World Taiou Ban)">
+    <rom name="Chuu 2 English (Sunshine, One World Taiou Ban) (Japan) (3BB212).pc2" size="4194304" sha1="9465916d3cc076e30161bb5813f2a33038430e26" crc="f1e10e0e" />
+  </game>
+  <game name="02 - Software and Utilities/Chuu 2 Kokugo">
+    <rom name="Chuu 2 Kokugo (Japan) (3BK210).pc2" size="2097152" sha1="796c22e911ef2c67048afcfb9935de04bb9c523e" crc="b17f0bd0" />
+  </game>
+  <game name="02 - Software and Utilities/Chuu 2 Suugaku">
+    <rom name="Chuu 2 Suugaku (Japan) (3BM210).pc2" size="2097152" sha1="8254ff2ac962e04b756de1dbb1912b149d6d3b67" crc="8c671fc9" />
+  </game>
+  <game name="02 - Software and Utilities/Chuu 3 Ei - Suu - Koumin Pack (New Crown, Total English Taiou Ban)">
+    <rom name="Chuu 3 Ei - Suu - Koumin Pack (New Crown, Total English Taiou Ban) (Japan) (5FP303).pc2" size="8388608" sha1="ff62b644352f22c5175a76075ce9da048b093c8a" crc="1914e63e" />
+    <rom name="Chuu 3 Ei - Suu - Koumin Pack (New Crown, Total English Taiou Ban) (Japan) (6FP313).pc2" size="8388608" sha1="2581babb2c8d3e3d8977e4aa1efea269c606e780" crc="c14378c8" />
+  </game>
+  <game name="02 - Software and Utilities/Chuu 3 Ei - Suu - Koumin Pack (New Horizon, Columbus21 Taiou Ban)">
+    <rom name="Chuu 3 Ei - Suu - Koumin Pack (New Horizon, Columbus21 Taiou Ban) (Japan) (5FP301).pc2" size="8388608" sha1="2c8b0c6a085db1e92ac59aa5e7afc5e459d63323" crc="ac84b3d2" />
+    <rom name="Chuu 3 Ei - Suu - Koumin Pack (New Horizon, Columbus21 Taiou Ban) (Japan) (6FP301).pc2" size="8388608" sha1="14f82c957420f814e26286f24a3cbe3cb336c0d8" crc="2a0191e8" />
+  </game>
+  <game name="02 - Software and Utilities/Chuu 3 Ei - Suu - Koumin Pack (Sunshine, One World Taiou Ban)">
+    <rom name="Chuu 3 Ei - Suu - Koumin Pack (Sunshine, One World Taiou Ban) (Japan) (6FP302).pc2" size="8388608" sha1="49b2a85a6f38793647359136f23e3a77d79fc8c7" crc="4b956caf" />
+  </game>
+  <game name="02 - Software and Utilities/Chuu 3 English (New Crown, Total English Taiou Ban)">
+    <rom name="Chuu 3 English (New Crown, Total English Taiou Ban) (Japan) (4BB313).pc2" size="4194304" sha1="ad681d5b75db27225a6ac2ff2514f220419b41b3" crc="89af7db1" />
+  </game>
+  <game name="02 - Software and Utilities/Chuu 3 English (New Horizon, Columbus21 Taiou Ban)">
+    <rom name="Chuu 3 English (New Horizon, Columbus21 Taiou Ban) (Japan) (4BB311).pc2" size="4194304" sha1="4d93ba7bf540593898c2adba0cee25bb99d9dfc6" crc="240734c4" />
+  </game>
+  <game name="02 - Software and Utilities/Chuu 3 Suugaku">
+    <rom name="Chuu 3 Suugaku (Japan) (4BM310).pc2" size="2097152" sha1="6600f6a01606f848e7fe4492cb1ae026edb05585" crc="389d36a4" />
+  </game>
+  <game name="02 - Software and Utilities/Chuugaku Chiri - Rekishi Pack (Chiri Soft - Rekishi Soft Kanzen Taiou Ban)">
+    <rom name="Chuugaku Chiri - Rekishi Pack (Chiri Soft - Rekishi Soft Kanzen Taiou Ban) (Japan) (2BD400).pc2" size="4194304" sha1="3d820b91bb0fed87fc9343a8bc57c81256e4c490" crc="93454b4a" />
+    <rom name="Chuugaku Chiri - Rekishi Pack (Chiri Soft - Rekishi Soft Kanzen Taiou Ban) (Japan) (3BD400).pc2" size="4194304" sha1="c8fadbac9e23c3c835b42dd2ccd9a5e78c2e37ff" crc="2d6a57da" />
+    <rom name="Chuugaku Chiri - Rekishi Pack (Chiri Soft - Rekishi Soft Kanzen Taiou Ban) (Japan) (4BD400).pc2" size="4194304" sha1="8b395327209dae56461ef792cd2183d803e4687d" crc="4cfd118d" />
+    <rom name="Chuugaku Chiri - Rekishi Pack (Chiri Soft - Rekishi Soft Kanzen Taiou Ban) (Japan) (6FD400).pc2" size="4194304" sha1="1c47daf71ef4277fcf3eabfa4697827c7c322867" crc="0ac0e39d" />
+  </game>
+  <game name="02 - Software and Utilities/Chuugaku Chiri - Rekishi Pack (Rekishi Juuyou Yougo Jiten Shuuroku)">
+    <rom name="Chuugaku Chiri - Rekishi Pack (Rekishi Juuyou Yougo Jiten Shuuroku) (Japan) (6FD401).pc2" size="4194304" sha1="53a1dcd7462b5c47e40f32f355bf30f066cbcb54" crc="6c644dfe" />
+  </game>
+  <game name="02 - Software and Utilities/Chuugaku Chiri">
+    <rom name="Chuugaku Chiri (Japan) (2BD410).pc2" size="2097152" sha1="9c06648f6e977b598878f1db302177d6f03b2986" crc="ce351851" />
+    <rom name="Chuugaku Chiri (Japan) (3BD410).pc2" size="2097152" sha1="5c6f2ce2b0ba3d600b0e9bf628280bc23e3c60fc" crc="ac0cb7d5" />
+    <rom name="Chuugaku Chiri (Japan) (4BD410).pc2" size="2097152" sha1="576c74d55786bd6b68f2d1bdc35e0363b6076bd4" crc="3c820f61" />
+  </game>
+  <game name="02 - Software and Utilities/Chuugaku Koumin">
+    <rom name="Chuugaku Koumin (Japan) (4BE310).pc2" size="2097152" sha1="55bdb97ef9c0d6d69ceecf71534ccb4576dadf79" crc="3859fee1" />
+  </game>
+  <game name="02 - Software and Utilities/Chuugaku Rekishi">
+    <rom name="Chuugaku Rekishi (Japan) (2BC410).pc2" size="2097152" sha1="b191eaac576aed5e3b75315e91ffcbfa7b9b9950" crc="4059e1b7" />
+  </game>
+  <game name="02 - Software and Utilities/Chuugaku Rika (1-bunya)">
+    <rom name="Chuugaku Rika (1-bunya) (Japan) (2BF411).pc2" size="2097152" sha1="d25241289ce9cf3b4d2c00904ed504387b0313bf" crc="73c68904" />
+    <rom name="Chuugaku Rika (1-bunya) (Japan) (5FF411).pc2" size="2097152" sha1="8abae2464c429bebea72a2428a90b74cc86204f8" crc="c0653c7e" />
+    <rom name="Chuugaku Rika (1-bunya) (Japan) (6FF421).pc2" size="2097152" sha1="fe6f99a852f6ee76847e4542f2ccd113c41f49fd" crc="bf3b02b3" />
+  </game>
+  <game name="02 - Software and Utilities/Chuugaku Rika (2-bunya)">
+    <rom name="Chuugaku Rika (2-bunya) (Japan) (2BF412).pc2" size="2097152" sha1="7e11177e8f127c113c435ea8b838e1f5185e0a07" crc="2582c734" />
+    <rom name="Chuugaku Rika (2-bunya) (Japan) (5FF412).pc2" size="2097152" sha1="67c349a92f647637a563015351daae6d9b3a80da" crc="3686dc22" />
+    <rom name="Chuugaku Rika (2-bunya) (Japan) (6FF422).pc2" size="2097152" sha1="40fbf94202e45440de9db7631a10746975c5f7bd" crc="659a0b6d" />
+  </game>
+  <game name="02 - Software and Utilities/Chuugaku Rika Pack (1-bunya Soft - 2-bunya Soft Kanzen Taiou Ban)">
+    <rom name="Chuugaku Rika Pack (1-bunya Soft - 2-bunya Soft Kanzen Taiou Ban) (Japan) (2BF400).pc2" size="2097152" sha1="791cd70cc9dc49a7ff38cc22a374c7d19eef1f70" crc="75379357" />
+    <rom name="Chuugaku Rika Pack (1-bunya Soft - 2-bunya Soft Kanzen Taiou Ban) (Japan) (6FF400).pc2" size="4194304" sha1="5b2fd488c6ab734dcf8893509589a751458ce977" crc="fc46a921" />
+    <rom name="Chuugaku Rika Pack (1-bunya Soft - 2-bunya Soft Kanzen Taiou Ban) (Japan) (6FF401).pc2" size="4194304" sha1="e2dd1b4a1547c7d153dc3c670b12eaa39011bbf9" crc="e16fe370" />
+    <rom name="Chuugaku Rika Pack (1-bunya Soft - 2-bunya Soft Kanzen Taiou Ban) (Japan) (6FF420).pc2" size="4194304" sha1="c3cfac116edf6b42ec2256404b3013d36bdb5545" crc="dcc7470f" />
+  </game>
+  <game name="02 - Software and Utilities/Chuugaku Rika Pack">
+    <rom name="Chuugaku Rika Pack (Japan) (5FF400).pc2" size="4194304" sha1="31181247de9793c7a82e0bc31ebff1143cf8d2f6" crc="b9850f35" />
+  </game>
+  <game name="02 - Software and Utilities/Eiken 3-kyuu - 4-kyuu">
+    <rom name="Eiken 3-kyuu - 4-kyuu (Japan) (2BK931).pc2" size="4194304" sha1="8514caa4593530462e70fa5865964034c06ba935" crc="9be7a2ac" />
+  </game>
+  <game name="02 - Software and Utilities/Jitsugi 4-kyouka (Gijutsu Katei, Hoken Taiiku, Ongaku, Bijutsu)">
+    <rom name="Jitsugi 4-kyouka (Gijutsu Katei, Hoken Taiiku, Ongaku, Bijutsu) (Japan) (2BG410).pc2" size="4194304" sha1="bb1de1f0fc80a85f3b7fb7e53ed04718855aaf0b" crc="84b430e9" />
+    <rom name="Jitsugi 4-kyouka (Gijutsu Katei, Hoken Taiiku, Ongaku, Bijutsu) (Japan) (3BG410).pc2" size="4194304" sha1="f6c61d95fb26063c9d49ed0f36169aafbd6a3738" crc="2ff15e1a" />
+    <rom name="Jitsugi 4-kyouka (Gijutsu Katei, Hoken Taiiku, Ongaku, Bijutsu) (Japan) (5FG410).pc2" size="4194304" sha1="3b3fbcf09364ccef7e79795547dcef28bbca1fe6" crc="edd42b96" />
+    <rom name="Jitsugi 4-kyouka (Gijutsu Katei, Hoken Taiiku, Ongaku, Bijutsu) (Japan) (6FG402).pc2" size="4194304" sha1="cd320b616a785289f338527bb936cbc5aa92f4ea" crc="05cee4bd" />
+    <rom name="Jitsugi 4-kyouka (Gijutsu Katei, Hoken Taiiku, Ongaku, Bijutsu) (Japan) (6FG410).pc2" size="4194304" sha1="d7b57377f074431671031a30d0cfcee8f4aa95ce" crc="fceb4728" />
+  </game>
+  <game name="02 - Software and Utilities/Kanken 3-kyuu - 4-kyuu - 5-kyuu">
+    <rom name="Kanken 3-kyuu - 4-kyuu - 5-kyuu (Japan) (6FK940).pc2" size="4194304" sha1="6444c4797e8a4cd8737e2f6d822803b0f0263841" crc="bb88a5fc" />
+  </game>
+  <game name="02 - Software and Utilities/Koukou Juken (5-kyouka)">
+    <rom name="Koukou Juken (5-kyouka) (Japan) (4BI710).pc2" size="8388608" sha1="020e1364423745aa300976ebd002e414f86e7ff5" crc="7952d631" />
+    <rom name="Koukou Juken (5-kyouka) (Japan) (4BI716).pc2" size="8388608" sha1="2b236f518c0102bf43247ae8675074951b5a8ca0" crc="7cfffe14" />
+    <rom name="Koukou Juken (5-kyouka) (Japan) (5FI710).pc2" size="8388608" sha1="c48565ed0414fdda3a70222c996e24e02494da56" crc="ad82dd22" />
+  </game>
+  <game name="02 - Software and Utilities/Koukou Juken 5-kyouka Pack + Nyuushi Theme-Betsu Tokkou">
+    <rom name="Koukou Juken 5-kyouka Pack + Nyuushi Theme-Betsu Tokkou (Japan) (6FI901).pc2" size="16777216" sha1="2d8e91b86ecf89adcd42f76f39634cc6483bdf80" crc="c27faeeb" />
+  </game>
+  <game name="02 - Software and Utilities/Koukou Juken EX (Goukaku Tokkou 700)">
+    <rom name="Koukou Juken EX (Goukaku Tokkou 700) (Japan) (4FI720).pc2" size="8388608" sha1="f3ba60c38a864491b936abafefca722f5c3d2144" crc="ec11d3ae" />
+  </game>
+  <game name="02 - Software and Utilities/Koukou Juken Kokugo + Nyuushi Kobun Tokkou">
+    <rom name="Koukou Juken Kokugo + Nyuushi Kobun Tokkou (Japan) (6FK304).pc2" size="4194304" sha1="b31aa5d201ba0d40721d0139378e9e18f8f3d989" crc="a2539bb9" />
+  </game>
+  <game name="02 - Software and Utilities/Koukou Juken V Pack - Koukou Juken (5-kamoku), Koukou Juken EX (Goukaku Tokkou 700) Kanzen Taiou Ban">
+    <rom name="Koukou Juken V Pack - Koukou Juken (5-kamoku), Koukou Juken EX (Goukaku Tokkou 700) Kanzen Taiou Ban (Japan) (5FI900).pc2" size="16777216" sha1="fd1ace8a85fd42899ee884e6594332671620d978" crc="3d4f25b5" />
+  </game>
+  <game name="02 - Software and Utilities/Shougakkou Soumatome (Koku - San - Ri - Sha) + Chuu 1 Ei Suu Koku Pack">
+    <rom name="Shougakkou Soumatome (Koku - San - Ri - Sha) + Chuu 1 Ei Suu Koku Pack (Japan) (6FP104).pc2" size="16777216" sha1="b496d6793b1e68dfe3c6827c5206437bfb228790" crc="4e432b54" />
+  </game>
+</datafile>

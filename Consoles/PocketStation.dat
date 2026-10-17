@@ -1,0 +1,329 @@
+<?xml version='1.0' encoding='utf-8'?>
+<datafile>
+  <header>
+    <name>PocketStation</name>
+    <version>2026-10-16</version>
+    <romvault forcepacking="fileonly" />
+  </header>
+  <game name="01 - Games/15 Puzzle">
+    <rom name="15 Puzzle (19xx)(Nissie).gme" size="134976" sha1="a4951ebcc192af2a8b10e8927a3ed60b516c6d73" crc="a1ff042b" />
+  </game>
+  <game name="01 - Games/Aliens">
+    <rom name="Aliens (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="bceb1b8b5dd6ab775107967501b0587bd718b192" crc="1795d329" />
+  </game>
+  <game name="01 - Games/Apple">
+    <rom name="Apple (1999)(SN Systems).bin" size="8192" sha1="7e906e581c58812d01967f17743711047d4fff93" crc="c83417bb" />
+    <rom name="Apple v0.2 (19xx)(Kami).gme" size="134976" sha1="e9f069258b990ba8c757b03e422c22c57dae2a94" crc="f3b08985" />
+  </game>
+  <game name="01 - Games/Astro Fighter">
+    <rom name="Astro Fighter (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="370c8c265fe437953f8bcbb1aae3c557909d515a" crc="c0dc0158" />
+  </game>
+  <game name="01 - Games/Black Jack">
+    <rom name="Black Jack (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="62e4b4fd4619d87631fc7057b9cd128d8b04afb2" crc="85a6c1f9" />
+  </game>
+  <game name="01 - Games/Block Out 1">
+    <rom name="Block Out 1 (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="4c9887aefdf491dc78a03b3bccfe997fb3d76310" crc="ad32768f" />
+  </game>
+  <game name="01 - Games/Block Out 2">
+    <rom name="Block Out 2 (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="b2dc6cd0aba025606c9a63bea888697fba35d69c" crc="c8e65835" />
+  </game>
+  <game name="01 - Games/Block Out 3">
+    <rom name="Block Out 3 (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="5b12f211a1654b89f8e70ae6dd5b8a44530cdb7c" crc="b6ea0fbd" />
+  </game>
+  <game name="01 - Games/BreakThru">
+    <rom name="BreakThru (1999)(Jason).bin" size="5901" sha1="1fb430dcc1a5d34e143d9094824bb7a9b4add503" crc="94bd5907" />
+  </game>
+  <game name="01 - Games/Brightis">
+    <rom name="Brightis (1999)(SCEI)(JP)[Brightis].gme" size="134976" sha1="3b323f46a15b1ac69dd968ba52325367be4586c1" crc="de121866" />
+  </game>
+  <game name="01 - Games/Cars">
+    <rom name="Cars (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="c9f0df9c18e4effbbfcf34fc5b026b8748e907f2" crc="0c8db211" />
+  </game>
+  <game name="01 - Games/Chivas 1-2-3">
+    <rom name="Chivas 1-2-3 (1999)(Jaleco)[SeaBass 1-2-3].gme" size="134976" sha1="51f34a96838163e7e97354693dd24ba50d1ecef8" crc="e0ca0121" />
+  </game>
+  <game name="01 - Games/Chocobo Stallion">
+    <rom name="Chocobo Stallion (1999)(Square)[Chocobo Stallion].gme" size="134976" sha1="74e3dd3391f15b465e02ad28070fb32b73e0e989" crc="648515fd" />
+  </game>
+  <game name="01 - Games/Chocobo World">
+    <rom name="Chocobo World (1999)(Square)[Final Fantasy 8].gme" size="134976" sha1="4f6603d71714f2a759f4224f66921b06e129f4a2" crc="97f3ca8c" />
+    <rom name="Chocobo World Enhanced (1999)(Square)[Final Fantasy 8].gme" size="134976" sha1="91c807151387b548decda80faedef9c1bf5a202f" crc="5dea35e9" />
+  </game>
+  <game name="01 - Games/Copy Dance">
+    <rom name="Copy Dance (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="c62f401e50210e40e8ab3f4630b78fc8d920ea8d" crc="778b477d" />
+  </game>
+  <game name="01 - Games/Curling">
+    <rom name="Curling (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="09b814b9df62bbd96b74a871a2f17d27cb9849c7" crc="caa90fb1" />
+  </game>
+  <game name="01 - Games/Dance Dance Revolution 2nd Mix">
+    <rom name="Dance Dance Revolution 2nd Mix (2000)(Konami)(JP)[Dance Dance Revolution 2nd Mix].gme" size="134976" sha1="c31d0fd26178f0e9d49f9ed17f90a9203a3cfb26" crc="0f01baeb" />
+  </game>
+  <game name="01 - Games/Darts">
+    <rom name="Darts (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="785946c129e5c5c0418f0dcdb68dcd9f53c150e1" crc="9129af37" />
+  </game>
+  <game name="01 - Games/Denki">
+    <rom name="Denki (19xx)(-).gme" size="134976" sha1="df707829d4a619640bb675670f1a094d6700a3e0" crc="78bf7f6a" />
+  </game>
+  <game name="01 - Games/Dice">
+    <rom name="Dice (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="102208" sha1="3935a427534678518f459d49fe7f6a06571fef07" crc="6f438afd" />
+  </game>
+  <game name="01 - Games/Doreamon 3">
+    <rom name="Doreamon 3 (2000)(Epoch)(JP)[Doraemon 3 - Makai no Dungeon].gme" size="134976" sha1="26ccfdf47a494633b9f05555351ac9026f53311b" crc="5b5b6dbe" />
+  </game>
+  <game name="01 - Games/Drive 2000">
+    <rom name="Drive 2000 (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="8e401b275cbb0c694e3bb918be49504b72eab1e4" crc="c711f20e" />
+  </game>
+  <game name="01 - Games/Drop Ball">
+    <rom name="Drop Ball (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="1fbcbfe72555bfa02926d16c475511bde20933e3" crc="2f1f728c" />
+  </game>
+  <game name="01 - Games/Drop Zone">
+    <rom name="Drop Zone (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="f9b8b05376980472eef517c7bfdd68b6d5bbf818" crc="0ef50d42" />
+  </game>
+  <game name="01 - Games/Durama">
+    <rom name="Durama (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="888560a7031d07d101e7a93addfb5476adae24e0" crc="e789f935" />
+  </game>
+  <game name="01 - Games/Fishing 2">
+    <rom name="Fishing 2 (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="3dbe821aa614eb3939cb3a0a062a26b54564e735" crc="36f2c1fa" />
+  </game>
+  <game name="01 - Games/Fishing">
+    <rom name="Fishing (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="61797e1961bbbae98bc1c6b21beacc6421c0a63e" crc="180866e0" />
+  </game>
+  <game name="01 - Games/Go Go Digger">
+    <rom name="Go Go Digger (2000)(Square)[Saga Frontier 2].gme" size="134976" sha1="05f5c4209c14a651f9159ab37bb9cdd477c79ef8" crc="49909924" />
+  </game>
+  <game name="01 - Games/Golf">
+    <rom name="Golf (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="d5ca7934d16f1aa6a5c72ed395d14e82c295a490" crc="c37c560c" />
+  </game>
+  <game name="01 - Games/Hammer">
+    <rom name="Hammer (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="4ea32881cc0b0388d151dee8c9658cb07bd888ca" crc="daa9533f" />
+  </game>
+  <game name="01 - Games/Harvest Moon">
+    <rom name="Harvest Moon (2001)(Natsume)[Harvest Moon].gme" size="134976" sha1="e19269303de1ff4580e8cd24d9a6949ad7c00e9d" crc="6311fd8d" />
+  </game>
+  <game name="01 - Games/Hata">
+    <rom name="Hata v0.02 (19xx)(-).gme" size="134976" sha1="331cba8cf190b157590d901fff587eea7f203b03" crc="e229eda2" />
+  </game>
+  <game name="01 - Games/Hit &amp; Blow">
+    <rom name="Hit &amp; Blow (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="f3574895bc7302fbb3935edf70a44b202c89c545" crc="27f4a5fb" />
+  </game>
+  <game name="01 - Games/Hit And Blow">
+    <rom name="Hit And Blow v0.81 (19xx)(P. Katsu).gme" size="134976" sha1="9402d434df24c909146a237657817e25b55ce2d9" crc="619a7ba3" />
+  </game>
+  <game name="01 - Games/Hitman">
+    <rom name="Hitman (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="8305d1320fdf907b7378b0b763727fcbc83261d5" crc="a55123bb" />
+  </game>
+  <game name="01 - Games/Integral">
+    <rom name="Integral v0.02 (19xx)(-).gme" size="134976" sha1="ced009d82d134fdbcfd7847d9f6f8a8ab63e8524" crc="0023b583" />
+  </game>
+  <game name="01 - Games/Japanese Quiz">
+    <rom name="Japanese Quiz (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="0396daedc8fb1ffdf8840491d4b592178e9693f8" crc="f6aa7b2e" />
+  </game>
+  <game name="01 - Games/Jet De Go!">
+    <rom name="Jet De Go! (2000)(Taito)(JP)[Jet De Go!].gme" size="134976" sha1="6ccadc0a82f38108063ad5a07994b2669fc7f2d8" crc="b3cab7e9" />
+  </game>
+  <game name="01 - Games/Kobun No Tokkun Zanmai">
+    <rom name="Kobun No Tokkun Zanmai (1999)(Capcom)(JP)[Tron ni Kobun].gme" size="134976" sha1="74bb307894cedcf85ebb5594723e93db51b90081" crc="c6f359e7" />
+  </game>
+  <game name="01 - Games/Lights Out">
+    <rom name="Lights Out (19xx)(-).gme" size="134976" sha1="56030d7d6ab89e118cad00220fccf935ecb72adf" crc="035f1767" />
+  </game>
+  <game name="01 - Games/Lo">
+    <rom name="Lo (1999)(SN Systems).bin" size="8192" sha1="b2c955929b8eb61d0faa90292759a58121255f26" crc="cb610e61" />
+  </game>
+  <game name="01 - Games/MGS Integral">
+    <rom name="MGS Integral (1999)(Konami)[Metal Gear Solid Integral].gme" size="134976" sha1="7fd9d0c289ad9f8b301539bbf100190472a52977" crc="eb787109" />
+  </game>
+  <game name="01 - Games/Math Quiz">
+    <rom name="Math Quiz (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="53a3e4b927f898b0f69f8facf54542464a70a22a" crc="23d18692" />
+  </game>
+  <game name="01 - Games/Maze Game">
+    <rom name="Maze Game (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="83a3ad897ebf160be35305c81175aeedae208f85" crc="51c98875" />
+  </game>
+  <game name="01 - Games/Mine Sweeper">
+    <rom name="Mine Sweeper (19xx)(P. Katsu)(PD).gme" size="134976" sha1="7764251fe6bc3d9b99a7454244de680f57f6bbe5" crc="a719b863" />
+  </game>
+  <game name="01 - Games/MoGuuRu Dabas">
+    <rom name="MoGuuRu Dabas (1999)(SCEI)(JP)[Legend Of Dragoon].gme" size="134976" sha1="2af2078d60dee29e14c1b110259ab7efb2f0801a" crc="8a33a405" />
+  </game>
+  <game name="01 - Games/Monkey See Monkey Do">
+    <rom name="Monkey See Monkey Do (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="419fb8be93809109901db33e9fbfab0ddc5e6450" crc="b2bdbdc8" />
+  </game>
+  <game name="01 - Games/Number">
+    <rom name="Number (19xx)(-).gme" size="134976" sha1="3c6f2751f15f3ffea53fdc617b940feb0a4e6a21" crc="8c790582" />
+  </game>
+  <game name="01 - Games/Odetake Chocobo">
+    <rom name="Odetake Chocobo (1999)(Square)[Final Fantasy 8].gme" size="134976" sha1="060ae12122a278238ac91a5f98bf8d2261db64b4" crc="cc0ceb54" />
+  </game>
+  <game name="01 - Games/PacClone">
+    <rom name="PacClone (1999)(Jason).bin" size="14064" sha1="09dfadce031aebdcda974a600428387e17f386e0" crc="0dd202e1" />
+  </game>
+  <game name="01 - Games/Pairs">
+    <rom name="Pairs (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="a5ab483d819f6afabbeef91f291f119da055ce90" crc="4af768b7" />
+  </game>
+  <game name="01 - Games/Parumui Parumui">
+    <rom name="Parumui Parumui (19xx)(-)[Parumui Parumui].gme" size="134976" sha1="a5d44a03fdd2f0761f8754cd4d0fcb4ef731bca1" crc="611f5763" />
+  </game>
+  <game name="01 - Games/Pinball">
+    <rom name="Pinball (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="f2d0f44af471ebcce1e3990169b97e077dd5f993" crc="1fe2ced2" />
+  </game>
+  <game name="01 - Games/Pockeler">
+    <rom name="Pockeler (1999)(Atlus)(JP)[Pockeler].gme" size="134976" sha1="7ab31cb697392847a2a0900e59438beb887dfeed" crc="8e95a247" />
+  </game>
+  <game name="01 - Games/Pocket Digimon World - Agumon">
+    <rom name="Pocket Digimon World - Agumon (2000)(Bandai)[Pocket Digimon World].gme" size="134976" sha1="cd91360e6388218d1063e6cbee0cc95dabe5110d" crc="887eebe3" />
+  </game>
+  <game name="01 - Games/Pocket Digimon World - Biyomon">
+    <rom name="Pocket Digimon World - Biyomon (2000)(Bandai)[Pocket Digimon World].gme" size="134976" sha1="53ed2b7b91b2664c33980ecb560901a05376fafb" crc="fbe40cba" />
+  </game>
+  <game name="01 - Games/Pocket Fighter Alpha 3">
+    <rom name="Pocket Fighter Alpha 3 - Part 1 (1999)(Capcom)[Street Fighter Alpha 3].gme" size="134976" sha1="6814b7a9c67c7cb9cbd2b7ac13b37a0f9a2a0690" crc="e8c15c46" />
+    <rom name="Pocket Fighter Alpha 3 - Part 2 (1999)(Capcom)[Street Fighter Alpha 3].gme" size="134976" sha1="edef1fd401190816d86fbaa4776e8bc375da1cce" crc="cfc2c152" />
+  </game>
+  <game name="01 - Games/Pocket Fighter Zero 3">
+    <rom name="Pocket Fighter Zero 3 (1998)(Capcom)(JP)[Street Fighter Alpha 3].gme" size="134976" sha1="3a00fa5cd39c50dfff8f7b034cc4535121bc8946" crc="43de18a7" />
+  </game>
+  <game name="01 - Games/Pocket Ray">
+    <rom name="Pocket Ray (2000)(Taito)[RayCrisis].gme" size="134976" sha1="5117d8e0ef0d33f869a9bc6693050b143d8291e4" crc="07e44cb1" />
+  </game>
+  <game name="01 - Games/Pocket Sokoban">
+    <rom name="Pocket Sokoban (19xx)(Mets).gme" size="134976" sha1="d4fd21dfbe808a655b6fdf297e421034f5652fa5" crc="a4bf4092" />
+  </game>
+  <game name="01 - Games/Pocket Worm">
+    <rom name="Pocket Worm (2015)(Mihai, Sebastian).bin" size="8192" sha1="d878eff210a61a97f23d9430150a118a2845ae84" crc="5112d54e" />
+  </game>
+  <game name="01 - Games/PokeHito">
+    <rom name="PokeHito (1999)(SCEI)(JP)[PokeHito - Grey].gme" size="134976" sha1="1756d98b138923b369a9ce758fc2943fa84f0718" crc="6a70c460" />
+  </game>
+  <game name="01 - Games/Poketro">
+    <rom name="Poketro v1.1 (2001)(Credo).gme" size="134976" sha1="bfb07bbc3ae93438f754c24dab450d7c15fa5413" crc="a2e5154a" />
+  </game>
+  <game name="01 - Games/Pop n Music 2">
+    <rom name="Pop n Music 2 (1999)(Konami)(JP)[Pop n Music 2].gme" size="134976" sha1="fc22be32978b9255b0d5f4df364261ad84b0dc98" crc="a03120cf" />
+  </game>
+  <game name="01 - Games/Pumping Crash">
+    <rom name="Pumping Crash (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="0af4c54297612734c505c7333eb3e799cd324868" crc="f1806446" />
+  </game>
+  <game name="01 - Games/Punch Block">
+    <rom name="Punch Block (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="81b18c20f20ba0bdfa63b7f0839c6fde1181a661" crc="174f9924" />
+  </game>
+  <game name="01 - Games/Push Battle">
+    <rom name="Push Battle (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="f2d4d20cf4fcbaec99e56701ec8377abae21926f" crc="2aa5c1ab" />
+  </game>
+  <game name="01 - Games/Push">
+    <rom name="Push (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="abb94e863da166c7b98c5c3bb5a19a1fcd096525" crc="85aaeabd" />
+  </game>
+  <game name="01 - Games/Pyramid">
+    <rom name="Pyramid (19xx)(P. Katsu)(JP).gme" size="134976" sha1="d0150c10a05e4ad29c5d878e9064659267ddbafe" crc="ed824640" />
+  </game>
+  <game name="01 - Games/R4 Pocketstation">
+    <rom name="R4 Pocketstation (1998)(Namco)[R4 Ridge Racer Type 4].gme" size="134976" sha1="22746e04c15f2ff49128c30a88db311541377093" crc="39e75cfc" />
+  </game>
+  <game name="01 - Games/RPG Dungeon">
+    <rom name="RPG Dungeon (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="63dbd03fdc9f0c7771f40ab0c6e52fa54ab8a5d9" crc="5ebf169d" />
+  </game>
+  <game name="01 - Games/Ring Ring Land">
+    <rom name="Ring Ring Land (1999)(Square)(JP)[Seiken Densetsu - Legend of Mana].gme" size="134976" sha1="6c8b24d3defb6193d27f70d40904bc90104ff682" crc="bcb80656" />
+  </game>
+  <game name="01 - Games/Rocket">
+    <rom name="Rocket (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="019480f30d2291749fef8f45dbd59f537f0f47b3" crc="1e63b676" />
+  </game>
+  <game name="01 - Games/Rockman 2">
+    <rom name="Rockman 2 (1999)(Capcom)(JP)[Rockman 2].gme" size="134976" sha1="b9bca3b84f006bccb738138369f52fe0296986e1" crc="08f8df74" />
+  </game>
+  <game name="01 - Games/Rockman 3">
+    <rom name="Rockman 3 - Part 1 (1999)(Capcom)(JP)[Rockman 3].gme" size="134976" sha1="9ba4b67992112fb7ad5873b96c220af147fab90e" crc="ee0df656" />
+    <rom name="Rockman 3 - Part 2 (1999)(Capcom)(JP)[Rockman 3].gme" size="134976" sha1="d5fa4aa161b8a502f54b5d7b58976fbbd47f900c" crc="cec6f9f0" />
+  </game>
+  <game name="01 - Games/Rockman 4">
+    <rom name="Rockman 4 (1999)(Capcom)(JP)[Rockman 4].gme" size="134976" sha1="9f171994e254326d081eaa8ce1f97cfdce6f5dc1" crc="a62986ee" />
+  </game>
+  <game name="01 - Games/Rockman 5">
+    <rom name="Rockman 5 (1999)(Capcom)(JP)[Rockman 5].gme" size="134976" sha1="7987ca576988ff90135deecea9864b0457d12ab5" crc="b239a9f0" />
+  </game>
+  <game name="01 - Games/Ski Escape">
+    <rom name="Ski Escape (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="3ec6e3fad4827a57907e566dfdbbfe923a4efaeb" crc="59e022c7" />
+  </game>
+  <game name="01 - Games/Slot Machine">
+    <rom name="Slot Machine (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="d0aba705d9756cb9aacf960b4da35befcd00ab79" crc="f057b5d1" />
+  </game>
+  <game name="01 - Games/Smash Game">
+    <rom name="Smash Game (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="1dd444bbbcfe254cf7911cab4b88354c45113d2a" crc="8e30eeb0" />
+  </game>
+  <game name="01 - Games/Sporting Clays">
+    <rom name="Sporting Clays (1999)(Charles Doty).bin" size="5730" sha1="08292bf978ba5c74964183616da59ea302266e63" crc="1f3429c3" />
+  </game>
+  <game name="01 - Games/Tank">
+    <rom name="Tank (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="2978387e1f758c0aab66266ac6d82fc729e36ebc" crc="7b16f188" />
+  </game>
+  <game name="01 - Games/Tasumania">
+    <rom name="Tasumania (19xx)(-).gme" size="134976" sha1="a0c8b9d196bd9d4f9a879af1175f935b1a54544b" crc="b2fae93f" />
+  </game>
+  <game name="01 - Games/Tetris">
+    <rom name="Tetris (1999)(SN Systems).bin" size="8192" sha1="db6fb45d541a935187353458ca89dab625e765d8" crc="c6be9877" />
+    <rom name="Tetris (19xx)(-).gme" size="134976" sha1="cbb14e972ee4a225eb3cdea55948ac90ff87136b" crc="18336034" />
+  </game>
+  <game name="01 - Games/Tic-Tac-Toe">
+    <rom name="Tic-Tac-Toe v1.00 (19xx)(-).gme" size="134976" sha1="2849d31c8d89892025b692304167faab8273c7cb" crc="7f0c67cf" />
+  </game>
+  <game name="01 - Games/Wose">
+    <rom name="Wose (19xx)(-)(JP).gme" size="134976" sha1="61a1537c4637f2cd8523bb2ed63527c64473f059" crc="75e6b9e0" />
+  </game>
+  <game name="01 - Games/Yubi">
+    <rom name="Yubi v0.60 (19xx)(P. Katsu)(JP).gme" size="134976" sha1="ecfa8ac8a83addb4b75a8208e3dd263afb61b9b2" crc="83f7967b" />
+  </game>
+  <game name="02 - Software and Utilities/Ana-Digi Clock">
+    <rom name="Ana-Digi Clock (19xx)(Mets).gme" size="134976" sha1="e2a5a07ef20d488ad1886cb784f1bd194b1861c4" crc="5dee4ae6" />
+    <rom name="Ana-Digi Clock (19xx)(Mets)[a].gme" size="134976" sha1="f53a3a6134b569ce3cb99e511b7fe5dbbba0aae6" crc="3087100c" />
+  </game>
+  <game name="02 - Software and Utilities/Beat Timer">
+    <rom name="Beat Timer v0.02 (19xx)(-).gme" size="134976" sha1="9a065e97e434796ea73dd64a2a540dcd1f0f24bb" crc="c681ce86" />
+  </game>
+  <game name="02 - Software and Utilities/Calculator">
+    <rom name="Calculator (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="3c4d208c22545d89fb3648016eb89bd21f3db329" crc="357387a6" />
+  </game>
+  <game name="02 - Software and Utilities/Chaku">
+    <rom name="Chaku v0.02t (19xx)(-).gme" size="134976" sha1="d135ca64a8f05099e97ac7251bcc5dad3c08f3ff" crc="68190009" />
+  </game>
+  <game name="02 - Software and Utilities/DTMF Hack Beta 2/~Prototypes and Betas">
+    <rom name="DTMF Hack Beta 2 (19xx)(Error).gme" size="134976" sha1="fe9cb7ec5b23044b547df8e10efa8efd78b135e1" crc="7ea79d0f" />
+  </game>
+  <game name="02 - Software and Utilities/EnPKclock">
+    <rom name="EnPKclock v1.4 (19xx)(-)(JP).gme" size="134976" sha1="4d37e6ed95f691705a1eaeed29d4c1d21aaadd4b" crc="74b33328" />
+  </game>
+  <game name="02 - Software and Utilities/Line Art">
+    <rom name="Line Art v0.01t (19xx)(-).gme" size="134976" sha1="2fcd28c096f4409ec5800ab8976300be8391600e" crc="4cac22f0" />
+  </game>
+  <game name="02 - Software and Utilities/Mimique">
+    <rom name="Mimique (1999)(K-Comm).gme" size="134976" sha1="d785780cdbfcc7f928fd4aa20dbef95ba6d97c9b" crc="0a86b217" />
+  </game>
+  <game name="02 - Software and Utilities/PDA Calculator">
+    <rom name="PDA Calculator (1998)(SCEI).gme" size="134976" sha1="0de2a90a44c0731e7add52f66bb7086088b5ef0b" crc="b289319a" />
+  </game>
+  <game name="02 - Software and Utilities/PDA Remote 1">
+    <rom name="PDA Remote 1 (1998)(SCEI)(JP).gme" size="134976" sha1="dbec84f3909c81cb877b3f45c4ee1d4fdde5e48e" crc="9d618735" />
+  </game>
+  <game name="02 - Software and Utilities/PDA Remote 2">
+    <rom name="PDA Remote 2 (1998)(SCEI)(JP).gme" size="134976" sha1="7e4c8a149683bc22555848a7df6b45686edb775d" crc="55dc24e0" />
+  </game>
+  <game name="02 - Software and Utilities/PDA Timer">
+    <rom name="PDA Timer (1998)(SCEI).gme" size="134976" sha1="6a08ac597b18f3165db272a1c913e1e4b14de022" crc="f9d3a708" />
+  </game>
+  <game name="02 - Software and Utilities/Phone Book">
+    <rom name="Phone Book (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="850b9442b0db8a264045ff3096e82f734549b171" crc="0177b4b6" />
+  </game>
+  <game name="02 - Software and Utilities/Pocket Timer">
+    <rom name="Pocket Timer v1.11 (19xx)(-).gme" size="134976" sha1="b1711f5deae405e41166d1e40a534f6fd0474528" crc="16f2687a" />
+  </game>
+  <game name="02 - Software and Utilities/Rewrite ID">
+    <rom name="Rewrite ID (1999)(K-Comm).gme" size="134976" sha1="2189cb8b89faa5279498d89c43153bf88e17ace7" crc="0684961a" />
+  </game>
+  <game name="02 - Software and Utilities/Rubato">
+    <rom name="Rubato v0.03 (1999)(K-Comm).gme" size="134976" sha1="07ee597ae39509d21c8297e5ae51dfe4d099c239" crc="30018cf8" />
+  </game>
+  <game name="02 - Software and Utilities/Sample/~Prototypes and Betas">
+    <rom name="Sample (1999)(SN Systems).bin" size="7889" sha1="74e8d55c6372261bc51b1ab70ff7aed32d49b76b" crc="54682050" />
+  </game>
+  <game name="02 - Software and Utilities/World Time">
+    <rom name="World Time (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size="134976" sha1="de1ce288872ca484044fed23eb21e40771675f7e" crc="5fd3aa1b" />
+  </game>
+</datafile>

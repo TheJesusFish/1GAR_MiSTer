@@ -1,0 +1,2186 @@
+<?xml version='1.0' encoding='utf-8'?>
+<datafile>
+  <header>
+    <name>GameGear</name>
+    <version>2026-10-16</version>
+    <romvault forcepacking="fileonly" />
+  </header>
+  <game name="01 - Games/5 in One FunPak">
+    <rom name="5 in One FunPak (USA).gg" size="262144" sha1="dc8f5848fede37a914dbf1c104c3efb5a804ccbd" crc="f85a8ce8" />
+  </game>
+  <game name="01 - Games/Aa Harimanada">
+    <rom name="Aa Harimanada (Japan).gg" size="524288" sha1="0fa7111fcd98670d4bef725d11e670e14eaaa7eb" crc="1d17d2a0" />
+  </game>
+  <game name="01 - Games/Addams Family, The">
+    <rom name="Addams Family, The (World).gg" size="262144" sha1="3231d574e5eb0ac3a77b1d65d74f3a581819a9c7" crc="1d01f999" />
+  </game>
+  <game name="01 - Games/Adventures of Batman &amp; Robin, The">
+    <rom name="Adventures of Batman &amp; Robin, The (USA, Europe, Brazil) (En).gg" size="524288" sha1="50e8726be1b26d066ea9e2e2b5cd7407c356187e" crc="bb4f23ff" />
+  </game>
+  <game name="01 - Games/Adventures of Batman &amp; Robin, The/~Prototypes and Betas">
+    <rom name="Adventures of Batman &amp; Robin, The (USA, Europe, Brazil) (En) (Beta 1).gg" size="524278" sha1="ac60f308640eea536bb3007d2a0b78d95b81d160" crc="acce0d15" />
+    <rom name="Adventures of Batman &amp; Robin, The (USA, Europe, Brazil) (En) (Beta 2).gg" size="523228" sha1="7877c4f8c271c37fc7d72208460231e60e63b95e" crc="14867057" />
+    <rom name="Adventures of Batman &amp; Robin, The (USA, Europe, Brazil) (En) (Beta 3).gg" size="523228" sha1="cda657eb423a8891304cb64cf4a43fd434c60588" crc="50376471" />
+    <rom name="Adventures of Batman &amp; Robin, The (USA, Europe, Brazil) (En) (Beta 4).gg" size="523228" sha1="81cb20d64acc5cee4bc7b56f0dcec9125b55f66f" crc="e57566f3" />
+    <rom name="Adventures of Batman &amp; Robin, The (USA, Europe, Brazil) (En) (Beta 5).gg" size="523228" sha1="19f890a237d4aa0868121d80944055a314275f81" crc="a9cf66ed" />
+    <rom name="Adventures of Batman &amp; Robin, The (USA, Europe, Brazil) (En) (Beta 6).gg" size="524282" sha1="0afd0624bd054430b7894c24e2fb186d5f44af99" crc="c403264a" />
+    <rom name="Adventures of Batman &amp; Robin, The (USA, Europe, Brazil) (En) (Beta 7).gg" size="524282" sha1="8cebb48b14c4c1ee4d168f764b074a87cc4e5324" crc="50c2f1ad" />
+    <rom name="Adventures of Batman &amp; Robin, The (USA, Europe, Brazil) (En) (Beta 8).gg" size="524282" sha1="ea5b5b79f92f5546a733efc10f42997956037463" crc="fc916fd7" />
+  </game>
+  <game name="01 - Games/Aerial Assault">
+    <rom name="Aerial Assault (World) (Rev 1).gg" size="131072" sha1="2a91ab5817938dddf2724df2dfd95a3bc6f5156d" crc="04fe6dde" />
+    <rom name="Aerial Assault (World).gg" size="131072" sha1="cbdbaaeb62a8483d9d5a8757b0f19233dfb9b416" crc="3e549b7a" />
+  </game>
+  <game name="01 - Games/Aerial Mini">
+    <rom name="Aerial Mini (World) (Aftermarket) (Unl).gg" size="16384" sha1="83cd03408dc850edba0b55f850043e7aa35e80b9" crc="fe76beb0" />
+  </game>
+  <game name="01 - Games/Aladdin">
+    <rom name="Aladdin (Japan) (En).gg" size="524288" sha1="7ddfd53e91d8220e4238d3994921bf18fe383717" crc="770e95e1" />
+    <rom name="Aladdin (USA, Europe, Brazil) (En).gg" size="524288" sha1="20ba7f5e5c801fbe48a537d2551a3d4525eb63e7" crc="7a41c1dc" />
+  </game>
+  <game name="01 - Games/Aladdin/~Prototypes and Betas">
+    <rom name="Aladdin (USA, Europe, Brazil) (En) (Beta 1).gg" size="524288" sha1="ed303cb2debbc74f65a02f863e8c5bbb446155c4" crc="5b1f717f" />
+    <rom name="Aladdin (USA, Europe, Brazil) (En) (Beta 2).gg" size="524288" sha1="7ec48d31a35006ccba4abcf108e187e0b222852b" crc="8a1693ab" />
+    <rom name="Aladdin (USA, Europe, Brazil) (En) (Beta 3).gg" size="524288" sha1="a968ee77938233a4ff94c73266c7fb36fa25657d" crc="75a7f142" />
+  </game>
+  <game name="01 - Games/Alien 3">
+    <rom name="Alien 3 (Japan) (En).gg" size="262144" sha1="f09885d76ea7af75fb605261a08143d3ccdc4ca8" crc="06f6eebb" />
+    <rom name="Alien 3 (USA, Europe).gg" size="262144" sha1="f3b976fefc331f37c3e4d883791eba68890279a5" crc="11a68c08" />
+  </game>
+  <game name="01 - Games/Alien Syndrome">
+    <rom name="Alien Syndrome (Europe).gg" size="131072" sha1="112c7fba070eb7b6bdd41675d49caf934c17dc17" crc="bb5e10e0" />
+    <rom name="Alien Syndrome (Japan) (En).gg" size="131072" sha1="b72e54493bfa7f13883a608bcf8c9f315dd490ca" crc="ffe4ed47" />
+  </game>
+  <game name="01 - Games/Andre Agassi Tennis">
+    <rom name="Andre Agassi Tennis (USA).gg" size="262144" sha1="9bd46e137723795a62cca429effcdd51f3b71257" crc="46c9fa3e" />
+  </game>
+  <game name="01 - Games/Andre Agassi Tennis/~Prototypes and Betas">
+    <rom name="Andre Agassi Tennis (USA) (Beta).gg" size="262144" sha1="891407182b761957f9655f9c7d5365aa858fe49f" crc="f167028e" />
+  </game>
+  <game name="01 - Games/Antiair Mini">
+    <rom name="Antiair Mini (World) (Aftermarket) (Unl).gg" size="16384" sha1="895504cb4d4bf09149e61e2a966c9246fdf3e704" crc="b781327e" />
+  </game>
+  <game name="01 - Games/Arcade Classics">
+    <rom name="Arcade Classics (USA).gg" size="262144" sha1="fde19f418f4f13bbe43e6610f411065db9a6f550" crc="3deca813" />
+  </game>
+  <game name="01 - Games/Arch Rivals - The Arcade Game">
+    <rom name="Arch Rivals - The Arcade Game (USA).gg" size="262144" sha1="9a2260a9cb9564a18f50edc8149a9e1e517bf649" crc="f0204191" />
+  </game>
+  <game name="01 - Games/Archer Maclean's Dropzone">
+    <rom name="Archer Maclean's Dropzone (Europe).gg" size="131072" sha1="b78bc3fe6bfbc7d6f5e85d59d79be19bf7372bcc" crc="152f0dcc" />
+  </game>
+  <game name="01 - Games/Arena">
+    <rom name="Arena (USA, Europe).gg" size="524288" sha1="91e411d979789f2e31dcfe94fb7f757815f60680" crc="7cb3facf" />
+  </game>
+  <game name="01 - Games/Ariel - The Little Mermaid">
+    <rom name="Ariel - The Little Mermaid (USA, Europe, Brazil) (En).gg" size="262144" sha1="d2f1b95a6d0a2cacd93ed307a5a6576f954a7d56" crc="97e3a18c" />
+  </game>
+  <game name="01 - Games/Ascend Mini">
+    <rom name="Ascend Mini (World) (Aftermarket) (Unl).gg" size="16384" sha1="fb897c2502210befb131c75695c9d4bbf9426f37" crc="0765a5f1" />
+  </game>
+  <game name="01 - Games/Asterix and the Great Rescue">
+    <rom name="Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It).gg" size="524288" sha1="6083f57bc33c761ebf06b7c7512d1ee10bf619c8" crc="328c5cc8" />
+    <rom name="Asterix and the Great Rescue (USA, Brazil) (En).gg" size="524288" sha1="821a0f9087001831fb9828fe2ef193877f960db6" crc="78208b40" />
+  </game>
+  <game name="01 - Games/Asterix and the Great Rescue/~Prototypes and Betas">
+    <rom name="Asterix and the Great Rescue (USA) (Beta 3).gg" size="524288" sha1="ca04b12f93d3657e323db8ae3f3f31a6220ec732" crc="31bd3d8a" />
+    <rom name="Asterix and the Great Rescue (USA) (Beta 4).gg" size="524288" sha1="cde9940d29dc834806b55cc1783c1b7944eb7600" crc="faf09846" />
+    <rom name="Asterix and the Great Rescue (USA) (Beta 5).gg" size="524288" sha1="be292971696ecfa753d312c97c5b4788f5adfbee" crc="66d8eb63" />
+    <rom name="Asterix and the Great Rescue (USA) (En,Fr,De,Es,It) (Beta 1).gg" size="524288" sha1="4d52303ce4aa680fcf5813317804b5805b9222a4" crc="ba45f00f" />
+    <rom name="Asterix and the Great Rescue (USA) (En,Fr,De,Es,It) (Beta 2).gg" size="524288" sha1="7d411f499e313bece6cd0a6f32c614adc0405190" crc="1e8d735c" />
+  </game>
+  <game name="01 - Games/Asterix and the Secret Mission">
+    <rom name="Asterix and the Secret Mission (Europe) (En,Fr,De).gg" size="524288" sha1="8ab4ea406a0503b09c1bd89e3217c5735b36ebed" crc="c01a8051" />
+  </game>
+  <game name="01 - Games/Ax Battler - A Legend of Golden Axe">
+    <rom name="Ax Battler - A Legend of Golden Axe (USA, Europe, Brazil) (En).gg" size="262144" sha1="9f5bf2973225b8ee337fcec460829724a0c63d9e" crc="663bcf8a" />
+    <rom name="Ax Battler - Golden Axe Densetsu (Japan).gg" size="262144" sha1="ff7931d3461c69ffc3a82d892ae3bb3bb00788b3" crc="dfcf555f" />
+  </game>
+  <game name="01 - Games/Ax Battler - A Legend of Golden Axe/~Prototypes and Betas">
+    <rom name="Ax Battler - A Legend of Golden Axe (USA, Europe, Brazil) (En) (Beta).gg" size="262144" sha1="fe0f433aebd6e3c4b61e4e155323fe6932369459" crc="3435ab54" />
+  </game>
+  <game name="01 - Games/Ayrton Senna's Super Monaco GP II">
+    <rom name="Ayrton Senna's Super Monaco GP II (Japan) (Rev 1).gg" size="262144" sha1="70f911386d48362669e7d0076a53aaa2f91140c3" crc="7687ce09" />
+    <rom name="Ayrton Senna's Super Monaco GP II (Japan).gg" size="262144" sha1="44f2c2bfa6ab57c1fd533996a5e404ebaa07264b" crc="661faeff" />
+    <rom name="Ayrton Senna's Super Monaco GP II (USA, Europe, Brazil) (En).gg" size="262144" sha1="e6a86010a4dad0a6102783d3c00ad126e8221597" crc="1d1b1dd3" />
+  </game>
+  <game name="01 - Games/Ayrton Senna's Super Monaco GP II/~Prototypes and Betas">
+    <rom name="Ayrton Senna's Super Monaco GP II (USA, Europe, Brazil) (En) (Beta).gg" size="262144" sha1="3467364272fea73d434aaa421b1f3f39f34d97b0" crc="6afb8ec6" />
+  </game>
+  <game name="01 - Games/Backgammon (5 in One FunPak)">
+    <rom name="5 in One FunPak (USA).gg" size="262144" sha1="dc8f5848fede37a914dbf1c104c3efb5a804ccbd" crc="f85a8ce8" />
+  </game>
+  <game name="01 - Games/Baku Baku">
+    <rom name="Baku Baku (Europe).gg" size="262144" sha1="5145967d0a3632cf6bb1a9d58b2ef04faecd40db" crc="10ac9374" />
+    <rom name="Baku Baku (USA).gg" size="262144" sha1="f4f31d08e17b9936dea621fef9b38e1cd067bef2" crc="8d8bfdc4" />
+    <rom name="Baku Baku Animal - Sekai Shiikugakari Senshu-ken (Japan).gg" size="262144" sha1="270e071342adb41406568e171df4959656ed02bf" crc="7174b802" />
+  </game>
+  <game name="01 - Games/Barbie Super Model/~Prototypes and Betas">
+    <rom name="Barbie Super Model (USA) (Proto).gg" size="262144" sha1="4fabaf794081074ac1a76eb0efc4262efb627610" crc="03a0ce9e" />
+  </game>
+  <game name="01 - Games/Batman Forever">
+    <rom name="Batman Forever (World).gg" size="524288" sha1="775ecf7ba87345c2f89f0e9d6e55544db8878786" crc="618b19e2" />
+  </game>
+  <game name="01 - Games/Batman Returns">
+    <rom name="Batman Returns (World).gg" size="262144" sha1="85994b2f506c7bded0b02a59d96b1d949e48d518" crc="7ac4a3ca" />
+  </game>
+  <game name="01 - Games/Batter Up">
+    <rom name="Batter Up (USA).gg" size="131072" sha1="107496f1afff8bcebcd507226e953871fc4d80e4" crc="16448209" />
+    <rom name="Gear Stadium (Japan).gg" size="131072" sha1="10124c1ca517fa933ca0488f288d205b0cc80d9c" crc="0e300223" />
+  </game>
+  <game name="01 - Games/Battleship - The Classic Naval Combat Game">
+    <rom name="Battleship - The Classic Naval Combat Game (USA).gg" size="131072" sha1="8f681ee130246b6cab87527259fba5d12959c6ea" crc="e9987511" />
+  </game>
+  <game name="01 - Games/Battletoads">
+    <rom name="Battletoads (Japan, Europe) (En).gg" size="262144" sha1="77a284b993c6f60652d88468b836d7a2ee7b4600" crc="cb3cd075" />
+    <rom name="Battletoads (USA).gg" size="262144" sha1="f566a19d1cfd5c20d5b91b396f29323be2209911" crc="817cc0ca" />
+  </game>
+  <game name="01 - Games/Battlot Mini">
+    <rom name="Battlot Mini (World) (Aftermarket) (Unl).gg" size="16384" sha1="e6aa54ace356d3b817c88208565830cb1e76801b" crc="6287b42e" />
+  </game>
+  <game name="01 - Games/Beavis and Butt-Head">
+    <rom name="Beavis and Butt-Head (USA, Europe).gg" size="524288" sha1="dd2ea76c05d933b91f1b03140f6a04bf02f746d1" crc="a6bf865e" />
+  </game>
+  <game name="01 - Games/Beavis and Butt-Head/~Prototypes and Betas">
+    <rom name="Beavis and Butt-Head (USA, Europe) (Beta).gg" size="524288" sha1="ef47d449f65cfe129368a77cc0a4679a0d55ee63" crc="3858f14f" />
+  </game>
+  <game name="01 - Games/Berenstain Bears' Camping Adventure, The">
+    <rom name="Berenstain Bears' Camping Adventure, The (USA).gg" size="262144" sha1="a35bef59a59df2a6d3dc4b8d3fe2e4cc79464537" crc="a4bb9ffb" />
+  </game>
+  <game name="01 - Games/Berenstain Bears' Camping Adventure, The/~Prototypes and Betas">
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta 1).gg" size="262144" sha1="9e16aa6a11186089510fac9413bdd8e62001a761" crc="75a7a8ca" />
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta 10).gg" size="262144" sha1="b43373e626d96649f11d5f0ac1101a20b7404978" crc="f8f11b2a" />
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta 11).gg" size="262144" sha1="a8adae0ac9301b3342d79715b18e8cdebc6d84f6" crc="d0971f78" />
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta 12).gg" size="262144" sha1="0e44212a90383b82cd0d4e03b6cd12a6b38e2d48" crc="177d65ac" />
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta 13).gg" size="262144" sha1="6aad469e328614d9ed3f8f84bd90ef2dac2e71db" crc="f61ac1e8" />
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta 14).gg" size="262144" sha1="480537a721631fc9cebe67422010dfe5739002ef" crc="b73486d6" />
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta 15).gg" size="262144" sha1="ac152aa09dc09419c26761c18276fe4d679d8992" crc="e07b865e" />
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta 16).gg" size="262144" sha1="09bb4a3e936dcce34b46090f5f2f1353dee1d6f6" crc="167a4af6" />
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta 17).gg" size="262144" sha1="bd1ff3c4669379b2a02bd8e1d76b9c02fefc783e" crc="217b1ef0" />
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta 2).gg" size="262144" sha1="5fc1a46c47bb847fd3dbca54c9ba729011546b76" crc="fcf47bc9" />
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta 3).gg" size="262144" sha1="92ed587953db4c0001d19395c9c8c611d15d0cef" crc="a279c6bc" />
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta 4).gg" size="262144" sha1="83e3d4ed1437b6ed042b88129f3c1fb3d1846c94" crc="ffbf5abe" />
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta 5).gg" size="262144" sha1="801ed129a09373ad9606f7dedc9ce0bd7ce7dd21" crc="112b123f" />
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta 6).gg" size="262144" sha1="c7e0ccefdcc4f12d7ecdbab383e441b829a2c789" crc="882b8f53" />
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta 7).gg" size="262144" sha1="2d6ecb588299bbe9cb0eb54954663043355d759e" crc="50d400b8" />
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta 8).gg" size="262144" sha1="af14fcb9329c0ded9775473ef78e241fb6b2d365" crc="81a5e68f" />
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta 9).gg" size="262144" sha1="9b2aa818cdadc435ca1aee8ae54809377dce26f3" crc="0e676927" />
+  </game>
+  <game name="01 - Games/Berlin no Kabe">
+    <rom name="Berlin no Kabe (Japan).gg" size="262144" sha1="1d58d3d8b957d33bab8b50ae60dc0c31eafc08af" crc="325b1797" />
+  </game>
+  <game name="01 - Games/Bishoujo Mahjong Puzzle">
+    <rom name="Bishoujo Mahjong Puzzle (Japan) (Aftermarket) (Unl).gg" size="262144" sha1="089789af40b055a174e17d12e81903e16cfd4728" crc="f5deb770" />
+  </game>
+  <game name="01 - Games/Bishoujo Senshi Sailor Moon S">
+    <rom name="Bishoujo Senshi Sailor Moon S (Japan).gg" size="524288" sha1="824e463d0be5c0e81205a475b5ad7e55c366e486" crc="fe7374d2" />
+  </game>
+  <game name="01 - Games/Bishoujo Senshi Sailor Moon S/~Translations/Documentation">
+    <rom name="Pretty Soldier Sailor Moon S (Japan) [T-En by Supper v1.1] [n].txt" size="5476" sha1="3951bc7f610816151177f2ba8cb32f1c7aca92a4" crc="c52f5ee2" />
+  </game>
+  <game name="01 - Games/Bishoujo Senshi Sailor Moon S/~Translations">
+    <rom name="Pretty Soldier Sailor Moon S (Japan) [T-En by Supper v1.1] [n].gg" size="1048576" sha1="eefca5e6f05205d7abcf34fa5ed077c0257a6644" crc="fa7094ac" />
+  </game>
+  <game name="01 - Games/Black Castle">
+    <rom name="Black Castle (World) (Aftermarket) (Unl).gg" size="65536" sha1="23727688c23ec8ae53b81a3b27c9cae8e0deb56d" crc="7fd721f6" />
+    <rom name="Black Castle (World) (v1.1) (Aftermarket) (Unl).gg" size="65536" sha1="0903d9831a953932c2ba7a281041b4f635c35ad7" crc="ee80f563" />
+  </game>
+  <game name="01 - Games/Bonkers Wax Up!">
+    <rom name="Bonkers Wax Up! (USA, Europe).gg" size="524288" sha1="b98bd9467fe8bf782989172b576c7844f3666ae9" crc="bfceba5f" />
+  </game>
+  <game name="01 - Games/Bonkers Wax Up!/~Prototypes and Betas">
+    <rom name="Bonkers Wax Up! (USA, Europe) (Beta 1).gg" size="524288" sha1="160d28c7fd900ab25117247eccecf2ecdb164ce4" crc="777dfd80" />
+    <rom name="Bonkers Wax Up! (USA, Europe) (Beta 10).gg" size="524288" sha1="c8844bfda83a94ce648588ef945a0d76503b84ce" crc="9907a738" />
+    <rom name="Bonkers Wax Up! (USA, Europe) (Beta 11).gg" size="524288" sha1="50897d1cbda11e7b20678924d7461f8acd6f0686" crc="91258adc" />
+    <rom name="Bonkers Wax Up! (USA, Europe) (Beta 12).gg" size="524288" sha1="e797640e2363f517fb83ee42903f5d13a1ffad73" crc="9a405d0d" />
+    <rom name="Bonkers Wax Up! (USA, Europe) (Beta 13).gg" size="524288" sha1="368286ded1662eddfff056ad77583d62ce83f58b" crc="6d295894" />
+    <rom name="Bonkers Wax Up! (USA, Europe) (Beta 2).gg" size="524288" sha1="6cd8fee2110bc5010a2840c6e5b3fb32270efc02" crc="85510a57" />
+    <rom name="Bonkers Wax Up! (USA, Europe) (Beta 3).gg" size="524288" sha1="c60fbd9e191e4154e26e73f0fd1be1dc6e999e11" crc="dab43f8f" />
+    <rom name="Bonkers Wax Up! (USA, Europe) (Beta 4).gg" size="524288" sha1="ac22b149fcd6b500875c93f71e12b2a6cedea507" crc="1b081950" />
+    <rom name="Bonkers Wax Up! (USA, Europe) (Beta 5).gg" size="524288" sha1="fbdccd5ee5f38b8ce5654a0093f32e3811c8b56b" crc="eb3f22c2" />
+    <rom name="Bonkers Wax Up! (USA, Europe) (Beta 6).gg" size="524288" sha1="4ad7947a4ffee9a76d146fecc9c3c2f6c5e680b7" crc="ad6a62fa" />
+    <rom name="Bonkers Wax Up! (USA, Europe) (Beta 7).gg" size="524288" sha1="7e426a1db56125836dd93ea57d5ac82cff1be23f" crc="63429025" />
+    <rom name="Bonkers Wax Up! (USA, Europe) (Beta 8).gg" size="524288" sha1="dcbb000cda6f303d902a308a50e08ebc4803d511" crc="c2229b6e" />
+    <rom name="Bonkers Wax Up! (USA, Europe) (Beta 9).gg" size="524288" sha1="415fc9e0021f544cbf8fd0895d013465654fd1d5" crc="edaf25e7" />
+  </game>
+  <game name="01 - Games/Bootskell Mini">
+    <rom name="Bootskell Mini (World) (Aftermarket) (Unl).gg" size="16384" sha1="e70f3d4e079edf12a69f5de2f3a0ab3148e24547" crc="58233b4a" />
+  </game>
+  <game name="01 - Games/Bram Stoker's Dracula">
+    <rom name="Bram Stoker's Dracula (Europe).gg" size="262144" sha1="ea753b5dce4b319cc1709451a4c8cb55daf2b76b" crc="69ebe5fa" />
+    <rom name="Bram Stoker's Dracula (USA).gg" size="262144" sha1="bde7280d4feab1c27dda228ef821c7a1c63a9e07" crc="d966ec47" />
+  </game>
+  <game name="01 - Games/BreakThru!/~Prototypes and Betas">
+    <rom name="BreakThru! (USA) (Proto).gg" size="131072" sha1="571bd543320bc67c4103630c804705955bc5250a" crc="64d7a694" />
+  </game>
+  <game name="01 - Games/Bubble Bobble">
+    <rom name="Bubble Bobble (USA).gg" size="262144" sha1="c2c99d798bd0d4960021743a55e74644ad9020c6" crc="fba338c5" />
+  </game>
+  <game name="01 - Games/Bubble Bobble/~Prototypes and Betas">
+    <rom name="Bubble Bobble (USA) (Beta).gg" size="262144" sha1="6d4b02f63d5d0c5ffead8fb8c4726fd610c245ad" crc="be2dc770" />
+  </game>
+  <game name="01 - Games/Bugs Bunny in Double Trouble">
+    <rom name="Bugs Bunny in Double Trouble (USA, Europe).gg" size="524288" sha1="a29dabb90532ff6114437f28970203e16003c11e" crc="5c34d9cd" />
+  </game>
+  <game name="01 - Games/Burger Kitchen">
+    <rom name="Burger Kitchen (Japan) (Aftermarket) (Unl).gg" size="65536" sha1="abf07fd270709657bed043a75d26682e3aa72743" crc="a7a9dd46" />
+  </game>
+  <game name="01 - Games/Bust-A-Move">
+    <rom name="Bust-A-Move (USA).gg" size="262144" sha1="e6bb5f72cffb11c8dd44ac3e378088b04cec1297" crc="c90f29ef" />
+    <rom name="Puzzle Bobble (Japan).gg" size="262144" sha1="15568554cf6474e1ad64401217b702a048113a2d" crc="8e54ee04" />
+  </game>
+  <game name="01 - Games/Buster Ball">
+    <rom name="Buster Ball (Japan).gg" size="131072" sha1="5d67f38ec0c2e577a7ad88915849da696ad162aa" crc="7cb079d0" />
+  </game>
+  <game name="01 - Games/Buster Ball/~Translations">
+    <rom name="Buster Ball (Japan) [T-En by Lazermutt4 v1.0].gg" size="131072" sha1="1ac7f351e99d389def54f0a1c3fb577204d386ca" crc="691a1587" />
+  </game>
+  <game name="01 - Games/Buster Ball/~Translations/Documentation">
+    <rom name="Buster Ball (Japan) [T-En by Lazermutt4 v1.0].txt" size="590" sha1="81fe0ac061a84d3419b2fbfe522ad1546c864d84" crc="3c2ef789" />
+  </game>
+  <game name="01 - Games/Buster Fight">
+    <rom name="Buster Fight (Japan).gg" size="262144" sha1="5c87048082a95acd6bc27b98f85bda731617c739" crc="a72a1753" />
+  </game>
+  <game name="01 - Games/CJ Elephant Fugitive">
+    <rom name="CJ Elephant Fugitive (USA, Europe).gg" size="262144" sha1="a60815aa0c6ec2bc5ad7f817668b74a42bb64026" crc="72981057" />
+  </game>
+  <game name="01 - Games/CJ Elephant Fugitive/~Prototypes and Betas">
+    <rom name="CJ Elephant Fugitive (USA, Europe) (Beta).gg" size="262144" sha1="322ea1294833659a205e313ca49667b921891e85" crc="3ace6335" />
+  </game>
+  <game name="01 - Games/Cacorm Mini">
+    <rom name="Cacorm Mini (World) (Aftermarket) (Unl).gg" size="16368" sha1="7a0790e8318b22af75fe1bdb151807a208cdf622" crc="d1880cca" />
+  </game>
+  <game name="01 - Games/Caesars Palace">
+    <rom name="Caesars Palace (USA).gg" size="262144" sha1="ce3f7d6f2df8509764f0ad06a05801ca76d6fb0a" crc="c53b60b8" />
+  </game>
+  <game name="01 - Games/Captain America and the Avengers">
+    <rom name="Captain America and the Avengers (USA).gg" size="262144" sha1="4b859174d57cc4a5a575f8aa9547a83d08e6c117" crc="5675dfdd" />
+  </game>
+  <game name="01 - Games/Car Licence">
+    <rom name="Car Licence (Japan).gg" size="524288" sha1="0cf691dba7080a1f8d4a181563948b188115ec89" crc="f6a697f8" />
+  </game>
+  <game name="01 - Games/Casino FunPak">
+    <rom name="Casino FunPak (USA).gg" size="262144" sha1="5b512d5c3ea92498831b40cd740b99107c369b56" crc="2b732056" />
+  </game>
+  <game name="01 - Games/Castle of Illusion Starring Mickey Mouse">
+    <rom name="Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En).sms" size="262144" sha1="06bbeb784f913b37f58c2581c66d4ecb099deace" crc="59840fd6" />
+    <rom name="Mickey Mouse no Castle Illusion (Japan) (En).sms" size="262144" sha1="d2580137c641192d7faa98dbf8c715623e7d0bed" crc="9942b69b" />
+  </game>
+  <game name="01 - Games/Cave Dude/~Prototypes and Betas">
+    <rom name="Cave Dude (USA) (Proto).sms" size="262144" sha1="f009d56f5a47068b991f44742c836ba2374f84a2" crc="cc521975" />
+  </game>
+  <game name="01 - Games/Cavit Mini">
+    <rom name="Cavit Mini (World) (Aftermarket) (Unl).gg" size="16384" sha1="4d6d2272174c3264d2b4a563f6d46b8e0f2b718e" crc="7ec76ec0" />
+  </game>
+  <game name="01 - Games/Centipede (Arcade Classics)">
+    <rom name="Arcade Classics (USA).gg" size="262144" sha1="fde19f418f4f13bbe43e6610f411065db9a6f550" crc="3deca813" />
+  </game>
+  <game name="01 - Games/Chakan">
+    <rom name="Chakan (USA, Europe).gg" size="262144" sha1="bdb82464147ef20792162cff7922824d4dee0dc1" crc="dfc7adc8" />
+  </game>
+  <game name="01 - Games/Championship Hockey">
+    <rom name="Championship Hockey (Europe).gg" size="262144" sha1="4b0bd83ee4fefc40c420413d044b91525b494f6b" crc="e21d2a88" />
+  </game>
+  <game name="01 - Games/Chase H.Q">
+    <rom name="Chase H.Q. (USA).sms" size="131072" sha1="6d6209c642b854eaa43da81b311c04a7579d9a17" crc="c8381def" />
+    <rom name="Taito Chase H.Q. (Japan) (En).sms" size="131072" sha1="b757b45a07ae6530443862e0eca547e16c23b4a3" crc="7bb81e3d" />
+  </game>
+  <game name="01 - Games/Checkers (5 in One FunPak)">
+    <rom name="5 in One FunPak (USA).gg" size="262144" sha1="dc8f5848fede37a914dbf1c104c3efb5a804ccbd" crc="f85a8ce8" />
+  </game>
+  <game name="01 - Games/Cheese Cat-Astrophe Starring Speedy Gonzales">
+    <rom name="Cheese Cat-Astrophe Starring Speedy Gonzales (USA, Europe, Brazil) (En,Fr,De,Es).gg" size="524288" sha1="8897ba5aa76d0e17251b2765fafbdb0df41030a6" crc="4e78fd36" />
+  </game>
+  <game name="01 - Games/Chess (5 in One FunPak)">
+    <rom name="5 in One FunPak (USA).gg" size="262144" sha1="dc8f5848fede37a914dbf1c104c3efb5a804ccbd" crc="f85a8ce8" />
+  </game>
+  <game name="01 - Games/Chessmaster, The">
+    <rom name="Chessmaster, The (USA, Europe, Brazil) (En).gg" size="131072" sha1="daea9a76dedc080b9965cfa32e2ddb1eaaaab0b4" crc="da811ba6" />
+  </game>
+  <game name="01 - Games/Chicago Syndicate">
+    <rom name="Chicago Syndicate (USA, Brazil) (En).gg" size="524288" sha1="d7746e4c78aa86bc698fc25a52a791ba27a71add" crc="6b0fcec3" />
+  </game>
+  <game name="01 - Games/Chicago Syndicate/~Prototypes and Betas">
+    <rom name="Chicago Syndicate (USA, Brazil) (En) (Beta 1).gg" size="524288" sha1="6534e73ea631de8df56779f3ba4c1948b0070400" crc="a5fa4eaf" />
+    <rom name="Chicago Syndicate (USA, Brazil) (En) (Beta 10).gg" size="524288" sha1="821bc6a27dd1cf519033d65ffe41458f3bee21cd" crc="4ac79cec" />
+    <rom name="Chicago Syndicate (USA, Brazil) (En) (Beta 11).gg" size="524288" sha1="148d09a535e50730672557668c3161f3b18b4834" crc="abe696e5" />
+    <rom name="Chicago Syndicate (USA, Brazil) (En) (Beta 12).gg" size="524288" sha1="5a46ace9f6b24e8403caead2b6ec39e4059e68e6" crc="5cd07aed" />
+    <rom name="Chicago Syndicate (USA, Brazil) (En) (Beta 13).gg" size="524288" sha1="f72c381fabef9286da6a7ede230156277364c5d1" crc="e1112763" />
+    <rom name="Chicago Syndicate (USA, Brazil) (En) (Beta 14).gg" size="524288" sha1="6fd25c55c8cc6b10f928af6d5de83d61685df940" crc="d3614e4e" />
+    <rom name="Chicago Syndicate (USA, Brazil) (En) (Beta 15).gg" size="524288" sha1="5fc82fc2866b7dd99868dfa1a0b619ad688d1221" crc="f68a3581" />
+    <rom name="Chicago Syndicate (USA, Brazil) (En) (Beta 16).gg" size="524288" sha1="e526b1ff96c245d4ec69064a2cc8e57169081802" crc="e3c0ea98" />
+    <rom name="Chicago Syndicate (USA, Brazil) (En) (Beta 17).gg" size="524288" sha1="18b2a946800d4a6347cd96c8790add2f34fe4dfa" crc="4158e203" />
+    <rom name="Chicago Syndicate (USA, Brazil) (En) (Beta 18).gg" size="524288" sha1="b76a7e673e5581a2084098f737ff551ce8880296" crc="e44d1b01" />
+    <rom name="Chicago Syndicate (USA, Brazil) (En) (Beta 19).gg" size="524288" sha1="b32ec7e95dc39f0b78dd3d0b17c2d504f5f24f9a" crc="42becef6" />
+    <rom name="Chicago Syndicate (USA, Brazil) (En) (Beta 2).gg" size="524288" sha1="5ab2358c0db7c486ce2e9bcc663c054a694bff46" crc="448c6890" />
+    <rom name="Chicago Syndicate (USA, Brazil) (En) (Beta 20).gg" size="524288" sha1="bc01553450523d4860c2fb42d84297fd80cbf5d2" crc="afe46aa8" />
+    <rom name="Chicago Syndicate (USA, Brazil) (En) (Beta 21).gg" size="524288" sha1="b70863b4a6aec101cee895baf3f8ea27e076e369" crc="dd5f9327" />
+    <rom name="Chicago Syndicate (USA, Brazil) (En) (Beta 22).gg" size="524288" sha1="087df96c15aa1258a46690b4859a5447481e058f" crc="b0597a54" />
+    <rom name="Chicago Syndicate (USA, Brazil) (En) (Beta 23).gg" size="524288" sha1="17887be88692097acc74488b16a255b7b6b95aee" crc="8e149bb8" />
+    <rom name="Chicago Syndicate (USA, Brazil) (En) (Beta 24).gg" size="524288" sha1="5c6db9314cbc4c7933dacc076e59948147ad79ae" crc="26ced733" />
+    <rom name="Chicago Syndicate (USA, Brazil) (En) (Beta 3).gg" size="524288" sha1="0fc9d9a9bbbc00dc286f350de07b0e53a507c01f" crc="af43b940" />
+    <rom name="Chicago Syndicate (USA, Brazil) (En) (Beta 4).gg" size="524288" sha1="6154bbc7c0c06d354283af2292eb041e1d87944a" crc="9b2fd7f3" />
+    <rom name="Chicago Syndicate (USA, Brazil) (En) (Beta 5).gg" size="524288" sha1="7138742323b2ba7d18eb9497f78fcb6cd2025df1" crc="2036d4b7" />
+    <rom name="Chicago Syndicate (USA, Brazil) (En) (Beta 6).gg" size="524288" sha1="99aeac9b5b3800ddd8ee6630e373af73496c8b3a" crc="f2c24745" />
+    <rom name="Chicago Syndicate (USA, Brazil) (En) (Beta 7).gg" size="524288" sha1="7f83c523a6b0813a2c1f72e71f5dbc0e1ea556cb" crc="463a2197" />
+    <rom name="Chicago Syndicate (USA, Brazil) (En) (Beta 8).gg" size="524288" sha1="61ca81b15fad4d71a8222a8dc9f9c1fc05561549" crc="3cdb35b1" />
+    <rom name="Chicago Syndicate (USA, Brazil) (En) (Beta 9).gg" size="524288" sha1="924bb32515d4a0435fb318f852483fdc1974e771" crc="bf82cf83" />
+    <rom name="Empire Syndicate (USA) (Beta).gg" size="524288" sha1="475d071662a326e931aca78abbd9c7e27d6595c0" crc="64f17cac" />
+  </game>
+  <game name="01 - Games/Choplifter III">
+    <rom name="Choplifter III (USA).gg" size="262144" sha1="c0152f5b07b6ff47dfedda5258eda1d4e335cdbf" crc="c2e8a692" />
+  </game>
+  <game name="01 - Games/Chuck Rock II - Son of Chuck">
+    <rom name="Chuck Rock II - Son of Chuck (Europe, Brazil) (En).gg" size="262144" sha1="8ee080538e87e0f39720c9254bb4a2d85f637967" crc="656708bf" />
+    <rom name="Chuck Rock II - Son of Chuck (USA).gg" size="262144" sha1="f6aa6a9a641b3a588a8091cf44e8b0a55ebbd613" crc="3fcc28c9" />
+  </game>
+  <game name="01 - Games/Chuck Rock">
+    <rom name="Chuck Rock (World).gg" size="262144" sha1="2b08a3231c0504d86caca74c8508d85c8ef6a86a" crc="191b1ed8" />
+  </game>
+  <game name="01 - Games/Chuck Rock/~Prototypes and Betas">
+    <rom name="Chuck Rock (World) (Beta).gg" size="262144" sha1="17442f7b30d7882723bddcad38c9ada363fb7211" crc="cb3a1d23" />
+  </game>
+  <game name="01 - Games/Cliffhanger">
+    <rom name="Cliffhanger (USA).gg" size="262144" sha1="7aaf4f7afc2af8dfbf9cc84c7db48788ab1b2d83" crc="bf75b153" />
+  </game>
+  <game name="01 - Games/Clutch Hitter">
+    <rom name="Clutch Hitter (USA).gg" size="131072" sha1="df7af6588652c3163ea6f445fa21ef76b9764cd0" crc="d228a467" />
+  </game>
+  <game name="01 - Games/Columns">
+    <rom name="Columns (Japan) (En) (Rev A).gg" size="32768" sha1="d83fd16bd23c51750555a692535daa171ed41af0" crc="ac37e092" />
+    <rom name="Columns (Japan) (En).gg" size="32768" sha1="8b39ba23132af102b8dc313c5c1c211f4a4f27e1" crc="f3ca6676" />
+    <rom name="Columns (USA, Europe, Brazil) (En).gg" size="32768" sha1="05b73f39a90fd59e01262cbd3f4e7a21575d468a" crc="83fa26d9" />
+  </game>
+  <game name="01 - Games/Cool Spot">
+    <rom name="Cool Spot (Europe).gg" size="262144" sha1="68c94b4ebd33016c3f0b4ee2b6f5524040e5503e" crc="ba0714db" />
+    <rom name="Cool Spot (USA).gg" size="262144" sha1="c5f39a81c33327dc86b41d6f416efe09b131e14d" crc="2c758fc8" />
+  </game>
+  <game name="01 - Games/Cosmic Spacehead">
+    <rom name="Cosmic Spacehead (USA, Europe).gg" size="262144" sha1="c24f48ca3fb7df3b50b4353095c7a070653f3539" crc="6caa625b" />
+  </game>
+  <game name="01 - Games/Cracky Mini">
+    <rom name="Cracky Mini (World) (Aftermarket) (Unl).gg" size="16368" sha1="802f8ae265173828586d7b591d73879451877e02" crc="f76913ed" />
+  </game>
+  <game name="01 - Games/Crayon Shin-chan - Taiketsu! Kantam Panic!!">
+    <rom name="Crayon Shin-chan - Taiketsu! Kantam Panic!! (Japan).gg" size="524288" sha1="65bcbd89637b8e6837cf36c7f1241eacf85abaa9" crc="03d28eab" />
+  </game>
+  <game name="01 - Games/Crayon Shin-chan - Taiketsu! Kantam Panic!!/~Translations">
+    <rom name="Crayon Shin-Chan - Showdown! Quantum Panic!! (Japan) [T-En by Psyklax v1.0] [n].gg" size="524288" sha1="19a3c8b90431ceac3427e1ea0ae4a6a292a7d0d1" crc="11b1c2f4" />
+  </game>
+  <game name="01 - Games/Crayon Shin-chan - Taiketsu! Kantam Panic!!/~Translations/Documentation">
+    <rom name="Crayon Shin-Chan - Showdown! Quantum Panic!! (Japan) [T-En by Psyklax v1.0] [n].txt" size="7949" sha1="bddf3a49252a6ce5fd140842d9f2d77a5ece6c5a" crc="689f426d" />
+  </game>
+  <game name="01 - Games/Crazy Faces/~Prototypes and Betas">
+    <rom name="Crazy Faces (Europe) (Proto).gg" size="131072" sha1="00cfce623709b8d9bc9e6bbb96feb9faf9a81f84" crc="46ad6257" />
+  </game>
+  <game name="01 - Games/Cross Bomber">
+    <rom name="Cross Bomber (World) (v1.0) (Aftermarket) (Unl).gg" size="32768" sha1="b1104b66ba6cd3231eeb3488d0d5f99706b5ebfc" crc="d156b6d5" />
+    <rom name="Cross Bomber (World) (v1.1) (Aftermarket) (Unl).gg" size="32768" sha1="d2cf0ada1049f8f55e32a746510bf632a3e0c96f" crc="b53334c7" />
+  </game>
+  <game name="01 - Games/Cross Chase">
+    <rom name="Cross Chase (World) (v1.0) (Aftermarket) (Unl).gg" size="32768" sha1="edf4806cb43c0e8d3501f1221d8b4472e7fa6b44" crc="c2a8811c" />
+    <rom name="Cross Chase (World) (v1.1) (Aftermarket) (Unl).gg" size="32768" sha1="35353ed34aa807c3e6d7b301fae6434cd3de6191" crc="5ce19c14" />
+  </game>
+  <game name="01 - Games/Cross Horde">
+    <rom name="Cross Horde (World) (v1.0) (Aftermarket) (Unl).gg" size="32768" sha1="303c9a078e5084f260f741d5d46832acda87d2b3" crc="203ceea1" />
+    <rom name="Cross Horde (World) (v1.1) (Aftermarket) (Unl).gg" size="32768" sha1="f74b52ec9f24a32517796256dbed80c2e8fb9ac1" crc="66e6968c" />
+  </game>
+  <game name="01 - Games/Cross Shoot">
+    <rom name="Cross Shoot (World) (Aftermarket) (Unl).gg" size="32768" sha1="3505e4b1870151b8801a9df0c97cda92493d547c" crc="4479adc3" />
+  </game>
+  <game name="01 - Games/Cross Shuriken">
+    <rom name="Cross Shuriken (World) (Aftermarket) (Unl).gg" size="32768" sha1="8f5732e94cbc952e1c6070acd1fc91119f8fc358" crc="31505680" />
+  </game>
+  <game name="01 - Games/Cross Snake">
+    <rom name="Cross Snake (World) (Aftermarket) (Unl).gg" size="32768" sha1="92368fabe8946aca7256afa4a0772ff93fc69e02" crc="030fc2a1" />
+  </game>
+  <game name="01 - Games/Cross Trex">
+    <rom name="Cross Trex (World) (Aftermarket) (Unl).gg" size="32768" sha1="0e8ac5f8d522256e04299acf1ace09717549cd18" crc="54b37e2b" />
+  </game>
+  <game name="01 - Games/Cross Trex/~Prototypes and Betas">
+    <rom name="Cross Trex (World) (Beta) (Aftermarket) (Unl).gg" size="32768" sha1="dbc7df6ad2ff8179e73e4bb8feed009a6ec1619b" crc="9bb82cbc" />
+  </game>
+  <game name="01 - Games/Cross Verbix">
+    <rom name="Cross Verbix (World) (Aftermarket) (Unl).gg" size="32768" sha1="d0fd6e56b30ae6fcf672add2bc0a7f4e94a5b375" crc="92e342e3" />
+  </game>
+  <game name="01 - Games/Crystal Warriors">
+    <rom name="Arliel - Crystal Densetsu (Japan).gg" size="262144" sha1="75a04fa483fccd12a52aa18e494d542f4486577f" crc="35fa3f68" />
+    <rom name="Crystal Warriors (USA, Europe).gg" size="262144" sha1="6b03183b7183de17ad6fbc9938599d3d18badc1a" crc="529c864e" />
+  </game>
+  <game name="01 - Games/CutThroat Island">
+    <rom name="CutThroat Island (USA).gg" size="524288" sha1="95d2012c4027228fda50ef434b53ae5633a7eb8c" crc="6a24e47e" />
+  </game>
+  <game name="01 - Games/CutThroat Island/~Prototypes and Betas">
+    <rom name="CutThroat Island (USA) (Beta).gg" size="524288" sha1="b2d1fd7a1bbbac3d4f1cf9babd6ff85ed7962c1a" crc="6352ef00" />
+  </game>
+  <game name="01 - Games/Daffy Duck in Hollywood">
+    <rom name="Daffy Duck in Hollywood (Europe, Brazil) (En,Fr,De,Es,It).gg" size="524288" sha1="2d058f3885bee45b04b74cbe16f3974d4eb2bfcf" crc="aae268fc" />
+  </game>
+  <game name="01 - Games/Damojie Cun - Ghouls'n Ghosto">
+    <rom name="Damojie Cun - Ghouls'n Ghosto (Taiwan) (En) (Unl).sms" size="262144" sha1="6039e65f4e807c1200de496fcac9ff7da0d1eb42" crc="8821a7c9" />
+  </game>
+  <game name="01 - Games/Dangerous Demolition">
+    <rom name="Dangerous Demolition (World) (Aftermarket) (Unl).gg" size="32768" sha1="1fc86e872798466a4e5191e01f3af2d76d3bfedd" crc="638c4252" />
+    <rom name="Dangerous Demolition (World) (v1.1) (Aftermarket) (Unl).gg" size="49152" sha1="096c473b626348179e932822a6d08e9f7d238a8c" crc="4c1dd4ba" />
+  </game>
+  <game name="01 - Games/Deep Duck Trouble Starring Donald Duck">
+    <rom name="Deep Duck Trouble Starring Donald Duck (USA, Europe, Brazil) (En).gg" size="524288" sha1="24485549001bc57b5cffee1449ad0af80e862773" crc="5a136d7e" />
+    <rom name="Donald Duck no 4-Tsu no Hihou (Japan).gg" size="524288" sha1="d5e278b5c68864da7ddfd1f9cfa5b25e462496b0" crc="4457e7c0" />
+  </game>
+  <game name="01 - Games/Defenders of Oasis">
+    <rom name="Defenders of Oasis (USA, Europe) (Virtual Console).gg" size="524288" sha1="fe4c1df4e8d8cd244e9cef803eeafaec4962c31a" crc="41a367a0" />
+    <rom name="Defenders of Oasis (USA, Europe).gg" size="524288" sha1="07c1167c3b6eea294a73272c256934406f48f9d5" crc="e2791cc1" />
+    <rom name="Shadam Crusader - Harukanaru Oukoku (Japan).gg" size="524288" sha1="de4b546f61dd32106247d38643849f6aaeeedb07" crc="09f9ed60" />
+  </game>
+  <game name="01 - Games/Defenders of Oasis/~Prototypes and Betas">
+    <rom name="Defenders of Oasis (USA, Europe) (Beta).gg" size="262144" sha1="76e1f94dbb8a12ba428767d2e70f00fe719fa449" crc="c674eccc" />
+  </game>
+  <game name="01 - Games/Desert Speedtrap Starring Road Runner and Wile E. Coyote">
+    <rom name="Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe) (En,Fr,De,Es,It).gg" size="262144" sha1="a253283456010bd73d3bde209566f26b6f8c582f" crc="ec808026" />
+    <rom name="Desert Speedtrap Starring Road Runner and Wile E. Coyote (USA, Brazil) (En).gg" size="262144" sha1="6b88fb212f0556ea57e01a3a1cd5123db5631e28" crc="c2e111ac" />
+  </game>
+  <game name="01 - Games/Desert Strike">
+    <rom name="Desert Strike (Europe) (En,Fr,De,Es).gg" size="524288" sha1="3bb092b14c650c5ffd0370e6870878282b3d04f4" crc="3e44eca3" />
+    <rom name="Desert Strike - Return to the Gulf (USA).gg" size="524288" sha1="80b91bdf20605d940401738202c473df632d0765" crc="f6c400da" />
+  </game>
+  <game name="01 - Games/Devilish">
+    <rom name="Devilish (Europe, Brazil) (En).gg" size="131072" sha1="3eb7e6cbe74d16bb14c42e91ab6334c156071f6b" crc="d43ac6c5" />
+    <rom name="Devilish (Japan) (En).gg" size="131072" sha1="5b1d4295920ebe4d6d9b9610764939b2aaa6c598" crc="25db174f" />
+    <rom name="Devilish (USA).gg" size="131072" sha1="421a416c71dd245d80b362af57d01c80547cf042" crc="c01293b0" />
+  </game>
+  <game name="01 - Games/Dinobasher Starring Bignose the Caveman/~Prototypes and Betas">
+    <rom name="Dinobasher Starring Bignose the Caveman (Europe) (Proto).gg" size="262144" sha1="46d1689c09705341f593a18d4e9cfd7805ecff88" crc="2306aaf4" />
+  </game>
+  <game name="01 - Games/Dizzy the Adventurer">
+    <rom name="Excellent Dizzy Collection, The (Europe).sms" size="524288" sha1="db3c0686715373242911f8471a1e91673811d62a" crc="aa140c9c" />
+  </game>
+  <game name="01 - Games/Donald no Magical World">
+    <rom name="Donald no Magical World (Japan) (En,Ja).gg" size="524288" sha1="5f9afdd5720f88f7cc18715f8e50fc5635b15323" crc="87b8b612" />
+  </game>
+  <game name="01 - Games/Donkey.GG/~Prototypes and Betas">
+    <rom name="Donkey.GG (World) (Proto) (Aftermarket) (Unl).gg" size="65536" sha1="315dd39f6d40d903e609ebbc0844b4adcc51ffc7" crc="ec3dcc27" />
+  </game>
+  <game name="01 - Games/Doraemon - Noranosuke no Yabou">
+    <rom name="Doraemon - Noranosuke no Yabou (Japan).gg" size="262144" sha1="6976b170879767889994b1e763a52726aa62ed98" crc="9a8b2c16" />
+  </game>
+  <game name="01 - Games/Doraemon - Waku Waku Pocket Paradise">
+    <rom name="Doraemon - Waku Waku Pocket Paradise (Japan).gg" size="524288" sha1="495816dbd49560cf02e841b53bd996456078c36b" crc="733292a6" />
+  </game>
+  <game name="01 - Games/Double Dragon">
+    <rom name="Double Dragon (USA, Europe).gg" size="262144" sha1="baebe28fc7549cbb06c94fcb36a3c40231933c01" crc="1307a290" />
+  </game>
+  <game name="01 - Games/Double Dragon/~Prototypes and Betas">
+    <rom name="Double Dragon (USA, Europe) (Beta).gg" size="262144" sha1="b24aa3e31efbf09e8d0d9ae9d07b4d219b648f96" crc="331904c0" />
+  </game>
+  <game name="01 - Games/Dr. Robotnik's Mean Bean Machine">
+    <rom name="Dr. Robotnik's Mean Bean Machine (USA, Europe).gg" size="262144" sha1="c36bda8a86994d430506b196922ec1365622e560" crc="3c2d4f48" />
+  </game>
+  <game name="01 - Games/Dracula no Shiro">
+    <rom name="Dracula no Shiro (Japan) (Aftermarket) (Unl).gg" size="262144" sha1="f99976b68ed08bd867fa58d1d2c682c1b9653971" crc="310015e4" />
+  </game>
+  <game name="01 - Games/Dragon - The Bruce Lee Story">
+    <rom name="Dragon - The Bruce Lee Story (Europe).gg" size="262144" sha1="f1a90ffdff1003b4dedc61ce688591006a2d40be" crc="19e1cf2b" />
+    <rom name="Dragon - The Bruce Lee Story (USA).gg" size="262144" sha1="60c7cbe782c3df094452835076b9425c329c82ee" crc="17f588e8" />
+  </game>
+  <game name="01 - Games/Dragon - The Bruce Lee Story/~Prototypes and Betas">
+    <rom name="Dragon - The Bruce Lee Story (Europe) (Beta).gg" size="262144" sha1="b9a396be0e009c951f85bdd6e81ffe1a71232e44" crc="12e0e85b" />
+  </game>
+  <game name="01 - Games/Dragon Crystal">
+    <rom name="Dragon Crystal (USA, Europe) (Virtual Console).gg" size="131072" sha1="c7d1551b7bbc01f35fa849e5b05073012f76c3a8" crc="baf4369d" />
+    <rom name="Dragon Crystal (USA, Europe).gg" size="131072" sha1="6d53f32001d419a5b5e9c16cb62e07e548d2f44a" crc="0ef2ed93" />
+    <rom name="Dragon Crystal - Tsurani no Meikyuu (Japan) (Virtual Console).gg" size="131072" sha1="df135dd54638e2ce1f18d670c98b0313484d70bc" crc="9c8534ec" />
+    <rom name="Dragon Crystal - Tsurani no Meikyuu (Japan).gg" size="131072" sha1="ea323c4ac28d7762277039450c341d0f025093d8" crc="89f12e1e" />
+  </game>
+  <game name="01 - Games/Dunk Kids">
+    <rom name="Dunk Kids (Japan) (En).gg" size="524288" sha1="7525923ba2531d5079d66b2b1156cb5e7d44c66a" crc="77ed48f5" />
+  </game>
+  <game name="01 - Games/Dynamite Headdy">
+    <rom name="Dynamite Headdy (Japan) (En).gg" size="524288" sha1="a8e3f447089537b52e40958c07610bfead82442d" crc="f6af4b6b" />
+    <rom name="Dynamite Headdy (USA, Europe).gg" size="524288" sha1="a8c8b5252a885d466e044e6055336513d988e661" crc="610ff95c" />
+  </game>
+  <game name="01 - Games/Dynamite Headdy/~Prototypes and Betas">
+    <rom name="Dynamite Headdy (Japan) (En) (Beta).gg" size="524288" sha1="1f5628e2aa21a3ede186297062caaa400dec2ea2" crc="843556b1" />
+    <rom name="Dynamite Headdy (USA, Europe) (Beta 1).gg" size="524288" sha1="0e8bccb304898a80efcbae8351303103ec4145ee" crc="7bf339c0" />
+    <rom name="Dynamite Headdy (USA, Europe) (Beta 2).gg" size="524288" sha1="0e408b4c9dfbb94bdf556b7aa920d4ac71d88c56" crc="49389319" />
+    <rom name="Dynamite Headdy (USA, Europe) (Beta 3).gg" size="524288" sha1="59807e03d32837db34e2912d0e85db812edf823c" crc="c7bea89a" />
+  </game>
+  <game name="01 - Games/Earthworm Jim">
+    <rom name="Earthworm Jim (Europe).gg" size="524288" sha1="841844e847de742fa62f2afb185aa7bea7f1951e" crc="691ae339" />
+    <rom name="Earthworm Jim (USA).gg" size="524288" sha1="dbb149da0b0373f23750ed954dbb5e08bc634615" crc="5d3f23a9" />
+  </game>
+  <game name="01 - Games/Ecco - The Tides of Time">
+    <rom name="Ecco - The Tides of Time (USA, Europe, Brazil) (En).gg" size="524288" sha1="61913f6803977bb54fda7c3d969dc2c0f7c6da62" crc="e2f3b203" />
+    <rom name="Ecco the Dolphin II (Japan).gg" size="524288" sha1="36095f4c92f6f66ed6bc20d9b96227d6fb0dae5b" crc="ba9cef4f" />
+  </game>
+  <game name="01 - Games/Ecco the Dolphin">
+    <rom name="Ecco the Dolphin (Japan).gg" size="524288" sha1="5f0de698e8e0d4323b36bd78e2bd1af1c3370f3e" crc="a32eb9d5" />
+    <rom name="Ecco the Dolphin (USA, Europe, Brazil) (En).gg" size="524288" sha1="7c6c8f44d5aa799726adc3a9e21c9f35cacea87f" crc="866c7113" />
+  </game>
+  <game name="01 - Games/Ecco the Dolphin/~Prototypes and Betas">
+    <rom name="Ecco the Dolphin (USA, Europe, Brazil) (En) (Beta 1).gg" size="524288" sha1="070298f87402e874576f295828edde142482a085" crc="55036bc6" />
+    <rom name="Ecco the Dolphin (USA, Europe, Brazil) (En) (Beta 2).gg" size="524288" sha1="e9c260c5b2e5288a4b190987ef1f9744203c9eb3" crc="d4c74c02" />
+  </game>
+  <game name="01 - Games/Ernie Els Golf">
+    <rom name="Ernie Els Golf (Europe) (En,Fr,De,Es,It).gg" size="262144" sha1="a8d75c2af514dc81ba4dc66a508384d730a77ce4" crc="5e53c7f7" />
+  </game>
+  <game name="01 - Games/Ernie Els Golf/~Prototypes and Betas">
+    <rom name="Global Golf (USA) (Proto).gg" size="262144" sha1="b80e3d931c437b94bb5ef535df59cdb4cfa09400" crc="abbd0222" />
+  </game>
+  <game name="01 - Games/Eternal Legend">
+    <rom name="Eternal Legend (Japan).gg" size="262144" sha1="717b4e33cf3956e4194b912533bf1b7bf9d20725" crc="04302bbd" />
+  </game>
+  <game name="01 - Games/Eternal Legend/~Translations/Documentation">
+    <rom name="Eternal Legend - Eien no Densetsu (Japan) [T-En by Supper v1.0] [Walkthrough].txt" size="30640" sha1="fae2381186c73c10619608261676c1d3bfbda527" crc="813ae91d" />
+    <rom name="Eternal Legend - Eien no Densetsu (Japan) [T-En by Supper v1.0].txt" size="8050" sha1="e279937920671b9b97b58dd8cda727188e369428" crc="8f19727b" />
+  </game>
+  <game name="01 - Games/Eternal Legend/~Translations">
+    <rom name="Eternal Legend - Eien no Densetsu (Japan) [T-En by Supper v1.0].gg" size="1048576" sha1="85671fbd1f729d163554bd8e623ce29bfd3d0a47" crc="dbe0a941" />
+  </game>
+  <game name="01 - Games/Evander Holyfield's 'Real Deal' Boxing">
+    <rom name="Evander Holyfield's 'Real Deal' Boxing (USA, Europe).gg" size="262144" sha1="3093d6e6e332c864da8473ac2eab7d17eb65b523" crc="36aaf536" />
+  </game>
+  <game name="01 - Games/Excellent Dizzy Collection, The">
+    <rom name="Excellent Dizzy Collection, The (Europe).sms" size="524288" sha1="db3c0686715373242911f8471a1e91673811d62a" crc="aa140c9c" />
+  </game>
+  <game name="01 - Games/F-15 Strike Eagle">
+    <rom name="F-15 Strike Eagle (USA, Europe).gg" size="262144" sha1="4bfdafa848223598ca16699ad44fe4a19a1c2ba2" crc="8bdb0806" />
+  </game>
+  <game name="01 - Games/F1 - World Championship Edition">
+    <rom name="F1 - World Championship Edition (Europe).gg" size="262144" sha1="a42a647923a5af940ef63ab27d3100c3da53e30b" crc="107092d0" />
+  </game>
+  <game name="01 - Games/F1">
+    <rom name="F1 (USA, Europe).gg" size="262144" sha1="b5a1985d671e8b9e0eed7922e6db695011071e99" crc="d0a93e00" />
+  </game>
+  <game name="01 - Games/FIFA International Soccer">
+    <rom name="FIFA International Soccer (Japan).gg" size="524288" sha1="70385b99320f91fef54ea88123761af9d7ff54c5" crc="78159325" />
+    <rom name="FIFA International Soccer (USA, Europe) (En,Fr,De,Es).gg" size="524288" sha1="0725626fc9988b690fc1fc77b294d31b78cbfb5a" crc="e632a3a2" />
+  </game>
+  <game name="01 - Games/FIFA Soccer 96">
+    <rom name="FIFA Soccer 96 (USA, Europe) (En,Fr,De,Es).gg" size="524288" sha1="f928c32acba90ed5ebca131af03e76a0efb38797" crc="c379de95" />
+  </game>
+  <game name="01 - Games/Faceball 2000">
+    <rom name="Faceball 2000 (Japan) (En).gg" size="262144" sha1="967c50a5b64adc6da7bc730900c267e45c90053a" crc="aaf6f87d" />
+  </game>
+  <game name="01 - Games/Factory Panic">
+    <rom name="Factory Panic (Europe, Brazil) (En).gg" size="131072" sha1="94beb8b6334bb9dc104ffdb0ad2bdd4964ed91a5" crc="59e3be92" />
+    <rom name="Ganbare Gorby! (Japan).gg" size="131072" sha1="cd3e8910a99bf6717e63aed3aa212ead0597e5cd" crc="a1f2f4a1" />
+  </game>
+  <game name="01 - Games/Fantastic Dizzy">
+    <rom name="Fantastic Dizzy (USA, Europe) (En,Fr,De,Es,It).sms" size="262144" sha1="b6a13d51c72b576738f0d7e8e328db2ffeb0b38c" crc="c888222b" />
+  </game>
+  <game name="01 - Games/Fantasy Zone">
+    <rom name="Fantasy Zone (Japan, Europe) (En).gg" size="131072" sha1="5951d500d6f53b0537f045adb85d94068a838f32" crc="d69097e8" />
+    <rom name="Fantasy Zone (USA, Brazil) (En).gg" size="131072" sha1="57563b00eeffe678b2eebeafa790015f3c164262" crc="fad007df" />
+  </game>
+  <game name="01 - Games/Fatal Fury Special">
+    <rom name="Fatal Fury Special (Europe).gg" size="524288" sha1="2d69d1a7b57f04df097cf685a84beac9947165d4" crc="fbd76387" />
+    <rom name="Fatal Fury Special (USA).gg" size="524288" sha1="7ce20ca34b7bc91ba7e73f830b40830ad6bafbc8" crc="449787e2" />
+    <rom name="Garou Densetsu Special (Japan).gg" size="524288" sha1="ec2f11e28bff47d149df1987673f80da08c1af6d" crc="9afb6f33" />
+  </game>
+  <game name="01 - Games/Fire Track">
+    <rom name="Fire Track (World) (Aftermarket) (Unl).gg" size="65536" sha1="b68b23733a1a3acb1772a2a8a0482f562852e426" crc="4835426e" />
+  </game>
+  <game name="01 - Games/Flying Hamburgers">
+    <rom name="Flying Hamburgers (World) (Aftermarket) (Unl).gg" size="131072" sha1="41b12ecb15a9fe1be7790b802c76aaa44af54d2d" crc="87b4981c" />
+  </game>
+  <game name="01 - Games/Foreman for Real">
+    <rom name="Foreman for Real (Japan, USA) (En).gg" size="524288" sha1="d7109dc1db52bb4828a01b433a4b2993ac2e59e1" crc="d46d5685" />
+  </game>
+  <game name="01 - Games/Frank Thomas Big Hurt Baseball">
+    <rom name="Frank Thomas Big Hurt Baseball (USA).gg" size="524288" sha1="aab42351d96e32d46631c540bdfa43a621ab0e76" crc="c443c35c" />
+  </game>
+  <game name="01 - Games/Fray - Shugyou Hen">
+    <rom name="Fray - Shugyou Hen (Japan).gg" size="262144" sha1="0dc770773f651718881ce17a87f145e2f0b02fb1" crc="e123d9b8" />
+  </game>
+  <game name="01 - Games/Fray - Shugyou Hen/~Translations">
+    <rom name="Fray - Shugyou Hen (Japan) [T-En by BacklogOddy v1.0].gg" size="262144" sha1="cf8da1d33dc1d956f78e350fb2623b977c3dcee5" crc="3ac4575b" />
+  </game>
+  <game name="01 - Games/Fred Couples Golf">
+    <rom name="Fred Couples Golf (Japan).gg" size="524288" sha1="fb7b3c6652c3105497b8254daf063d25519fea61" crc="b1196cd7" />
+    <rom name="Fred Couples Golf (USA).gg" size="524288" sha1="fc160122f14772fd1c4476effae5a4010a6c012d" crc="46f40b9f" />
+  </game>
+  <game name="01 - Games/Frogger/~Prototypes and Betas">
+    <rom name="Frogger (USA) (Proto).gg" size="131072" sha1="b917ac6fbd3e5d18c07246f1309d81943ee1dd47" crc="02bbf994" />
+  </game>
+  <game name="01 - Games/From TV Animation Slam Dunk - Shouri e no Starting 5">
+    <rom name="From TV Animation Slam Dunk - Shouri e no Starting 5 (Japan).gg" size="524288" sha1="bee62a373655d0ef931d8b9a4ed88fb0f4d1a8bc" crc="751dad4c" />
+  </game>
+  <game name="01 - Games/G-LOC - Air Battle">
+    <rom name="G-LOC - Air Battle (Japan) (Rev 1).gg" size="131072" sha1="033c65e52011fd6b9be86ecb0f5d8209dbbdbbca" crc="33237f50" />
+    <rom name="G-LOC - Air Battle (Japan).gg" size="131072" sha1="ed32016476e40fde06d8a1a9777875b75d49adf6" crc="2333f615" />
+    <rom name="G-LOC - Air Battle (USA, Europe, Brazil) (En).gg" size="131072" sha1="407da6e4d0916d3f54ad1ba8d45face04dad5657" crc="18de59ed" />
+  </game>
+  <game name="01 - Games/GG Aleste 3">
+    <rom name="GG Aleste 3 (Japan) (En) (Aleste Collection).gg" size="1048576" sha1="fbef21541adc445c92abf7c92e97088cb073aafa" crc="5ae64731" />
+  </game>
+  <game name="01 - Games/GG Aleste">
+    <rom name="GG Aleste (Japan) (En) (Aleste Collection).gg" size="262144" sha1="16f97080c3464d013c2c18b8e3357bb850e1c51c" crc="0a49407d" />
+    <rom name="GG Aleste (Japan) (En).gg" size="262144" sha1="4c13dc3601a1702692c35eb6c89f0e09ab966f69" crc="1b80a75b" />
+  </game>
+  <game name="01 - Games/GG Nibbles">
+    <rom name="GG Nibbles (World) (v1.0) (Aftermarket) (Unl).gg" size="32768" sha1="786592a4047e94a26f872c9a00e9278b654895e5" crc="e0b5215a" />
+    <rom name="GG Nibbles (World) (v1.1) (Aftermarket) (Unl).gg" size="32768" sha1="88f03b73c812987b8b0de468f620990db2bc39b4" crc="2e6c15ab" />
+    <rom name="GG Nibbles (World) (v1.2) (Aftermarket) (Unl).gg" size="32768" sha1="248a2beaafc2539cbf31d74695d8c67259125da7" crc="8ca15176" />
+    <rom name="GG Nibbles (World) (v1.3) (Aftermarket) (Unl).gg" size="32768" sha1="dcaa0e2f8759585da0bf0d5139bb87a757abfbbc" crc="68979cf6" />
+  </game>
+  <game name="01 - Games/GLUF Tesla Frog">
+    <rom name="GLUF Tesla Frog (World) (v1.2) (Aftermarket) (Unl).gg" size="131072" sha1="165761623757267eac73e776a43c4ec160110857" crc="0580b709" />
+  </game>
+  <game name="01 - Games/GP Rider">
+    <rom name="GP Rider (Japan) (En).gg" size="524288" sha1="b1c4315dc4afe58256f3834cff8e94c6b02bc1b6" crc="7a26ec6a" />
+    <rom name="GP Rider (World).gg" size="524288" sha1="7777f091c8b540d3248fd7c0fb21e742af6f0ede" crc="876e9b72" />
+  </game>
+  <game name="01 - Games/GP Rider/~Prototypes and Betas">
+    <rom name="GP Rider (World) (Beta).gg" size="524288" sha1="5e13822bf04facc19d44a718635647ad4db6cd2a" crc="12e4f6db" />
+  </game>
+  <game name="01 - Games/Galaga 2">
+    <rom name="Galaga '91 (Japan) (En).gg" size="131072" sha1="7cd59fc473b9b1a1fdd659fdec2ae6cb1d3f471a" crc="0593ba24" />
+    <rom name="Galaga 2 (Europe).gg" size="131072" sha1="33b552eb21ef4bf5cf10ab18afa9f2fbcd6635cd" crc="95ecece2" />
+  </game>
+  <game name="01 - Games/Gamble Panic">
+    <rom name="Gamble Panic (Japan).gg" size="524288" sha1="d33cd19676fdb0e6180a24ed406a61cdf30f0065" crc="09534742" />
+  </game>
+  <game name="01 - Games/Gambler Jiko Chuushinha">
+    <rom name="Gambler Jiko Chuushinha (Japan).gg" size="262144" sha1="ec26aa5f41f8abf1c0fa911c2031ac422f6280a6" crc="423803a7" />
+  </game>
+  <game name="01 - Games/Garfield - Caught in the Act">
+    <rom name="Garfield - Caught in the Act (USA, Europe).gg" size="1048576" sha1="dc65f458cad3c165d0963b9b6da258d438da2ef7" crc="cd53f3af" />
+  </game>
+  <game name="01 - Games/Gear Stadium Heiseiban">
+    <rom name="Gear Stadium Heiseiban (Japan).gg" size="131072" sha1="210fef406c4fe8e0ed995f92ea7597e8f1b7f91c" crc="a0530664" />
+  </game>
+  <game name="01 - Games/Gear Works">
+    <rom name="Gear Works (USA).gg" size="131072" sha1="dc71c749c4a78e28922e10df645d23cc8289531f" crc="e9a2efb4" />
+  </game>
+  <game name="01 - Games/George Foreman's KO Boxing">
+    <rom name="George Foreman's KO Boxing (USA, Europe).gg" size="131072" sha1="5b3e3e3b88079108a4379c2428e70007d62c7b51" crc="58b44585" />
+    <rom name="Heavy Weight Champ (Japan).gg" size="131072" sha1="7cfd703ebdab4b2665f402adeac0060740615b6c" crc="beed9150" />
+  </game>
+  <game name="01 - Games/Global Gladiators">
+    <rom name="Global Gladiators (Europe).gg" size="262144" sha1="ddad863406d429acb218c75042d5e5c511bdad4f" crc="d2b6021e" />
+  </game>
+  <game name="01 - Games/Go Dizzy Go!">
+    <rom name="Excellent Dizzy Collection, The (Europe).sms" size="524288" sha1="db3c0686715373242911f8471a1e91673811d62a" crc="aa140c9c" />
+  </game>
+  <game name="01 - Games/Gojira - Kaijuu Daishingeki">
+    <rom name="Gojira - Kaijuu Daishingeki (Japan).gg" size="524288" sha1="ff3e8905635a02eb85556146225020b52506424c" crc="4cf97801" />
+  </game>
+  <game name="01 - Games/Gojira - Kaijuu Daishingeki/~Translations/Documentation">
+    <rom name="Godzilla - Monsters Attack (Japan) [T-En by Supper v1.1] [n].txt" size="10509" sha1="40cc434dc102e7f1038183752f7d465f64c2d1fe" crc="4f6412fb" />
+  </game>
+  <game name="01 - Games/Gojira - Kaijuu Daishingeki/~Translations">
+    <rom name="Godzilla - Monsters Attack (Japan) [T-En by Supper v1.1] [n].gg" size="1048576" sha1="c30a6a5a2a15ceede18134bf6c16f1316b24a473" crc="9a3cd264" />
+  </game>
+  <game name="01 - Games/Greendog - The Beached Surfer Dude!">
+    <rom name="Greendog - The Beached Surfer Dude! (USA, Brazil) (En).gg" size="262144" sha1="b5bf962000636bb1cbdf134759baa1e25b25d097" crc="f27925b0" />
+  </game>
+  <game name="01 - Games/Griffin">
+    <rom name="Griffin (Japan) (En).gg" size="131072" sha1="b479d977533398cef21ef9ff7cd8fc81bdbfa488" crc="a93e8b0f" />
+  </game>
+  <game name="01 - Games/Gun Stream - Challenge Version">
+    <rom name="Gun Stream - Challenge Version (Japan) (En) (Aftermarket) (Unl) [b].gg" size="262144" sha1="1899c34ea4cf2ae074cdaa40bbfd3888b718d3aa" crc="9891292e" />
+  </game>
+  <game name="01 - Games/Gunstar Heroes">
+    <rom name="Gunstar Heroes (Japan).gg" size="524288" sha1="c373d3876659095bb869ff0e4bb7ffc68123cf3e" crc="c3c52767" />
+  </game>
+  <game name="01 - Games/Guntus Mini">
+    <rom name="Guntus Mini (World) (Aftermarket) (Unl).gg" size="16384" sha1="485ccf3a50c143550f411d64074389831e82edf0" crc="518c4c44" />
+  </game>
+  <game name="01 - Games/Halley Wars">
+    <rom name="Halley Wars (Japan) (En).gg" size="131072" sha1="1c9932f592bb12e61acf597985e0bd5041e45da5" crc="def5a5d0" />
+    <rom name="Halley Wars (USA, Europe, Brazil) (En).gg" size="131072" sha1="77637e9916a774529d971370c1509eec0b7e1651" crc="7e9dea46" />
+  </game>
+  <game name="01 - Games/Hamburgers en Route to Switzerland 2">
+    <rom name="Hamburgers en Route to Switzerland 2 (World) (Aftermarket) (Unl).gg" size="131072" sha1="9f24919dd586d7496bcb3edadc08405c8185c72c" crc="b6ff951d" />
+  </game>
+  <game name="01 - Games/Hamburgers en Route to Switzerland/~Prototypes and Betas">
+    <rom name="Hamburgers en Route to Switzerland (World) (Proto 1) (Aftermarket) (Unl).gg" size="131072" sha1="f8d734c56423673a76a79496232864bdf49bca6f" crc="200068d9" />
+    <rom name="Hamburgers en Route to Switzerland (World) (Proto 2) (Aftermarket) (Unl).gg" size="131072" sha1="de7f24f7bcc6b6a225b994c82d4e2ea6aac0f4e7" crc="f4fad7c2" />
+  </game>
+  <game name="01 - Games/Head Buster">
+    <rom name="Head Buster (Japan).gg" size="131072" sha1="51432c7892d87b31f5f3216d3ef01eadc591b768" crc="7e689995" />
+  </game>
+  <game name="01 - Games/Head Buster/~Translations/Documentation">
+    <rom name="Head Buster (Japan) [T-En by Chris M. Covell v0.99].txt" size="3245" sha1="33320e6ba073e7fef7ec7d38e941c441b0093fee" crc="4346075c" />
+  </game>
+  <game name="01 - Games/Head Buster/~Translations">
+    <rom name="Head Buster (Japan) [T-En by Chris M. Covell v0.99].gg" size="131072" sha1="edf9880e984ccb48b429fadc1c4791e7e834cd07" crc="4f3f5bec" />
+  </game>
+  <game name="01 - Games/Hermano">
+    <rom name="Hermano (World) (Aftermarket) (Unl).gg" size="262144" sha1="717b965bd1c3a7dc3f75b80617c48930f422e56a" crc="f712fc2d" />
+  </game>
+  <game name="01 - Games/Home Alone">
+    <rom name="Home Alone (USA, Europe, Brazil) (En).gg" size="262144" sha1="abad566f587affcb35102ed5b45c4e3a8ee22dc9" crc="dde29f74" />
+  </game>
+  <game name="01 - Games/Honoo no Toukyuuji - Dodge Danpei">
+    <rom name="Honoo no Toukyuuji - Dodge Danpei (Japan).gg" size="131072" sha1="66032cc214d728b2f1c59ad2934277e378b36865" crc="dfa805a0" />
+  </game>
+  <game name="01 - Games/Hook">
+    <rom name="Hook (Europe).gg" size="262144" sha1="404fe95907d816b524acd34c9223c30afcd82fa4" crc="a5aa5ba1" />
+    <rom name="Hook (USA).gg" size="262144" sha1="b9bd292fa4f3ef7dd86ebae9e1b5364ce6653c45" crc="f53ced2e" />
+  </game>
+  <game name="01 - Games/Hopman Mini">
+    <rom name="Hopman Mini (World) (Aftermarket) (Unl).gg" size="16368" sha1="920aa9c3d64073d140280bf0baed64fe2aaa5dfa" crc="84fd672d" />
+  </game>
+  <game name="01 - Games/Hurricanes">
+    <rom name="Hurricanes (Europe).gg" size="524288" sha1="d4f0a691f11de7d91ede6ff95d26343a50840eb1" crc="0a25eec5" />
+  </game>
+  <game name="01 - Games/Hyokkori Hyoutan-jima - Hyoutan-jima no Daikoukai">
+    <rom name="Hyokkori Hyoutan-jima - Hyoutan-jima no Daikoukai (Japan).gg" size="131072" sha1="0b0270060342f4e79d58104a85a7be04426683bd" crc="42389270" />
+  </game>
+  <game name="01 - Games/Hyper Pro Yakyuu '92">
+    <rom name="Hyper Pro Yakyuu '92 (Japan).gg" size="131072" sha1="245699bff66440b1e4483e8d68e468bbc3ba6ab3" crc="056cae74" />
+  </game>
+  <game name="01 - Games/Impetus Mini">
+    <rom name="Impetus Mini (World) (Aftermarket) (Unl).gg" size="32768" sha1="8243fa156de56601ffb8ea547f2c16b1c47c2702" crc="07e1fa70" />
+  </game>
+  <game name="01 - Games/Impetus+ Micro">
+    <rom name="Impetus+ Micro (World) (Aftermarket) (Unl).gg" size="24576" sha1="7e613c688e84889d1239b0dbed85ccac850d14ff" crc="8e6e9131" />
+  </game>
+  <game name="01 - Games/Incredible Crash Dummies, The">
+    <rom name="Incredible Crash Dummies, The (World).gg" size="262144" sha1="6858554fc26f2382a262736854496e11f0925d40" crc="087fc247" />
+  </game>
+  <game name="01 - Games/Incredible Hulk, The">
+    <rom name="Incredible Hulk, The (USA, Europe).gg" size="524288" sha1="0410dafce21e5f40263ccb39871188ca84f7dd22" crc="d7055f88" />
+  </game>
+  <game name="01 - Games/Indiana Jones and the Last Crusade">
+    <rom name="Indiana Jones and the Last Crusade (USA, Europe, Brazil) (En).gg" size="262144" sha1="2607f99263c8dd732d199b2357400638e08402ec" crc="b875226b" />
+  </game>
+  <game name="01 - Games/Iron Man X-O Manowar in Heavy Metal">
+    <rom name="Iron Man X-O Manowar in Heavy Metal (USA).gg" size="524288" sha1="609edf453719c82b044e5f6d89152241b637de77" crc="847ae5ce" />
+  </game>
+  <game name="01 - Games/Itchy &amp; Scratchy Game, The">
+    <rom name="Itchy &amp; Scratchy Game, The (USA, Europe).gg" size="262144" sha1="2d0c2be09b977cc68a7e8f0fc415d8783ad7f8ae" crc="44e7e2da" />
+  </game>
+  <game name="01 - Games/J.League GG Pro-Striker '94">
+    <rom name="J.League GG Pro-Striker '94 (Japan).gg" size="524288" sha1="04248e53ce54c9f17daae9885fed87d39f0117b6" crc="a12a28a0" />
+  </game>
+  <game name="01 - Games/J.League Soccer - Dream Eleven">
+    <rom name="J.League Soccer - Dream Eleven (Japan).gg" size="524288" sha1="bed727b732712f115ddc4dc5fd873e6cd3787b62" crc="abddf0eb" />
+  </game>
+  <game name="01 - Games/James Bond 007 - The Duel">
+    <rom name="James Bond 007 - The Duel (Europe).gg" size="262144" sha1="6e2124b40db7d1fc22b4f1e41565710500611d8e" crc="881a4524" />
+  </game>
+  <game name="01 - Games/James Bond 007 - The Duel/~Prototypes and Betas">
+    <rom name="James Bond 007 - The Duel (Europe) (Beta).gg" size="262144" sha1="9196211ddb024eedae11ba66b727463d7b064289" crc="f8c31c15" />
+  </game>
+  <game name="01 - Games/James Pond 3 - Operation Starfi5h">
+    <rom name="James Pond 3 - Operation Starfi5h (Europe).gg" size="524288" sha1="53790edee813a0a444b0369fd15672bb2a343780" crc="68bb7f71" />
+  </game>
+  <game name="01 - Games/James Pond II - Codename RoboCod">
+    <rom name="James Pond II - Codename RoboCod (Europe).gg" size="524288" sha1="e592bce01e8148081daa2edd24fd106bd61095a6" crc="c2f7928b" />
+    <rom name="James Pond II - Codename RoboCod (USA).gg" size="524288" sha1="6c4a9c1613bc436033b54914acaf951c62593972" crc="9fb5c155" />
+  </game>
+  <game name="01 - Games/Jang Pung II">
+    <rom name="Jang Pung II (Korea) (En) (Unl).sms" size="262144" sha1="2b3bb8fd76fe706d7e564b372d2d71dfce53cb1b" crc="76c5bdfb" />
+  </game>
+  <game name="01 - Games/Jang Pung II/~Prototypes and Betas">
+    <rom name="Street Battle (USA) (Proto) (Unl).sms" size="524288" sha1="434a9a21a2662bff1cd2246528eebce8a5116c1b" crc="01a2d595" />
+  </game>
+  <game name="01 - Games/Jeopardy! - Sports Edition">
+    <rom name="Jeopardy! - Sports Edition (USA).gg" size="262144" sha1="55cb5cb3c37e8403ebf4a47560f0ece416323c56" crc="2dd850b7" />
+  </game>
+  <game name="01 - Games/Jeopardy!">
+    <rom name="Jeopardy! (USA).gg" size="262144" sha1="28ef5cc2689a1f3bc3bd1b24c3e4132a423fc274" crc="d7820c21" />
+  </game>
+  <game name="01 - Games/Jeopardy!/~Prototypes and Betas">
+    <rom name="Jeopardy! (USA) (Beta).gg" size="262144" sha1="3e531213f2a9d588d7cbfcc22f9f6066ac44d8ff" crc="5ab12961" />
+  </game>
+  <game name="01 - Games/Jiansheng Chuanshuo - Kenseiden Story">
+    <rom name="Jiansheng Chuanshuo - Kenseiden Story (Taiwan) (Unl).sms" size="262144" sha1="f686bb3845e87fb06c4b0dd6df6d6615ee838101" crc="a59b4a09" />
+  </game>
+  <game name="01 - Games/Joe Montana Football">
+    <rom name="Joe Montana Football (Japan, Brazil) (En) (Rev 1).gg" size="262144" sha1="253196b98d83b910c289b0211b6de025c66c916c" crc="4a98678b" />
+    <rom name="Joe Montana Football (USA, Europe).gg" size="262144" sha1="24c3b2cd18967b7141850d4f63b4992c3dad3ad4" crc="2e01ba6c" />
+  </game>
+  <game name="01 - Games/Journey from Darkness - Strider Returns">
+    <rom name="Journey from Darkness - Strider Returns (USA, Europe).gg" size="262144" sha1="ed5d1fc5ba8a47992551b0d577c1a6a06d0f7ac2" crc="1ebfa5ca" />
+  </game>
+  <game name="01 - Games/Journey from Darkness - Strider Returns/~Prototypes and Betas">
+    <rom name="Journey from Darkness - Strider Returns (USA, Europe) (Beta).gg" size="262144" sha1="cd7e9650a65882a633401a1947b4c621adf4e197" crc="11085829" />
+  </game>
+  <game name="01 - Games/Judge Dredd">
+    <rom name="Judge Dredd (USA, Europe).gg" size="524288" sha1="4c9d00faeb4454a8f538b5ccc6453b3464930afa" crc="04d23fc4" />
+  </game>
+  <game name="01 - Games/Junction">
+    <rom name="Junction (Japan) (En).gg" size="131072" sha1="70cac7959d29903ad22316e9f5edf60834381d27" crc="a8ef36a7" />
+    <rom name="Junction (USA).gg" size="131072" sha1="d2b536dd1cdd72c66faf179d6ab2f6cf420a5682" crc="32abaa02" />
+  </game>
+  <game name="01 - Games/Jungle Book, The">
+    <rom name="Jungle Book, The (Europe).gg" size="262144" sha1="14a5d4ea99ee91aec948d62cab56fc1c05cc7c45" crc="90100884" />
+    <rom name="Jungle Book, The (USA).gg" size="262144" sha1="f9da97db661f8ef7e7af87a83d23100c2fed4fb0" crc="30c09f31" />
+  </game>
+  <game name="01 - Games/Jungle Strike">
+    <rom name="Jungle Strike (USA).gg" size="524288" sha1="f4a6cf19814a2b0046257f8dd1feeaf22fa6fd73" crc="d51642b0" />
+  </game>
+  <game name="01 - Games/Jurassic Park">
+    <rom name="Jurassic Park (Japan).gg" size="524288" sha1="89486678a6a065c56102296eebc7b25c5ef32d21" crc="2f536ae3" />
+    <rom name="Jurassic Park (USA, Europe, Brazil) (En).gg" size="524288" sha1="0425dc09465a4b7be78ab7aa46107987ba61e82a" crc="bd6f2321" />
+  </game>
+  <game name="01 - Games/KLAX">
+    <rom name="KLAX (USA, Europe).gg" size="131072" sha1="4705bbc862169cdfeb3b30dba6f274b094ab99b3" crc="9b40fc8e" />
+  </game>
+  <game name="01 - Games/Kaiju Feeder">
+    <rom name="Kaiju Feeder (World) (Aftermarket) (Unl).gg" size="65536" sha1="64a983ee627c8f3c8a6d2ea0cbcca5d19698086c" crc="2531800a" />
+  </game>
+  <game name="01 - Games/Kaitou Saint Tail">
+    <rom name="Kaitou Saint Tail (Japan).gg" size="524288" sha1="3e4e7ec4a4ce5d48baed7d583ede8bb9f92a44a6" crc="937fd52b" />
+  </game>
+  <game name="01 - Games/Kaitou Saint Tail/~Translations/Documentation">
+    <rom name="Kaitou Saint Tail (Japan) [T-En by Matt's Messy Room v1.00].txt" size="11157" sha1="9692ded7aafc35ccd1f7480436f9eee82096bee5" crc="7b3b9640" />
+  </game>
+  <game name="01 - Games/Kaitou Saint Tail/~Translations">
+    <rom name="Kaitou Saint Tail (Japan) [T-En by Matt's Messy Room v1.00].gg" size="540672" sha1="d0dd06bd5b924114a65578a88c676d0d1a3cb65e" crc="4fb96b01" />
+  </game>
+  <game name="01 - Games/Kawasaki Superbike Challenge">
+    <rom name="Kawasaki Superbike Challenge (Europe).gg" size="262144" sha1="7b0801c4ad6c15546f61decf2620f198b990425d" crc="23f9150a" />
+    <rom name="Kawasaki Superbike Challenge (USA).gg" size="262144" sha1="ba5981fed892a62006b20b6c913dcac84573f345" crc="fc508318" />
+  </game>
+  <game name="01 - Games/Kenyuu Densetsu Yaiba">
+    <rom name="Kenyuu Densetsu Yaiba (Japan).gg" size="524288" sha1="21b08c5c4b086e169d5f780cafc22c041e19807b" crc="d9ce3f4c" />
+  </game>
+  <game name="01 - Games/Kinetic Connection">
+    <rom name="Kinetic Connection (Japan) (En).gg" size="131072" sha1="7447e0ad5e8e14c3ae05a274d393ca34de044855" crc="4af7f2aa" />
+  </game>
+  <game name="01 - Games/Kishin Douji Zenki">
+    <rom name="Kishin Douji Zenki (Japan).gg" size="524288" sha1="0fb3530633070551f3d5a04839fc42babc092fbd" crc="7d622bdd" />
+  </game>
+  <game name="01 - Games/Kishin Douji Zenki/~Translations">
+    <rom name="Demon Child Zenki (Japan) [T-En by TheMajinZenki v1.0] [n].gg" size="1048576" sha1="523447dd9e893b3ee070174da1498971d669f35a" crc="236639eb" />
+  </game>
+  <game name="01 - Games/Kishin Douji Zenki/~Translations/Documentation">
+    <rom name="Demon Child Zenki (Japan) [T-En by TheMajinZenki v1.0] [n].txt" size="5830" sha1="67e808fe23299b5f07610a9f0bb0b9363aaf48c4" crc="8d398d1f" />
+  </game>
+  <game name="01 - Games/Krusty's Fun House">
+    <rom name="Krusty's Fun House (USA, Europe).gg" size="262144" sha1="a24fd153669e0c38d55ff939e1ea52b6a316ad0d" crc="d01e784f" />
+  </game>
+  <game name="01 - Games/Kuni-chan no Game Tengoku Part 2">
+    <rom name="Kuni-chan no Game Tengoku Part 2 (Japan).gg" size="262144" sha1="f11af70a52cfd96ad4d03da8ca9227ddd5bcc382" crc="f3774c65" />
+  </game>
+  <game name="01 - Games/Kuni-chan no Game Tengoku">
+    <rom name="Kuni-chan no Game Tengoku (Japan).gg" size="262144" sha1="497f137e0f33b45a1560f51ca06b2bfaef51484a" crc="398f2358" />
+  </game>
+  <game name="01 - Games/Land of Illusion Starring Mickey Mouse">
+    <rom name="Land of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En).gg" size="524288" sha1="5975bf7d01c84b9433c2859e6d38d26545fd3bc9" crc="52dbf3e1" />
+    <rom name="Mickey Mouse no Mahou no Crystal (Japan).gg" size="524288" sha1="5cc1a27f801491971e20551b9b9b4388245c0478" crc="0117c3df" />
+  </game>
+  <game name="01 - Games/Last Action Hero">
+    <rom name="Last Action Hero (USA).gg" size="262144" sha1="340e0e8ab5b4e89f6d56bc30cabf8322e79b2347" crc="2d367c43" />
+  </game>
+  <game name="01 - Games/Legend of Illusion Starring Mickey Mouse">
+    <rom name="Legend of Illusion Starring Mickey Mouse (USA, Europe).gg" size="524288" sha1="fa1200fd34a81796222eae97175c2fb72a77e970" crc="ce5ad8b7" />
+    <rom name="Mickey Mouse Densetsu no Oukoku - Legend of Illusion (Japan).gg" size="524288" sha1="cdcde96fe2a86fc2c404e7746c8670c44f8e169c" crc="fe12a92f" />
+  </game>
+  <game name="01 - Games/Legend of Illusion Starring Mickey Mouse/~Prototypes and Betas">
+    <rom name="Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta 1).gg" size="524288" sha1="2d78a5b6449c9d20cd03156a56cbc6bc10c2ef68" crc="1cc16ad9" />
+    <rom name="Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta 2).gg" size="524288" sha1="94ec7c72e2fb6e4bd51ef55eac9646fb2fa8d791" crc="63020617" />
+    <rom name="Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta 3).gg" size="524288" sha1="14f266482bfd25238c6e44087c26aca329d4fa64" crc="a0565a5c" />
+    <rom name="Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta 4).gg" size="524288" sha1="13c6f75a1360a76673bcebdf18b9735ddaa113c7" crc="f9d4cee9" />
+    <rom name="Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta 5).gg" size="524288" sha1="98c4adaf6e74d960760f686f256f63bc887c1a2b" crc="670ede92" />
+    <rom name="Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta 6).gg" size="524288" sha1="ccbcda1e7d74e0bfe94ecb1214d4ca1a5d1504ab" crc="de8545af" />
+  </game>
+  <game name="01 - Games/Lemmings 2 - The Tribes/~Prototypes and Betas">
+    <rom name="Lemmings 2 - The Tribes (Europe) (Proto).gg" size="524288" sha1="ad0ce8fc8ce9e5ef9b68b76fb7f3eced4245d5c4" crc="fbc807e1" />
+  </game>
+  <game name="01 - Games/Lemmings">
+    <rom name="Lemmings (World).gg" size="262144" sha1="5a79b6fa15b7085fc7062945f0e6d469d49871e1" crc="0fde7baa" />
+  </game>
+  <game name="01 - Games/Lemmings/~Prototypes and Betas">
+    <rom name="Lemmings (World) (Beta).gg" size="262144" sha1="31b9926efff652151c8390529fc2c8a211aafb0b" crc="51548f61" />
+  </game>
+  <game name="01 - Games/Lift Mini">
+    <rom name="Lift Mini (World) (Aftermarket) (Unl).gg" size="10873" sha1="55d3841970052652c4fd48120c040d4c4e41f1a0" crc="e7b92d77" />
+  </game>
+  <game name="01 - Games/Lion King, The">
+    <rom name="Lion King, The (Europe).gg" size="524288" sha1="49f00887a297f70a51711fe18433bc168ec49fc9" crc="0cd9c20b" />
+    <rom name="Lion King, The (Japan).gg" size="524288" sha1="20e01958c3e3de905622c90838cd485a3338d7a4" crc="c78b8637" />
+    <rom name="Lion King, The (USA, Brazil) (En).gg" size="524288" sha1="e21025b2f6d5bbc18107905ad6c0c58d061d9c17" crc="9808d7b3" />
+  </game>
+  <game name="01 - Games/Lion King, The/~Prototypes and Betas">
+    <rom name="Lion King, The (USA, Brazil) (En) (Beta 1).gg" size="254995" sha1="5df76c29b7368bdc0dc0dc6cfea01d6b1e68c138" crc="3a531c3d" />
+    <rom name="Lion King, The (USA, Brazil) (En) (Beta 10).gg" size="523862" sha1="79f221ca2654d5df64392e4e06c498557eaebf19" crc="3d0b31a2" />
+    <rom name="Lion King, The (USA, Brazil) (En) (Beta 2).gg" size="514313" sha1="6d71ff5dfd04ec1641b0db367b52ae3f23805e60" crc="aacb7387" />
+    <rom name="Lion King, The (USA, Brazil) (En) (Beta 3).gg" size="514450" sha1="9d8fdc7b48f2c09bcbbb30061941e46ddf986e4e" crc="214c13dc" />
+    <rom name="Lion King, The (USA, Brazil) (En) (Beta 4).gg" size="514478" sha1="0e5f5156be26d18f8c2678f7d2400a54b9c51f37" crc="0e80efe0" />
+    <rom name="Lion King, The (USA, Brazil) (En) (Beta 5).gg" size="514482" sha1="05d6e8f6b8adde3a03ea89f53dd02f02f3366477" crc="8250c11e" />
+    <rom name="Lion King, The (USA, Brazil) (En) (Beta 6).gg" size="514486" sha1="cdce953f16e4db6e9137ea8d523588b3469a544d" crc="eb10a2d4" />
+    <rom name="Lion King, The (USA, Brazil) (En) (Beta 7).gg" size="514486" sha1="14c4d13eb118dc5082441f4eddaac229019b2598" crc="c6af9643" />
+    <rom name="Lion King, The (USA, Brazil) (En) (Beta 8).gg" size="514538" sha1="6301d8ede680007e645c84d24064df5e76ea996b" crc="4214c474" />
+    <rom name="Lion King, The (USA, Brazil) (En) (Beta 9).gg" size="514618" sha1="d3d44f8cbe32970f2e138c183078b8190808e625" crc="b65030d0" />
+  </game>
+  <game name="01 - Games/Lost World, The - Jurassic Park">
+    <rom name="Lost World, The - Jurassic Park (USA).gg" size="1048576" sha1="1730b85fac5478da92b0905c6525e715bb4470d4" crc="8d1597f5" />
+  </game>
+  <game name="01 - Games/Lucky Dime Caper Starring Donald Duck, The">
+    <rom name="Donald Duck no Lucky Dime (Japan).gg" size="262144" sha1="ee70ac64973775adc2063a8cdff203965f2e7e1d" crc="2d98bd87" />
+    <rom name="Lucky Dime Caper Starring Donald Duck, The (USA, Europe, Brazil) (En).gg" size="262144" sha1="5cc5caa887a63c580c1e3ff344a4b0ade643f24b" crc="07a7815a" />
+  </game>
+  <game name="01 - Games/Lunar - Sanposuru Gakuen">
+    <rom name="Lunar - Sanposuru Gakuen (Japan).gg" size="524288" sha1="1b0cc847d31956d843cadab7d86a2f434220301e" crc="58459edd" />
+  </game>
+  <game name="01 - Games/Lunar - Sanposuru Gakuen/~Translations/Documentation">
+    <rom name="Lunar - Sanposuru Gakuen (Japan) [T-En by Aeon Genesis &amp; Some Good Shit Translations v1.00].txt" size="2646" sha1="5e849e4488666e6e76799a9370dc2d7bc86d4cad" crc="faeb50cc" />
+  </game>
+  <game name="01 - Games/Lunar - Sanposuru Gakuen/~Translations">
+    <rom name="Lunar - Sanposuru Gakuen (Japan) [T-En by Aeon Genesis &amp; Some Good Shit Translations v1.00].gg" size="1048576" sha1="0286fe533aaff1a235efb4a44140b9e21a6c257c" crc="21f2eff8" />
+  </game>
+  <game name="01 - Games/MLBPA Baseball">
+    <rom name="MLBPA Baseball (USA).gg" size="524288" sha1="74c7433ae9807a0042741d1945472eafd88b48cd" crc="1ecf07b4" />
+  </game>
+  <game name="01 - Games/Madden 96">
+    <rom name="Madden 96 (USA, Europe).gg" size="524288" sha1="49412ebef31558afd8cb534c6914f5612eaa25b1" crc="9f59d302" />
+  </game>
+  <game name="01 - Games/Madden NFL 95">
+    <rom name="Madden NFL 95 (USA).gg" size="524288" sha1="69d900be52502a4630ebcf9073175d8af45b655d" crc="75c71ebf" />
+  </game>
+  <game name="01 - Games/Madou Monogatari A - Dokidoki Vacation">
+    <rom name="Madou Monogatari A - Dokidoki Vacation (Japan).gg" size="524288" sha1="c027aa76fe0e09a2d1b982eea0df2c8b687aadf7" crc="7ec95282" />
+  </game>
+  <game name="01 - Games/Madou Monogatari A - Dokidoki Vacation/~Translations/Documentation">
+    <rom name="Sorcery Saga A - Vivacious Vacation (Japan) [T-En by Supper v1.0] [n].txt" size="26097" sha1="06024c8a324c85fdb8ab7cdf6527e4bc7779f9ec" crc="723fce80" />
+  </game>
+  <game name="01 - Games/Madou Monogatari A - Dokidoki Vacation/~Translations">
+    <rom name="Sorcery Saga A - Vivacious Vacation (Japan) [T-En by Supper v1.0] [n].gg" size="1048576" sha1="56c037e3baac9c0eb8d2b53572f5577b231c1ce8" crc="1058c638" />
+  </game>
+  <game name="01 - Games/Madou Monogatari I - 3tsu no Madoukyuu">
+    <rom name="Madou Monogatari I - 3tsu no Madoukyuu (Japan).gg" size="524288" sha1="5ccd474cefcb8e086e2e1f77c0fdd5c1d2bf82e7" crc="00c34d94" />
+  </game>
+  <game name="01 - Games/Madou Monogatari I - 3tsu no Madoukyuu/~Translations/Documentation">
+    <rom name="Madou Monogatari I - 3 Magic Spheres (Japan) [T-En by Filler &amp; SSTranslations v1.0] [Add by Supper v1.0] [n].txt" size="2743" sha1="77fdba9b67a0c5f834d5f7e8c6a0a76ecf7f4ec4" crc="b2c3c1f2" />
+    <rom name="Madou Monogatari I - 3 Magic Spheres (Japan) [T-En by Filler &amp; SSTranslations v1.0] [n].txt" size="850" sha1="deff7545376046c79b6b84aea82da33a2f106952" crc="4af6bf4f" />
+    <rom name="Sorcery Saga I - 3 Magic Spheres (Japan) [T-En by Filler &amp; SSTranslations v1.0] [Add by EvilJagaGenius v1.0] [Add by Supper v1.0] [n].txt" size="2743" sha1="77fdba9b67a0c5f834d5f7e8c6a0a76ecf7f4ec4" crc="b2c3c1f2" />
+    <rom name="Sorcery Saga I - 3 Magic Spheres (Japan) [T-En by Filler &amp; SSTranslations v1.0] [Add by EvilJagaGenius v1.0] [n].txt" size="717" sha1="d624915e41811f421ab9e69ad16e416d3b6dd9aa" crc="fe0ec384" />
+  </game>
+  <game name="01 - Games/Madou Monogatari I - 3tsu no Madoukyuu/~Translations">
+    <rom name="Madou Monogatari I - 3 Magic Spheres (Japan) [T-En by Filler &amp; SSTranslations v1.0] [Add by Supper v1.0] [n].gg" size="1048576" sha1="70ce9c5c9ea178f057a284a62528e991c173fc4b" crc="9db687bd" />
+    <rom name="Madou Monogatari I - 3 Magic Spheres (Japan) [T-En by Filler &amp; SSTranslations v1.0] [n].gg" size="524288" sha1="b3f7bda2b7ce3b568a91139025d07f71898b084c" crc="355142d2" />
+    <rom name="Sorcery Saga I - 3 Magic Spheres (Japan) [T-En by Filler &amp; SSTranslations v1.0] [Add by EvilJagaGenius v1.0] [Add by Supper v1.0] [n].gg" size="1048576" sha1="25013c1d3114ff33c672a7defca0208c7e5b33ef" crc="3371d5a3" />
+    <rom name="Sorcery Saga I - 3 Magic Spheres (Japan) [T-En by Filler &amp; SSTranslations v1.0] [Add by EvilJagaGenius v1.0] [n].gg" size="524288" sha1="24ce2ac32c55b0b57ab27cf4cc320aad780ef280" crc="fcd304c6" />
+  </game>
+  <game name="01 - Games/Madou Monogatari II - Arle 16-Sai">
+    <rom name="Madou Monogatari II - Arle 16-Sai (Japan).gg" size="524288" sha1="deead79fa4cb2e87652a9c8a76f2a7174f48f37a" crc="12eb2287" />
+  </game>
+  <game name="01 - Games/Madou Monogatari II - Arle 16-Sai/~Translations/Documentation">
+    <rom name="Sorcery Saga II - Arle, Age 16 (Japan) [T-En by Supper v1.2] [n].txt" size="15043" sha1="25891a71bc0a0b5fd1971ed776110e66d9305431" crc="708d9b3a" />
+  </game>
+  <game name="01 - Games/Madou Monogatari II - Arle 16-Sai/~Translations">
+    <rom name="Sorcery Saga II - Arle, Age 16 (Japan) [T-En by Supper v1.2] [n].gg" size="1048576" sha1="a697f9f69e16d4a5dc0a581623a679fef797269b" crc="c5c2d036" />
+  </game>
+  <game name="01 - Games/Madou Monogatari III - Kyuukyoku Joou-sama">
+    <rom name="Madou Monogatari III - Kyuukyoku Joou-sama (Japan) (Rev A).gg" size="524288" sha1="673670f954176ffab28a0280aa49856a457f36b1" crc="568f4825" />
+    <rom name="Madou Monogatari III - Kyuukyoku Joou-sama (Japan).gg" size="524288" sha1="dd590c9086161b1f97573c48720c32cc5506dabc" crc="0a634d79" />
+  </game>
+  <game name="01 - Games/Madou Monogatari III - Kyuukyoku Joou-sama/~Prototypes and Betas">
+    <rom name="Madou Monogatari III - Kyuukyoku Joou-sama (Japan) (Beta).gg" size="524288" sha1="9ce606e90cc066f005568694b0c20438b6745c15" crc="f9c3ce13" />
+  </game>
+  <game name="01 - Games/Madou Monogatari III - Kyuukyoku Joou-sama/~Translations/Documentation">
+    <rom name="Sorcery Saga III - The Ultimate Queen (Japan) [T-En by Supper v1.2] [n].txt" size="18651" sha1="34632248780df221f9d939b771b4ce12eae1a178" crc="5937dd74" />
+  </game>
+  <game name="01 - Games/Madou Monogatari III - Kyuukyoku Joou-sama/~Translations">
+    <rom name="Sorcery Saga III - The Ultimate Queen (Japan) [T-En by Supper v1.2] [n].gg" size="1048576" sha1="e42d47cd822b73b026e165c08a382e05b637cd94" crc="c0a5804e" />
+  </game>
+  <game name="01 - Games/Magic Knight Rayearth 2 - Making of Magic Knight">
+    <rom name="Magic Knight Rayearth 2 - Making of Magic Knight (Japan).gg" size="524288" sha1="29615d86057f3323ecda75d47102e77d364f6499" crc="1c2c2b04" />
+  </game>
+  <game name="01 - Games/Magic Knight Rayearth 2 - Making of Magic Knight/~Translations/Documentation">
+    <rom name="Magic Knight Rayearth 2 - Making of Magic Knight (Japan) [T-En by Pearse Hillock v0.5] [i].txt" size="4023" sha1="ab60ae114585a6c7acaa026e55e44d09981ec811" crc="f530115a" />
+  </game>
+  <game name="01 - Games/Magic Knight Rayearth 2 - Making of Magic Knight/~Translations">
+    <rom name="Magic Knight Rayearth 2 - Making of Magic Knight (Japan) [T-En by Patch Clan v1.5 build 123].gg" size="524288" sha1="0400be7771c77aee6931dc3a4605d0e723c7393c" crc="1a43ed27" />
+    <rom name="Magic Knight Rayearth 2 - Making of Magic Knight (Japan) [T-En by Pearse Hillock v0.5] [i].gg" size="524288" sha1="3add58c097d30f37b33d97a2547f187b861d2cd1" crc="3249fa43" />
+  </game>
+  <game name="01 - Games/Magic Knight Rayearth">
+    <rom name="Magic Knight Rayearth (Japan).gg" size="524288" sha1="6c13e3b9bb24eafc1186c5ffa322b1f40c676b3d" crc="8f82a6b9" />
+  </game>
+  <game name="01 - Games/Magic Knight Rayearth/~Translations/Documentation">
+    <rom name="Magic Knight Rayearth (Japan) [T-En by Filler v1.0].txt" size="13417" sha1="d408bd1c490c1461f81ff2afc8fc1b9ead571e1e" crc="5f63aab0" />
+  </game>
+  <game name="01 - Games/Magic Knight Rayearth/~Translations">
+    <rom name="Magic Knight Rayearth (Japan) [T-En by Filler v1.0].gg" size="524288" sha1="41742d72ef921cfaaa24ef4364e4948e4dfcbd68" crc="9e88edf7" />
+  </game>
+  <game name="01 - Games/Magical Puzzle Popils">
+    <rom name="Magical Puzzle Popils (World).gg" size="131072" sha1="fb939f0810d0763b9abaeec1a2bfbabacaad5441" crc="cf6d7bc5" />
+  </game>
+  <game name="01 - Games/Magical Taruruuto-kun">
+    <rom name="Magical Taruruuto-kun (Japan).gg" size="131072" sha1="40fae12f1d565849158ff87700e25d6967038867" crc="6e1cc23c" />
+  </game>
+  <game name="01 - Games/Mai Nurse">
+    <rom name="Mai Nurse (World) (Aftermarket) (Unl).gg" size="131072" sha1="fb53789c37aa5f36009869bc6c8ea12c97ed65ae" crc="36a2da11" />
+  </game>
+  <game name="01 - Games/Majors, The - Pro Baseball">
+    <rom name="Majors, The - Pro Baseball (USA).gg" size="262144" sha1="76f3c504d717067134a88f7f1d0ef38bd6698e50" crc="36ebcd6d" />
+  </game>
+  <game name="01 - Games/Man Overboard!">
+    <rom name="Man Overboard! (Europe).gg" size="262144" sha1="b167fda9f0e7a6a47027f782a08149e8d4f46e0c" crc="d9a7f170" />
+  </game>
+  <game name="01 - Games/Mappy">
+    <rom name="Mappy (Japan).gg" size="131072" sha1="44d0b857d88a293da47dc161115422d830d81302" crc="01d2dd2a" />
+  </game>
+  <game name="01 - Games/Mappy/~Translations">
+    <rom name="Mappy (Japan) [T-En by Maxim &amp; ArugulaZ v1.1].gg" size="131072" sha1="419b32ed2f6f62a99eae920b9fddb6d092dad62b" crc="714d82c6" />
+  </game>
+  <game name="01 - Games/Marble Madness">
+    <rom name="Marble Madness (USA, Europe).gg" size="262144" sha1="42c5cd5afebbf860a8ad80ea684f9b216762109e" crc="9559e339" />
+  </game>
+  <game name="01 - Games/Marko's Magic Football">
+    <rom name="Marko's Magic Football (Europe) (En,Fr,De,Es).gg" size="524288" sha1="f255d7ea194d88a1588a2bf3ff34926de17c7ff1" crc="22c418bf" />
+  </game>
+  <game name="01 - Games/Master of Darkness">
+    <rom name="In the Wake of Vampire (Japan) (En) (Virtual Console).gg" size="262144" sha1="2ee1aac941829ae172c4913383d14faa8acd09d5" crc="036e03f8" />
+    <rom name="In the Wake of Vampire (Japan) (En).gg" size="262144" sha1="da5116b7ed890f35506c5b33c5c9716f528169b1" crc="dab0f265" />
+    <rom name="Master of Darkness (Europe) (Virtual Console).gg" size="262144" sha1="fb7f7cd933dd1d0d275faffb06c84645bfa42d5a" crc="21402ffb" />
+    <rom name="Master of Darkness (Europe, Brazil) (En).gg" size="262144" sha1="f9eabdb7e925360f69b41f5357abcb36f893d72e" crc="07d0eb42" />
+    <rom name="Vampire - Master of Darkness (USA) (Virtual Console).gg" size="262144" sha1="b1d808e0a444ab12145915fad920a43bd04cb669" crc="5856849c" />
+    <rom name="Vampire - Master of Darkness (USA).gg" size="262144" sha1="14e6b1e886355d902b34acdf503eced8df88afe4" crc="7ec64025" />
+  </game>
+  <game name="01 - Games/Mazy 2 Micro">
+    <rom name="Mazy 2 Micro (World) (Aftermarket) (Unl).gg" size="16384" sha1="021205b9ab828f1ed063fd5b24e6c063c18d5be2" crc="af6e6cbc" />
+  </game>
+  <game name="01 - Games/Mazy Mini">
+    <rom name="Mazy Mini (World) (Aftermarket) (Unl).gg" size="16384" sha1="768688b0908f25bd5662935dba5e7513e9b04095" crc="fc3a058c" />
+  </game>
+  <game name="01 - Games/Mega Man">
+    <rom name="Mega Man (USA).gg" size="524288" sha1="085517c4ac940b937d0e0a900e4735a2247ca4dd" crc="1ace93af" />
+  </game>
+  <game name="01 - Games/Megami Tensei Gaiden - Last Bible Special">
+    <rom name="Megami Tensei Gaiden - Last Bible Special (Japan).gg" size="524288" sha1="ca597064a8f0dd8221e89655584ec0cc67dbe026" crc="4ec30806" />
+  </game>
+  <game name="01 - Games/Megami Tensei Gaiden - Last Bible Special/~Translations/Documentation">
+    <rom name="Megaten Gaiden - Last Bible Special (Japan) [T-En by MrRichard999 &amp; SSTranslations &amp; Tom v1.02] [n].txt" size="2549" sha1="23dc701487bcbef179be682a99b32623c515589f" crc="8851ac93" />
+  </game>
+  <game name="01 - Games/Megami Tensei Gaiden - Last Bible Special/~Translations">
+    <rom name="Megaten Gaiden - Last Bible Special (Japan) [T-En by MrRichard999 &amp; SSTranslations &amp; Tom v1.02] [n] [Modded].gg" size="524288" sha1="8bc8f4490b8e1626c81b0c37ecb9ce17d375dc37" crc="b4da1da8" />
+    <rom name="Megaten Gaiden - Last Bible Special (Japan) [T-En by MrRichard999 &amp; SSTranslations &amp; Tom v1.02] [n].gg" size="524288" sha1="8e879dde0907d50bbda95a52c18ea2b93f28fdec" crc="1c839ffc" />
+  </game>
+  <game name="01 - Games/Megami Tensei Gaiden - Last Bible">
+    <rom name="Megami Tensei Gaiden - Last Bible (Japan).gg" size="524288" sha1="d98332eba27fd4a0db82d551a54bee4fdccf41a2" crc="2e4ec17b" />
+  </game>
+  <game name="01 - Games/Megami Tensei Gaiden - Last Bible/~Translations/Documentation">
+    <rom name="Megami Tensei Gaiden - Last Bible (Japan) [T-En by Supper v3.0] [Manual].pdf" size="7084801" sha1="b7950ffb4abe6237447c675c596e007a24595962" crc="4d8edeb6" />
+    <rom name="Megami Tensei Gaiden - Last Bible (Japan) [T-En by Supper v3.0].txt" size="2033" sha1="f7e59dcdf7bb5d4df3d650058d98ce8d35f134ba" crc="ad17e028" />
+  </game>
+  <game name="01 - Games/Megami Tensei Gaiden - Last Bible/~Translations">
+    <rom name="Megami Tensei Gaiden - Last Bible (Japan) [T-En by Supper v3.0].gg" size="1048576" sha1="a5e8efe14f4dadb79fa1771790d76d4633c461cf" crc="82dee5b3" />
+  </game>
+  <game name="01 - Games/Mickey's Ultimate Challenge">
+    <rom name="Mickey's Ultimate Challenge (USA).gg" size="262144" sha1="f62c129b5142d3dac66392b521003111b9291b3e" crc="eccf7a4f" />
+  </game>
+  <game name="01 - Games/Micro Machines 2 - Turbo Tournament">
+    <rom name="Micro Machines 2 - Turbo Tournament (Europe).gg" size="524288" sha1="53ad6546462638ab246b4fdd7ca4b8966dde0d96" crc="dbe8895c" />
+  </game>
+  <game name="01 - Games/Micro Machines">
+    <rom name="Micro Machines (USA, Europe).gg" size="262144" sha1="7b2d39b68622e18eac6c27fd961133b1d002342b" crc="f7c524f6" />
+  </game>
+  <game name="01 - Games/Micro Machines/~Prototypes and Betas">
+    <rom name="Micro Machines (USA, Europe) (Beta).gg" size="262144" sha1="51cb41c00020f80d7c3c80b217b41841ad59a825" crc="c21e6cd0" />
+  </game>
+  <game name="01 - Games/Mieyen Mini">
+    <rom name="Mieyen Mini (World) (Aftermarket) (Unl).gg" size="16384" sha1="d72e136e889c00f520a47b9ba0a16683480ac50c" crc="c3eb27e8" />
+  </game>
+  <game name="01 - Games/Mighty Morphin Power Rangers - The Movie">
+    <rom name="Mighty Morphin Power Rangers - The Movie (USA, Europe, Brazil) (En).gg" size="524288" sha1="dfe7dc7b2df143da4f4eeb32051a6d373dddba5d" crc="b47c19e5" />
+  </game>
+  <game name="01 - Games/Mighty Morphin Power Rangers">
+    <rom name="Mighty Morphin Power Rangers (USA, Europe).gg" size="524288" sha1="86c4d12257faf355623f47f8fa22da23a3b36cd9" crc="9289dfcc" />
+  </game>
+  <game name="01 - Games/Mighty Morphin Power Rangers/~Prototypes and Betas">
+    <rom name="Mighty Morphin Power Rangers (USA, Europe) (Beta).gg" size="524288" sha1="88a90ac68fe67872cdee9c4ab2b77595347297eb" crc="2887f04a" />
+  </game>
+  <game name="01 - Games/Missile Command (Arcade Classics)">
+    <rom name="Arcade Classics (USA).gg" size="262144" sha1="fde19f418f4f13bbe43e6610f411065db9a6f550" crc="3deca813" />
+  </game>
+  <game name="01 - Games/Moldorian - Hikari to Yami no Sister">
+    <rom name="Moldorian - Hikari to Yami no Sister (Japan).gg" size="524288" sha1="0dad260b5357b2f61d1452bb73d8321ca53d7262" crc="4d5d15fb" />
+  </game>
+  <game name="01 - Games/Moldorian - Hikari to Yami no Sister/~Translations/Documentation">
+    <rom name="Moldorian - The Sisters of Light and Darkness (Japan) [T-En by Supper v1.1] [n] [User Manual].pdf" size="19074913" sha1="358b2329ecb948fcd1196e913da3b9cecb67d96a" crc="d818527e" />
+    <rom name="Moldorian - The Sisters of Light and Darkness (Japan) [T-En by Supper v1.1] [n] [User Manual].txt" size="30696" sha1="50e22a49eed6b6ee70e9271f7b007f4371524bd9" crc="30a59045" />
+    <rom name="Moldorian - The Sisters of Light and Darkness (Japan) [T-En by Supper v1.1] [n].txt" size="11449" sha1="dba653cfa17b110e5f2c06fec9832aa0d09b4305" crc="01c62d4d" />
+  </game>
+  <game name="01 - Games/Moldorian - Hikari to Yami no Sister/~Translations">
+    <rom name="Moldorian - The Sisters of Light and Darkness (Japan) [T-En by Supper v1.1] [n].gg" size="1048576" sha1="3e9993639505240e8c0c7d13b520e79634490a02" crc="b36aa234" />
+  </game>
+  <game name="01 - Games/Monaco Master">
+    <rom name="Monaco Master (World) (v1.1) (Aftermarket) (Unl).gg" size="49152" sha1="ef9631080e964a9b027a93264d40d5d523c1ceee" crc="01a074ab" />
+  </game>
+  <game name="01 - Games/Monster Truck Wars">
+    <rom name="Monster Truck Wars (USA, Europe).gg" size="262144" sha1="f493d5aebef88b44cadcb3459d214a6c3ba155c8" crc="453c5cec" />
+  </game>
+  <game name="01 - Games/Mortal Kombat 3">
+    <rom name="Mortal Kombat 3 (Europe).gg" size="524288" sha1="034ecd615609efb4d96669dda7f32f546d5782f8" crc="c2be62bb" />
+  </game>
+  <game name="01 - Games/Mortal Kombat II">
+    <rom name="Mortal Kombat II (World).gg" size="524288" sha1="320d2b8b62ef0109621bbe609b02bd8b0769a0b9" crc="4b304e0f" />
+  </game>
+  <game name="01 - Games/Mortal Kombat">
+    <rom name="Mortal Kombat (USA, Europe).gg" size="524288" sha1="ef634649b846b3f49d2c68739b36019e4fae0464" crc="07494f2a" />
+    <rom name="Mortal Kombat - Shinken Kourin Densetsu (Japan) (En).gg" size="524288" sha1="f28e50f1283d7a2516267a13a16a3e6914ae0a18" crc="dbff0461" />
+  </game>
+  <game name="01 - Games/Mortal Kombat/~Prototypes and Betas">
+    <rom name="Mortal Kombat (USA, Europe) (Beta).gg" size="524288" sha1="0d2ca2de933993ed45b20ef736237bc774dd3914" crc="16db4f6a" />
+  </game>
+  <game name="01 - Games/Mr. Ultra 2">
+    <rom name="Mr. Ultra 2 (World) (Aftermarket) (Unl).gg" size="49152" sha1="2b1696ac754df2df5159c4468eef48f6fa4637f9" crc="1cde85c9" />
+  </game>
+  <game name="01 - Games/Mr. Ultra 2/~Prototypes and Betas">
+    <rom name="Mr. Ultra 2 (World) (Beta) (Aftermarket) (Unl).gg" size="32768" sha1="ace361434bad58cd3c4433efdb393a7d2b39add5" crc="99ca79ae" />
+  </game>
+  <game name="01 - Games/Ms. Pac-Man">
+    <rom name="Ms. Pac-Man (USA).gg" size="131072" sha1="dbba762b62e786be2c1df30a595cf3bc11b106c5" crc="5ee88bd5" />
+  </game>
+  <game name="01 - Games/NBA Action Starring David Robinson">
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (En).gg" size="262144" sha1="b81b3740e6dbc931dc4a867a8aabdb971492e2b1" crc="19030108" />
+  </game>
+  <game name="01 - Games/NBA Action Starring David Robinson/~Prototypes and Betas">
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 1).gg" size="262144" sha1="6e12de62fe88f12ec28e594871df90a4e42f4f33" crc="31084021" />
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 10).gg" size="262144" sha1="c0389169ce2b8b619afa6b7e2c5cede667299e64" crc="07649147" />
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 11).gg" size="262144" sha1="026cfde6ad4a499fa08ebec57a69cd80239f642b" crc="5e089fbc" />
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 12).gg" size="262144" sha1="006ce9972fd532abb1b426de2bf02e75dd616bba" crc="0c0f6b4c" />
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 13).gg" size="262144" sha1="6bff3fa4cab82f688a02318b19af57cb21f75ca5" crc="e73b02a4" />
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 14).gg" size="262144" sha1="60ebead82b6e30f00ea5ac37f30d854eddc37945" crc="c4b3328c" />
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 15).gg" size="262144" sha1="eedd9e46158547c80d4c58745a68fe3d083288c2" crc="91e3026c" />
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 16).gg" size="262144" sha1="74716d2e00728bee25985ca2acf0547080699f87" crc="9265f8c3" />
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 17).gg" size="262144" sha1="bfbcb9dc6c2c66108ba8910df7b360f287feb997" crc="21a79f63" />
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 18).gg" size="262144" sha1="305c1ca1b947694b61cfd896abca5c6f9ec287f3" crc="afc8a69e" />
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 19).gg" size="262144" sha1="23cdda16537505afa407704f493c0ed4e51d6373" crc="188a319e" />
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 2).gg" size="262144" sha1="ac01abe3858ac97f31b23104231bb26bb2ee4a6c" crc="8c089da5" />
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 20).gg" size="262144" sha1="1d75c23394eaf7506f54a4f55a9e2234c35a5b6d" crc="6896b65d" />
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 21).gg" size="262144" sha1="a11674848036a8d587c939ac568bc505d811c0ab" crc="ab721f11" />
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 22).gg" size="262144" sha1="e9b3acc9c18ff76d3a48400da39eae98f42d3e5d" crc="82e882d6" />
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 23).gg" size="262144" sha1="54060a0430a898f9ac32eb685758f5144a347531" crc="d15aa940" />
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 24).gg" size="262144" sha1="d7062bdecbb42c1869ba70f5d6eed441607e8bd8" crc="4415c0bb" />
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 25).gg" size="262144" sha1="41124a549e9b5362b496709f61ce6710df6caec2" crc="5254577a" />
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 26).gg" size="262144" sha1="226de9e66562f7dd05b0b3265aefa94f86f2a724" crc="75a5bc5d" />
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 27).gg" size="262144" sha1="cd2114ce46eec5b0e4bc4f1c4c65926b4c37541a" crc="80c0586c" />
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 28).gg" size="262144" sha1="60e804882a04f376e6914ebd9683268d016d0d69" crc="a82049df" />
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 29).gg" size="262144" sha1="7b6620a9f60d75595df59f3723c8c5b76e6b2d8f" crc="e197a0bb" />
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 3).gg" size="262144" sha1="9f7e49a7881333a0bc8e6c0ad2a6920102bdb23c" crc="c658b5b3" />
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 30).gg" size="262144" sha1="0ea3a2656145092d8df00b6a7668599b0ab1b8d3" crc="c9e98a49" />
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 4).gg" size="262144" sha1="01bb6913099fedbc2cf0193351f8a307facad3df" crc="41dabd84" />
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 5).gg" size="262144" sha1="377ccf6af5fd66672e212005529665c3934e4ead" crc="a34b2b4c" />
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 6).gg" size="262144" sha1="d38c5f823bbb8db43bf25a71d57329d7ca7e9087" crc="9824f77d" />
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 7).gg" size="262144" sha1="866f61bfd3e54dc6963fae24fda1333cdceef32d" crc="0d6bf79d" />
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 8).gg" size="262144" sha1="6c427db53067dfaf1979422b970b79d6fa55fec8" crc="f9d5500b" />
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (En) (Beta 9).gg" size="262144" sha1="5a4ab43ddd63d3a9198a940479626b427ec39c6a" crc="e2341dce" />
+  </game>
+  <game name="01 - Games/NBA Jam - Tournament Edition">
+    <rom name="NBA Jam - Tournament Edition (World).gg" size="524288" sha1="c34e318852ca6f52e980c7a63721a145cd167843" crc="86c32e5b" />
+  </game>
+  <game name="01 - Games/NBA Jam">
+    <rom name="NBA Jam (Japan) (En).gg" size="524288" sha1="e7c040a58c8d35bf5b5b556b2d3c55e7a5eb0550" crc="a49e9033" />
+    <rom name="NBA Jam (USA) (Rev 1) (Putative Proto).gg" size="524288" sha1="30bdf6edfb1772054e15edefd69fbe16efd1797a" crc="820fa4ab" />
+    <rom name="NBA Jam (USA, Europe).gg" size="524288" sha1="2de5991810bad1a4120a2698530c66d4dbf16f7c" crc="8f17597e" />
+  </game>
+  <game name="01 - Games/NFL '95">
+    <rom name="NFL '95 (USA).gg" size="524288" sha1="d5f2b7b495794f11a9a67e2b34a44d59003f5960" crc="dc5b0407" />
+  </game>
+  <game name="01 - Games/NFL '95/~Prototypes and Betas">
+    <rom name="NFL '95 (USA) (Beta 1).gg" size="524288" sha1="2bcaa3b7d0ba5bb5dfb716071f365f6e0248bc0b" crc="8cd96d95" />
+    <rom name="NFL '95 (USA) (Beta 10).gg" size="524288" sha1="7a5c9883fa5775ee357de76e60b5435acfa4f47f" crc="088e4b6d" />
+    <rom name="NFL '95 (USA) (Beta 11).gg" size="524288" sha1="dc3c1d7b0137d26d79cb7d0be5ed51d551a256d7" crc="b38f48b6" />
+    <rom name="NFL '95 (USA) (Beta 12).gg" size="524288" sha1="441468692ee04852424dac693697389c93f44482" crc="474a162b" />
+    <rom name="NFL '95 (USA) (Beta 13).gg" size="524288" sha1="e76270bfbe8a64173fba9ca14d15679fb340d0c9" crc="2828cb66" />
+    <rom name="NFL '95 (USA) (Beta 2).gg" size="524288" sha1="0d79198d43250ad4a745da7853050a3db8f2803c" crc="7f769052" />
+    <rom name="NFL '95 (USA) (Beta 3).gg" size="524288" sha1="b79af203bc01ea1c59563e34105cb36cad158cca" crc="fe140eaa" />
+    <rom name="NFL '95 (USA) (Beta 4).gg" size="524288" sha1="b86fa58449e1544014ffce590efe16678e93f811" crc="f77138dd" />
+    <rom name="NFL '95 (USA) (Beta 5).gg" size="524288" sha1="d426cd29a03b2341c417c3d5b40f16c4e066f27e" crc="a3b046e7" />
+    <rom name="NFL '95 (USA) (Beta 6).gg" size="524288" sha1="f2e837a299bc357f8f75e8daaa38159d926d8202" crc="3978387b" />
+    <rom name="NFL '95 (USA) (Beta 7).gg" size="524288" sha1="95ef164e629eb5ac88201e2cb1606d305f1881b0" crc="ff70a26f" />
+    <rom name="NFL '95 (USA) (Beta 8).gg" size="524288" sha1="5eebf128b61ce03ea2eb44e5b42ccdf4de80d0ec" crc="132db489" />
+    <rom name="NFL '95 (USA) (Beta 9).gg" size="524288" sha1="087c59dace9afbd2cd6b53bfe896f33820b03f5e" crc="c57c6afd" />
+  </game>
+  <game name="01 - Games/NFL Quarterback Club 96">
+    <rom name="NFL Quarterback Club 96 (USA).gg" size="524288" sha1="fd4167dbc780ff402ba1df2671982ab722c0b3f3" crc="c348e53a" />
+  </game>
+  <game name="01 - Games/NFL Quarterback Club">
+    <rom name="NFL Quarterback Club (World).gg" size="524288" sha1="ea42bb90eea90a159f8c662743aa59d6dd6f7250" crc="61785ed5" />
+  </game>
+  <game name="01 - Games/NHL All-Star Hockey">
+    <rom name="NHL All-Star Hockey (USA).gg" size="524288" sha1="9556d7a49372ebc8cfe3ab43704ceade86d5fef5" crc="4680c7aa" />
+  </game>
+  <game name="01 - Games/NHL All-Star Hockey/~Prototypes and Betas">
+    <rom name="NHL All-Star Hockey (USA) (Beta 1).gg" size="524288" sha1="dec66ddac97c91aebcefc479da79ea086b0ebea8" crc="e583d999" />
+    <rom name="NHL All-Star Hockey (USA) (Beta 10).gg" size="524288" sha1="5e251060685b00d4b492e1eddfcabfa0d78d42cf" crc="50dcf5b6" />
+    <rom name="NHL All-Star Hockey (USA) (Beta 11).gg" size="524288" sha1="76de1dadc2fb155dbb3b4c17c77aad9e87d93271" crc="499b06c2" />
+    <rom name="NHL All-Star Hockey (USA) (Beta 12).gg" size="524288" sha1="7d0dd9e5d441e6e55d0c31f313c7761cf5860c16" crc="16af7995" />
+    <rom name="NHL All-Star Hockey (USA) (Beta 13).gg" size="524288" sha1="235a09f13eecd83d6c278a5e476a93004ff78c9b" crc="74be3c4c" />
+    <rom name="NHL All-Star Hockey (USA) (Beta 14).gg" size="524288" sha1="91e8a0184d77dcd7c484b125b560b113aeaeaeb4" crc="0b1c38f4" />
+    <rom name="NHL All-Star Hockey (USA) (Beta 15).gg" size="524288" sha1="c7c54814c416bd3a1eed38e13a1644fe3f57160e" crc="0a4a6830" />
+    <rom name="NHL All-Star Hockey (USA) (Beta 16).gg" size="524288" sha1="318b3f3615f7b94e9f375f8b1c7a0a98c2bfe3ab" crc="54f5efb2" />
+    <rom name="NHL All-Star Hockey (USA) (Beta 17).gg" size="524288" sha1="4f6077aa192be69261cbce3ec3ddc35c6d04a0d2" crc="a587b13e" />
+    <rom name="NHL All-Star Hockey (USA) (Beta 2).gg" size="524288" sha1="be689bef9395d698ed5f9629c80762d7f6847393" crc="dfba792a" />
+    <rom name="NHL All-Star Hockey (USA) (Beta 3).gg" size="524288" sha1="be2afd53ba0ceb64e9069c4fefd73db5b31ad9e2" crc="e14d071b" />
+    <rom name="NHL All-Star Hockey (USA) (Beta 4).gg" size="524288" sha1="f7d636b7e75853a744c61da7ac3c91766fc34dc7" crc="8a2b6323" />
+    <rom name="NHL All-Star Hockey (USA) (Beta 5).gg" size="524288" sha1="393d17319e28c5774e7a3f2c336a36f1279d6932" crc="2551f22c" />
+    <rom name="NHL All-Star Hockey (USA) (Beta 6).gg" size="524288" sha1="5560ce4cff2f2b4ca7a89c34d295ac11983aa698" crc="ece5633b" />
+    <rom name="NHL All-Star Hockey (USA) (Beta 7).gg" size="524288" sha1="7ff1ee75043b1fe81c7db4b1aeac0f3c3c84c90a" crc="82504476" />
+    <rom name="NHL All-Star Hockey (USA) (Beta 8).gg" size="524288" sha1="c5bc673a9e1c046a13d19151e52022dba3e862ba" crc="49f8b9e4" />
+    <rom name="NHL All-Star Hockey (USA) (Beta 9).gg" size="524288" sha1="338d8d9a6adaa9f4cc1733a62de76ad240ff1f79" crc="87d8fe13" />
+  </game>
+  <game name="01 - Games/NHL Hockey">
+    <rom name="NHL Hockey (USA, Europe).gg" size="524288" sha1="8f243a6011f769538349c968929a500aff7d3e6d" crc="658713a5" />
+  </game>
+  <game name="01 - Games/Nazo Puyo - Arle no Roux">
+    <rom name="Nazo Puyo - Arle no Roux (Japan).gg" size="262144" sha1="20308b7389a9e860697a66510d4925d1af3b769a" crc="54ab42a4" />
+  </game>
+  <game name="01 - Games/Nazo Puyo - Arle no Roux/~Prototypes and Betas">
+    <rom name="Nazo Puyo - Arle no Roux (Japan) (Beta).gg" size="262144" sha1="23d51aa54d04a145a9df457135b088eef359d46a" crc="4c874466" />
+  </game>
+  <game name="01 - Games/Nazo Puyo - Arle no Roux/~Translations">
+    <rom name="Nazo Puyo - Arle no Roux (Japan) [T-En by T-En by TriumphantBass v0.3] [i].gg" size="262144" sha1="2bdc2d57b400e0828e4da95ac5386caef73e01b5" crc="2c407351" />
+  </game>
+  <game name="01 - Games/Nazo Puyo 2">
+    <rom name="Nazo Puyo 2 (Japan).gg" size="262144" sha1="dbd511aff622c618eac0c21de36965b869362dbd" crc="73939de4" />
+  </game>
+  <game name="01 - Games/Nazo Puyo">
+    <rom name="Nazo Puyo (Japan) (Rev A).gg" size="131072" sha1="7b19e92a85564b166c364d990d9d44f7e1113541" crc="d8d11f8d" />
+    <rom name="Nazo Puyo (Japan).gg" size="131072" sha1="6ad654e11067ed12437022fcf22b9fea9be7ac46" crc="bcce5fd4" />
+  </game>
+  <game name="01 - Games/Neko Daisuki!">
+    <rom name="Neko Daisuki! (Japan).gg" size="524288" sha1="c83fd440895ceb50e4da2ab9db2a29ac21555e9d" crc="3679be80" />
+  </game>
+  <game name="01 - Games/Neuras Mini">
+    <rom name="Neuras Mini (World) (Aftermarket) (Unl).gg" size="16384" sha1="f7228d9d3dba1bea5a21e566130234c383a5cd50" crc="a2b97db3" />
+  </game>
+  <game name="01 - Games/Ninja Gaiden">
+    <rom name="Ninja Gaiden (Japan).gg" size="131072" sha1="acedddaa928a96085544440c2bec2685a6cdf501" crc="20ef017a" />
+    <rom name="Ninja Gaiden (USA, Europe, Brazil) (En).gg" size="131072" sha1="1a5c44e76a0e913d76f590affae3b2e24fbd0f59" crc="c578756b" />
+  </game>
+  <game name="01 - Games/Ninku 2 - Tenkuuryuu-e no Michi">
+    <rom name="Ninku 2 - Tenkuuryuu-e no Michi (Japan).gg" size="524288" sha1="fd6452974da734fcd4292cb0cd728a0ac9aef714" crc="06247dd2" />
+  </game>
+  <game name="01 - Games/Ninku Gaiden - Hiroyuki Daikatsugeki">
+    <rom name="Ninku Gaiden - Hiroyuki Daikatsugeki (Japan).gg" size="524288" sha1="23003e39918f855bd37f58b7b8840960cc82196a" crc="9140f239" />
+  </game>
+  <game name="01 - Games/Ninku">
+    <rom name="Ninku (Japan).gg" size="524288" sha1="d22bfa865b34866568f3dd7fccec886170071c81" crc="c3056e15" />
+  </game>
+  <game name="01 - Games/Ninku/~Translations/Documentation">
+    <rom name="Ninku (Japan) [T-En by Some Good Shit Translations v0.1] [i].txt" size="1035" sha1="ce195ae69d177a7bb5fb82ce8877a2ad29a63ea3" crc="ea52b0d5" />
+  </game>
+  <game name="01 - Games/Ninku/~Translations">
+    <rom name="Ninku (Japan) [T-En by Some Good Shit Translations v0.1] [i].gg" size="524288" sha1="273ebf4415064a6ba0f6e62a7f2f6a7eb0dba96a" crc="14737df8" />
+  </game>
+  <game name="01 - Games/Off the Wall/~Prototypes and Betas">
+    <rom name="Off the Wall (USA) (Proto).gg" size="262144" sha1="27146e93e62a6cf5fc998fb9a2563b51b21334b4" crc="71fe9c80" />
+  </game>
+  <game name="01 - Games/Olympic Gold">
+    <rom name="Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).sms" size="262144" sha1="53fd026008be77cd0cda7080e67a87a7bad33a6a" crc="1d93246e" />
+    <rom name="Olympic Gold (Japan, USA, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).sms" size="262144" sha1="b7e5ae436ccaa9984297b0c14969922d189cb10c" crc="a2f9c7af" />
+    <rom name="Olympic Gold (Taiwan) (En,Fr,De,Es,It,Nl,Pt,Sv) (Unl).sms" size="262144" sha1="cc922d900534841730a2019e407d374a04276933" crc="3382d73f" />
+  </game>
+  <game name="01 - Games/Osotos Mini">
+    <rom name="Osotos Mini (World) (Aftermarket) (Unl).gg" size="16384" sha1="c6512203b33b371bc44484eb17031a22ab8892e2" crc="3dca13e6" />
+  </game>
+  <game name="01 - Games/Ottifants, The">
+    <rom name="Ottifants, The (Europe) (En,Fr,De,Es,It).gg" size="262144" sha1="e66185d8f389ea2c48842f2623349c5cc8b1463d" crc="1e673168" />
+  </game>
+  <game name="01 - Games/OutRun Europa">
+    <rom name="OutRun Europa (Europe).sms" size="262144" sha1="0fb4200fa291fe57cd7be2ee73ac2d71ae3c005e" crc="01eab89d" />
+    <rom name="OutRun Europa (USA).sms" size="262144" sha1="dd842a7294eee7badf4353fbe3e5d87dd570c671" crc="f037ec00" />
+  </game>
+  <game name="01 - Games/OutRun">
+    <rom name="OutRun (Europe, Brazil) (En).gg" size="131072" sha1="41d5f3f95ca8cd288842bad7bb5f7940c2baa86d" crc="9014b322" />
+    <rom name="OutRun (Japan, Korea) (En).gg" size="131072" sha1="284a68102eb71958a3553626ea3dd56485453300" crc="d58cb27c" />
+  </game>
+  <game name="01 - Games/PGA Tour 96">
+    <rom name="PGA Tour 96 (USA, Europe).gg" size="524288" sha1="dc71616c742f23979c5eb27aafa27961170e0ae8" crc="542b6d8e" />
+  </game>
+  <game name="01 - Games/PGA Tour Golf II">
+    <rom name="PGA Tour Golf II (USA, Europe).gg" size="524288" sha1="871b94f1ff63e2a89bc165382110d4f79df53fa3" crc="4a8ac851" />
+  </game>
+  <game name="01 - Games/PGA Tour Golf">
+    <rom name="PGA Tour Golf (USA) (Rev 1) (Putative Proto).gg" size="262144" sha1="cddc04025a10e4351a4c63d118a74bc8b7d2b257" crc="1c77d996" />
+    <rom name="PGA Tour Golf (USA, Europe).gg" size="262144" sha1="34a2b521c4577e4d1699311365722745d62f10aa" crc="9700bb65" />
+  </game>
+  <game name="01 - Games/Pac-Attack">
+    <rom name="Pac-Attack (USA).gg" size="131072" sha1="e9e3d7c116e82e7fe696ac3e043d14ece51e9f8e" crc="9273ee2c" />
+  </game>
+  <game name="01 - Games/Pac-Man">
+    <rom name="Pac-Man (Japan) (En).gg" size="131072" sha1="d78b6aac927692f1b67e6a4b7494e2c7e709ae17" crc="a16c5e58" />
+    <rom name="Pac-Man (USA).gg" size="131072" sha1="ed27bae791e2b24966c282ad307a1b8d2140f55c" crc="b318dd37" />
+    <rom name="Pac-Man (World) (Aftermarket) (Unl).gg" size="65536" sha1="5121090c765d59c0443c6368becfbf77842c1b32" crc="85595c91" />
+  </game>
+  <game name="01 - Games/Pac-in-Time/~Prototypes and Betas">
+    <rom name="Pac-in-Time (USA) (Proto).gg" size="262144" sha1="bc956615da23f13bddc491377b29631f9c0a4d5a" crc="64c28e20" />
+  </game>
+  <game name="01 - Games/Panic Dizzy">
+    <rom name="Excellent Dizzy Collection, The (Europe).sms" size="524288" sha1="db3c0686715373242911f8471a1e91673811d62a" crc="aa140c9c" />
+  </game>
+  <game name="01 - Games/Panzer Dragoon Mini">
+    <rom name="Panzer Dragoon Mini (Japan) (En).gg" size="524288" sha1="c1498f68acb234f46ab6f443f484a48ebd183f0f" crc="e9783cea" />
+  </game>
+  <game name="01 - Games/Paperboy 2">
+    <rom name="Paperboy 2 (USA).gg" size="262144" sha1="2fa97c21bfd9d3968c473b6fa4fb7485b6dfb35d" crc="8b2c454b" />
+  </game>
+  <game name="01 - Games/Paperboy 2/~Prototypes and Betas">
+    <rom name="Paperboy 2 (USA) (Beta).gg" size="262144" sha1="54111b3c694699d4a7a80da39183c7e2d989a2e9" crc="0b271db6" />
+  </game>
+  <game name="01 - Games/Paperboy">
+    <rom name="Paperboy (USA, Europe).gg" size="131072" sha1="b1f81f9e2b7197b2fa1475b9cd422479780ef7f2" crc="f54b6803" />
+  </game>
+  <game name="01 - Games/Pegged">
+    <rom name="Pegged (World) (v1.02) (Aftermarket) (Unl).gg" size="32768" sha1="d01b356706b5d281d858d41aee8c5cfcd4dbb08e" crc="a3e06e7a" />
+  </game>
+  <game name="01 - Games/Pengo">
+    <rom name="Pengo (Europe).gg" size="32768" sha1="e42f85feb631712b8615a0b19bfbf6432633ba00" crc="0da23cc1" />
+    <rom name="Pengo (Japan) (En).gg" size="32768" sha1="5883e2d19ab7126d52abc177a97d44bc88c319de" crc="ce863dba" />
+  </game>
+  <game name="01 - Games/Pet Club - Inu Daisuki!">
+    <rom name="Pet Club - Inu Daisuki! (Japan).gg" size="524288" sha1="0c0bcfd06084419e7c5921f92ccb0f977058c5a3" crc="b42d8430" />
+  </game>
+  <game name="01 - Games/Pete Sampras Tennis">
+    <rom name="Pete Sampras Tennis (Europe).gg" size="262144" sha1="ab9b4c833207824efb14b712b4ec82721c8436bc" crc="c1756bee" />
+    <rom name="Pete Sampras Tennis (USA).gg" size="262144" sha1="d596edb302dc3d603e818847bdc9bba6972ee86d" crc="c597ba5d" />
+  </game>
+  <game name="01 - Games/Petris/~Prototypes and Betas">
+    <rom name="Petris (World) (v1.1) (Proto) (Aftermarket) (Unl).gg" size="32768" sha1="188fb93d5a9c16a346ad845b5eef690a7e364277" crc="058d54f4" />
+  </game>
+  <game name="01 - Games/Phantasy Star Adventure">
+    <rom name="Phantasy Star Adventure (Japan).gg" size="131072" sha1="fdd940556f7d3af14979dbf057809d5a22e46d8e" crc="1a51579d" />
+  </game>
+  <game name="01 - Games/Phantasy Star Adventure/~Translations/Documentation">
+    <rom name="Phantasy Star Adventure (Japan) [T-En by Aeon Genesis v1.00].txt" size="2958" sha1="c126f634627b50fd0feee5c276b09f593b3f724e" crc="d3689d2e" />
+  </game>
+  <game name="01 - Games/Phantasy Star Adventure/~Translations">
+    <rom name="Phantasy Star Adventure (Japan) [T-En by Aeon Genesis v1.00].gg" size="131072" sha1="532f74ae3292a41f38334ccaa6f084dd2e1729ce" crc="530636cb" />
+  </game>
+  <game name="01 - Games/Phantasy Star Gaiden">
+    <rom name="Phantasy Star Gaiden (Japan).gg" size="262144" sha1="914f1e693f396794a37b5d99acaf5db54fe529c2" crc="a942514a" />
+  </game>
+  <game name="01 - Games/Phantasy Star Gaiden/~Translations/Documentation">
+    <rom name="Phantasy Star Gaiden (Japan) [T-En by Magic Translations v1.00].nfo" size="10371" sha1="7b1f17721735b22fda070bf55f7b3f4d966307ca" crc="f170340c" />
+  </game>
+  <game name="01 - Games/Phantasy Star Gaiden/~Translations">
+    <rom name="Phantasy Star Gaiden (Japan) [T-En by Magic Translations v1.00] [Original Sega Font].gg" size="262144" sha1="71a52cfe7da6acdd3cce20a701e71e309b144d1e" crc="5fa1f7b2" />
+    <rom name="Phantasy Star Gaiden (Japan) [T-En by Magic Translations v1.00].gg" size="262144" sha1="426123310eaa3d95ee468a30f5e697112b9949d6" crc="13b4f854" />
+  </game>
+  <game name="01 - Games/Phantom 2040">
+    <rom name="Phantom 2040 (USA, Europe).gg" size="524288" sha1="0e054455d99b6d1732abbe9d0ca1b25825b70b87" crc="281b1c3a" />
+  </game>
+  <game name="01 - Games/Pinball Dreams">
+    <rom name="Pinball Dreams (USA).gg" size="131072" sha1="1734288c1ca2d83b28b5e266998fbbba76f665f6" crc="635c483a" />
+  </game>
+  <game name="01 - Games/Pocket Jansou">
+    <rom name="Pocket Jansou (Japan).gg" size="131072" sha1="5949695ae82b796d4cc141fcb57d01463e1b0ec6" crc="cc90c723" />
+  </game>
+  <game name="01 - Games/Pokemon - Red Version/~Prototypes and Betas">
+    <rom name="Pokemon - Red Version (World) (Proto) (Aftermarket) (Unl).gg" size="1048576" sha1="c0ab7158aefd4f942a74373d690b81f6cf92b32d" crc="39dc7c0c" />
+  </game>
+  <game name="01 - Games/Poker Face Paul's Blackjack">
+    <rom name="Poker Face Paul's Blackjack (USA).gg" size="131072" sha1="010560dee1eafae3266eb9720e2f802c0deccf40" crc="89d34067" />
+  </game>
+  <game name="01 - Games/Poker Face Paul's Cribbage/~Prototypes and Betas">
+    <rom name="Poker Face Paul's Cribbage (USA) (Proto) (Source Code).gg" size="120080" sha1="596cdb0697b1c3dc96eebce4858bdde8b4544ca7" crc="23a56fb0" />
+    <rom name="Poker Face Paul's Cribbage (USA) (Proto).gg" size="131072" sha1="232906b3198763dd8d500bf445edbc54e0e3c67e" crc="d2e644b4" />
+  </game>
+  <game name="01 - Games/Poker Face Paul's Gin">
+    <rom name="Poker Face Paul's Gin (USA).gg" size="131072" sha1="e21d29b2864b6eed3a4eb4dcf7443f1114e92bd4" crc="afd61b89" />
+  </game>
+  <game name="01 - Games/Poker Face Paul's Poker">
+    <rom name="Poker Face Paul's Poker (USA).gg" size="131072" sha1="c21b3a14bd560261c01eccb413b27fecf231495b" crc="e783daf8" />
+  </game>
+  <game name="01 - Games/Poker Face Paul's Solitaire">
+    <rom name="Poker Face Paul's Solitaire (USA).gg" size="131072" sha1="141b53c7f85b50626c6619094f4f8f7bec3676d2" crc="0e9b0c0a" />
+  </game>
+  <game name="01 - Games/Polka Sheep">
+    <rom name="Polka Sheep (World) (Aftermarket) (Unl).gg" size="131072" sha1="27ed04af6773fce540fd329bdc49343291486805" crc="8da58e3c" />
+  </game>
+  <game name="01 - Games/Pong - Ultra Pong (Arcade Classics)">
+    <rom name="Arcade Classics (USA).gg" size="262144" sha1="fde19f418f4f13bbe43e6610f411065db9a6f550" crc="3deca813" />
+  </game>
+  <game name="01 - Games/Pop Breaker">
+    <rom name="Pop Breaker (Japan) (En).gg" size="131072" sha1="9c358504d3c106dd62bd8981132b47cdb95903de" crc="71deba5a" />
+  </game>
+  <game name="01 - Games/Popeye no Beach Volleyball">
+    <rom name="Popeye no Beach Volleyball (Japan).gg" size="524288" sha1="921e3922e1b550b6914fb06ba74d4661ef25a89e" crc="3ef66810" />
+  </game>
+  <game name="01 - Games/Power Drive">
+    <rom name="Power Drive (Europe).gg" size="524288" sha1="c523db9fcf30d7f8af5e5a298ba01f59d124ff72" crc="ac369ae3" />
+  </game>
+  <game name="01 - Games/Power Strike II">
+    <rom name="GG Aleste II (Japan) (En) (Aleste Collection).gg" size="262144" sha1="8e563c259280274b932a5969d4c188afec1a9d3b" crc="13596065" />
+    <rom name="Power Strike II (Japan, Europe) (En).gg" size="262144" sha1="e4db2140761b43426024bd08c4372bb9b8979d3d" crc="09de1528" />
+  </game>
+  <game name="01 - Games/Predator 2">
+    <rom name="Predator 2 (USA, Europe).sms" size="262144" sha1="76464809826a0ceed7cfd68a8fe5e06c06bd96fc" crc="e5f789b9" />
+  </game>
+  <game name="01 - Games/Primal Rage">
+    <rom name="Primal Rage (USA, Europe).gg" size="524288" sha1="6d193840463722ed141ed503c2cfc7ae0077ce35" crc="2a34b5c7" />
+  </game>
+  <game name="01 - Games/Prime/~Prototypes and Betas">
+    <rom name="Prime (USA) (Proto 1).gg" size="524288" sha1="c2b0aa42dd1988e5dad304ca8b0599ff5a414c47" crc="22f5dd10" />
+    <rom name="Prime (USA) (Proto 2).gg" size="524288" sha1="661bcd202b3f20b828d96455dd97a72e330694f3" crc="a4b46022" />
+  </game>
+  <game name="01 - Games/Prince of Persia">
+    <rom name="Prince of Persia (USA, Europe).sms" size="262144" sha1="7820699ee6b214f3f02f724f4d7891184caf93f8" crc="311d2863" />
+  </game>
+  <game name="01 - Games/Prince of Persia/~Prototypes and Betas">
+    <rom name="Prince of Persia (USA, Europe) (Beta).sms" size="262144" sha1="0672814b9fb20dd217141f7853db300343f2c1ea" crc="45f058d6" />
+  </game>
+  <game name="01 - Games/Princess Gardening">
+    <rom name="Princess Gardening (Japan) (Aftermarket) (Unl).gg" size="262144" sha1="4e50e844987b1712f3f88042a3ee94617368f589" crc="23e52698" />
+  </game>
+  <game name="01 - Games/Pro Yakyuu '91, The">
+    <rom name="Pro Yakyuu '91, The (Japan).gg" size="131072" sha1="804cfac0a7578c3fd625f0084a24afa26a2dc015" crc="6d3a10d3" />
+  </game>
+  <game name="01 - Games/Pro Yakyuu GG League '94">
+    <rom name="Pro Yakyuu GG League '94 (Japan).gg" size="524288" sha1="faac2b420cb895aec4216d4c5ce21e5f2a4c4338" crc="a1a19135" />
+  </game>
+  <game name="01 - Games/Pro Yakyuu GG League">
+    <rom name="Pro Yakyuu GG League (Japan).gg" size="262144" sha1="bf78122a549ad9b016e3704690c7eea1574af140" crc="2da8e943" />
+  </game>
+  <game name="01 - Games/Psychic World">
+    <rom name="Psychic World (Japan).gg" size="131072" sha1="1c0074c811ed4eb369be31c1bc7d851e40ae8797" crc="afcc7828" />
+    <rom name="Psychic World (USA, Europe, Brazil) (En) (Rev 1).gg" size="131072" sha1="3be13f79eeb26b82343afab3e740b3a1d35978eb" crc="73779b22" />
+  </game>
+  <game name="01 - Games/Putt &amp; Putter">
+    <rom name="Putt &amp; Putter (Japan, Korea) (En).gg" size="131072" sha1="2d4a72e6f5db344240c2a65141b08e57a4b52416" crc="407ac070" />
+    <rom name="Putt &amp; Putter (USA, Europe, Brazil) (En).gg" size="131072" sha1="7038a6e60106eba19e0aff56c14749c2dbb5de5f" crc="ecc301dd" />
+  </game>
+  <game name="01 - Games/Puyo Puyo Tsuu">
+    <rom name="Puyo Puyo Tsuu (Japan) (Virtual Console).gg" size="524288" sha1="b4c15e8951230c58d3350a2e4a6f998ea5bc87d3" crc="1095528d" />
+    <rom name="Puyo Puyo Tsuu (Japan).gg" size="524288" sha1="04ea9ff57faeeccd1bbb17490d22313ae94c86d6" crc="3ab2393b" />
+  </game>
+  <game name="01 - Games/Puyo Puyo">
+    <rom name="Puyo Puyo (Japan) (En,Ja).gg" size="262144" sha1="8ea2e623858221c5d39eb1e0f6532a0b23b00305" crc="d173a06f" />
+  </game>
+  <game name="01 - Games/Puzzle &amp; Action - Ichidanto-R">
+    <rom name="Puzzle &amp; Action - Ichidanto-R (Japan).gg" size="524288" sha1="34f95713ae3fbd91452eb71ce1721ead153517e5" crc="9f64c2bb" />
+  </game>
+  <game name="01 - Games/Puzzle &amp; Action - Tanto-R">
+    <rom name="Puzzle &amp; Action - Tanto-R (Japan).gg" size="524288" sha1="75f54793ac09e22e0be1864ea16e68b2fb4610ff" crc="09151743" />
+  </game>
+  <game name="01 - Games/Quest for the Shaven Yak Starring Ren Hoek &amp; Stimpy">
+    <rom name="Quest for the Shaven Yak Starring Ren Hoek &amp; Stimpy (USA, Europe).gg" size="524288" sha1="83bc52f669183f99accb078a454f786b5e320e40" crc="6c451ee1" />
+  </game>
+  <game name="01 - Games/Quiz Gear Fight!!, The">
+    <rom name="Quiz Gear Fight!!, The (Japan).gg" size="524288" sha1="6ce8ff78d96a1a0e13997489d1a53b5a57a619c2" crc="736cdb76" />
+  </game>
+  <game name="01 - Games/R.B.I. Baseball '94">
+    <rom name="R.B.I. Baseball '94 (USA).gg" size="524288" sha1="21e3800ecfb6c8210cfc1213a6cbf0bb63519633" crc="6dc3295e" />
+  </game>
+  <game name="01 - Games/R.C. Grand Prix">
+    <rom name="R.C. Grand Prix (USA).sms" size="262144" sha1="c789e7f9450c8eaa08be1bf6c39e877973216431" crc="56201996" />
+  </game>
+  <game name="01 - Games/R.C. Grand Prix/~Prototypes and Betas">
+    <rom name="R.C. Grand Prix (USA) (Beta).gg" size="262144" sha1="957ed8fd68e5a8c34c3e53ccee8522a7f2de3ff7" crc="cca47191" />
+  </game>
+  <game name="01 - Games/Rastan Saga">
+    <rom name="Rastan Saga (Japan) (En).sms" size="262144" sha1="96bf8a67919218aac91fb74cde80a16f90df77d5" crc="9c76fb3a" />
+  </game>
+  <game name="01 - Games/Reversi (5 in One FunPak)">
+    <rom name="5 in One FunPak (USA).gg" size="262144" sha1="dc8f5848fede37a914dbf1c104c3efb5a804ccbd" crc="f85a8ce8" />
+  </game>
+  <game name="01 - Games/Riddick Bowe Boxing">
+    <rom name="Riddick Bowe Boxing (Japan) (En).gg" size="262144" sha1="af32ad098a1bf872d5a2cef38105704d3507ed75" crc="a45fffb7" />
+    <rom name="Riddick Bowe Boxing (USA).gg" size="262144" sha1="b8487bdb0a6167753fc6de82714793181d7718db" crc="38d8ec56" />
+  </game>
+  <game name="01 - Games/Ring Dash GG">
+    <rom name="Ring Dash GG (World) (Aftermarket) (Unl).gg" size="131072" sha1="ce851f25e70093e7c2cc6d14f95918a8d1f31360" crc="471c09b7" />
+  </game>
+  <game name="01 - Games/Rise of the Robots">
+    <rom name="Rise of the Robots (USA, Europe).gg" size="524288" sha1="9ba2f734eccf5b2ceefaa69cebdf7399bc9032d8" crc="100b77b2" />
+  </game>
+  <game name="01 - Games/Ristar">
+    <rom name="Ristar (World).gg" size="524288" sha1="d0d950097471553b6a96dc9cf0fb14ddb3a7dda2" crc="efe65b3b" />
+  </game>
+  <game name="01 - Games/Ristar/~Prototypes and Betas">
+    <rom name="Ristar (World) (Beta 1).gg" size="524288" sha1="f746e8e99f4fca811a32716d96a4e6528ec930eb" crc="a1c214bd" />
+    <rom name="Ristar (World) (Beta 2).gg" size="524288" sha1="ac6d5e7f5c3fbd828876a12e10d89274025f3924" crc="672d38d5" />
+    <rom name="Ristar (World) (Beta 3).gg" size="524288" sha1="b13c32f50e7eb7d8147b7ad1d310e89e690ba6b2" crc="a302413c" />
+    <rom name="Ristar (World) (Beta 4).gg" size="524288" sha1="e2a06327647d9ad2358e34aae069d7789bc70e65" crc="44fa6ae6" />
+    <rom name="Ristar (World) (Beta 5).gg" size="524288" sha1="cf2a646d5c4b3f717a5c2a29d193210abbf770ca" crc="302d2b4b" />
+  </game>
+  <game name="01 - Games/Road Rash">
+    <rom name="Road Rash (Europe).gg" size="524288" sha1="bf5149486c64d338e5d8e0d8397d41127e456b1b" crc="176505d4" />
+    <rom name="Road Rash (USA).gg" size="524288" sha1="2cf136b5feb786770322e1a03e7e3577a1a9eec0" crc="96045f76" />
+  </game>
+  <game name="01 - Games/Road Toad/~Prototypes and Betas">
+    <rom name="Road Toad (World) (v0.19) (Proto) (Aftermarket) (Unl).gg" size="65536" sha1="5e7982e3c808caa005b9d77889d55627690ee0ce" crc="c71e6fa1" />
+  </game>
+  <game name="01 - Games/RoboCop 3">
+    <rom name="RoboCop 3 (World).gg" size="262144" sha1="8de7c9ac95b734af9e3fbe5700ac4c6599799702" crc="069a0704" />
+  </game>
+  <game name="01 - Games/RoboCop Versus The Terminator">
+    <rom name="RoboCop Versus The Terminator (USA, Europe).gg" size="524288" sha1="13286df11fc66a8974a73a82e8478fa382fa2b43" crc="4ab7fa4e" />
+  </game>
+  <game name="01 - Games/Royal Stone - Hirakareshi Toki no Tobira">
+    <rom name="Royal Stone - Hirakareshi Toki no Tobira (Japan).gg" size="524288" sha1="c1afca3ac30cb9852f508f5dded7e50e08000f86" crc="445d7cd2" />
+  </game>
+  <game name="01 - Games/Royal Stone - Hirakareshi Toki no Tobira/~Translations/Documentation">
+    <rom name="Royal Stone (Japan) [T-En by Aeon Genesis v1.00] [n].txt" size="2621" sha1="4797a2aa06ad9af76adcba04d1c7df4ea085bebd" crc="0c36fce4" />
+  </game>
+  <game name="01 - Games/Royal Stone - Hirakareshi Toki no Tobira/~Translations">
+    <rom name="Royal Stone (Japan) [T-En by Aeon Genesis v1.00] [n].gg" size="524288" sha1="cc1aac8d0dce685fbff5bcee8236e4f5111c1052" crc="a1d0aad0" />
+  </game>
+  <game name="01 - Games/Ruptus Mini">
+    <rom name="Ruptus Mini (World) (Aftermarket) (Unl).gg" size="16384" sha1="d982c0b0d718738f1945d5bdfac709c0ddad4158" crc="591350a8" />
+  </game>
+  <game name="01 - Games/SD Gundam - Winner's History">
+    <rom name="SD Gundam - Winner's History (Japan).gg" size="524288" sha1="24e217098845ab5a0eb29e9dc6af2e86be1b0a84" crc="5e2b39b8" />
+  </game>
+  <game name="01 - Games/SD Gundam - Winner's History/~Translations/Documentation">
+    <rom name="SD Gundam - Winner's History (Japan) [T-En by Gaijin Productions v0.99] [FAQ].txt" size="4940" sha1="44404ed9dbff395a1dc5c73d4a0032d8527f2e1a" crc="10d55f8c" />
+    <rom name="SD Gundam - Winner's History (Japan) [T-En by Gaijin Productions v0.99].txt" size="1170" sha1="4a3f9f2c37fdbaae31df43a4189f98869e716016" crc="8d3ac040" />
+  </game>
+  <game name="01 - Games/SD Gundam - Winner's History/~Translations">
+    <rom name="SD Gundam - Winner's History (Japan) [T-En by Gaijin Productions v0.99].gg" size="524288" sha1="aa249d0ac354cd12d63d0335acc9a7841451a17d" crc="a791e121" />
+  </game>
+  <game name="01 - Games/Samurai Shodown">
+    <rom name="Samurai Shodown (USA).gg" size="524288" sha1="d7330f5abcadb5c199299b24c22334be0072ec80" crc="98171deb" />
+    <rom name="Samurai Spirits (Japan).gg" size="524288" sha1="2aaf7b6f9d37275995d4a62bb8a465333d8b0bf4" crc="93fd73dc" />
+  </game>
+  <game name="01 - Games/Sassou Shounen Eiyuuden - Coca-Cola Kid">
+    <rom name="Sassou Shounen Eiyuuden - Coca-Cola Kid (Japan).gg" size="524288" sha1="e0a6caba7d8433175a3b7f1dfb593f9ca2c67cd1" crc="c7598b81" />
+  </game>
+  <game name="01 - Games/Sassou Shounen Eiyuuden - Coca-Cola Kid/~Translations">
+    <rom name="Coca-Cola Kid (Japan) [T-En by Filler v1.1].gg" size="524288" sha1="2652dc65450673be1819e142d562435316434d3e" crc="c691dfc8" />
+  </game>
+  <game name="01 - Games/Sassou Shounen Eiyuuden - Coca-Cola Kid/~Translations/Documentation">
+    <rom name="Coca-Cola Kid (Japan) [T-En by Filler v1.1].txt" size="3040" sha1="0161a6483b13d22f96a8602f500523f174da8a4c" crc="534b5866" />
+  </game>
+  <game name="01 - Games/Schtroumpfs Autour du Monde, Les">
+    <rom name="Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es).gg" size="262144" sha1="33eb8c0fde81d258ceec4c74abb20c10f6953a9d" crc="3eb337df" />
+  </game>
+  <game name="01 - Games/Scratch Golf">
+    <rom name="Scratch Golf (Japan).gg" size="262144" sha1="4c1d3b5057702341b5646d0a2fe65a9bda966211" crc="ec0f2c72" />
+    <rom name="Scratch Golf (USA).gg" size="262144" sha1="263033b62101a4bca2a4311695cef8b7dfbbcc4b" crc="c10df4ce" />
+  </game>
+  <game name="01 - Games/Sega Game Pack 4 in 1">
+    <rom name="Sega Game Pack 4 in 1 (Europe).gg" size="262144" sha1="02fa5c6c6f81f5f4e1d78eced5a37617888404d3" crc="0924d2ec" />
+  </game>
+  <game name="01 - Games/Sega Game Pack 4 in 1/~Prototypes and Betas">
+    <rom name="Sega Game Pack 4 in 1 (Europe) (Beta).gg" size="262144" sha1="db7ae3bd9ae0e421b4ebf8cf45df7780678f2a48" crc="758a7123" />
+  </game>
+  <game name="01 - Games/Sensible Soccer - European Champions">
+    <rom name="Sensible Soccer - European Champions (Europe).gg" size="131072" sha1="c02830156779a27b79435ec0cbf7a03cbbfda920" crc="5b68da75" />
+  </game>
+  <game name="01 - Games/Shanghai II">
+    <rom name="Shanghai II (Japan) (En) (Rev A).gg" size="131072" sha1="82210b387344aaebae8cf03029967cd0c906beff" crc="81314249" />
+    <rom name="Shanghai II (Japan) (En).gg" size="131072" sha1="5180891ec0ae08d784dd89222d9ffd7f88a59691" crc="2ae8c75f" />
+  </game>
+  <game name="01 - Games/Shaq Fu">
+    <rom name="Shaq Fu (USA).gg" size="524288" sha1="bc9d0b0dc2b22b9530660f0a04b865492766c9d0" crc="6fcb8ab0" />
+  </game>
+  <game name="01 - Games/Shikinjou">
+    <rom name="Shikinjou (Japan) (En).gg" size="131072" sha1="bf36130b1be4bce6c6eb7b87db00d420797c3611" crc="9c5c7f53" />
+  </game>
+  <game name="01 - Games/Shining Force - The Sword of Hajya">
+    <rom name="Shining Force - The Sword of Hajya (USA).gg" size="524288" sha1="789734c4a837dffd2ad3e2c8de22cbd83836580d" crc="a6ca6fa9" />
+    <rom name="Shining Force - The Sword of Hajya (USA, Europe) (Virtual Console).gg" size="524288" sha1="0d31c7dd2ff84f1a18ac5a71203bcd511534951d" crc="1dc56beb" />
+    <rom name="Shining Force Gaiden II - Jashin no Kakusei (Japan).gg" size="524288" sha1="2dd374db661315e51e9eedebf346a5a4ded0c3be" crc="30374681" />
+  </game>
+  <game name="01 - Games/Shining Force - The Sword of Hajya/~Prototypes and Betas">
+    <rom name="Shining Force - The Sword of Hajya (USA) (Beta 1).gg" size="524288" sha1="71ed14c75915d606e00481cc2fbbaa28b6d2ba4f" crc="65e5345c" />
+    <rom name="Shining Force - The Sword of Hajya (USA) (Beta 2).gg" size="524288" sha1="bb7be9acb986a923c6c8ae41053c1b2f508885d1" crc="e97ec011" />
+    <rom name="Shining Force - The Sword of Hajya (USA) (Beta 3).gg" size="524288" sha1="900f8640af14dd6c413f20058a98da11a0fd07b1" crc="8bfc56c3" />
+    <rom name="Shining Force - The Sword of Hajya (USA) (Beta 4).gg" size="524288" sha1="a9dd1254577bff20ee33f7bce56e2c4361f911c4" crc="80dca91d" />
+  </game>
+  <game name="01 - Games/Shining Force Gaiden - Ensei, Jashin no Kuni e">
+    <rom name="Shining Force Gaiden - Ensei, Jashin no Kuni e (Japan).gg" size="524288" sha1="bea1bea94ea745691ad944eaadc8a5576057ed53" crc="4d1f4699" />
+  </game>
+  <game name="01 - Games/Shining Force Gaiden - Final Conflict">
+    <rom name="Shining Force Gaiden - Final Conflict (Japan) (Virtual Console).gg" size="524288" sha1="bfcf28a05fac271bb5777aa4c1f9af9f34d6fe54" crc="eb05c8ec" />
+    <rom name="Shining Force Gaiden - Final Conflict (Japan).gg" size="524288" sha1="0d4bc152e7ae70457fa74f593e064403cd24ab72" crc="6019fe5e" />
+  </game>
+  <game name="01 - Games/Shining Force Gaiden - Final Conflict/~Translations/Documentation">
+    <rom name="Shining Force Gaiden - Final Conflict (Japan) [T-En by Shining Force Central v070606 Final].txt" size="4370" sha1="65cb08b62638a6cbcf16f81d55ec1b38b481972c" crc="e23f9d4c" />
+  </game>
+  <game name="01 - Games/Shining Force Gaiden - Final Conflict/~Translations">
+    <rom name="Shining Force Gaiden - Final Conflict (Japan) [T-En by Shining Force Central v070606 Final].gg" size="524288" sha1="ea4873017ff8aaf75f0358e48b9e37f05730c69f" crc="1b5e482a" />
+  </game>
+  <game name="01 - Games/Shinobi II - The Silent Fury">
+    <rom name="Shinobi II - The Silent Fury (World).gg" size="262144" sha1="cd57301d16202ea02d9f97bd8b17d71772782c94" crc="6201c694" />
+  </game>
+  <game name="01 - Games/Shinobi">
+    <rom name="GG Shinobi, The (Japan) (En).gg" size="262144" sha1="c5e1c2329f94f0804140792a3e3d5be2ac0d5d0d" crc="83926bd1" />
+    <rom name="Shinobi (World) (Rev A) (Virtual Console).gg" size="262144" sha1="9ad7313da97ef00463800199ab9e4e6f39fbcb0d" crc="b62d934a" />
+    <rom name="Shinobi (World) (Rev A).gg" size="262144" sha1="2e7303f82d885cb84fa557e211954808c8ebe779" crc="30f1c984" />
+  </game>
+  <game name="01 - Games/Side Pocket">
+    <rom name="Side Pocket (USA).gg" size="262144" sha1="794775a858ff04c9da1c897b51eede4677a35c21" crc="6a603eed" />
+  </game>
+  <game name="01 - Games/Simpsons, The - Bart vs. the Space Mutants">
+    <rom name="Simpsons, The - Bart vs. the Space Mutants (USA, Europe).gg" size="262144" sha1="c8bbc1ea5b9b60ebcd15efc2dc850e0ffd20dae0" crc="c0009274" />
+  </game>
+  <game name="01 - Games/Simpsons, The - Bart vs. the World">
+    <rom name="Simpsons, The - Bart vs. the World (World).gg" size="262144" sha1="256672261c9a2d35e10eb06e990e8ebc46fb35c1" crc="da7bd5c7" />
+  </game>
+  <game name="01 - Games/Simpsons, The - Bartman Meets Radioactive Man">
+    <rom name="Simpsons, The - Bartman Meets Radioactive Man (USA).gg" size="262144" sha1="9dd99ca1b28dbb16f5f118e2729613d1452aba73" crc="ffa447a9" />
+  </game>
+  <game name="01 - Games/Slider">
+    <rom name="Skweek (Japan).gg" size="131072" sha1="0788c35636abba46beb01acebfd1697cdb54161c" crc="3d9c92c7" />
+    <rom name="Slider (USA, Europe).gg" size="131072" sha1="ab37b26ca62339720d1cefcb152a0aca545359aa" crc="4dc6f555" />
+  </game>
+  <game name="01 - Games/Smurfs, The">
+    <rom name="Smurfs, The (Europe) (En,Fr,De,Es).gg" size="262144" sha1="faa80f644ece06b10b8e5ad035cbf518f80d609b" crc="354e1cbd" />
+  </game>
+  <game name="01 - Games/Snake GBGG">
+    <rom name="Snake GBGG (World) (Aftermarket) (Unl).gg" size="32768" sha1="2e752bbd913365bb2bbbe45e8424a4bc5460ce40" crc="d252dc65" />
+  </game>
+  <game name="01 - Games/Snepzhen Solitaire">
+    <rom name="Snepzhen Solitaire (World) (Aftermarket) (Unl).gg" size="32768" sha1="891811a7b86222b01f9a43664db8186e2f8001b8" crc="fd06798c" />
+  </game>
+  <game name="01 - Games/Solitaire FunPak">
+    <rom name="Solitaire FunPak (USA).gg" size="262144" sha1="f1d31d734f3ef590b0aefd1b89a455e9040d102e" crc="f6f24b75" />
+  </game>
+  <game name="01 - Games/Solitaire Poker">
+    <rom name="Ryuukyuu (Japan).gg" size="131072" sha1="ffaa1c97c64aec30176254f1ef655c06c63e1b53" crc="95efd52b" />
+    <rom name="Solitaire Poker (USA, Europe).gg" size="131072" sha1="7478a2f641fa371999f2c9f0a1efd9917615be5f" crc="06f2fc46" />
+  </game>
+  <game name="01 - Games/Sonic Blast">
+    <rom name="Sonic Blast (World).gg" size="1048576" sha1="11241be4082f6f9d057488ae75ccdd482f623f8c" crc="031b9da9" />
+  </game>
+  <game name="01 - Games/Sonic Blast/~Prototypes and Betas">
+    <rom name="Sonic Blast (World) (Beta 1).gg" size="524288" sha1="5d9fa949aeddfc4251d7b8a58cb1122f190ecd36" crc="c09ef45b" />
+    <rom name="Sonic Blast (World) (Beta 2).gg" size="1048576" sha1="e7bb20410c7ab341a3f7df7fcfee3a6996823655" crc="362b186d" />
+    <rom name="Sonic Blast (World) (Beta 3).gg" size="1048576" sha1="12a8a59da110b914acde68112db691df9595d4e8" crc="19dad067" />
+    <rom name="Sonic Blast (World) (Beta 4).gg" size="1048576" sha1="da497ae41be3fccc97eb18bd6349917e645c5179" crc="5eecb549" />
+    <rom name="Sonic Blast (World) (Beta 5).gg" size="1048576" sha1="f1a1edee0eb15faf74dd6896753f0f6abcf12a45" crc="e6847ac0" />
+    <rom name="Sonic Blast (World) (Beta 6).gg" size="1048576" sha1="8aa965b342466cc3ac4093bba61abf7d68b5ec86" crc="2f22a352" />
+  </game>
+  <game name="01 - Games/Sonic Chaos">
+    <rom name="Sonic &amp; Tails (Japan) (En).gg" size="524288" sha1="e70228cbde1b54f1520804c6e3c28b4130a68c84" crc="8ac0dade" />
+    <rom name="Sonic Chaos (USA, Europe, Brazil) (En).gg" size="524288" sha1="5b5b7d9cd8adf0f8e1ee15fd4557828f91dfdca1" crc="663f2abb" />
+  </game>
+  <game name="01 - Games/Sonic Chaos/~Prototypes and Betas">
+    <rom name="Sonic &amp; Tails (Japan) (En) (Sample).gg" size="524288" sha1="cb09f304f3da4bb23fe70abec4b94b4826c41111" crc="e0e3fb6a" />
+    <rom name="Sonic Chaos (USA, Europe, Brazil) (En) (Beta).gg" size="524288" sha1="77294880735369d09f2688784d85cdf3e80fa8a3" crc="f95bbd91" />
+  </game>
+  <game name="01 - Games/Sonic Drift 2">
+    <rom name="Sonic Drift 2 (World).gg" size="524288" sha1="fe597c5cfbbc31e54f2484eb5b33c21c66cf0290" crc="d6e8a305" />
+  </game>
+  <game name="01 - Games/Sonic Drift">
+    <rom name="Sonic Drift (Japan) (En).gg" size="524288" sha1="fef5d69093df2d774ed274a4079790f8778577fc" crc="68f0a776" />
+  </game>
+  <game name="01 - Games/Sonic Labyrinth">
+    <rom name="Sonic Labyrinth (World) (Virtual Console).gg" size="524288" sha1="77b7a4972725c605346cb441ad0b532bff21065d" crc="b531a09e" />
+    <rom name="Sonic Labyrinth (World).gg" size="524288" sha1="e24bf33d8d5a79f371485f20f207b6b26f5b341e" crc="5550173b" />
+  </game>
+  <game name="01 - Games/Sonic Spinball">
+    <rom name="Sonic Spinball (USA, Europe, Brazil) (En).gg" size="524288" sha1="df21d42b55b1b4a25704957fe323728b775eb84d" crc="a9210434" />
+  </game>
+  <game name="01 - Games/Sonic Spinball/~Prototypes and Betas">
+    <rom name="Sonic Spinball (USA, Europe, Brazil) (En) (Beta 1).gg" size="524288" sha1="1b6f1469d0e707aab3eba3c6748f350a30eb530f" crc="3283580d" />
+    <rom name="Sonic Spinball (USA, Europe, Brazil) (En) (Beta 10).gg" size="524288" sha1="a4c3d6b3601d321003aad3b759487bddb4cd64b3" crc="1f1abf2c" />
+    <rom name="Sonic Spinball (USA, Europe, Brazil) (En) (Beta 11).gg" size="524288" sha1="e59e3d9b0a8d9adb13a32cfdbe027ade81c8ded1" crc="e3b5cd1e" />
+    <rom name="Sonic Spinball (USA, Europe, Brazil) (En) (Beta 12).gg" size="524288" sha1="f0abf46487acc6a2a93b3e7e93dbe9f651ccbd41" crc="bbaecf7c" />
+    <rom name="Sonic Spinball (USA, Europe, Brazil) (En) (Beta 13).gg" size="376832" sha1="2be84549aeecf580ef25290b7255270ede38b830" crc="07d32244" />
+    <rom name="Sonic Spinball (USA, Europe, Brazil) (En) (Beta 14).gg" size="524288" sha1="35954b7e65e663fba3066046e971316d5e573158" crc="30a7d062" />
+    <rom name="Sonic Spinball (USA, Europe, Brazil) (En) (Beta 15).gg" size="524288" sha1="ab9ac3b4ebecd02c8f3b0d29b921a3d8bcf96458" crc="221c4ba4" />
+    <rom name="Sonic Spinball (USA, Europe, Brazil) (En) (Beta 16).gg" size="524288" sha1="7577eef2ac9823a539d6af1c2673d1702d29695f" crc="e2fe976a" />
+    <rom name="Sonic Spinball (USA, Europe, Brazil) (En) (Beta 17).gg" size="524288" sha1="975232a729179c1db5307c072593cdbf83e233d6" crc="be76bf30" />
+    <rom name="Sonic Spinball (USA, Europe, Brazil) (En) (Beta 18).gg" size="524288" sha1="36cd00138f78bf31ee6098d1f5b0b2e870ab5637" crc="a4833d27" />
+    <rom name="Sonic Spinball (USA, Europe, Brazil) (En) (Beta 19).gg" size="524288" sha1="cf9afbc274afcd28931bb1298c53bfdf6e04a9b6" crc="a035fd5c" />
+    <rom name="Sonic Spinball (USA, Europe, Brazil) (En) (Beta 2).gg" size="524288" sha1="81dc53c9103fab356014e7e45082fc562cdd59ec" crc="1a736612" />
+    <rom name="Sonic Spinball (USA, Europe, Brazil) (En) (Beta 20).gg" size="524288" sha1="8c16865212ad284a0929869a95980bcdf3d9ba81" crc="6107819d" />
+    <rom name="Sonic Spinball (USA, Europe, Brazil) (En) (Beta 3).gg" size="524288" sha1="cec96b3372a4ecb39ac7bd51829d4f641ff8d198" crc="1aed8f62" />
+    <rom name="Sonic Spinball (USA, Europe, Brazil) (En) (Beta 4).gg" size="524288" sha1="6b08dd5e60e957739cd7c8dea5f9fcb2bf82009c" crc="46657b4e" />
+    <rom name="Sonic Spinball (USA, Europe, Brazil) (En) (Beta 5).gg" size="524288" sha1="41260c00f83592c6c21800750bd25359f8cce911" crc="1233c3e3" />
+    <rom name="Sonic Spinball (USA, Europe, Brazil) (En) (Beta 6).gg" size="524288" sha1="f3a3b701f7700459b0a4175e6b8c24ab68518f40" crc="aa7aedb0" />
+    <rom name="Sonic Spinball (USA, Europe, Brazil) (En) (Beta 7).gg" size="524288" sha1="a066324f8d781ea218ea61689eea6d6254bf9aab" crc="2ca34ab2" />
+    <rom name="Sonic Spinball (USA, Europe, Brazil) (En) (Beta 8).gg" size="524288" sha1="35ed35fda5fc8d5f1ac1068157c176bb216769e4" crc="09b913d5" />
+    <rom name="Sonic Spinball (USA, Europe, Brazil) (En) (Beta 9).gg" size="524288" sha1="3fd285036f794574b7310ca093a6d5d5bc244bc7" crc="f8a432f6" />
+  </game>
+  <game name="01 - Games/Sonic The Hedgehog - Triple Trouble">
+    <rom name="Sonic &amp; Tails 2 (Japan) (En).gg" size="524288" sha1="bb14ed43cf815e82f55e79753d0a7c8a24e24e7f" crc="496bce64" />
+    <rom name="Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil) (En).gg" size="524288" sha1="4965af7ffe60382ffa805710b7c8006419cc4ac4" crc="d23a2a93" />
+  </game>
+  <game name="01 - Games/Sonic The Hedgehog - Triple Trouble/~Prototypes and Betas">
+    <rom name="Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil) (En) (Beta) (1994-08-08).gg" size="524288" sha1="02257fece665d04d3c88b5f5589773d5a8433953" crc="80eb7cfb" />
+  </game>
+  <game name="01 - Games/Sonic The Hedgehog 2">
+    <rom name="Sonic The Hedgehog 2 (World) (Virtual Console).gg" size="524288" sha1="ba720d925fbed0d68e1d35f61c6f4fec47708718" crc="850727a0" />
+    <rom name="Sonic The Hedgehog 2 (World).gg" size="524288" sha1="dabb452e416b4fa9cb83d8ddd307c2a32c3a1a7f" crc="95a18ec7" />
+  </game>
+  <game name="01 - Games/Sonic The Hedgehog">
+    <rom name="Sonic The Hedgehog (Japan, USA) (En).gg" size="262144" sha1="8923295c96b2e05da0a83a827fd709b033fc7332" crc="3e31cb8c" />
+    <rom name="Sonic The Hedgehog (World) (Rev A) (Virtual Console).gg" size="262144" sha1="da410b0f00cd0b3a70c3e18c83d0d71609d8ea43" crc="c2572208" />
+    <rom name="Sonic The Hedgehog (World) (Rev A).gg" size="262144" sha1="7dbbbca2229e74fcb8f90ec794aa6e5cb168e489" crc="d163356e" />
+  </game>
+  <game name="01 - Games/Sonic The Hedgehog/~Prototypes and Betas">
+    <rom name="Sonic The Hedgehog (Japan, USA) (En) (Beta).gg" size="262144" sha1="7ff6810e4ac03e04584243995c3fd54b77896c23" crc="816c0a1e" />
+  </game>
+  <game name="01 - Games/Soukoban">
+    <rom name="Soukoban (Japan) (En).gg" size="131072" sha1="e5865a22dc3a9714160ef14bc59d510502d39b97" crc="0f3e3840" />
+  </game>
+  <game name="01 - Games/Space Harrier">
+    <rom name="Space Harrier (World).gg" size="131072" sha1="d00b8ff195d4423f2a344490eb34156017f4ee64" crc="600c15b3" />
+  </game>
+  <game name="01 - Games/Space Tonbow">
+    <rom name="Space Tonbow (World) (Aftermarket) (Unl).gg" size="131072" sha1="a5ea6e43a6d6a6ad8c6614f8f17ecfeebd8644b9" crc="bfebebc8" />
+  </game>
+  <game name="01 - Games/Spider-Man - Return of the Sinister Six">
+    <rom name="Spider-Man - Return of the Sinister Six (USA, Europe).gg" size="262144" sha1="37e2b3fd35138e9e939d5152d86e307f7ac06f7e" crc="bc240779" />
+  </game>
+  <game name="01 - Games/Spider-Man - X-Men - Arcade's Revenge">
+    <rom name="Spider-Man - X-Men - Arcade's Revenge (USA).gg" size="524288" sha1="4006a23571f194e1fcb3563557decd5d11e7b5c2" crc="742a372b" />
+    <rom name="Spider-Man - X-Men - Arcade's Revenge (World) (Marvel MaXimum Collection).gg" size="524288" sha1="08c5062d34d91007ce6860938e78bd5f61809202" crc="7ca0fb6b" />
+  </game>
+  <game name="01 - Games/Spider-Man">
+    <rom name="Spider-Man (USA, Europe).gg" size="262144" sha1="46b064b4b5a6444ce0e64e16a7e5cec2087fb4d3" crc="2651024e" />
+  </game>
+  <game name="01 - Games/Spirou/~Prototypes and Betas">
+    <rom name="Spirou (Europe) (Proto).gg" size="524288" sha1="40359adbe9950b8e5e46158f519ad782757f0884" crc="ab622adc" />
+  </game>
+  <game name="01 - Games/Sports Illustrated - Championship Football &amp; Baseball">
+    <rom name="Sports Illustrated - Championship Football &amp; Baseball (USA).gg" size="524288" sha1="c74a38e73facd557264a299e8799df480ad6d06f" crc="920ea193" />
+  </game>
+  <game name="01 - Games/Sports Trivia - Championship Edition">
+    <rom name="Sports Trivia - Championship Edition (USA).gg" size="262144" sha1="03b4e8d8afc14d8df113043c3d53130df6eb769e" crc="15e7e261" />
+  </game>
+  <game name="01 - Games/Sports Trivia - Championship Edition/~Prototypes and Betas">
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta 1).gg" size="262144" sha1="58c08b83df499755a47dc8407807bd2f93a58583" crc="a8d1ac51" />
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta 10).gg" size="262144" sha1="b7ba8f1c6ec2958da3a040ab56f9915f13723a70" crc="511b1d24" />
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta 11).gg" size="262144" sha1="3ae00363f54b73c47d6e6125e3a7d3741f33fccf" crc="517bd817" />
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta 12).gg" size="262144" sha1="cfcb94207728f781602ff8375cda3c2de25b7eed" crc="e80459b3" />
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta 13).gg" size="262144" sha1="50cce09ee3c077feaf7ad9df1e2a9f4fde0e7691" crc="05047357" />
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta 14).gg" size="262144" sha1="3410bafb1757988f1cb270745dfa9ac22212539b" crc="e906fbd8" />
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta 15).gg" size="262144" sha1="0ac64a9077ddcb53d2d35748f13b9d462f27ab51" crc="f3f9a87b" />
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta 16).gg" size="262144" sha1="d462337a78f85882e7ebcb95e129ab18e75e44a4" crc="302b9b36" />
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta 17).gg" size="262144" sha1="8fc968be19d8da9335bf3a6dac97657058ef5a78" crc="3e3d6728" />
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta 18).gg" size="262144" sha1="dbab3669da5a204ce78af3fc5a1749a08c39262e" crc="c68762e6" />
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta 19).gg" size="262144" sha1="463dbaafd144c430f3b62dbb53578f26441bfdb8" crc="d61a366f" />
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta 2).gg" size="262144" sha1="61e215dd6ac4a9ab334210a9d87876222a717e12" crc="caf87d8b" />
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta 20).gg" size="262144" sha1="a57c18adfa86e86b3e43f605617205a219aafdfb" crc="93b98f19" />
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta 21).gg" size="262144" sha1="48ff2e462d0b17022c8085133447dd7eedac898b" crc="818ec54c" />
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta 22).gg" size="262144" sha1="c857bef7eed535d1f827ad439df112b3b0c05cf8" crc="f88a55f4" />
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta 23).gg" size="262144" sha1="aa61ae6b979d30757b1192118796878e3e1c082f" crc="cab74070" />
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta 24).gg" size="262144" sha1="34986c53709ef347a8ec620dbe7b35fef8ff3ef0" crc="961ae378" />
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta 25).gg" size="262144" sha1="e4938d6b435fce12b4b73591447422342b919e9f" crc="352e8b8c" />
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta 26).gg" size="262144" sha1="203f4ebd0ca75bbeeb3723372500336415f59da4" crc="8bdb184d" />
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta 27).gg" size="262144" sha1="5ced41cadede9959775f1d6cf229a19c0d739c88" crc="1e360a20" />
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta 28).gg" size="262144" sha1="f2542d122570fad8d2f91aae8ef074e58487ede0" crc="5b5de94d" />
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta 29).gg" size="262144" sha1="23a9d5dee62d64eed1de6e35ac75cbe5786a0c06" crc="26470d2b" />
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta 3).gg" size="262144" sha1="5b5034d5689bb116ca602ea30a696af60444ced8" crc="43bb6b10" />
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta 4).gg" size="262144" sha1="70e71c0581019c89bd2c38ee45b05bff84fc3eb0" crc="a3e57816" />
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta 5).gg" size="262144" sha1="693cc753fc94eb5d79fb0bf0e4cb484dd1fb57f3" crc="e7aff566" />
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta 6).gg" size="262144" sha1="400a91d37ad6eaf54d2b4057d562876507ea715e" crc="18cf6145" />
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta 7).gg" size="262144" sha1="7a9dfd2ca7ecba07ef141ad9f2428052b441e200" crc="9a8ad5ca" />
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta 8).gg" size="262144" sha1="227f12188ceaa0577cd6604804d1228e342c67a2" crc="acb7e580" />
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta 9).gg" size="262144" sha1="5ad1ed30fcc414b237c6a9057e3f43913c3ebf23" crc="27816c09" />
+  </game>
+  <game name="01 - Games/Sports Trivia">
+    <rom name="Sports Trivia (USA).gg" size="131072" sha1="7787c8f0178829fc2ce25930ad91f0b712fa3625" crc="a7af7ca9" />
+  </game>
+  <game name="01 - Games/Sports Trivia/~Prototypes and Betas">
+    <rom name="Sports Trivia (USA) (Beta 1).gg" size="131072" sha1="d3503a568182f1f286203c2e2a5516f74684f4f3" crc="c38d41c3" />
+    <rom name="Sports Trivia (USA) (Beta 2).gg" size="131072" sha1="c977c038df47192996e05c9db130bf2c82a129ff" crc="34407fe9" />
+    <rom name="Sports Trivia (USA) (Beta 3).gg" size="131072" sha1="151a9d25a29a41d00d20d9d6a93620682464e037" crc="464f1b51" />
+    <rom name="Sports Trivia (USA) (Beta 4).gg" size="131072" sha1="8e42323155c0e0f0cd050e66f89f821cb884f7a1" crc="895af58a" />
+    <rom name="Sports Trivia (USA) (Beta 5).gg" size="131072" sha1="90834a82aa40f69abf57d34d1910d829d8632af0" crc="7524957c" />
+    <rom name="Sports Trivia (USA) (Beta 6).gg" size="131072" sha1="36d665e221ecf7c0d5f3af1edc83c9e56f3256af" crc="7898919f" />
+    <rom name="Sports Trivia (USA) (Beta 7).gg" size="131072" sha1="7c17382789e6648019e99fb8feca84535f50ae4f" crc="bba4cf7b" />
+  </game>
+  <game name="01 - Games/Star Trek - The Next Generation - The Advanced Holodeck Tutorial">
+    <rom name="Star Trek - The Next Generation - The Advanced Holodeck Tutorial (USA).gg" size="262144" sha1="a508ff0ea93390e42e2440ed4aca531047281c23" crc="80156323" />
+  </game>
+  <game name="01 - Games/Star Trek Generations - Beyond the Nexus">
+    <rom name="Star Trek Generations - Beyond the Nexus (USA).gg" size="262144" sha1="307e4956fd0d50f3732215574957b040937bbfca" crc="087fc5f0" />
+  </game>
+  <game name="01 - Games/Star Wars">
+    <rom name="Star Wars (USA, Europe) (Rev 1).gg" size="524288" sha1="682df750f372134734d8668f08b9a5acbb4f2cfd" crc="db9bc599" />
+    <rom name="Star Wars (USA, Europe).gg" size="524288" sha1="48c14c0c2b4e38ac122d9ccdcdc8b194e15ef032" crc="0228769c" />
+  </game>
+  <game name="01 - Games/Stargate">
+    <rom name="Stargate (World).gg" size="262144" sha1="011fd49600eaef8be7cbe35ab6eeb4e1554d836c" crc="fc7c64e4" />
+  </game>
+  <game name="01 - Games/Stinger">
+    <rom name="Stinger (World) (Aftermarket) (Unl).gg" size="32768" sha1="1525b653c941e0775d6e51b01b05ef663f2e5777" crc="4eb39bba" />
+  </game>
+  <game name="01 - Games/Street Hero/~Prototypes and Betas">
+    <rom name="Street Hero (USA) (Proto 1).sms" size="524288" sha1="94f1113a6b19b7fa080114c65e8d0bd67f9117d7" crc="9fa727a0" />
+    <rom name="Street Hero (USA) (Proto 2).sms" size="524288" sha1="7218b455819dd965ffcb720ad11458270bd7f3c6" crc="fb481971" />
+  </game>
+  <game name="01 - Games/Streets of Rage 2">
+    <rom name="Streets of Rage 2 (World).gg" size="524288" sha1="2804b355347bda6e2903078ba30ed6b3a289ebba" crc="0b618409" />
+  </game>
+  <game name="01 - Games/Streets of Rage 2/~Prototypes and Betas">
+    <rom name="Streets of Rage 2 (World) (Beta).gg" size="524288" sha1="15589214eb8570c9b2bf2ede14803d08c77c29f8" crc="6c395a69" />
+  </game>
+  <game name="01 - Games/Streets of Rage">
+    <rom name="Streets of Rage (World).gg" size="262144" sha1="ca8c8a00ee838e994b2fa17e595ddd40d898cf42" crc="3d8bcf1d" />
+  </game>
+  <game name="01 - Games/Striker">
+    <rom name="Striker (Europe) (En,Fr,De,Es,It).gg" size="524288" sha1="dc51ed36b12d1a943bcf79d9ab246505a190f795" crc="b421c057" />
+  </game>
+  <game name="01 - Games/Super Battletank">
+    <rom name="Super Battletank (USA).gg" size="262144" sha1="f827545cccd5360552e839a377c1b886e6c80176" crc="73d6745a" />
+  </game>
+  <game name="01 - Games/Super Columns">
+    <rom name="Super Columns (Japan).gg" size="131072" sha1="a1de915b0f10894bedc6ee8f0fd1f2da65bcfa68" crc="2a100717" />
+    <rom name="Super Columns (USA, Europe).gg" size="131072" sha1="ce59845e973b7fb7b3b2121b35a95fba5727df62" crc="8ba43af3" />
+  </game>
+  <game name="01 - Games/Super Columns/~Prototypes and Betas">
+    <rom name="Super Columns (USA, Europe) (Beta 1).gg" size="131072" sha1="e5b23a687c9dd285970f4783369e36c7a96d19fa" crc="f28f89d1" />
+    <rom name="Super Columns (USA, Europe) (Beta 2).gg" size="131072" sha1="29dac0da809c8a74c6610e4dde300efaddaca29a" crc="56cf1d4f" />
+    <rom name="Super Columns (USA, Europe) (Beta 3).gg" size="131072" sha1="3edad6d335d5f6ec3dc403fd642cd6a71e3c053d" crc="abe92434" />
+    <rom name="Super Columns (USA, Europe) (Beta 4).gg" size="131072" sha1="b7cabe08f0e0850b055fd0e694e175e8f1c47e4d" crc="81451fc0" />
+    <rom name="Super Columns (USA, Europe) (Beta 5).gg" size="131072" sha1="d3050de383e772bb068d4c722bbe91ff05172d45" crc="5c4c633d" />
+    <rom name="Super Columns (USA, Europe) (Beta 6).gg" size="131072" sha1="b2bc04e1f7a00ec5431774db0b47da53db57d3a3" crc="3d931952" />
+    <rom name="Super Columns (USA, Europe) (Beta 7).gg" size="131072" sha1="fed437cf7d22c685fef7b2e55579cd77bb48e232" crc="096f4ff5" />
+  </game>
+  <game name="01 - Games/Super Golf">
+    <rom name="Super Golf (Japan) (En).gg" size="131072" sha1="9ecb48513621086ec6d5bffa1375914f21f393e4" crc="528cbbce" />
+    <rom name="Super Golf (USA).gg" size="131072" sha1="ed9b5e1264b4ed6d8969ba1c4e3f2d9446c3c9ca" crc="e9570f36" />
+  </game>
+  <game name="01 - Games/Super Kick Off">
+    <rom name="Super Kick Off (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).sms" size="262144" sha1="cb4a08b89cc24154328309cab54bfd9d83e4754f" crc="10dbbef4" />
+  </game>
+  <game name="01 - Games/Super Momotarou Dentetsu III">
+    <rom name="Super Momotarou Dentetsu III (Japan).gg" size="524288" sha1="f62e0e433987f97143282d2526490cd45f3e7185" crc="b731bb80" />
+  </game>
+  <game name="01 - Games/Super Monaco GP">
+    <rom name="Super Monaco GP (Japan, Korea) (En).gg" size="131072" sha1="2a61491785ad56f5bdc504c994f36ee8ea9dcf68" crc="4f686c4a" />
+    <rom name="Super Monaco GP (USA, Europe, Brazil) (En).gg" size="131072" sha1="d834e43d7ec6dbadf2e367afd45b7e1e4362035b" crc="fcf12547" />
+  </game>
+  <game name="01 - Games/Super Off Road">
+    <rom name="Super Off Road (USA, Europe).gg" size="131072" sha1="c5ee89f785c44784867c3b33fd6466fc72e9042c" crc="e8b42b1f" />
+  </game>
+  <game name="01 - Games/Super Off Road/~Prototypes and Betas">
+    <rom name="Super Off Road (USA, Europe) (Beta).gg" size="131072" sha1="5703edeffd93ef20f8ab88ea5160c7ffb41c7a47" crc="a1160814" />
+  </game>
+  <game name="01 - Games/Super Princess' 2092 - Exodus">
+    <rom name="Super Princess' 2092 - Exodus (World) (Aftermarket) (Unl).gg" size="131072" sha1="71c39f0125819cfbb71e15112e354b6e21d400a2" crc="3429d807" />
+    <rom name="Super Princess' 2092 - Exodus (World) (v1.1) (Aftermarket) (Unl).gg" size="131072" sha1="0672ac93ecbd2304b05f4d08e7cbcc9f4adffbd3" crc="273218ca" />
+  </game>
+  <game name="01 - Games/Super Smash T.V">
+    <rom name="Super Smash T.V. (World).gg" size="262144" sha1="85189e29f3f6b94f95723bc75571e9424df119f9" crc="1006e4e3" />
+  </game>
+  <game name="01 - Games/Super Space Invaders">
+    <rom name="Super Space Invaders (USA, Europe).gg" size="262144" sha1="3864c399f76e67ae4ff40d32a60c36ad16578988" crc="dfe38e24" />
+  </game>
+  <game name="01 - Games/Super Star Wars - Return of the Jedi">
+    <rom name="Super Star Wars - Return of the Jedi (USA, Europe).gg" size="524288" sha1="a37858100903ad1e0224c870fe12419c25df90e0" crc="4a38b6b6" />
+  </game>
+  <game name="01 - Games/Superman - The Man of Steel">
+    <rom name="Superman - The Man of Steel (Europe).gg" size="262144" sha1="8e0d837cf285d8669d30ef1328453949cea70a6a" crc="73df5a15" />
+  </game>
+  <game name="01 - Games/Superman - The Man of Steel/~Prototypes and Betas">
+    <rom name="Superman - The Man of Steel (Europe) (Beta).gg" size="262144" sha1="e5eb3687937f453e67c912e429894fe2196fb419" crc="aa3f2172" />
+  </game>
+  <game name="01 - Games/Surf Ninjas">
+    <rom name="Surf Ninjas (USA, Europe, Brazil) (En).gg" size="524288" sha1="23e493f7c19ffb17e67392289c5a72dc9d0d6d9e" crc="284482a8" />
+  </game>
+  <game name="01 - Games/Sushi Nights">
+    <rom name="Sushi Nights (World) (Aftermarket) (Unl).gg" size="131072" sha1="cd291a2dafa8baa2a277bcf77fd259cee0a27f3c" crc="f2984436" />
+    <rom name="Sushi Nights (World) (v1.01) (Aftermarket) (Unl).gg" size="131072" sha1="0205508c951c389b8dc306237be12767b468453e" crc="bdc4c3c9" />
+    <rom name="Sushi Nights (World) (v1.04) (Aftermarket) (Unl).gg" size="131072" sha1="06f1eb442611a850f57289acf513bbc94b1a00d2" crc="934523bb" />
+  </game>
+  <game name="01 - Games/Svellas Micro">
+    <rom name="Svellas Micro (World) (Aftermarket) (Unl).gg" size="16384" sha1="3e5595f99105cdb68c0131fe19473abd8895cf3a" crc="d0a447dd" />
+  </game>
+  <game name="01 - Games/Swabby">
+    <rom name="Swabby (World) (v1.11) (Aftermarket) (Unl).gg" size="131072" sha1="64f7350ca2c37c44b679e35f9bfd2766c7259cb9" crc="b814ad3d" />
+  </game>
+  <game name="01 - Games/Sylvan Tale">
+    <rom name="Sylvan Tale (Japan).gg" size="524288" sha1="bec44ab675bcd6b081590d4d52b6af4076c342e6" crc="45ef2062" />
+  </game>
+  <game name="01 - Games/Sylvan Tale/~Translations/Documentation">
+    <rom name="Sylvan Tale (Japan) [T-En by Aeon Genesis v1.01].txt" size="2840" sha1="55d995e75b53613bf12b178fdd9beead1b518c9b" crc="debd666b" />
+  </game>
+  <game name="01 - Games/Sylvan Tale/~Translations">
+    <rom name="Sylvan Tale (Japan) [T-En by Aeon Genesis v1.01] [Slab Shrine Music].gg" size="524288" sha1="c522389f6e4bbd2c4ee4c11d1e075ffe7562ca67" crc="963be52c" />
+    <rom name="Sylvan Tale (Japan) [T-En by Aeon Genesis v1.01].gg" size="524288" sha1="d16d19535078f5af302e143e9ec3990cd1185ad0" crc="016e83e0" />
+  </game>
+  <game name="01 - Games/T2 - The Arcade Game">
+    <rom name="T2 - The Arcade Game (Japan) (En).gg" size="524288" sha1="a56fc1154709cae443efeed6e6310cc059396605" crc="0b1ba87f" />
+    <rom name="T2 - The Arcade Game (USA, Europe).gg" size="524288" sha1="12b6f5542b6cebfe872096eab2a885d297eefa2f" crc="9479c83a" />
+  </game>
+  <game name="01 - Games/Tails Adventure">
+    <rom name="Tails Adventure (World) (En,Ja) (Virtual Console).gg" size="524288" sha1="8a3c327b328def981779ce436df7857578c01883" crc="a354ea49" />
+    <rom name="Tails Adventure (World) (En,Ja).gg" size="524288" sha1="da3df145b8e9f2a2e680d2c92939084d4530ed90" crc="5bb6e5d6" />
+  </game>
+  <game name="01 - Games/Tails' Skypatrol">
+    <rom name="Tails' Skypatrol (Japan) (En).gg" size="262144" sha1="9cb440611e9e3a7957438698fede0978d568a807" crc="88618afa" />
+  </game>
+  <game name="01 - Games/Taisen Mahjong HaoPai 2">
+    <rom name="Taisen Mahjong HaoPai 2 (Japan).gg" size="524288" sha1="8dfd49a2e740a232efc52ceefc85f51cf292d75e" crc="20527530" />
+  </game>
+  <game name="01 - Games/Taisen Mahjong HaoPai">
+    <rom name="Taisen Mahjong HaoPai (Japan).gg" size="131072" sha1="9cd50acaab1c2452e5a231e1a5646c3c38b50d9c" crc="cf9c607c" />
+  </game>
+  <game name="01 - Games/Taisen-gata Daisenryaku G">
+    <rom name="Taisen-gata Daisenryaku G (Japan).gg" size="262144" sha1="d290bba12f4b7341c3ce2a00be8b8d7e548327e1" crc="7b7717b8" />
+  </game>
+  <game name="01 - Games/TaleSpin">
+    <rom name="TaleSpin (USA, Europe, Brazil) (En).gg" size="262144" sha1="60e5c27a07a69969ea1ba830cc82df33a5fbf227" crc="f1732ffe" />
+  </game>
+  <game name="01 - Games/Tama &amp; Friends - 3 Choume Kouen Tamalympic">
+    <rom name="Tama &amp; Friends - 3 Choume Kouen Tamalympic (Japan).gg" size="262144" sha1="c8bf11726a152a88f2b1d900bbd974775a8e608b" crc="dd1d2ebf" />
+  </game>
+  <game name="01 - Games/Tarzan - Lord of the Jungle">
+    <rom name="Tarzan - Lord of the Jungle (Europe).gg" size="262144" sha1="a787db71f221c71a89f39c6c3a153c43d6d5555a" crc="ef3afe8b" />
+  </game>
+  <game name="01 - Games/Tatakae! Pro Yakyuu Twin League">
+    <rom name="Tatakae! Pro Yakyuu Twin League (Japan).gg" size="524288" sha1="8c629941ae7077862dd516283c656b5212920936" crc="bec57602" />
+  </game>
+  <game name="01 - Games/Taz in Escape from Mars">
+    <rom name="Taz in Escape from Mars (USA, Europe, Brazil) (En).gg" size="524288" sha1="1d19306b7dbcb37fd1ab62021b5054efd2d04889" crc="eebad66b" />
+  </game>
+  <game name="01 - Games/Taz in Escape from Mars/~Prototypes and Betas">
+    <rom name="Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta 1).gg" size="262144" sha1="47b98ee8dfe407bac65fd02257e99221feb088fc" crc="030f396a" />
+    <rom name="Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta 10).gg" size="524288" sha1="02b726d8c0da2f51076ad95ddc750d423636a807" crc="d84a631c" />
+    <rom name="Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta 11).gg" size="524288" sha1="b383c0e67e47bb1b6f2402948408da1d5418c354" crc="61330a58" />
+    <rom name="Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta 12).gg" size="524288" sha1="5fb66139767319777153faddbdfdb1168f898546" crc="1f040bca" />
+    <rom name="Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta 13).gg" size="524288" sha1="c3cbe41444dadd60a0f79af213a50eab552f083f" crc="c867da05" />
+    <rom name="Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta 14).gg" size="524288" sha1="3d0da9536c47ecad367a83a6645172cee46b2ca8" crc="faf4bec0" />
+    <rom name="Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta 2).gg" size="524288" sha1="ed5a66c278fc429fd4ddb993c4a7bdf2d2400a3a" crc="92388016" />
+    <rom name="Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta 3).gg" size="524288" sha1="8800da06ea2aa3982cf2e294b165f5e1a9cab63c" crc="9267d968" />
+    <rom name="Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta 4).gg" size="524288" sha1="d32127a67f988062407d92bb1dfdf3ce38210e31" crc="57747640" />
+    <rom name="Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta 5).gg" size="524288" sha1="6482e281447b586c533a45527db52bd5c333ebdd" crc="a43fdfad" />
+    <rom name="Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta 6).gg" size="524288" sha1="9cc498d9975fa2633a4ec98581768856884163a8" crc="6cd0fd78" />
+    <rom name="Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta 7).gg" size="524288" sha1="b1b5f7b06001f38e0533bc489b5c7f8b9caf6a5b" crc="3c03919d" />
+    <rom name="Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta 8).gg" size="524288" sha1="20c0398e036f733734d2d38e8d2e3e57a1086106" crc="09679b89" />
+    <rom name="Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta 9).gg" size="524288" sha1="afca21f4f5337540343b6c74f36d6b2d0c9ca6c9" crc="18913d93" />
+  </game>
+  <game name="01 - Games/Taz-Mania">
+    <rom name="Taz-Mania (USA, Europe, Brazil) (En).gg" size="262144" sha1="0d0285bc5350146f365dae1f271ed0828971cf4d" crc="36040c24" />
+  </game>
+  <game name="01 - Games/Tempo Jr">
+    <rom name="Tempo Jr. (World).gg" size="524288" sha1="a2d800d2836a03f81dd8f3dda23cd2d8bfff18a5" crc="de466796" />
+  </game>
+  <game name="01 - Games/Tempo Jr/~Prototypes and Betas">
+    <rom name="Tempo Jr. (World) (Beta 1).gg" size="524288" sha1="d909b2b153e500c506a5cee3439d3c514c58600b" crc="a33b5b92" />
+    <rom name="Tempo Jr. (World) (Beta 2).gg" size="524288" sha1="c86b63d669464cba8bf167c33cfa8dc5bf1625b4" crc="3475d48e" />
+    <rom name="Tempo Jr. (World) (Beta 3).gg" size="524288" sha1="6112068a8b6ad0e34afc2d576c2ef7e95af32c6d" crc="fb9a5885" />
+    <rom name="Tempo Jr. (World) (Beta 4).gg" size="524288" sha1="9fb56c4cb39f48bdfb6a16a7af40b85888d81b3b" crc="e484e41c" />
+    <rom name="Tempo Jr. (World) (Beta 5).gg" size="524288" sha1="987bbf9f394a3aa7e79a95b847b093e45d532296" crc="ab6dc88c" />
+    <rom name="Tempo Jr. (World) (Beta 6).gg" size="524288" sha1="01a81e62f04759993d1fb865aa5f7feb086e15ec" crc="96d64b16" />
+    <rom name="Tempo Jr. (World) (Beta 7).gg" size="524288" sha1="75a0914f97622c3f148b7874a8b8ce564a150eae" crc="7afedf36" />
+    <rom name="Tempo Jr. (World) (Beta 8).gg" size="524288" sha1="f3a25425c939a3190c15a1c35a86cde116dcc5ea" crc="3ef6551c" />
+    <rom name="Tempo Jr. (World) (Beta 9).gg" size="524288" sha1="bb2cfeb11e0319021a83a63556bd5e4f98e3d217" crc="79e83d67" />
+  </game>
+  <game name="01 - Games/Tengen World Cup Soccer">
+    <rom name="Kick &amp; Rush (Japan).gg" size="262144" sha1="d1c04a94a21684be2e83fbd0e0677bbc8ef86f57" crc="fd14ce00" />
+    <rom name="Tengen World Cup Soccer (USA, Europe).gg" size="262144" sha1="8e1beab60e120924656d8a741a38b112abd7ef97" crc="dd6d2e34" />
+  </game>
+  <game name="01 - Games/Tengen World Cup Soccer/~Prototypes and Betas">
+    <rom name="Tengen World Cup Soccer (USA, Europe) (Beta).gg" size="262144" sha1="69bb04a218d207a9a907a37970b6ac992a64b8cd" crc="8e6818ae" />
+  </game>
+  <game name="01 - Games/Terminator 2 - Judgment Day">
+    <rom name="Terminator 2 - Judgment Day (World).gg" size="262144" sha1="833c94ea65a7c36349b2bb0b2b637116f54a6762" crc="1bd15773" />
+  </game>
+  <game name="01 - Games/Terminator, The">
+    <rom name="Terminator, The (USA, Europe).gg" size="262144" sha1="1889d019bd9f5919517805a2e02a9691de5ef634" crc="c029a5fd" />
+  </game>
+  <game name="01 - Games/Tesserae">
+    <rom name="Tesserae (USA).gg" size="131072" sha1="173cd95b05c5e403d55b6b246aa6b61d15cdb785" crc="bf696f94" />
+  </game>
+  <game name="01 - Games/Tesserae/~Prototypes and Betas">
+    <rom name="Tesserae (USA) (Beta).gg" size="131072" sha1="e1bdbf17a18e6cc16f50f4946f64ba577699891d" crc="1cddd2a3" />
+  </game>
+  <game name="01 - Games/Tetris4GG">
+    <rom name="Tetris4GG (World) (v0.9) (Aftermarket) (Unl).gg" size="65536" sha1="b0a0bf66b1106b39e027574b8215bc658695bb4b" crc="e0654d27" />
+  </game>
+  <game name="01 - Games/Tintin in Tibet">
+    <rom name="Tintin in Tibet (Europe) (En,Fr,De,Es,Nl,Sv).gg" size="524288" sha1="2fdf4a953b53578befd69e9477ac6148cfa1c67c" crc="969cf389" />
+  </game>
+  <game name="01 - Games/Tom and Jerry - The Movie">
+    <rom name="Tom and Jerry - The Movie (Japan, Brazil) (En,Ja).gg" size="262144" sha1="25f7e0d4b4416e4f879d289eed638d4018bedb51" crc="a1453efa" />
+    <rom name="Tom and Jerry - The Movie (USA, Europe) (En,Ja).gg" size="262144" sha1="514f8bc2e9306f4005d5a8aa2dc49304d48bfc82" crc="5cd33ff2" />
+  </game>
+  <game name="01 - Games/Torarete Tamaruka">
+    <rom name="Torarete Tamaruka (Japan).gg" size="524288" sha1="fa87ac6b14c4b9eaa91fa8e4550b3c9049dd8ef2" crc="5bcf9b97" />
+  </game>
+  <game name="01 - Games/True Lies">
+    <rom name="True Lies (World).gg" size="524288" sha1="7ee525e68b9f3bca2a5bdd6de14711108dcbc288" crc="5173b02a" />
+  </game>
+  <game name="01 - Games/Ultimate Soccer">
+    <rom name="Ultimate Soccer (Japan, Europe, Brazil) (En,Fr,De,Es,It).gg" size="262144" sha1="7994621926628d2376a75e8d90cd066d48a4d502" crc="820965a3" />
+  </game>
+  <game name="01 - Games/Urban Strike">
+    <rom name="Urban Strike (USA).gg" size="524288" sha1="2d33d049a7f3dcde8c4f294cca5597ca590bb407" crc="185e9fc1" />
+  </game>
+  <game name="01 - Games/VR Troopers">
+    <rom name="VR Troopers (USA, Europe, Brazil) (En).gg" size="524288" sha1="0986935cee44541c1e24bcd4dc3d9f87f324bbbe" crc="b0f22745" />
+  </game>
+  <game name="01 - Games/Vexed">
+    <rom name="Vexed (World) (v1.15) (Aftermarket) (Unl).gg" size="32768" sha1="daebc23f09d1f6bf1a2e3620e3247c58e48b102c" crc="3c456bbf" />
+  </game>
+  <game name="01 - Games/Virtua Fighter Animation">
+    <rom name="Virtua Fighter Animation (USA, Europe).gg" size="1048576" sha1="222f3e49f595ceb4263af329c4021d64fc4772e6" crc="d431c452" />
+    <rom name="Virtua Fighter Mini (Japan).gg" size="1048576" sha1="b0622ef2e58fc38af35ead0a632babc4bfe49e86" crc="c05657f8" />
+  </game>
+  <game name="01 - Games/WWF Raw">
+    <rom name="WWF Raw (USA, Europe).gg" size="524288" sha1="585e147026bd998062e64ed3c0aaa0a07e6ee734" crc="8dc68d92" />
+  </game>
+  <game name="01 - Games/WWF Wrestlemania - Steel Cage Challenge">
+    <rom name="WWF Wrestlemania - Steel Cage Challenge (USA, Europe).sms" size="262144" sha1="59e2fab18a0244efcc9cb9ad1e4ed3a1c777948d" crc="da8e95a9" />
+  </game>
+  <game name="01 - Games/Wagyan Land">
+    <rom name="Wagyan Land (Japan).gg" size="262144" sha1="6b74f3fddabd52ac6bb1b812043537154f8a43c5" crc="29e697b2" />
+  </game>
+  <game name="01 - Games/Waternet">
+    <rom name="Waternet (World) (Aftermarket) (Unl).gg" size="65536" sha1="fd56a237586a20cf3ceea9e3fac20d0a9eae77cf" crc="6bb36dfc" />
+  </game>
+  <game name="01 - Games/Wheel of Fortune">
+    <rom name="Wheel of Fortune (USA).gg" size="131072" sha1="5d3ce8b008e81bdda2e12b8036b4efb6dff69b9f" crc="e91cdb2a" />
+  </game>
+  <game name="01 - Games/WildSnake/~Prototypes and Betas">
+    <rom name="WildSnake (USA) (Proto).gg" size="131072" sha1="77d368263934aa968a6b6876a3e252f3ee715c84" crc="d460cc7f" />
+  </game>
+  <game name="01 - Games/Wimbledon">
+    <rom name="Wimbledon (World).gg" size="131072" sha1="6aa588e0aa93c5c74c80f7044de49933291af4e9" crc="ce1108fd" />
+  </game>
+  <game name="01 - Games/Wing Warriors">
+    <rom name="Wing Warriors (World) (Aftermarket) (Unl).gg" size="131072" sha1="fff0afa155a7a6353112f0f530977a3ab7b7671c" crc="5cdb0762" />
+    <rom name="Wing Warriors (World) (En,Fr,Es) (v1.0) (Aftermarket) (Unl).gg" size="131072" sha1="10bc0e1106d7bb1da5e183fd6339cc3291eff8c5" crc="dc5885ff" />
+    <rom name="Wing Warriors (World) (En,Fr,Es) (v1.1) (Aftermarket) (Unl).gg" size="131072" sha1="8f670f043aacb943b76f5c76bd65326291d9a93d" crc="0beb8382" />
+    <rom name="Wing Warriors (World) (En,Fr,Es,Pt) (Aftermarket) (Unl).gg" size="131072" sha1="30ecb0a3a2436796f3a1a6e4a7d4cdde1bd5083e" crc="7fc13192" />
+  </game>
+  <game name="01 - Games/Winter Olympics">
+    <rom name="Winter Olympics (Japan) (En,Fr,De,Es,It,Pt,Sv,No).gg" size="524288" sha1="578fc35fe155dca2c9adf17464d23aaf8205148f" crc="d5195a39" />
+    <rom name="Winter Olympics (USA, Europe) (En,Fr,De,Es,It,Pt,Sv,No).gg" size="524288" sha1="6f9942792072626f1322e11835dbc5e2e94aa718" crc="d15d335b" />
+  </game>
+  <game name="01 - Games/Wizard Pinball">
+    <rom name="Wizard Pinball (Europe).gg" size="262144" sha1="22c4165f41066d9a525543d716162bd70a39e9fb" crc="9e03f96c" />
+  </game>
+  <game name="01 - Games/Wolfchild">
+    <rom name="Wolfchild (Europe).gg" size="262144" sha1="7889b67ee0e5c884fa267688aad4b6c23849268c" crc="840a8f8e" />
+  </game>
+  <game name="01 - Games/Wolfenstein">
+    <rom name="Wolfenstein (World) (v1.16) (Aftermarket) (Unl).gg" size="524288" sha1="1e4a995cd5d9968662d26906d7c2b3072ffd8b2a" crc="c2760884" />
+  </game>
+  <game name="01 - Games/Wonder Boy - The Dragon's Trap">
+    <rom name="Monster World II - Dragon no Wana (Japan).gg" size="262144" sha1="5c4d25432512852f48f22280544bd7d034aab744" crc="ea89e0e7" />
+    <rom name="Wonder Boy - The Dragon's Trap (Europe).gg" size="262144" sha1="d98344a2c644ce9a0184e8f836271c038aa16a23" crc="a74c97a7" />
+  </game>
+  <game name="01 - Games/Wonder Boy - The Dragon's Trap/~Prototypes and Betas">
+    <rom name="Wonder Boy III - The Dragon's Trap (Europe) (Beta).gg" size="262144" sha1="5108c4920b4a14fd06f1a024e1be5f6bf233bd84" crc="db1b5b44" />
+  </game>
+  <game name="01 - Games/Wonder Boy">
+    <rom name="Revenge of Drancon (USA, Brazil) (En).gg" size="131072" sha1="286f673b11739d624899479216e30b58efd049be" crc="03e9c607" />
+    <rom name="Wonder Boy (Europe).gg" size="131072" sha1="f2c546bc87c5e89719fe01a59142bb3250861b83" crc="ea2dd3a7" />
+    <rom name="Wonder Boy (Japan) (En).gg" size="131072" sha1="7ff0f0757c7b2e84d99a4291656d74a20ec2651d" crc="9977fcb3" />
+  </game>
+  <game name="01 - Games/Wonder Boy/~Prototypes and Betas">
+    <rom name="Wonder Boy (USA) (Beta).gg" size="131072" sha1="7502e660dedbb2df77313531b4a6f5b16000a72b" crc="523c92cb" />
+  </game>
+  <game name="01 - Games/Wonder Kid/~Prototypes and Betas">
+    <rom name="Wonder Kid (USA) (Proto).sms" size="131072" sha1="90a556bd3e1c2b0a5b66f7a778193d2edf09942f" crc="5e7b18c8" />
+  </game>
+  <game name="01 - Games/Woody Pop">
+    <rom name="Woody Pop (Japan) (En).gg" size="32768" sha1="9e7defda6873b7bca5650fad4426a6fb443522d8" crc="9c0e5a04" />
+    <rom name="Woody Pop (USA, Europe, Brazil) (En).gg" size="32768" sha1="4efbfa1d3234d8f1800a06ab72b2177fba6914cb" crc="b74f3a4f" />
+  </game>
+  <game name="01 - Games/World Class Leaderboard">
+    <rom name="World Class Leaderboard (USA, Europe).gg" size="262144" sha1="23b28cf137adc947ffd1af649cf3c8d64e6fadc1" crc="868fe528" />
+  </game>
+  <game name="01 - Games/World Cup USA 94">
+    <rom name="World Cup USA 94 (USA, Europe, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).gg" size="524288" sha1="5596ecb5b7a28027e5c0ad1c8acc73c45e7a1265" crc="d2bb3690" />
+  </game>
+  <game name="01 - Games/World Derby">
+    <rom name="World Derby (Japan).gg" size="524288" sha1="af96e8d9470df941c7c356cc9b6e143a3c44dd86" crc="1e81861f" />
+  </game>
+  <game name="01 - Games/World Series Baseball '95">
+    <rom name="Nomo Hideo no World Series Baseball (Japan).gg" size="524288" sha1="127a7e6706f6d9b129d5cf0dd2bb417e9b108748" crc="4ed45bda" />
+    <rom name="World Series Baseball '95 (USA).gg" size="524288" sha1="66d31ed6bb6dfedd769bf5e6c5dcbf899f2f2c8c" crc="578a8a38" />
+  </game>
+  <game name="01 - Games/World Series Baseball '95/~Prototypes and Betas">
+    <rom name="World Series Baseball '95 (USA) (Beta 1).gg" size="524288" sha1="3e05e8b9628853d05aef16a6b7d09e307c989548" crc="496515a6" />
+    <rom name="World Series Baseball '95 (USA) (Beta 2).gg" size="524288" sha1="a1f06ac03e229b6be08e995365bf6ffda0b32184" crc="410f1ca0" />
+    <rom name="World Series Baseball '95 (USA) (Beta 3).gg" size="524288" sha1="7b9750f398f1bab2a6d10df58e610a4ce59287bb" crc="5f7cca5f" />
+    <rom name="World Series Baseball '95 (USA) (Beta 4).gg" size="524288" sha1="149f8d34be9f2cfc080f5e192712a134656d12f3" crc="6073cd59" />
+    <rom name="World Series Baseball '95 (USA) (Beta 5).gg" size="524288" sha1="fddf978dc5c29ca234080fff32680fbf66d7be2c" crc="4190ad97" />
+    <rom name="World Series Baseball '95 (USA) (Beta 6).gg" size="524288" sha1="5ba283dff711ad4a32d52aa077829dda43d52eaa" crc="f1987de6" />
+  </game>
+  <game name="01 - Games/World Series Baseball">
+    <rom name="World Series Baseball (USA) (Rev A).gg" size="262144" sha1="333dd99f11781d6de5720043530a460a409d652b" crc="bb38cfd7" />
+    <rom name="World Series Baseball (USA).gg" size="262144" sha1="ccfd03edf130f28e6bb4c2764df7ace7bbe9e159" crc="3d8d0dd6" />
+  </game>
+  <game name="01 - Games/World of Sport, The - Golf/~Prototypes and Betas">
+    <rom name="World of Sport, The - Golf (USA) (Proto).gg" size="262144" sha1="06ffca4d28cbd70cff35e51836339498be0fe7ad" crc="a7e07d1e" />
+  </game>
+  <game name="01 - Games/X-Men - Gamemaster's Legacy">
+    <rom name="X-Men - Gamemaster's Legacy (USA, Europe).gg" size="524288" sha1="872596d40aae1755c9dda99180cb165166267904" crc="c169c344" />
+  </game>
+  <game name="01 - Games/X-Men - Gamemaster's Legacy/~Prototypes and Betas">
+    <rom name="X-Men - GameMaster's Legacy (USA, Europe) (Beta 1).gg" size="524288" sha1="46237cf1c2810a8f2e5c31907a1ae04b647256c8" crc="66cc4034" />
+    <rom name="X-Men - GameMaster's Legacy (USA, Europe) (Beta 2).gg" size="524288" sha1="9df11129d4f7e55a1380b139d1bb0cdb4137a702" crc="271a0a1d" />
+    <rom name="X-Men - GameMaster's Legacy (USA, Europe) (Beta 3).gg" size="524288" sha1="1078ef9c16cb997f61eddbd07c1bfbc5f74b177b" crc="a3cf94ba" />
+  </game>
+  <game name="01 - Games/X-Men - Mojo World">
+    <rom name="X-Men - Mojo World (USA).gg" size="524288" sha1="cff15c4a3e555c2868af93c55386b5ab3d3db4e3" crc="c2cba9d7" />
+  </game>
+  <game name="01 - Games/X-Men - Mojo World/~Prototypes and Betas">
+    <rom name="X-Men - Mojo World (USA) (Beta 1).gg" size="524288" sha1="b9a4d3bd1f33a988b48fdffedabd26ddaf7d7ab5" crc="626f9987" />
+    <rom name="X-Men - Mojo World (USA) (Beta 2).gg" size="524288" sha1="eb9646133ca49838c7d559492f1a059398abe34f" crc="c4f3ced4" />
+    <rom name="X-Men - Mojo World (USA) (Beta 3).gg" size="524288" sha1="e7d3af2bb027af159d02eb85b8810438af59c8dd" crc="78001a5d" />
+    <rom name="X-Men - Mojo World (USA) (Beta 4).gg" size="524288" sha1="3ade7aeea0d0d5e65d4da24021b565de891e45a8" crc="d4d2f077" />
+    <rom name="X-Men - Mojo World (USA) (Beta 5).gg" size="524288" sha1="5690f9609c641ea7718ddb8e7c36342eeb4a25dd" crc="425ac73f" />
+    <rom name="X-Men - Mojo World (USA) (Beta 6).gg" size="524288" sha1="97fce993a317cbc09825849a45bc2c2ab3e97179" crc="d44925ea" />
+    <rom name="X-Men - Mojo World (USA) (Beta 7).gg" size="524288" sha1="cc3fc3b57bcd4daea90a572c935013d286ebbb99" crc="ba71da19" />
+  </game>
+  <game name="01 - Games/X-Men">
+    <rom name="X-Men (USA).gg" size="524288" sha1="215e5f761475ca17a091371e39f636718f213403" crc="567a5ee6" />
+  </game>
+  <game name="01 - Games/Yacht (5 in One FunPak)">
+    <rom name="5 in One FunPak (USA).gg" size="262144" sha1="dc8f5848fede37a914dbf1c104c3efb5a804ccbd" crc="f85a8ce8" />
+  </game>
+  <game name="01 - Games/Yakitori Meijin Torigin">
+    <rom name="Yakitori Meijin Torigin (Japan) (Aftermarket) (Unl).gg" size="65536" sha1="7ec6be17c075f0f2cdca2c17f194964b4a4c2334" crc="bfb52bb3" />
+  </game>
+  <game name="01 - Games/Yewdow Mini">
+    <rom name="Yewdow Mini (World) (Aftermarket) (Unl).gg" size="16384" sha1="dbd48dd2e0ff5c750b0785a2f45d391df4cd1e47" crc="52cb91df" />
+  </game>
+  <game name="01 - Games/Yogi Bear in Yogi Bear's Goldrush/~Prototypes and Betas">
+    <rom name="Yogi Bear in Yogi Bear's Goldrush (Europe) (Proto).gg" size="262144" sha1="ea5f9ce4b3618565ea24a858f7efe3988b82eb8a" crc="e678f264" />
+  </game>
+  <game name="01 - Games/Yu Yu Hakusho - Horobishimono no Gyakushuu">
+    <rom name="Yu Yu Hakusho - Horobishimono no Gyakushuu (Japan) (En).gg" size="524288" sha1="e75803c9241094f7cfe251b99cd370228cc0923c" crc="88ebbf9e" />
+  </game>
+  <game name="01 - Games/Yu Yu Hakusho II - Gekitou! Nanakyou no Tatakai">
+    <rom name="Yu Yu Hakusho II - Gekitou! Nanakyou no Tatakai (Japan).gg" size="524288" sha1="140efe67e886f52aeda2089a73599f7680c89f24" crc="46ae9159" />
+  </game>
+  <game name="01 - Games/Yu Yu Hakusho II - Gekitou! Nanakyou no Tatakai/~Translations/Documentation">
+    <rom name="Yu Yu Hakusho II - Battle of the 7 Fighters (Japan) [T-En by Gaijin Productions v1.10] [n].txt" size="10318" sha1="7ce6eb56dbd77094c5ac0648f1c105084719b14e" crc="57e8109c" />
+  </game>
+  <game name="01 - Games/Yu Yu Hakusho II - Gekitou! Nanakyou no Tatakai/~Translations">
+    <rom name="Yu Yu Hakusho II - Battle of the 7 Fighters (Japan) [T-En by Gaijin Productions v1.10] [n].gg" size="524288" sha1="bf89310ea5fb2b903444eca0050f3556dade59e2" crc="c80810a7" />
+  </game>
+  <game name="01 - Games/Yum!/~Prototypes and Betas">
+    <rom name="Yum! (World) (v0.33) (Proto) (Aftermarket) (Unl).gg" size="65536" sha1="906451f224ef599d54fbd708f914860e1bcc808d" crc="26dec9ce" />
+  </game>
+  <game name="01 - Games/Zan Gear">
+    <rom name="Zan Gear (Japan).gg" size="131072" sha1="115074a58606720755364eaf0a4bc60aabf18f94" crc="141aaf96" />
+  </game>
+  <game name="01 - Games/Zool - Ninja of the 'Nth' Dimension">
+    <rom name="Zool - Ninja of the 'Nth' Dimension (Europe).gg" size="262144" sha1="40b68abd8f2419178ea2e0d02412c29306bff46c" crc="23904898" />
+    <rom name="Zool - Ninja of the 'Nth' Dimension (USA).gg" size="262144" sha1="8143c1d5e6c677ae5dd8143620b9fd02be8873f6" crc="b287c695" />
+    <rom name="Zool no Yume Bouken (Japan) (En).gg" size="262144" sha1="2c799ee084b858cb71cfaa7a3f6d3a4f364b6c43" crc="e35ef7ed" />
+  </game>
+  <game name="01 - Games/Zoop'em Up">
+    <rom name="Zoop'em Up (World) (Aftermarket) (Unl).gg" size="65536" sha1="602d68fd0c334990219059b59f125382bf20e0fd" crc="590f9c54" />
+  </game>
+  <game name="01 - Games/Zoop">
+    <rom name="Zoop (USA).gg" size="131072" sha1="f58359ffa7bc3ec82913be128d141e5d41926b88" crc="3247ff8b" />
+  </game>
+  <game name="01 - Games/Zoop/~Prototypes and Betas">
+    <rom name="Zoop (USA) (Beta).gg" size="131072" sha1="f704412387c1fe91d94d2c1405f8a49768320d0c" crc="f397f041" />
+  </game>
+  <game name="02 - Software and Utilities/GG Portrait - Pai Chan">
+    <rom name="GG Portrait - Pai Chan (Japan).gg" size="524288" sha1="cf752897523814951401994c95de299cd42fdb50" crc="695cc120" />
+  </game>
+  <game name="02 - Software and Utilities/GG Portrait - Yuuki Akira">
+    <rom name="GG Portrait - Yuuki Akira (Japan).gg" size="524288" sha1="4cbb453663665a06e986a6ab015a041463b48373" crc="51159f8f" />
+  </game>
+  <game name="02 - Software and Utilities/Gamegear Button Test">
+    <rom name="Gamegear Button Test (World) (v0.3.0) (Program) (Aftermarket) (Unl).gg" size="32768" sha1="50c55347447e85ce774b6b523f45caa7ad7b96e0" crc="3412870f" />
+  </game>
+  <game name="02 - Software and Utilities/Tarot no Yakata">
+    <rom name="Tarot no Yakata (Japan).gg" size="131072" sha1="b8b45b2e59f5d3239984205c120421923d833505" crc="57834c03" />
+  </game>
+  <game name="02 - Software and Utilities/Tarot no Yakata/~Translations">
+    <rom name="House of Tarot (Japan) [T-En by mikkan1 v0.8] [n] [ChatGPT AI slop machine translation].gg" size="262144" sha1="1002b11a596f33943db33ad755769ab7ec07e913" crc="102a4d2d" />
+  </game>
+  <game name="02 - Software and Utilities/Windows GG">
+    <rom name="Windows GG (World) (Program) (Aftermarket) (Unl).gg" size="32768" sha1="1eb67ff1aedc0360319ec75067fa9090db428bab" crc="f366b29d" />
+  </game>
+  <game name="02 - Software and Utilities/X-Terminator">
+    <rom name="X-Terminator (Europe) (v2.1) (Program) (Unl).gg" size="8192" sha1="b6664c21a99a96392fe79237d326e96ac0bdd52a" crc="0f448220" />
+    <rom name="X-Terminator (Japan) (v2.1) (Program) (Unl).gg" size="8192" sha1="ee2123cc2addd9e48d3f4dc909334504c5b330ab" crc="e498090d" />
+  </game>
+</datafile>

@@ -1,0 +1,555 @@
+<?xml version='1.0' encoding='utf-8'?>
+<datafile>
+  <header>
+    <name>SGB</name>
+    <version>2026-10-16</version>
+    <romvault forcepacking="fileonly" />
+  </header>
+  <game name="01 - Games/Legend of Zelda, The - Link's Awakening DX/~Hacks/Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1) [Hack by Qwertymodo v1.1a]">
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-1.pcm" size="7294052" sha1="07bb4a7e4fd5192f1fcdd0051f4e2f5f978e2a97" crc="a29a8c17" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-10.pcm" size="5917560" sha1="687186baaf7eea31382579e9f1dc2a6a0085b868" crc="b13852e0" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-100.pcm" size="4929548" sha1="b357a3db3e61670b3fdd2b86ebf4caf6b540ba4a" crc="bd995877" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-101.pcm" size="51104952" sha1="44e7a6b9c0134695b8955446c0a531f0162916e7" crc="e4fbab52" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-102.pcm" size="9769876" sha1="1d166d94e6638c22dac973a6c360fabab3980424" crc="45161194" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-103.pcm" size="4906252" sha1="51d105d590af6d557dd67e7a3389e5535fc8f1c4" crc="28d76c2a" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-104.pcm" size="3200008" sha1="f890cb147eb7b499b9eb0d1775a500307a1eef30" crc="f5ca204c" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-105.pcm" size="8893556" sha1="8ef0041ef815bbf09bfed4e046c6f583e3367357" crc="57c2341f" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-106.pcm" size="8946240" sha1="f31455bc245c63b80afce97ba5876b2436a15e13" crc="9edbf071" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-107.pcm" size="10300464" sha1="b64d6da7bfd048044e8476287cf26b55180d41ce" crc="b0652c50" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-108.pcm" size="18763652" sha1="a08b630e9f09d4216a676b1e172cfe1046847d0c" crc="fb301cdc" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-109.pcm" size="10141024" sha1="5e705e4fbc6dde1746975f3fec4596fc6da0b25a" crc="f3698981" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-11.pcm" size="2759288" sha1="fe4d429e963ac4e569639ee61b3ffa94f47dfea4" crc="cc84bc20" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-12.pcm" size="1990544" sha1="13fc03be3e621a13df0ecb5363c85c1e1bc05f8c" crc="28ab433a" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-13.pcm" size="3941720" sha1="8ff99ddcc98547966d3aedafb1d1b259a1efa23f" crc="37aa6174" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-14.pcm" size="2366300" sha1="64898a2f96b57cab1b3cc5443a36b453c7ffd320" crc="40ab0d5d" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-15.pcm" size="940008" sha1="5c7317aeef4ad79464aedb028d0f0d6cfd424c2b" crc="365f061c" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-16.pcm" size="744796" sha1="4573f89ce46954e021021f90530bda71d447d9dc" crc="f61112ca" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-17.pcm" size="8700524" sha1="889686795fc71c2a6c38eee12ea8c77958305272" crc="69099bfe" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-18.pcm" size="16983328" sha1="05e45a4eefe161da7d07f8520a2184e3e0fc3e6a" crc="1b66cf74" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-19.pcm" size="4921672" sha1="5b76aecb7605d6f742674ef044e9cfc133286501" crc="baaa7d81" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-2.pcm" size="3113668" sha1="4ed87ab087b5c8104a773aa7f2535ce53a5c524e" crc="3cedcf3a" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-20.pcm" size="16357576" sha1="7dcaa9afd5abc00c451bc3a60adc171c385159e7" crc="69832133" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-21.pcm" size="11183820" sha1="2ca7f1c91dc74fdce197ca79a4dd4b8c1a9544cc" crc="4f855b9e" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-22.pcm" size="16543932" sha1="83048a42942ee04f27417f7abde069ca09dd7d5a" crc="cda79b10" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-23.pcm" size="17953592" sha1="13dff536c7ad03aff7d81d7542493996447cb793" crc="c74b318a" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-24.pcm" size="3756424" sha1="932ea1179b4125add3aaee61ea872baf4c273448" crc="2fadc61b" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-25.pcm" size="14547864" sha1="fc513962c5a4f29201003ef2682c47ab8e029541" crc="1b3b1095" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-26.pcm" size="9100008" sha1="5f1e4207595d9fed36a6b09fd0dbfa4a66dc8598" crc="5e8727e3" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-27.pcm" size="1360008" sha1="522a58d7bf1fd819779530848db0a8c9d3f1f30e" crc="f018e230" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-28.pcm" size="6254448" sha1="41984fd68bd94612b56ea366f488d5ca120491ab" crc="dd77acf0" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-29.pcm" size="13481940" sha1="5484d8e0758092452457ccfd7a5606e4fcaf4d83" crc="163f824d" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-3.pcm" size="3445492" sha1="7aa76bb8e33bef1748af96424080eaeb92fada58" crc="74bca201" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-30.pcm" size="1340008" sha1="3d05f18dfb2463af868bb58f0876ee9c25a4a6e4" crc="01d1e790" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-31.pcm" size="11453908" sha1="013efc4978b78e0f6e3b60ed9afebd21984308c7" crc="7d9a50a0" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-32.pcm" size="1914360" sha1="c60e7ea3a4b9980adce8f36b372afdee189ae705" crc="62622e29" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-33.pcm" size="7520636" sha1="994c750b912366a2170add5906d59fbf232b298a" crc="4ab26fc8" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-34.pcm" size="5338972" sha1="d4d6c0d117e918c9b47e83ccb512f5324e28f611" crc="00fe79fc" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-35.pcm" size="19195152" sha1="8584212965f00e621e28cbd2b91aa3be966705d8" crc="c558c1a2" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-36.pcm" size="1638884" sha1="daebdcf0ab64e8ed35e06c7bde6623136d00f6a7" crc="ec460c78" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-37.pcm" size="640008" sha1="e63a11380d84d4f48183e5c25f9750053236cf5a" crc="763d013b" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-38.pcm" size="11909256" sha1="0ec479ad1efcf8e91c2dfa579892534db2829794" crc="76099540" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-39.pcm" size="2769768" sha1="e92f220687c2c90a3097ef7d5693d2d1d0f16cf8" crc="092b33f4" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-4.pcm" size="25961484" sha1="33618d372fedc022cf730d25aa4e98a51808ad8f" crc="eeb0b9cd" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-40.pcm" size="1512048" sha1="b5d79b2ee002553bba543edc53ac79dff32299a9" crc="787ad093" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-41.pcm" size="1442196" sha1="016f794adc96ca830f9b713f4c610cd22fec60a3" crc="330bf088" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-42.pcm" size="1691352" sha1="ecee92cf6509c4e26b98d27ef49bbddb0bfab088" crc="76a93a0c" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-43.pcm" size="1083384" sha1="5f8beae6a89988a277f8e36e5f6e907d87b62dd7" crc="fe523f6b" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-44.pcm" size="1634168" sha1="f04df6f5997cc565f9b70cb95e17b8c00070cb47" crc="855fe6b1" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-45.pcm" size="1828616" sha1="4acdeb7284aff99ada2f47cd8d3bc49e4a9be9c1" crc="3f5b2416" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-46.pcm" size="1016428" sha1="a542627e9e26b66f402bdd0f83232f115c357a8d" crc="eff7bc0c" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-47.pcm" size="7654064" sha1="7d128c30f88c8114ee904690e723399ea45fe364" crc="0912c002" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-48.pcm" size="4718808" sha1="92b70e3f868423e0fef480fa8e438eb62e15319c" crc="f7a88e4e" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-49.pcm" size="9838752" sha1="f1c000d94af4c2ee157cf45cdfddc9739aa2cb8a" crc="f9a8fdd9" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-5.pcm" size="9786160" sha1="2eabdbbdd48df33bed95c6972f254ed9e41a19ef" crc="26400874" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-50.pcm" size="4536008" sha1="69098c27b8ab36bdd0a73d1e1e295214492b6417" crc="02f0b915" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-51.pcm" size="2940004" sha1="b4593fbe262ba67fb8adc803adb1a9e022cb1b37" crc="8eedf9b3" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-52.pcm" size="2280008" sha1="f3157b37d34bb96f1282ad7dceb937a8c65811f8" crc="d11ec18d" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-53.pcm" size="5119364" sha1="eeb0a415e77bdee0a6f772c9348ca0606593e7e3" crc="140eb89e" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-54.pcm" size="2400008" sha1="35a39e0db16ccd89ad9ffc1a45c6c276a61e8d84" crc="3819b075" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-55.pcm" size="6247088" sha1="74852abf783d287375570eeacd1d263a9e159c7d" crc="61383c12" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-56.pcm" size="1755752" sha1="83e087bdf92a8658efc86d4acbb90e28047056c3" crc="2dac1131" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-57.pcm" size="8339596" sha1="470efdf3c4b37edebc61059bd68f823306aafe67" crc="88799bec" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-58.pcm" size="6406948" sha1="a4a243654b51ed79107a7b067cae6813d759e697" crc="8ef628b2" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-59.pcm" size="460220" sha1="978568061d3cba8856e64f0ecb96638a150ff3be" crc="54c6cb26" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-6.pcm" size="48427028" sha1="bd51c4315b73085e5b500694ac6015eaedf6c919" crc="66b90529" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-60.pcm" size="5184088" sha1="84c54ed07fa9bfe3267d6ef91a74ff82b2f2a9e8" crc="bb287a15" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-61.pcm" size="38889740" sha1="047e0d75194d190d7bb8ecb2002cd2b858f8f502" crc="429f434d" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-62.pcm" size="4261792" sha1="ddc1e5ad2cb3c7a164573c3e190f3fb6a92b21e5" crc="c5275ce6" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-63.pcm" size="8457828" sha1="2a003d80653095f929b3b4e46a6dbe560ef91b99" crc="e16e4d01" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-64.pcm" size="27579140" sha1="18aab54a63d34cb25a99e2681b29ca572986c4ee" crc="e44f4966" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-65.pcm" size="5784580" sha1="12d2ffac24828566fef8860800281f8624ccbd79" crc="15ff2732" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-66.pcm" size="7619164" sha1="117fc050e472a09f1eb0d091aafa03824aa71518" crc="791d9f92" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-67.pcm" size="7619164" sha1="5c14aa4128a257ef1028adde42106191ba9fea9f" crc="46590135" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-68.pcm" size="7619164" sha1="b1cbeafdc108d39a41968540291a6824f4d2d12c" crc="144b8771" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-69.pcm" size="7619164" sha1="71020b1dcea85c4db130a806b4a2ff79774d4648" crc="13ba6c95" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-7.pcm" size="5222388" sha1="93ec346a6543de566741056f14638af1c828f81f" crc="f65df2f7" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-70.pcm" size="7619164" sha1="1a7dcbbba2c6d0fac93024b12db17d78b043207f" crc="4a2495cb" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-71.pcm" size="7619164" sha1="ec04e31d87375c07935d0675a3dc369373d725a1" crc="44333432" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-72.pcm" size="11163544" sha1="0593493549f96a700ac2b5f293143d63f31225f4" crc="fec3d50e" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-73.pcm" size="2273088" sha1="f1333d4e95eab5ed321a63b2469afa11047451b9" crc="27d499d6" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-74.pcm" size="6480008" sha1="760e4fd579a8154cf15ba992c9bc4d323b39d25c" crc="81911f86" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-75.pcm" size="11388896" sha1="31069437623f30116eb5608f578283b2c388d265" crc="bd56b879" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-76.pcm" size="1992404" sha1="bd1e10496e410353448a83d25145be18087ff217" crc="bbbe4fc3" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-77.pcm" size="680008" sha1="3bc2b2c6e6d5b9ccd75286ed9ad8585d9c8655e9" crc="d426e95d" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-78.pcm" size="15070644" sha1="e8d610385febd171a2d72e79712392e4dde2ab77" crc="8b3f152d" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-79.pcm" size="376064" sha1="e66dc2b39fce83c9a29d0fc91f46866841b85619" crc="c441b813" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-8.pcm" size="4970024" sha1="0a8c0a1c0de33da5af086eae34cfb23d6dac8605" crc="f6c47676" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-80.pcm" size="4047688" sha1="7a2c91f37cb0429323103c92bb108c8688d739d6" crc="a859d031" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-81.pcm" size="4921672" sha1="5b76aecb7605d6f742674ef044e9cfc133286501" crc="baaa7d81" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-82.pcm" size="16357576" sha1="7dcaa9afd5abc00c451bc3a60adc171c385159e7" crc="69832133" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-83.pcm" size="6189764" sha1="d669e4d045aad708f4a3b4c0e004ce7d25df6151" crc="1af7f94f" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-84.pcm" size="16185260" sha1="a2a23e5178a150900b7c1cedd7305e4400547201" crc="b8651ccb" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-85.pcm" size="1128972" sha1="001090f2e3ca1fd703509a97dda2bd07370c145a" crc="de429c7c" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-86.pcm" size="1328972" sha1="1867ebb4919c7f3ae9a6e883da87ba17066e0a4c" crc="7191c551" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-87.pcm" size="6358996" sha1="683dea8fc32764e179969c4ed341dedaecaed7b8" crc="300a97b0" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-88.pcm" size="34792404" sha1="76288c8fde628fd30afb36bf8cf30876fd985a05" crc="3dcfdfd5" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-89.pcm" size="4244860" sha1="f90915d06dee81b47bb714bf83c61e6f4f124bd4" crc="16239720" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-9.pcm" size="9351860" sha1="2b26be97d25d73d628e416b07358f47b9f73348e" crc="d07749b1" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-90.pcm" size="14452248" sha1="c84933a1306f799024160c7a8c28a2e90ad52a44" crc="bf448712" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-91.pcm" size="37067144" sha1="3cee56ae4ba2835c31ba0fd39e51009e6241128b" crc="287ec03a" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-92.pcm" size="1892348" sha1="72b588481ef7576dcc9bf90b5e4e1b4690982bb0" crc="5ebc7281" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-93.pcm" size="10688664" sha1="57d651ab04137a2eb8aac20f82dc8563eb9cf8f4" crc="fa984826" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-94.pcm" size="2697920" sha1="c323089104f3329493a09a29f9896c7bdc6f988c" crc="10d303a9" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-95.pcm" size="4836812" sha1="150db0dd8bef18f33e30d83310d39482bbcd1e0a" crc="9ae77765" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-96.pcm" size="5675132" sha1="20c485404f33a1a17be85141fc5e1b988aa72aae" crc="98f9a560" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-97.pcm" size="25292476" sha1="08614f01fc7aaec7670adf0c1e60a6927e3d99c4" crc="a2d1798f" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-98.pcm" size="4699960" sha1="5e6e111ad46f7c91e614799dd38c0899561ace0f" crc="d1ef2b66" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1)-99.pcm" size="4950500" sha1="ef5f4d34fd148705b9fc7cf36ce60ab7ae89fa29" crc="9bbe8bed" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1).gbc" size="1048576" sha1="4b2eb4f25d18d7e2473f10ad1bcc377a21af5feb" crc="58e58876" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1).msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
+    <rom name="Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB) (MSU1).sfc" size="262144" sha1="973e10840db683cf3faf61bd443090786b3a9f04" crc="8a4a174f" />
+  </game>
+  <game name="01 - Games/Mystic Quest/~Hacks/Final Fantasy Adventure (USA) (SGB) (MSU1) [Hack by Conn &amp; Qwertymodo v6]">
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-0.pcm" size="5292008" sha1="e0513172edda7ee1113eca69d3fe7c7b1c647a4c" crc="8b6624a6" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-1.pcm" size="27765128" sha1="4c8408a6ee96fa53d51fc7b6c70f4c1f9255b1b3" crc="adf05f15" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-10.pcm" size="14179052" sha1="2d5d19a5e75dbc669d5526df84f6bb62ac03cadb" crc="3fb23740" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-11.pcm" size="19101644" sha1="b2c21c61b2b0e16f86a6274d511605fdde55d746" crc="40d03a4e" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-12.pcm" size="22468216" sha1="3df61f9b1bbeed36ed40bb7b069f476fb798ec67" crc="c95fbec9" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-13.pcm" size="9274032" sha1="4dbe8b8abfc1d614d0c04c155d30bc72cb68de11" crc="d23fbcf4" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-14.pcm" size="21035904" sha1="6449f136d88f46da2b6a78560d5289e68a672b37" crc="6977f93c" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-15.pcm" size="19566296" sha1="d1d5352bcf6d26b7ad4948a9e3f62bf9d7854d13" crc="a580247c" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-16.pcm" size="7989256" sha1="36bf4d1a56fe90e7d56d2f22c91a9be9a8d29910" crc="e0cebcae" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-17.pcm" size="496696" sha1="924608eb751daf84e093b550509dc367a79afb0f" crc="d7900d61" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-18.pcm" size="1643624" sha1="56ddc9280641fefb20ba53a7614ffa2b25197d6f" crc="16ea695b" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-19.pcm" size="24534428" sha1="192b9fac8df6d31fb04d28a2046e5bdaa7b18e84" crc="e5229e5f" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-2.pcm" size="26812584" sha1="17815d6f98de49fd91dcb9868b0e43c26eb1532b" crc="7d77b9ca" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-20.pcm" size="10894720" sha1="91f7b2d2aec2fc53a6f0bedee53552126ded818a" crc="4bd5f0f1" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-21.pcm" size="35006940" sha1="258a4c8f39db9f69167aa0598875d53327bcfa42" crc="80d0132a" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-22.pcm" size="27933748" sha1="31fecd0426e751c0fd77badf7646bd5aa71df5b9" crc="199a34fa" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-23.pcm" size="10451408" sha1="b574ecbbcb297c1dd571c8190bc5a00f89fac33a" crc="80edf71e" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-24.pcm" size="13011352" sha1="589a9810bd105935b2607f769dd5519e61e6168b" crc="32a5eea8" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-25.pcm" size="19425236" sha1="f7709b5888a2cbd1151bca61941d3c2f52476b5f" crc="e5fca148" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-26.pcm" size="4684816" sha1="d8d0784a1df458708916726fd0507d782a4e6805" crc="2ede9833" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-27.pcm" size="22842008" sha1="e8c33d27b0bf9c7677e331476bfede47562d62c0" crc="4e087444" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-28.pcm" size="778904" sha1="7f76da3c138c9737e8e125c6ab36229ca52b9932" crc="013e642d" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-29.pcm" size="1235336" sha1="8a65fddddf859cc4505275a93b3f4f90017e297d" crc="e0629b2e" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-3.pcm" size="34268136" sha1="b85fdea81c11156835c6a2f21a72b2e4a0bfb0de" crc="3dae06b5" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-30.pcm" size="2049776" sha1="8505670d3dd2c0b5fc8ce17bef070bc61fcf8dbd" crc="52d67b93" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-31.pcm" size="17055764" sha1="ca17c8e154043e046ee2ecd30a1e37b83f952367" crc="b71b02ed" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-4.pcm" size="14182908" sha1="14a9892b2afd24a063695ad393ae9cf4dd97dd30" crc="89766300" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-5.pcm" size="7808924" sha1="08e2312b96ffaace1f9eaea3b578d5ae9813f234" crc="5cab70d4" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-6.pcm" size="13199372" sha1="5275390ec594280527f1ec56f22c7f4043795022" crc="e98b7186" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-7.pcm" size="16371560" sha1="c88a892c2d25cb32b2dea3c22ee589af241b4d47" crc="c91f045a" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-8.pcm" size="19457588" sha1="cf12787d541d57fbfdc3d3afbccbf0c16c993786" crc="abb78ffe" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1)-9.pcm" size="8545088" sha1="48850dd00675df6c325ed7242ff4710b1df44b0b" crc="1faf2dd7" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1).gb" size="524288" sha1="189bbd524503b32d1adf24539abb0bbfc87d8e3e" crc="4283fd7e" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1).msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
+    <rom name="Final Fantasy Adventure (USA) (SGB) (MSU1).sfc" size="262144" sha1="973e10840db683cf3faf61bd443090786b3a9f04" crc="8a4a174f" />
+  </game>
+  <game name="01 - Games/Pokemon - Blue Version/~Hacks/Pokemon - Blue Version (USA, Europe) (SGB) (MSU1) [Hack by Zumi v20201108]">
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-1.pcm" size="2332720" sha1="373f73c0b817fc9b327962d7afeb01fe896ac5b5" crc="3c63886f" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-10.pcm" size="23390524" sha1="ad9c3ecc61d47d5bb1a1cc028a20d61f832a7bcf" crc="d0684e33" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-11.pcm" size="28446768" sha1="a57320aaccf924d25f1ea4b9810e7fd3762402f6" crc="c0c4fb49" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-12.pcm" size="11231256" sha1="896b2d74299f28a514a68cac2c500c647fcb564a" crc="8361e784" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-13.pcm" size="12381784" sha1="f38a583dd0f4d9cd817ebfe07a89a2cbe810c308" crc="0b153189" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-14.pcm" size="8958272" sha1="f398751bf20642aa4103787b60b581396505ba4e" crc="b1f02478" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-15.pcm" size="12094052" sha1="6bbed5fadf23087c9331415768bd53e5a9687d7b" crc="1636cd19" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-16.pcm" size="9983456" sha1="ed24e11493978d237fc5176bac45aeffffdf2194" crc="bdffd61e" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-17.pcm" size="16995776" sha1="867ccbdcdbf9a0ec85e19d1fd4df1e76056ba964" crc="042958f4" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-18.pcm" size="18319780" sha1="3150bb965c333318b3816fc3bd2f361565d29d16" crc="e5abb0d4" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-19.pcm" size="24876124" sha1="3f81cfc8e71597f048a28592115e3a1e4ab59c58" crc="eaa24f49" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-2.pcm" size="9140324" sha1="592f83c0e605cb20019da4b1abf70e49ea871f21" crc="dd9ecd1c" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-20.pcm" size="19623908" sha1="eb97f0ce4b6750115e443ef95dbf0f4104aeba8b" crc="9d0df5d5" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-21.pcm" size="34429648" sha1="344e67466a9c42f5be51dc20caf3cadf378b7231" crc="5da6be5b" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-22.pcm" size="21516872" sha1="518ba030f13b0ca0aa83aef723b2a9b8a41ca23e" crc="6d438b2a" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-23.pcm" size="19640132" sha1="8ff7eac347a4b00e1b7db874cef3571d0b421d75" crc="04ebc968" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-24.pcm" size="21538696" sha1="684e5ef8d189b54ed897e555e3aacf450c47a0a4" crc="05ee8655" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-25.pcm" size="13883676" sha1="2bf5cd56a846f0fac357e33d5177f7574fdd7154" crc="319eb39a" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-26.pcm" size="5241912" sha1="73c56aa24acc4e565a4c567f8390354975fb55a1" crc="7ae6d5c6" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-27.pcm" size="3333676" sha1="45d0d02a95d66b3a45f804b9a7582ed6d5028900" crc="7d3a1010" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-28.pcm" size="3025292" sha1="b47e93a3dee0a6c0a703757d99545e037a2b2f67" crc="fa60adcb" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-29.pcm" size="2404184" sha1="9bd2f889bb832546fb98212e4279f54666405887" crc="92a5da5a" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-3.pcm" size="16719112" sha1="664e99f62b048e00ea5068efb85c7247157554c4" crc="b7355ff5" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-30.pcm" size="1408352" sha1="1f96395c92f3193ced43efe8c4ec1b4a57a9cf66" crc="7d5d97fd" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-31.pcm" size="6783492" sha1="778dddc068f1af3dff9ad204541b5761fe9a6834" crc="987997af" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-32.pcm" size="3706452" sha1="00106fb64b9bee964b5ab29c0600ff070deaaf2e" crc="5a37550c" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-33.pcm" size="1835440" sha1="508995e4801882888e8f0e408c1dca46ba785b98" crc="fd8978b7" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-34.pcm" size="12150356" sha1="3122c938c8c8adec97b5e91fcfd4b3f840087bed" crc="b3876f4c" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-35.pcm" size="16440536" sha1="4b89134de94f24e7078dec565729c2472ef98766" crc="4f9fe051" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-36.pcm" size="24663208" sha1="ddb1a6bcbbfb5536cf114162ef354278d4aa69a8" crc="ee43f534" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-37.pcm" size="24663208" sha1="ddb1a6bcbbfb5536cf114162ef354278d4aa69a8" crc="ee43f534" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-38.pcm" size="19626996" sha1="d8f25c3ce42e324bc26dc3f5e177279ce8cbd99d" crc="24632727" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-39.pcm" size="13562648" sha1="7b0781d84c522c121bbc0cf900f2333532d89b5f" crc="7c87fb2f" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-4.pcm" size="23675812" sha1="74468407fe3ada7d9b21f4b906f7adeb16aa39f7" crc="887db244" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-40.pcm" size="23334800" sha1="24ab47168fd068d1adf8249a7d05eb0bde860b77" crc="b36a1c00" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-41.pcm" size="3228168" sha1="6c01836722fe6830180284c205d0e99476796446" crc="be397d7a" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-42.pcm" size="4283640" sha1="869b95bddc5c3b989c58e17e9b1a75c9e6c43ff5" crc="fb6dc74f" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-43.pcm" size="7416408" sha1="0c2a0c60a5bbbc8b87b3e008175e8987333a0351" crc="e1e89c20" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-44.pcm" size="14971540" sha1="42d1a1eb50040ac079fbaebe196f58a9572472a8" crc="101426d9" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-45.pcm" size="9825900" sha1="264e60915db60bcb5257fe77bd8fed1f05e5a9c0" crc="31dd959b" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-46.pcm" size="19825956" sha1="8862e5b50f0f30d44bfa2c6f33e0a19cb837dbd7" crc="12546afd" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-5.pcm" size="16058816" sha1="4d3602330aec22abf19ca6db6a9cb94549791f3b" crc="ddbc424d" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-6.pcm" size="21471164" sha1="4a26da807d3ea1404b6f6cedac024506a42a8373" crc="90aaa437" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-7.pcm" size="15740560" sha1="dba2d857742e25d411c72614de1ac01ce13ad404" crc="5189ae80" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-8.pcm" size="20125656" sha1="688856fd9ced359d9226343188ca698cc201e48e" crc="9126bfb9" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1)-9.pcm" size="28512344" sha1="037e7aaab147a0fb54ec398f6860b0ba0d7d2ac8" crc="a4ba6eb6" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1).gb" size="1048576" sha1="59f94826cd3757c386deef30621a4b42a77cc897" crc="434f4c69" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1).msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
+    <rom name="Pokemon - Blue Version (USA, Europe) (SGB) (MSU1).sfc" size="262144" sha1="973e10840db683cf3faf61bd443090786b3a9f04" crc="8a4a174f" />
+  </game>
+  <game name="01 - Games/Pokemon - Gold Version/~Hacks/Pokemon - Gold Version (USA, Europe) (SGB) (MSU1) [Hack by Zumi v20210409]">
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-1.pcm" size="16002772" sha1="bee6418b9601fc3ca233363159bb4eed4c3e63a7" crc="f8884b24" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-10.pcm" size="2404184" sha1="9bd2f889bb832546fb98212e4279f54666405887" crc="92a5da5a" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-11.pcm" size="1408352" sha1="1f96395c92f3193ced43efe8c4ec1b4a57a9cf66" crc="7d5d97fd" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-12.pcm" size="6783492" sha1="778dddc068f1af3dff9ad204541b5761fe9a6834" crc="987997af" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-13.pcm" size="714076" sha1="427d0d965e8c50e75d6b37bbd242760a5f50a74e" crc="ad6a28a7" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-14.pcm" size="46076928" sha1="d42a059c9050b47730c2fa0014fae380ca9be8b3" crc="d68c35dc" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-15.pcm" size="43707068" sha1="ff37b01ae3027540ce47b7f43ca973d079ff8c12" crc="a990551f" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-16.pcm" size="21516872" sha1="518ba030f13b0ca0aa83aef723b2a9b8a41ca23e" crc="6d438b2a" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-17.pcm" size="8961372" sha1="9589ada9189b669f925b40bcaaaf48689b1655a9" crc="3aa2f3e3" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-18.pcm" size="16069804" sha1="4b4827f9434336cf8a4e9571b999b1e2a78842a4" crc="7f4cd187" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-19.pcm" size="14190924" sha1="c2b66f5a51abd3b221c17c31f371116f5f1e6545" crc="e0030e91" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-2.pcm" size="28446768" sha1="a57320aaccf924d25f1ea4b9810e7fd3762402f6" crc="c0c4fb49" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-20.pcm" size="9825900" sha1="264e60915db60bcb5257fe77bd8fed1f05e5a9c0" crc="31dd959b" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-21.pcm" size="23675812" sha1="74468407fe3ada7d9b21f4b906f7adeb16aa39f7" crc="887db244" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-22.pcm" size="21471164" sha1="4a26da807d3ea1404b6f6cedac024506a42a8373" crc="90aaa437" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-23.pcm" size="6089264" sha1="4fd399922917dff96f6951cb6a1e04f450517a16" crc="e93c182d" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-24.pcm" size="6895928" sha1="412c3162f853da7d64daac74f2bf1cbe06554659" crc="dc3d7cad" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-25.pcm" size="15055884" sha1="86db36ced35ce376f289b183067b07779556db11" crc="db2e08fc" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-26.pcm" size="2557324" sha1="802e6167eb33a18d8906cff425328ae29392a81f" crc="049cfefc" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-27.pcm" size="16995776" sha1="867ccbdcdbf9a0ec85e19d1fd4df1e76056ba964" crc="042958f4" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-28.pcm" size="16719112" sha1="664e99f62b048e00ea5068efb85c7247157554c4" crc="b7355ff5" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-29.pcm" size="18319780" sha1="3150bb965c333318b3816fc3bd2f361565d29d16" crc="e5abb0d4" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-3.pcm" size="12381784" sha1="f38a583dd0f4d9cd817ebfe07a89a2cbe810c308" crc="0b153189" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-30.pcm" size="5241912" sha1="73c56aa24acc4e565a4c567f8390354975fb55a1" crc="7ae6d5c6" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-31.pcm" size="7129344" sha1="f53901b501c32658f89eef6d433da103a7b0fb5f" crc="274dfa33" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-32.pcm" size="7129344" sha1="e83609deeaf1ecf225c9e0df055426cd8edb1a2e" crc="cf6a51fb" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-33.pcm" size="12999580" sha1="957895b5572175b9d86409a18af8a7c51da826fa" crc="d09552d0" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-34.pcm" size="7909220" sha1="44fb3a0ba9a1b581bddfed807f4a82026dc700cb" crc="aa5570a8" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-35.pcm" size="16876848" sha1="ccc6a1fdcada77eecc0800818284e806b1aef0cf" crc="1b313ee1" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-36.pcm" size="23698820" sha1="4c264037834ff774e693823690a5e7e7e84221f5" crc="914b04e5" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-37.pcm" size="11724432" sha1="b9e2c4194eb5ee33f053c48f73c24d5ad113caff" crc="c2bf29ac" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-38.pcm" size="10275360" sha1="91705ffcc1b7c71053190b56f21d39784c750db4" crc="2bd2e6ba" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-39.pcm" size="3018332" sha1="8b3c29e7de187311f767cec34612703ac487ff2f" crc="1d30dfa7" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-4.pcm" size="8958272" sha1="f398751bf20642aa4103787b60b581396505ba4e" crc="b1f02478" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-40.pcm" size="21791948" sha1="cfff2eb93d3c8abd305239148f11bacac8ad79c0" crc="a5331955" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-41.pcm" size="14104296" sha1="e94e9d65cc781701ffea86b7d1720f20ffc734d7" crc="4c1a86a3" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-42.pcm" size="22853256" sha1="eef63bf693181fda6e1815855ce58d6ace333811" crc="e228bc73" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-43.pcm" size="7179256" sha1="4759582143b9116c18788f1a83852a38ca3d8fb2" crc="9057ed37" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-44.pcm" size="21613364" sha1="5f7a82b2977cb15c5abccb577b02ebaad1d3ce4f" crc="0d8ca4e3" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-45.pcm" size="17603076" sha1="5e28da5450f50934875153e2b85e265efc985836" crc="fe5e058e" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-46.pcm" size="17202608" sha1="760b5601396c24b7cd48b14a5df9dee717734676" crc="5f843361" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-47.pcm" size="29322260" sha1="6e754701b02f78e4d68ebaf4eaad66643df3a357" crc="60f8a015" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-48.pcm" size="14721704" sha1="24a079bc31ccf973ca4eaa3f08e3910a43c65c22" crc="f230e440" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-49.pcm" size="18354716" sha1="9fb74a7814543a5f36c8f870c0bbda4ed0f36027" crc="d3e5223b" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-5.pcm" size="1588872" sha1="2ca2359a9b4d15e9505249b44e098bfab1acbe17" crc="83ae2c6a" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-50.pcm" size="7822332" sha1="123f6d6accdff923685e2090ab9582d55c193a18" crc="6e30b130" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-51.pcm" size="15785012" sha1="c9741933741109bf2397019c919308ddccb1550b" crc="0c566eb6" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-52.pcm" size="11030248" sha1="270d275a4b79497d791833291574841689727027" crc="a326fb3c" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-53.pcm" size="9892052" sha1="0f68537aa9cc8fb1fe1f5e5ca6527362591774ce" crc="1833148e" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-54.pcm" size="23567020" sha1="24c07e8ac4f3754197820c114affd8f1bd2232d9" crc="53b9b1b2" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-55.pcm" size="3516864" sha1="aef9ac11142b7d9a68921e756bf2b9f435a0dd1f" crc="1dfae4a6" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-56.pcm" size="4983768" sha1="d11693b8fb14472f26190cabc7c050018bde385f" crc="9fc12237" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-57.pcm" size="3086240" sha1="dc9cf67b0fb39914cb15ffc7c246bb3cb283929c" crc="fc56d463" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-58.pcm" size="6908416" sha1="9be8d665b7eb0f81e0e585cfcd8118dedff85376" crc="699ff478" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-59.pcm" size="7080052" sha1="76210a6271fdbbd51a970dbb815bb9627fd4c4ff" crc="0337793f" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-6.pcm" size="20717316" sha1="f598dd8d27d85e7dd22b36f66582d9728180a839" crc="470bf1e2" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-60.pcm" size="10879636" sha1="40fb93211714e78a33bb51008e94af866b0003df" crc="5c82e5d4" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-61.pcm" size="22078192" sha1="7616fcba7cd4e3cc2fa4038c227c83fdd0fff168" crc="010eb30d" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-62.pcm" size="20125656" sha1="688856fd9ced359d9226343188ca698cc201e48e" crc="9126bfb9" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-63.pcm" size="1594312" sha1="17a5b02e2862b66d48fadc2de88a1f23f9827c30" crc="aa295910" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-64.pcm" size="5562360" sha1="6c7bcfd6c6962a41bd8a30468c2cba03af8693e9" crc="006feed6" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-65.pcm" size="11099928" sha1="5ff61fd6c5307156d3cb94325bc39b180f121040" crc="2d522bb6" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-66.pcm" size="18115540" sha1="ce4cd57d9929639562dbd5b5d6c1e192b8c37d10" crc="f9b7dd70" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-67.pcm" size="31892264" sha1="8a920b436d8e8a337c4d5e89a223bdb030f13506" crc="e8b094cc" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-68.pcm" size="9829052" sha1="5f8c9aeadd1ec342e6fb3a9589009a108fd8699d" crc="95b90b58" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-69.pcm" size="14391852" sha1="4cd649f8c2863735a998ec7fd9e80ca1eb5dff6b" crc="c2940b3e" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-7.pcm" size="19626996" sha1="d8f25c3ce42e324bc26dc3f5e177279ce8cbd99d" crc="24632727" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-70.pcm" size="23382288" sha1="a2763421941b056f9efae401205c6610edc66f80" crc="56ea4221" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-71.pcm" size="14655424" sha1="e3542f17789d002cda4dca61187f9d31437f3ff6" crc="3624eab9" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-72.pcm" size="7941992" sha1="49778a393d3b69d4905f4d2469ac6d1d96478972" crc="90b1b9c4" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-73.pcm" size="12912780" sha1="c1b59a49412eb2fde7a85fce3a0fef3e9b5c65a1" crc="991727e4" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-74.pcm" size="13321648" sha1="6462ce07c025d94b1a7b3b71bd243a0b78096e11" crc="6ad8c55a" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-75.pcm" size="3714540" sha1="dcf7f9ca06d0ebb6fcb3eec0238c2e2efc5c68a1" crc="4cbbbf09" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-76.pcm" size="3275256" sha1="8ee1eb9792cda01e10a1886d8302101533ce13a3" crc="251b08f9" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-77.pcm" size="16054220" sha1="38ca1849a899625cb309fecb2732411a5d409112" crc="a2713031" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-78.pcm" size="5653532" sha1="c7880fc071b95f4874b28494a5b8fa29a378e07d" crc="06ea8e4f" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-79.pcm" size="13122412" sha1="d4277e30f80de9030db79e5c1e6a97ccfa04e597" crc="78cc3287" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-8.pcm" size="14599976" sha1="f70efa1ede1fc865ada360d7b90ecaf88260f341" crc="20b5b090" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-80.pcm" size="10882844" sha1="1fd2f3ef553e93945deae6c26b725f78c4ededea" crc="1cf5334a" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-81.pcm" size="7587368" sha1="ad1e86c15c310924b8c463295c712829463b8bde" crc="fda7f2fa" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-82.pcm" size="5780616" sha1="9550b97860f50f1935d3011cf4c2eefe2253bb9f" crc="98b3615f" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-83.pcm" size="1911816" sha1="468f816308215acb919320d8b7a4ba805b732783" crc="0a3f718e" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-84.pcm" size="3186144" sha1="07bd4e5bbcde1608852b47e9d1b2117a739124b6" crc="b0192856" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-85.pcm" size="6984424" sha1="1f90a3b749549f0d8b6b97edad7eaca1a8c2bd56" crc="f254a02c" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-86.pcm" size="7576224" sha1="d24360527083cf4dd3e793f42391ed1de6affc32" crc="a6aa139f" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-87.pcm" size="5352504" sha1="0d405144db64b94bca9148380d92ac21a330eb79" crc="739f2fb4" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-88.pcm" size="1919716" sha1="c9b1123d0efe24c23eefabf12160a72e4ac84ddf" crc="4a4d7fe8" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-89.pcm" size="7395764" sha1="5c2d7339c317505210e82280400bc7a3546915df" crc="b196963e" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-9.pcm" size="9983456" sha1="ed24e11493978d237fc5176bac45aeffffdf2194" crc="bdffd61e" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-90.pcm" size="2115092" sha1="651a230b9f90f68645b97e99eca81b4922035b32" crc="d7f85d7e" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-91.pcm" size="7080044" sha1="b6bcf4c6bd359b6b8935a083231935600e06962b" crc="c2c5788c" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-92.pcm" size="18351872" sha1="444e403249264727d255d14e62259609f9fb6678" crc="46e7d20f" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1)-93.pcm" size="1492880" sha1="746ab5605d82e1543e5e5d8957c5c5348d9eaf67" crc="36d5c83c" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1).gbc" size="2097152" sha1="f0d1cc681b20bb9886300dcc89d80a596d7ecd96" crc="8e94774f" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1).msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
+    <rom name="Pokemon - Gold Version (USA, Europe) (SGB) (MSU1).sfc" size="262144" sha1="973e10840db683cf3faf61bd443090786b3a9f04" crc="8a4a174f" />
+  </game>
+  <game name="01 - Games/Pokemon - Red Version/~Hacks/Pokemon - Red Version (USA, Europe) (SGB) (MSU1) [Hack by Zumi v20201108]">
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-1.pcm" size="2332720" sha1="373f73c0b817fc9b327962d7afeb01fe896ac5b5" crc="3c63886f" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-10.pcm" size="23390524" sha1="ad9c3ecc61d47d5bb1a1cc028a20d61f832a7bcf" crc="d0684e33" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-11.pcm" size="28446768" sha1="a57320aaccf924d25f1ea4b9810e7fd3762402f6" crc="c0c4fb49" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-12.pcm" size="11231256" sha1="896b2d74299f28a514a68cac2c500c647fcb564a" crc="8361e784" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-13.pcm" size="12381784" sha1="f38a583dd0f4d9cd817ebfe07a89a2cbe810c308" crc="0b153189" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-14.pcm" size="8958272" sha1="f398751bf20642aa4103787b60b581396505ba4e" crc="b1f02478" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-15.pcm" size="12094052" sha1="6bbed5fadf23087c9331415768bd53e5a9687d7b" crc="1636cd19" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-16.pcm" size="9983456" sha1="ed24e11493978d237fc5176bac45aeffffdf2194" crc="bdffd61e" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-17.pcm" size="16995776" sha1="867ccbdcdbf9a0ec85e19d1fd4df1e76056ba964" crc="042958f4" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-18.pcm" size="18319780" sha1="3150bb965c333318b3816fc3bd2f361565d29d16" crc="e5abb0d4" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-19.pcm" size="24876124" sha1="3f81cfc8e71597f048a28592115e3a1e4ab59c58" crc="eaa24f49" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-2.pcm" size="9140324" sha1="592f83c0e605cb20019da4b1abf70e49ea871f21" crc="dd9ecd1c" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-20.pcm" size="19623908" sha1="eb97f0ce4b6750115e443ef95dbf0f4104aeba8b" crc="9d0df5d5" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-21.pcm" size="34429648" sha1="344e67466a9c42f5be51dc20caf3cadf378b7231" crc="5da6be5b" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-22.pcm" size="21516872" sha1="518ba030f13b0ca0aa83aef723b2a9b8a41ca23e" crc="6d438b2a" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-23.pcm" size="19640132" sha1="8ff7eac347a4b00e1b7db874cef3571d0b421d75" crc="04ebc968" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-24.pcm" size="21538696" sha1="684e5ef8d189b54ed897e555e3aacf450c47a0a4" crc="05ee8655" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-25.pcm" size="13883676" sha1="2bf5cd56a846f0fac357e33d5177f7574fdd7154" crc="319eb39a" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-26.pcm" size="5241912" sha1="73c56aa24acc4e565a4c567f8390354975fb55a1" crc="7ae6d5c6" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-27.pcm" size="3333676" sha1="45d0d02a95d66b3a45f804b9a7582ed6d5028900" crc="7d3a1010" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-28.pcm" size="3025292" sha1="b47e93a3dee0a6c0a703757d99545e037a2b2f67" crc="fa60adcb" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-29.pcm" size="2404184" sha1="9bd2f889bb832546fb98212e4279f54666405887" crc="92a5da5a" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-3.pcm" size="16719112" sha1="664e99f62b048e00ea5068efb85c7247157554c4" crc="b7355ff5" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-30.pcm" size="1408352" sha1="1f96395c92f3193ced43efe8c4ec1b4a57a9cf66" crc="7d5d97fd" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-31.pcm" size="6783492" sha1="778dddc068f1af3dff9ad204541b5761fe9a6834" crc="987997af" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-32.pcm" size="3706452" sha1="00106fb64b9bee964b5ab29c0600ff070deaaf2e" crc="5a37550c" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-33.pcm" size="1835440" sha1="508995e4801882888e8f0e408c1dca46ba785b98" crc="fd8978b7" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-34.pcm" size="12150356" sha1="3122c938c8c8adec97b5e91fcfd4b3f840087bed" crc="b3876f4c" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-35.pcm" size="16440536" sha1="4b89134de94f24e7078dec565729c2472ef98766" crc="4f9fe051" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-36.pcm" size="24663208" sha1="ddb1a6bcbbfb5536cf114162ef354278d4aa69a8" crc="ee43f534" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-37.pcm" size="24663208" sha1="ddb1a6bcbbfb5536cf114162ef354278d4aa69a8" crc="ee43f534" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-38.pcm" size="19626996" sha1="d8f25c3ce42e324bc26dc3f5e177279ce8cbd99d" crc="24632727" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-39.pcm" size="13562648" sha1="7b0781d84c522c121bbc0cf900f2333532d89b5f" crc="7c87fb2f" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-4.pcm" size="23675812" sha1="74468407fe3ada7d9b21f4b906f7adeb16aa39f7" crc="887db244" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-40.pcm" size="23334800" sha1="24ab47168fd068d1adf8249a7d05eb0bde860b77" crc="b36a1c00" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-41.pcm" size="3228168" sha1="6c01836722fe6830180284c205d0e99476796446" crc="be397d7a" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-42.pcm" size="4283640" sha1="869b95bddc5c3b989c58e17e9b1a75c9e6c43ff5" crc="fb6dc74f" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-43.pcm" size="7416408" sha1="0c2a0c60a5bbbc8b87b3e008175e8987333a0351" crc="e1e89c20" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-44.pcm" size="14971540" sha1="42d1a1eb50040ac079fbaebe196f58a9572472a8" crc="101426d9" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-45.pcm" size="9825900" sha1="264e60915db60bcb5257fe77bd8fed1f05e5a9c0" crc="31dd959b" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-46.pcm" size="19825956" sha1="8862e5b50f0f30d44bfa2c6f33e0a19cb837dbd7" crc="12546afd" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-5.pcm" size="16058816" sha1="4d3602330aec22abf19ca6db6a9cb94549791f3b" crc="ddbc424d" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-6.pcm" size="21471164" sha1="4a26da807d3ea1404b6f6cedac024506a42a8373" crc="90aaa437" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-7.pcm" size="15740560" sha1="dba2d857742e25d411c72614de1ac01ce13ad404" crc="5189ae80" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-8.pcm" size="20125656" sha1="688856fd9ced359d9226343188ca698cc201e48e" crc="9126bfb9" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1)-9.pcm" size="28512344" sha1="037e7aaab147a0fb54ec398f6860b0ba0d7d2ac8" crc="a4ba6eb6" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1).gb" size="1048576" sha1="fd5c10368115cbf11d265fd4c115f6a94fdacb4e" crc="383e69b4" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1).msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
+    <rom name="Pokemon - Red Version (USA, Europe) (SGB) (MSU1).sfc" size="262144" sha1="973e10840db683cf3faf61bd443090786b3a9f04" crc="8a4a174f" />
+  </game>
+  <game name="01 - Games/Pokemon - Silver Version/~Hacks/Pokemon - Silver Version (USA, Europe) (SGB) (MSU1) [Hack by Zumi v20210409]">
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-1.pcm" size="16002772" sha1="bee6418b9601fc3ca233363159bb4eed4c3e63a7" crc="f8884b24" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-10.pcm" size="2404184" sha1="9bd2f889bb832546fb98212e4279f54666405887" crc="92a5da5a" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-11.pcm" size="1408352" sha1="1f96395c92f3193ced43efe8c4ec1b4a57a9cf66" crc="7d5d97fd" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-12.pcm" size="6783492" sha1="778dddc068f1af3dff9ad204541b5761fe9a6834" crc="987997af" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-13.pcm" size="714076" sha1="427d0d965e8c50e75d6b37bbd242760a5f50a74e" crc="ad6a28a7" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-14.pcm" size="46076928" sha1="d42a059c9050b47730c2fa0014fae380ca9be8b3" crc="d68c35dc" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-15.pcm" size="43707068" sha1="ff37b01ae3027540ce47b7f43ca973d079ff8c12" crc="a990551f" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-16.pcm" size="21516872" sha1="518ba030f13b0ca0aa83aef723b2a9b8a41ca23e" crc="6d438b2a" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-17.pcm" size="8961372" sha1="9589ada9189b669f925b40bcaaaf48689b1655a9" crc="3aa2f3e3" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-18.pcm" size="16069804" sha1="4b4827f9434336cf8a4e9571b999b1e2a78842a4" crc="7f4cd187" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-19.pcm" size="14190924" sha1="c2b66f5a51abd3b221c17c31f371116f5f1e6545" crc="e0030e91" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-2.pcm" size="28446768" sha1="a57320aaccf924d25f1ea4b9810e7fd3762402f6" crc="c0c4fb49" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-20.pcm" size="9825900" sha1="264e60915db60bcb5257fe77bd8fed1f05e5a9c0" crc="31dd959b" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-21.pcm" size="23675812" sha1="74468407fe3ada7d9b21f4b906f7adeb16aa39f7" crc="887db244" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-22.pcm" size="21471164" sha1="4a26da807d3ea1404b6f6cedac024506a42a8373" crc="90aaa437" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-23.pcm" size="6089264" sha1="4fd399922917dff96f6951cb6a1e04f450517a16" crc="e93c182d" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-24.pcm" size="6895928" sha1="412c3162f853da7d64daac74f2bf1cbe06554659" crc="dc3d7cad" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-25.pcm" size="15055884" sha1="86db36ced35ce376f289b183067b07779556db11" crc="db2e08fc" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-26.pcm" size="2557324" sha1="802e6167eb33a18d8906cff425328ae29392a81f" crc="049cfefc" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-27.pcm" size="16995776" sha1="867ccbdcdbf9a0ec85e19d1fd4df1e76056ba964" crc="042958f4" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-28.pcm" size="16719112" sha1="664e99f62b048e00ea5068efb85c7247157554c4" crc="b7355ff5" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-29.pcm" size="18319780" sha1="3150bb965c333318b3816fc3bd2f361565d29d16" crc="e5abb0d4" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-3.pcm" size="12381784" sha1="f38a583dd0f4d9cd817ebfe07a89a2cbe810c308" crc="0b153189" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-30.pcm" size="5241912" sha1="73c56aa24acc4e565a4c567f8390354975fb55a1" crc="7ae6d5c6" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-31.pcm" size="7129344" sha1="f53901b501c32658f89eef6d433da103a7b0fb5f" crc="274dfa33" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-32.pcm" size="7129344" sha1="e83609deeaf1ecf225c9e0df055426cd8edb1a2e" crc="cf6a51fb" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-33.pcm" size="12999580" sha1="957895b5572175b9d86409a18af8a7c51da826fa" crc="d09552d0" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-34.pcm" size="7909220" sha1="44fb3a0ba9a1b581bddfed807f4a82026dc700cb" crc="aa5570a8" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-35.pcm" size="16876848" sha1="ccc6a1fdcada77eecc0800818284e806b1aef0cf" crc="1b313ee1" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-36.pcm" size="23698820" sha1="4c264037834ff774e693823690a5e7e7e84221f5" crc="914b04e5" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-37.pcm" size="11724432" sha1="b9e2c4194eb5ee33f053c48f73c24d5ad113caff" crc="c2bf29ac" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-38.pcm" size="10275360" sha1="91705ffcc1b7c71053190b56f21d39784c750db4" crc="2bd2e6ba" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-39.pcm" size="3018332" sha1="8b3c29e7de187311f767cec34612703ac487ff2f" crc="1d30dfa7" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-4.pcm" size="8958272" sha1="f398751bf20642aa4103787b60b581396505ba4e" crc="b1f02478" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-40.pcm" size="21791948" sha1="cfff2eb93d3c8abd305239148f11bacac8ad79c0" crc="a5331955" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-41.pcm" size="14104296" sha1="e94e9d65cc781701ffea86b7d1720f20ffc734d7" crc="4c1a86a3" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-42.pcm" size="22853256" sha1="eef63bf693181fda6e1815855ce58d6ace333811" crc="e228bc73" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-43.pcm" size="7179256" sha1="4759582143b9116c18788f1a83852a38ca3d8fb2" crc="9057ed37" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-44.pcm" size="21613364" sha1="5f7a82b2977cb15c5abccb577b02ebaad1d3ce4f" crc="0d8ca4e3" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-45.pcm" size="17603076" sha1="5e28da5450f50934875153e2b85e265efc985836" crc="fe5e058e" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-46.pcm" size="17202608" sha1="760b5601396c24b7cd48b14a5df9dee717734676" crc="5f843361" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-47.pcm" size="29322260" sha1="6e754701b02f78e4d68ebaf4eaad66643df3a357" crc="60f8a015" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-48.pcm" size="14721704" sha1="24a079bc31ccf973ca4eaa3f08e3910a43c65c22" crc="f230e440" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-49.pcm" size="18354716" sha1="9fb74a7814543a5f36c8f870c0bbda4ed0f36027" crc="d3e5223b" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-5.pcm" size="1588872" sha1="2ca2359a9b4d15e9505249b44e098bfab1acbe17" crc="83ae2c6a" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-50.pcm" size="7822332" sha1="123f6d6accdff923685e2090ab9582d55c193a18" crc="6e30b130" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-51.pcm" size="15785012" sha1="c9741933741109bf2397019c919308ddccb1550b" crc="0c566eb6" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-52.pcm" size="11030248" sha1="270d275a4b79497d791833291574841689727027" crc="a326fb3c" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-53.pcm" size="9892052" sha1="0f68537aa9cc8fb1fe1f5e5ca6527362591774ce" crc="1833148e" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-54.pcm" size="23567020" sha1="24c07e8ac4f3754197820c114affd8f1bd2232d9" crc="53b9b1b2" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-55.pcm" size="3516864" sha1="aef9ac11142b7d9a68921e756bf2b9f435a0dd1f" crc="1dfae4a6" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-56.pcm" size="4983768" sha1="d11693b8fb14472f26190cabc7c050018bde385f" crc="9fc12237" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-57.pcm" size="3086240" sha1="dc9cf67b0fb39914cb15ffc7c246bb3cb283929c" crc="fc56d463" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-58.pcm" size="6908416" sha1="9be8d665b7eb0f81e0e585cfcd8118dedff85376" crc="699ff478" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-59.pcm" size="7080052" sha1="76210a6271fdbbd51a970dbb815bb9627fd4c4ff" crc="0337793f" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-6.pcm" size="20717316" sha1="f598dd8d27d85e7dd22b36f66582d9728180a839" crc="470bf1e2" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-60.pcm" size="10879636" sha1="40fb93211714e78a33bb51008e94af866b0003df" crc="5c82e5d4" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-61.pcm" size="22078192" sha1="7616fcba7cd4e3cc2fa4038c227c83fdd0fff168" crc="010eb30d" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-62.pcm" size="20125656" sha1="688856fd9ced359d9226343188ca698cc201e48e" crc="9126bfb9" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-63.pcm" size="1594312" sha1="17a5b02e2862b66d48fadc2de88a1f23f9827c30" crc="aa295910" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-64.pcm" size="5562360" sha1="6c7bcfd6c6962a41bd8a30468c2cba03af8693e9" crc="006feed6" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-65.pcm" size="11099928" sha1="5ff61fd6c5307156d3cb94325bc39b180f121040" crc="2d522bb6" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-66.pcm" size="18115540" sha1="ce4cd57d9929639562dbd5b5d6c1e192b8c37d10" crc="f9b7dd70" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-67.pcm" size="31892264" sha1="8a920b436d8e8a337c4d5e89a223bdb030f13506" crc="e8b094cc" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-68.pcm" size="9829052" sha1="5f8c9aeadd1ec342e6fb3a9589009a108fd8699d" crc="95b90b58" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-69.pcm" size="14391852" sha1="4cd649f8c2863735a998ec7fd9e80ca1eb5dff6b" crc="c2940b3e" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-7.pcm" size="19626996" sha1="d8f25c3ce42e324bc26dc3f5e177279ce8cbd99d" crc="24632727" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-70.pcm" size="23382288" sha1="a2763421941b056f9efae401205c6610edc66f80" crc="56ea4221" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-71.pcm" size="14655424" sha1="e3542f17789d002cda4dca61187f9d31437f3ff6" crc="3624eab9" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-72.pcm" size="7941992" sha1="49778a393d3b69d4905f4d2469ac6d1d96478972" crc="90b1b9c4" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-73.pcm" size="12912780" sha1="c1b59a49412eb2fde7a85fce3a0fef3e9b5c65a1" crc="991727e4" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-74.pcm" size="13321648" sha1="6462ce07c025d94b1a7b3b71bd243a0b78096e11" crc="6ad8c55a" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-75.pcm" size="3714540" sha1="dcf7f9ca06d0ebb6fcb3eec0238c2e2efc5c68a1" crc="4cbbbf09" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-76.pcm" size="3275256" sha1="8ee1eb9792cda01e10a1886d8302101533ce13a3" crc="251b08f9" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-77.pcm" size="16054220" sha1="38ca1849a899625cb309fecb2732411a5d409112" crc="a2713031" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-78.pcm" size="5653532" sha1="c7880fc071b95f4874b28494a5b8fa29a378e07d" crc="06ea8e4f" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-79.pcm" size="13122412" sha1="d4277e30f80de9030db79e5c1e6a97ccfa04e597" crc="78cc3287" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-8.pcm" size="14599976" sha1="f70efa1ede1fc865ada360d7b90ecaf88260f341" crc="20b5b090" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-80.pcm" size="10882844" sha1="1fd2f3ef553e93945deae6c26b725f78c4ededea" crc="1cf5334a" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-81.pcm" size="7587368" sha1="ad1e86c15c310924b8c463295c712829463b8bde" crc="fda7f2fa" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-82.pcm" size="5780616" sha1="9550b97860f50f1935d3011cf4c2eefe2253bb9f" crc="98b3615f" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-83.pcm" size="1911816" sha1="468f816308215acb919320d8b7a4ba805b732783" crc="0a3f718e" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-84.pcm" size="3186144" sha1="07bd4e5bbcde1608852b47e9d1b2117a739124b6" crc="b0192856" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-85.pcm" size="6984424" sha1="1f90a3b749549f0d8b6b97edad7eaca1a8c2bd56" crc="f254a02c" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-86.pcm" size="7576224" sha1="d24360527083cf4dd3e793f42391ed1de6affc32" crc="a6aa139f" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-87.pcm" size="5352504" sha1="0d405144db64b94bca9148380d92ac21a330eb79" crc="739f2fb4" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-88.pcm" size="1919716" sha1="c9b1123d0efe24c23eefabf12160a72e4ac84ddf" crc="4a4d7fe8" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-89.pcm" size="7395764" sha1="5c2d7339c317505210e82280400bc7a3546915df" crc="b196963e" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-9.pcm" size="9983456" sha1="ed24e11493978d237fc5176bac45aeffffdf2194" crc="bdffd61e" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-90.pcm" size="2115092" sha1="651a230b9f90f68645b97e99eca81b4922035b32" crc="d7f85d7e" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-91.pcm" size="7080044" sha1="b6bcf4c6bd359b6b8935a083231935600e06962b" crc="c2c5788c" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-92.pcm" size="18351872" sha1="444e403249264727d255d14e62259609f9fb6678" crc="46e7d20f" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1)-93.pcm" size="1492880" sha1="746ab5605d82e1543e5e5d8957c5c5348d9eaf67" crc="36d5c83c" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1).gbc" size="2097152" sha1="df2bda850577dfde3210f9750a2fc7ecab5b7f4e" crc="fb3c639e" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1).msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
+    <rom name="Pokemon - Silver Version (USA, Europe) (SGB) (MSU1).sfc" size="262144" sha1="973e10840db683cf3faf61bd443090786b3a9f04" crc="8a4a174f" />
+  </game>
+  <game name="01 - Games/Pokemon - Yellow Version - Special Pikachu Edition/~Hacks/Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1) [Hack by Zumi v20210706]">
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-1.pcm" size="4335216" sha1="d7efdca7ab75d51d534744abee12bed9e6aa0a7e" crc="fdf5cc89" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-10.pcm" size="23390524" sha1="ad9c3ecc61d47d5bb1a1cc028a20d61f832a7bcf" crc="d0684e33" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-11.pcm" size="28446768" sha1="a57320aaccf924d25f1ea4b9810e7fd3762402f6" crc="c0c4fb49" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-12.pcm" size="11231256" sha1="896b2d74299f28a514a68cac2c500c647fcb564a" crc="8361e784" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-13.pcm" size="12381784" sha1="f38a583dd0f4d9cd817ebfe07a89a2cbe810c308" crc="0b153189" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-14.pcm" size="8958272" sha1="f398751bf20642aa4103787b60b581396505ba4e" crc="b1f02478" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-15.pcm" size="12094052" sha1="6bbed5fadf23087c9331415768bd53e5a9687d7b" crc="1636cd19" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-16.pcm" size="9983456" sha1="ed24e11493978d237fc5176bac45aeffffdf2194" crc="bdffd61e" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-17.pcm" size="16995776" sha1="867ccbdcdbf9a0ec85e19d1fd4df1e76056ba964" crc="042958f4" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-18.pcm" size="18319780" sha1="3150bb965c333318b3816fc3bd2f361565d29d16" crc="e5abb0d4" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-19.pcm" size="24876124" sha1="3f81cfc8e71597f048a28592115e3a1e4ab59c58" crc="eaa24f49" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-2.pcm" size="9140324" sha1="592f83c0e605cb20019da4b1abf70e49ea871f21" crc="dd9ecd1c" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-20.pcm" size="19623908" sha1="eb97f0ce4b6750115e443ef95dbf0f4104aeba8b" crc="9d0df5d5" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-21.pcm" size="34429648" sha1="344e67466a9c42f5be51dc20caf3cadf378b7231" crc="5da6be5b" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-22.pcm" size="21516872" sha1="518ba030f13b0ca0aa83aef723b2a9b8a41ca23e" crc="6d438b2a" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-23.pcm" size="19640132" sha1="8ff7eac347a4b00e1b7db874cef3571d0b421d75" crc="04ebc968" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-24.pcm" size="21538696" sha1="684e5ef8d189b54ed897e555e3aacf450c47a0a4" crc="05ee8655" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-25.pcm" size="13883676" sha1="2bf5cd56a846f0fac357e33d5177f7574fdd7154" crc="319eb39a" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-26.pcm" size="5241912" sha1="73c56aa24acc4e565a4c567f8390354975fb55a1" crc="7ae6d5c6" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-27.pcm" size="3333676" sha1="45d0d02a95d66b3a45f804b9a7582ed6d5028900" crc="7d3a1010" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-28.pcm" size="3025292" sha1="b47e93a3dee0a6c0a703757d99545e037a2b2f67" crc="fa60adcb" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-29.pcm" size="2404184" sha1="9bd2f889bb832546fb98212e4279f54666405887" crc="92a5da5a" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-3.pcm" size="16719112" sha1="664e99f62b048e00ea5068efb85c7247157554c4" crc="b7355ff5" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-30.pcm" size="1408352" sha1="1f96395c92f3193ced43efe8c4ec1b4a57a9cf66" crc="7d5d97fd" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-31.pcm" size="6783492" sha1="778dddc068f1af3dff9ad204541b5761fe9a6834" crc="987997af" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-32.pcm" size="3706452" sha1="00106fb64b9bee964b5ab29c0600ff070deaaf2e" crc="5a37550c" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-33.pcm" size="1835440" sha1="508995e4801882888e8f0e408c1dca46ba785b98" crc="fd8978b7" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-34.pcm" size="12150356" sha1="3122c938c8c8adec97b5e91fcfd4b3f840087bed" crc="b3876f4c" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-35.pcm" size="16440536" sha1="4b89134de94f24e7078dec565729c2472ef98766" crc="4f9fe051" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-36.pcm" size="24663208" sha1="ddb1a6bcbbfb5536cf114162ef354278d4aa69a8" crc="ee43f534" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-37.pcm" size="24663208" sha1="ddb1a6bcbbfb5536cf114162ef354278d4aa69a8" crc="ee43f534" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-38.pcm" size="19626996" sha1="d8f25c3ce42e324bc26dc3f5e177279ce8cbd99d" crc="24632727" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-39.pcm" size="13562648" sha1="7b0781d84c522c121bbc0cf900f2333532d89b5f" crc="7c87fb2f" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-4.pcm" size="23675812" sha1="74468407fe3ada7d9b21f4b906f7adeb16aa39f7" crc="887db244" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-40.pcm" size="23334800" sha1="24ab47168fd068d1adf8249a7d05eb0bde860b77" crc="b36a1c00" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-41.pcm" size="3228168" sha1="6c01836722fe6830180284c205d0e99476796446" crc="be397d7a" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-42.pcm" size="4283640" sha1="869b95bddc5c3b989c58e17e9b1a75c9e6c43ff5" crc="fb6dc74f" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-43.pcm" size="7416408" sha1="0c2a0c60a5bbbc8b87b3e008175e8987333a0351" crc="e1e89c20" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-44.pcm" size="14971540" sha1="42d1a1eb50040ac079fbaebe196f58a9572472a8" crc="101426d9" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-45.pcm" size="9825900" sha1="264e60915db60bcb5257fe77bd8fed1f05e5a9c0" crc="31dd959b" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-46.pcm" size="19825956" sha1="8862e5b50f0f30d44bfa2c6f33e0a19cb837dbd7" crc="12546afd" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-47.pcm" size="4252540" sha1="2b9497e4d62a416f1a0347c3227d6d7e5b864da9" crc="9a109203" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-5.pcm" size="16058816" sha1="4d3602330aec22abf19ca6db6a9cb94549791f3b" crc="ddbc424d" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-6.pcm" size="21471164" sha1="4a26da807d3ea1404b6f6cedac024506a42a8373" crc="90aaa437" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-7.pcm" size="15740560" sha1="dba2d857742e25d411c72614de1ac01ce13ad404" crc="5189ae80" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-8.pcm" size="20125656" sha1="688856fd9ced359d9226343188ca698cc201e48e" crc="9126bfb9" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1)-9.pcm" size="28512344" sha1="037e7aaab147a0fb54ec398f6860b0ba0d7d2ac8" crc="a4ba6eb6" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1).gb" size="1048576" sha1="86dc24050eff993ecc8f5a26e3972025dc3c00d2" crc="0ebd161b" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1).msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
+    <rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (SGB) (MSU1).sfc" size="262144" sha1="973e10840db683cf3faf61bd443090786b3a9f04" crc="8a4a174f" />
+  </game>
+  <game name="01 - Games/Shikong Xing Shou/~Hacks/Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1) [Hack by Zumi v20210706]">
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1)-1.pcm" size="6932768" sha1="efffa17e016c6f49e58d8950c8d7d2aeb2ec9977" crc="e04467ed" />
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1)-10.pcm" size="4724100" sha1="4f7ec8d1e32a873af5b99a34be71f27bf7dd0fb8" crc="44deef4c" />
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1)-11.pcm" size="5470608" sha1="4536873fa1520a6a2617eaada30f3129089f732e" crc="0d3d5996" />
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1)-12.pcm" size="4950144" sha1="59271b1067a273ba05406299e91add323d7e3bb8" crc="2fbf4ae7" />
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1)-13.pcm" size="2790424" sha1="4a5859f0bb2af7060c176dd56a65640d4acac15f" crc="f5224d62" />
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1)-14.pcm" size="5392048" sha1="112e4c6d66219dd5bac16a495e5b053563901cfc" crc="188289a8" />
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1)-15.pcm" size="7229544" sha1="d48a452134c3cd217c37223cb0b9da1698d8853c" crc="075257b3" />
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1)-16.pcm" size="4930476" sha1="8e32f62c61f5162d9f4dd90d200b9df4fe2cb03d" crc="aa2a9967" />
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1)-17.pcm" size="4410284" sha1="0e5375133bcffa3837e5590fddc62450b93142e2" crc="00233544" />
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1)-18.pcm" size="2003112" sha1="6873e0441055be00786f6f6b8fcec908161c24cb" crc="ff84642a" />
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1)-19.pcm" size="1793636" sha1="f69564ff5834d9ed0a7e9bbbc907686f70467745" crc="47fc8402" />
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1)-2.pcm" size="13029136" sha1="1516c21c734354fddea51cefb03133a8d02d9c6b" crc="5ae84b5f" />
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1)-20.pcm" size="970920" sha1="1b36af35f8c669ae48933975ba5603dc5665078c" crc="3a708c7d" />
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1)-21.pcm" size="10052404" sha1="a29451970862d5df4a89e68edbf20cd015a3de0a" crc="7d9bcb51" />
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1)-22.pcm" size="9769856" sha1="1b11c2c998d0fac936472531ccec1f77c5badbf0" crc="cfcb34ab" />
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1)-23.pcm" size="2753620" sha1="75756fff4b5add57bf9329345c897fc01a38deac" crc="c08adbb8" />
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1)-24.pcm" size="2314792" sha1="e7c655294d7ad2619d2b3a5f330558c1eeb75c7c" crc="43a5ad8e" />
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1)-25.pcm" size="2310696" sha1="aea0b52165f26dd5d77c7f7035e12cd5203f38f6" crc="5a4ce3e1" />
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1)-26.pcm" size="3082056" sha1="2354a5ac8ea3432e3d14adf73767655dffd8f6a9" crc="d1e13bd0" />
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1)-27.pcm" size="198724" sha1="623224a55415e040430b3837bd51dfcae5c1d652" crc="b0c47697" />
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1)-28.pcm" size="471848" sha1="dedb42c2556f6027ebe9206c8f28631a25e4d9a2" crc="47fed85b" />
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1)-29.pcm" size="471848" sha1="003755a6aa9171a98c1eb13ab787a772e351c996" crc="a09955c5" />
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1)-3.pcm" size="5920212" sha1="0f9472b9735b98b7f86147a154297cba2e38867b" crc="ee1275a0" />
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1)-4.pcm" size="5400208" sha1="f6b987ce0c9bcaf00a552ebbf2d114a8bb69c83e" crc="8fd9348e" />
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1)-5.pcm" size="4629128" sha1="0bd32ffe408ba237fcceebb0cb6594dbf6f97baa" crc="f2eaa805" />
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1)-6.pcm" size="5401096" sha1="6428a9bd450c2bc9a5c11487c3debcbbd407de58" crc="a190a4f6" />
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1)-7.pcm" size="4627720" sha1="c2f56160d1966e22af907db44b34dc82e2f7aeb6" crc="54e50d23" />
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1)-8.pcm" size="7125780" sha1="bb6d7b9c1558f25f6fe02e2c6c761029b8059a9f" crc="4873b5d1" />
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1)-9.pcm" size="4628616" sha1="5f9f246c95844df8c315f49caa3245939813edfe" crc="4c854eb2" />
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1).gbc" size="2097152" sha1="7f9f08a5414d68c46b340958681a666731848d7f" crc="78e22a11" />
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1).msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
+    <rom name="Shi Kong Xing Shou (China) (Unl) (SGB) (MSU1).sfc" size="262144" sha1="973e10840db683cf3faf61bd443090786b3a9f04" crc="8a4a174f" />
+  </game>
+  <game name="01 - Games/Tetris/~Hacks/Tetris (World) (SGB) (MSU1) [Hack by Zumi v20210703]">
+    <rom name="Tetris (World) (SGB) (MSU1)-1.pcm" size="4828740" sha1="2619efb1535c3f078780a8773f6c3b11b9449d6f" crc="f66176ee" />
+    <rom name="Tetris (World) (SGB) (MSU1)-16.pcm" size="2540320" sha1="9173042433aa9b8a078c7023ae7f4981995be333" crc="738c74e6" />
+    <rom name="Tetris (World) (SGB) (MSU1)-3.pcm" size="20319128" sha1="f49c016c64ab07f16e5b117dc2a4248dd2fb9c0c" crc="64829fd9" />
+    <rom name="Tetris (World) (SGB) (MSU1)-4.pcm" size="651308" sha1="544ecbfdee891a6c3496880fefdefc4aca513358" crc="ccabf920" />
+    <rom name="Tetris (World) (SGB) (MSU1)-5.pcm" size="22338040" sha1="17fd9c5363be686cf7a1a25e78b589d31a266228" crc="123cc205" />
+    <rom name="Tetris (World) (SGB) (MSU1)-6.pcm" size="29353420" sha1="3a2c6d94d6f021d4331c2c93f3bdd7f7cee123e8" crc="a299a22f" />
+    <rom name="Tetris (World) (SGB) (MSU1)-7.pcm" size="7373372" sha1="c07b66acd99e75850a9b32639a5893481c83b8e7" crc="592e6419" />
+    <rom name="Tetris (World) (SGB) (MSU1).gb" size="49152" sha1="f86edff36fc4d5bf44668ce9610d5f5b0b298142" crc="22077597" />
+    <rom name="Tetris (World) (SGB) (MSU1).msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
+    <rom name="Tetris (World) (SGB) (MSU1).sfc" size="262144" sha1="973e10840db683cf3faf61bd443090786b3a9f04" crc="8a4a174f" />
+  </game>
+</datafile>

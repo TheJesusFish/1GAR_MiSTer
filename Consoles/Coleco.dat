@@ -1,0 +1,574 @@
+<?xml version='1.0' encoding='utf-8'?>
+<datafile>
+  <header>
+    <name>Coleco</name>
+    <version>2026-10-16</version>
+    <romvault forcepacking="fileonly" />
+  </header>
+  <game name="01 - Games/2010 - The Graphic Action Game">
+    <rom name="2010 - The Graphic Action Game (USA).col" size="32768" sha1="b1621d39a2a6d1cda7eceb882a612a4baf3da70c" crc="c575a831" />
+  </game>
+  <game name="01 - Games/2010 - The Graphic Action Game/~Prototypes and Betas">
+    <rom name="2010 - The Graphic Action Game (USA) (Beta).col" size="32768" sha1="bebedac4df5348e91122972fcc4259a7d1f7fc0f" crc="3657f3cd" />
+  </game>
+  <game name="01 - Games/A.E./~Prototypes and Betas">
+    <rom name="A.E. (USA) (Proto).col" size="17408" sha1="9e331ac982a848988264f705b6de4c0a8f5f1264" crc="db845695" />
+  </game>
+  <game name="01 - Games/Activision Decathlon, The">
+    <rom name="Activision Decathlon, The (USA).col" size="16384" sha1="b011b213bd86317a4a06b565d3c193a562f67c84" crc="51fe49c8" />
+  </game>
+  <game name="01 - Games/Alcazar - The Forgotten Fortress">
+    <rom name="Alcazar - The Forgotten Fortress (USA).col" size="16384" sha1="c3a820e6a73ef42dc88982d835c60c36b4b9505f" crc="fce3aa06" />
+  </game>
+  <game name="01 - Games/Alphabet Zoo">
+    <rom name="Alphabet Zoo (USA).col" size="16384" sha1="d1aa4aff55e9febaa3e7577ffcc381fee0f8e241" crc="4ffb4e8c" />
+  </game>
+  <game name="01 - Games/Amazing Bumpman">
+    <rom name="Amazing Bumpman (USA).col" size="16384" sha1="733f8395d102f6849f58627d06655119062b97f8" crc="78a738af" />
+  </game>
+  <game name="01 - Games/Amazing Bumpman/~Prototypes and Betas">
+    <rom name="Number Bumper (USA) (Beta).col" size="32768" sha1="50d40fa769c3b92fe7d4eae23c15c429e020e023" crc="6af8b439" />
+  </game>
+  <game name="01 - Games/Antarctic Adventure">
+    <rom name="Antarctic Adventure (USA, Europe).col" size="16384" sha1="00db7cf9bd66aecac3d9368dd205680781b2e542" crc="275c800e" />
+  </game>
+  <game name="01 - Games/Antarctic Adventure/~Prototypes and Betas">
+    <rom name="Antarctic Adventure (USA, Europe) (Beta).col" size="16384" sha1="be8a7df4f3e1e1001785eb2326c26b4c301b4dbe" crc="a66e5ed1" />
+  </game>
+  <game name="01 - Games/Aquattack">
+    <rom name="Aquattack (USA).col" size="16384" sha1="4782f1d6225d9b6501a9ab1ab72f9e66f3ff66d8" crc="947437ec" />
+  </game>
+  <game name="01 - Games/Artillery Duel">
+    <rom name="Artillery Duel (USA).col" size="16384" sha1="a2494b1ade772fe45779bd500139ff847dfe7afa" crc="6f88fcf0" />
+  </game>
+  <game name="01 - Games/BC's Quest for Tires II - Grog's Revenge">
+    <rom name="BC's Quest for Tires II - Grog's Revenge (Canada).col" size="24576" sha1="6c7c8cd782eb5a27dc5224679d4563978cb3280c" crc="1ca853d5" />
+    <rom name="BC's Quest for Tires II - Grog's Revenge (USA).col" size="24576" sha1="57b145e2b88e29c6284754d3da16e1cffbab38a5" crc="d464e5e4" />
+  </game>
+  <game name="01 - Games/BC's Quest for Tires">
+    <rom name="BC's Quest for Tires (Canada).col" size="16384" sha1="05ffcf0c84381fa26f504cb163b25a8670c6c4ac" crc="0ae39f2c" />
+    <rom name="BC's Quest for Tires (USA).col" size="16384" sha1="683973d7e24cb0383132acf2562d3ebef739018f" crc="4359a3e5" />
+  </game>
+  <game name="01 - Games/Beamrider">
+    <rom name="Beamrider (USA).col" size="16384" sha1="9e18d51855b721298cc4efad0786df65e8ed6fd7" crc="7a93c6e5" />
+  </game>
+  <game name="01 - Games/Blockade Runner">
+    <rom name="Blockade Runner (USA).col" size="16384" sha1="28fc9bf517bce3d901c61d6fd1e297d2af421c70" crc="df65fc87" />
+  </game>
+  <game name="01 - Games/Boulder Dash">
+    <rom name="Boulder Dash (USA).col" size="16384" sha1="bad7a976f37df875f4fa9646e5426c45344ec102" crc="9b547ba8" />
+  </game>
+  <game name="01 - Games/Boulder Dash/~Prototypes and Betas">
+    <rom name="Boulder Dash (USA) (Beta).col" size="16384" sha1="ad266ca4d270ea35def306381eaf05d36c811218" crc="1796de5e" />
+  </game>
+  <game name="01 - Games/Brain Strainers">
+    <rom name="Brain Strainers (USA).col" size="16384" sha1="fe6235b99889388ff858c19eae7337dd0b75944a" crc="829c967d" />
+  </game>
+  <game name="01 - Games/Buck Rogers - Planet of Zoom">
+    <rom name="Buck Rogers - Planet of Zoom (USA, Europe).col" size="24576" sha1="2e1fa3bc105b0fd8d10a5195fed63b9cb2773444" crc="00b37475" />
+  </game>
+  <game name="01 - Games/Bump 'n' Jump">
+    <rom name="Bump 'n' Jump (USA, Europe).col" size="20480" sha1="8df20c9c151b01b0d859c0ab4753d5cce3956224" crc="9e1fab59" />
+  </game>
+  <game name="01 - Games/Bump 'n' Jump/~Prototypes and Betas">
+    <rom name="Bump 'n' Jump (USA, Europe) (Beta).col" size="16384" sha1="158f666aac5cf48c77b62beb77310a45f6c7e2ea" crc="eb498f97" />
+  </game>
+  <game name="01 - Games/BurgerTime">
+    <rom name="BurgerTime (USA, Europe).col" size="16384" sha1="6ebf0d23f2d7cf60897ba6fe13b2293421c0a589" crc="91346341" />
+  </game>
+  <game name="01 - Games/BurgerTime/~Prototypes and Betas">
+    <rom name="BurgerTime (USA, Europe) (Beta).col" size="16384" sha1="b455e48f5462c8b27dd693e25113a8a28c28014b" crc="e5c5ea20" />
+  </game>
+  <game name="01 - Games/CAT S.O.S. Game, The">
+    <rom name="CAT S.O.S. Game, The (USA) (Promo).col" size="16384" sha1="b6cdd5e28856d04c15f2636c0c1ae355c53a3e76" crc="13886c96" />
+  </game>
+  <game name="01 - Games/Cabbage Patch Kids - Adventures in the Park">
+    <rom name="Cabbage Patch Kids - Adventures in the Park (USA, Europe).col" size="16384" sha1="ca240633ec6ecf732cbc28c9394459a722d6edcb" crc="6af19e75" />
+  </game>
+  <game name="01 - Games/Cabbage Patch Kids - Adventures in the Park/~Prototypes and Betas">
+    <rom name="Cabbage Patch Kids - Adventures in the Park (USA, Europe) (Beta 1).col" size="16384" sha1="6dcf2f3acc4b221666defc6ebbc09286238e7a1b" crc="beacbff5" />
+    <rom name="Cabbage Patch Kids - Adventures in the Park (USA, Europe) (Beta 2).col" size="16384" sha1="57b4b045797b1f18ce22759d2ed1acc36a2e2207" crc="5da13dfd" />
+  </game>
+  <game name="01 - Games/Campaign '84">
+    <rom name="Campaign '84 (USA).col" size="16384" sha1="2e08245802c4c5aa87774ad3740fd56ac5b25bd1" crc="5aa22d66" />
+  </game>
+  <game name="01 - Games/Carnival">
+    <rom name="Carnival (USA, Europe).col" size="16384" sha1="d4f34382d43897774101e3620384a402dd3d2ec1" crc="70f315c2" />
+  </game>
+  <game name="01 - Games/Castelo">
+    <rom name="Castelo (Brazil) (En) (Unl).col" size="8192" sha1="0406ad601be68014820c77eda4491bfb4ea5c402" crc="07a3d3db" />
+  </game>
+  <game name="01 - Games/Centipede">
+    <rom name="Centipede (USA).col" size="16384" sha1="d89c49bbbf002e075c5964ca74d7c94a502740ff" crc="17edbfd4" />
+  </game>
+  <game name="01 - Games/Choplifter!">
+    <rom name="Choplifter! (USA).col" size="16384" sha1="3a7e5ea50495a666bac8df0b3b2c82b5be65ad18" crc="030e0d48" />
+  </game>
+  <game name="01 - Games/Chuck Norris - Superkicks">
+    <rom name="Chuck Norris - Superkicks (USA).col" size="16384" sha1="e9ccabc76be96279b322586f5a569d7fe3b0fa25" crc="5eeb81de" />
+  </game>
+  <game name="01 - Games/Clef Climber">
+    <rom name="Brain Strainers (USA).col" size="16384" sha1="fe6235b99889388ff858c19eae7337dd0b75944a" crc="829c967d" />
+  </game>
+  <game name="01 - Games/Congo Bongo">
+    <rom name="Congo Bongo (USA).col" size="24576" sha1="4ad44dbf2651415f68c5e82289ecbc0122c51a19" crc="4e8b4c1d" />
+  </game>
+  <game name="01 - Games/Cosmic Avenger">
+    <rom name="Cosmic Avenger (USA, Europe).col" size="16384" sha1="c8c2a70d3eab8a68ab1db04e766a6c70f02f02ca" crc="39d4215b" />
+  </game>
+  <game name="01 - Games/Cosmic Crisis">
+    <rom name="Cosmic Crisis (Europe).col" size="16384" sha1="081a40414021a51b3219e8957e948163680a9ada" crc="7c2c7c41" />
+  </game>
+  <game name="01 - Games/Dam Busters, The">
+    <rom name="Dam Busters, The (Canada).col" size="32768" sha1="bcb8c003a5c8acdf62105c15d25163dff017d6c3" crc="c75fad5a" />
+    <rom name="Dam Busters, The (USA).col" size="32768" sha1="84b3631078575c5fd490426271b7fc5941d38fc3" crc="890682b3" />
+  </game>
+  <game name="01 - Games/Defender">
+    <rom name="Defender (USA) (BUG Fixed).col" size="24576" sha1="6a640c652378950f4f0b95e38cb1e4ba003e3f3a" crc="46a909cc" />
+    <rom name="Defender (USA).col" size="24576" sha1="12b1fb517d8f7308d18f355e0c54796e4b5225a0" crc="6cf594e5" />
+  </game>
+  <game name="01 - Games/Destructor">
+    <rom name="Destructor (USA, Europe).col" size="32768" sha1="35283c51f448d877625049266c0c4687bf57ab42" crc="56c358a6" />
+  </game>
+  <game name="01 - Games/Dig Dug/~Prototypes and Betas">
+    <rom name="Dig Dug (USA) (Proto).col" size="24576" sha1="04bce7d5ebd54f094d5f9f9b1880ae6507a5450d" crc="1038e0a1" />
+  </game>
+  <game name="01 - Games/Donkey Kong Junior">
+    <rom name="Donkey Kong Junior (USA, Europe).col" size="16384" sha1="113c1ead67b2679ddad9b99506e801526245af05" crc="fd11508d" />
+  </game>
+  <game name="01 - Games/Donkey Kong">
+    <rom name="Donkey Kong (USA).col" size="24576" sha1="795a63360e71e3a51317f108f504b21f5b11c3c9" crc="94c4cd4a" />
+    <rom name="Donkey Kong (USA, Europe) (v1.1).col" size="16384" sha1="46b7aa1cedac273f2b96bad4a0768554733972bf" crc="3c77198c" />
+  </game>
+  <game name="01 - Games/Dr. Seuss - Fix-Up the Mix-Up Puzzler">
+    <rom name="Dr. Seuss - Fix-Up the Mix-Up Puzzler (USA).col" size="16384" sha1="978eb1bf1a0393087cb639adbd4e6575d1725581" crc="109699e2" />
+  </game>
+  <game name="01 - Games/Dragon's Lair/~Prototypes and Betas">
+    <rom name="Dragon's Lair (USA) (Proto).col" size="24576" sha1="e398ec4a225e470afde625945abed8fb264453a1" crc="da521d6d" />
+  </game>
+  <game name="01 - Games/Dragonfire">
+    <rom name="Dragonfire (USA).col" size="16384" sha1="b623a970164d9739c0135d0cf37f9f0b3c67b17c" crc="dcb8f9e8" />
+  </game>
+  <game name="01 - Games/Dukes of Hazzard, The">
+    <rom name="Dukes of Hazzard, The (USA).col" size="32768" sha1="162c7ad3266e02aa88983fa4ece7a77bc1cb9c7a" crc="4025ac94" />
+  </game>
+  <game name="01 - Games/Energy Quiz/~Prototypes and Betas">
+    <rom name="Energy Quiz (Canada) (En,Fr-CA) (1983-06-06) (Proto).col" size="32768" sha1="9bd47f0b288612e85224c9bda093b12f0b5bff36" crc="afb90dcd" />
+  </game>
+  <game name="01 - Games/Escape from the Mindmaster/~Prototypes and Betas">
+    <rom name="Escape from the Mindmaster (USA) (Proto).col" size="16384" sha1="00c157e87a8f85ede84b26bfab018c50678f88e4" crc="3678ab6f" />
+  </game>
+  <game name="01 - Games/Evolution">
+    <rom name="Evolution (Canada).col" size="16384" sha1="5c775dd65722be72436d0b6dd99bd0143c938b33" crc="4cd4e185" />
+    <rom name="Evolution (USA) (Unl).col" size="16384" sha1="809befaad2bb341241d58fcd4e0409d690e4b6ce" crc="4c933007" />
+  </game>
+  <game name="01 - Games/Facemaker">
+    <rom name="Facemaker (USA).col" size="8192" sha1="490ce706697c0b370a6a2fe65ccaada2bac0a946" crc="ec9dfb07" />
+  </game>
+  <game name="01 - Games/Fall Guy/~Prototypes and Betas">
+    <rom name="Fall Guy (USA) (Proto).col" size="16384" sha1="0e5c84d8fb8a9428aed399f4a9f9309b26bce990" crc="8a731b38" />
+  </game>
+  <game name="01 - Games/Fathom">
+    <rom name="Fathom (USA).col" size="16384" sha1="145d1758347306e36a8039671a1088841bccaad5" crc="b3b767ae" />
+  </game>
+  <game name="01 - Games/Fireman/~Prototypes and Betas">
+    <rom name="Fireman (USA) (Proto).col" size="32768" sha1="077182c21b67182b334d4a6b69aab44eb3eecda9" crc="64ec761e" />
+  </game>
+  <game name="01 - Games/Flipper Slipper">
+    <rom name="Flipper Slipper (USA) (Unl).col" size="16384" sha1="65b532fe1f0d249e97117580638083731e1ff767" crc="9788bca7" />
+    <rom name="Flipper Slipper (USA, Europe).col" size="16384" sha1="e78e370fc7b3138010606f2eb9db1ea40fc37c5c" crc="2a49f507" />
+  </game>
+  <game name="01 - Games/Follow the Leader">
+    <rom name="Brain Strainers (USA).col" size="16384" sha1="fe6235b99889388ff858c19eae7337dd0b75944a" crc="829c967d" />
+  </game>
+  <game name="01 - Games/Fortune Builder">
+    <rom name="Fortune Builder (USA).col" size="32768" sha1="dd3461f5b79fe581b8e14685a5b8810b18d84dfe" crc="65bbbcb4" />
+  </game>
+  <game name="01 - Games/Fraction Fever">
+    <rom name="Fraction Fever (USA).col" size="8192" sha1="7cac4c6f685f35adba50e37356df974977d6ddec" crc="964db3bc" />
+  </game>
+  <game name="01 - Games/Frantic Freddy">
+    <rom name="Frantic Freddy (USA).col" size="16384" sha1="4f4ef29dbb730583bdf6da75aa7fe7b4f144216a" crc="8615c6e8" />
+  </game>
+  <game name="01 - Games/Frenzy">
+    <rom name="Frenzy (USA, Europe).col" size="20480" sha1="9fae20696149c1dba5203e1600565917c8981d81" crc="3cacddfb" />
+  </game>
+  <game name="01 - Games/Frogger II - ThreeeDeep!">
+    <rom name="Frogger II - ThreeeDeep! (USA).col" size="16384" sha1="c899debdda6bfb7e2ed0d1c327ab574b9cbc70ae" crc="4229ea5a" />
+  </game>
+  <game name="01 - Games/Frogger II - ThreeeDeep!/~Prototypes and Betas">
+    <rom name="Frogger II - ThreeeDeep! (USA) (Beta) (1984-06-15).col" size="16384" sha1="fc93e0af26b2416cd39f8cb9c81ba57f81f62c0c" crc="e98b6851" />
+  </game>
+  <game name="01 - Games/Frogger">
+    <rom name="Frogger (USA).col" size="12288" sha1="c808284b8a161e8405da093884e861fcde4220e9" crc="798002a2" />
+  </game>
+  <game name="01 - Games/Front Line">
+    <rom name="Front Line (USA, Europe) (Standard Controller).col" size="24576" sha1="62ca275776e4184032224e61b6d01d0636d7e846" crc="d0110137" />
+    <rom name="Front Line (USA, Europe) (Super Action Controller).col" size="24576" sha1="68889d9410be82ce20f1eedfb5861dce4bd270d0" crc="e16e0917" />
+  </game>
+  <game name="01 - Games/Galaxian">
+    <rom name="Galaxian (USA).col" size="20480" sha1="287013140f2896516acb095157389f681d9c5150" crc="6a7a162a" />
+  </game>
+  <game name="01 - Games/Gateway to Apshai">
+    <rom name="Gateway to Apshai (USA, Europe).col" size="12288" sha1="837a192ee27ab78c4ab914b45b9ba55e5847cf37" crc="fdb75be6" />
+  </game>
+  <game name="01 - Games/Gorf">
+    <rom name="Gorf (USA, Europe).col" size="16384" sha1="f0406171923072e75d89ae43621ec18bbd9f154c" crc="ff46becc" />
+  </game>
+  <game name="01 - Games/Gust Buster">
+    <rom name="Gust Buster (USA).col" size="16384" sha1="c6506f48a4f33761d0a39c65f0fd092429756f2b" crc="29fea563" />
+  </game>
+  <game name="01 - Games/Gyruss">
+    <rom name="Gyruss (USA).col" size="16384" sha1="9d34b9a55f9b6c8443696114a8e69724e5106b5a" crc="27cbf26d" />
+  </game>
+  <game name="01 - Games/Gyruss/~Prototypes and Betas">
+    <rom name="Gyruss (USA) (Beta).col" size="8448" sha1="54279c45a95294626b7586f5110015b5d1fb94e6" crc="b35d4dc9" />
+  </game>
+  <game name="01 - Games/H.E.R.O. - Helicopter Emergency Rescue Operation">
+    <rom name="H.E.R.O. - Helicopter Emergency Rescue Operation (USA).col" size="16384" sha1="1febd0de031402c2d2dc88f0c60d18c35feee6f3" crc="685ab9b5" />
+  </game>
+  <game name="01 - Games/Heist, The">
+    <rom name="Heist, The (USA).col" size="24576" sha1="55cce8d6a61c1b028555ae0da8cdf629a3b19982" crc="987491ce" />
+  </game>
+  <game name="01 - Games/Illusions">
+    <rom name="Illusions (USA).col" size="16384" sha1="314be140b495de538ffdf01c9faee4aeef1ecb83" crc="2787516d" />
+  </game>
+  <game name="01 - Games/It's Only Rock 'N' Roll">
+    <rom name="It's Only Rock 'N' Roll (USA).col" size="16384" sha1="96be6f4a0818a94dfa5ea9cb01928a66f755c278" crc="cc43ebf7" />
+  </game>
+  <game name="01 - Games/James Bond 007">
+    <rom name="James Bond 007 (USA).col" size="12288" sha1="22ee76c680e94fa016263473d0ffdbed1ea5ab7b" crc="561f2530" />
+  </game>
+  <game name="01 - Games/Joust/~Prototypes and Betas">
+    <rom name="Joust (USA) (Proto).col" size="24576" sha1="551a87b925595e7a465d669e96e11cba0266663a" crc="52228000" />
+  </game>
+  <game name="01 - Games/Jukebox">
+    <rom name="Jukebox (USA).col" size="8192" sha1="16f08d667334332a69cc09762dea5bb2a06ac82b" crc="a5511418" />
+  </game>
+  <game name="01 - Games/Julius Erving and Larry Bird Go - One-on-One">
+    <rom name="Julius Erving and Larry Bird Go - One-on-One (USA).col" size="24576" sha1="2c59bcd829c97948b88b45f447c4c57870d6bd77" crc="ef50e1c5" />
+  </game>
+  <game name="01 - Games/Jumpman Junior">
+    <rom name="Jumpman Junior (USA, Europe).col" size="16384" sha1="b79d4312e2d5fc30e37ee46916dc31908c84590e" crc="060c69e8" />
+  </game>
+  <game name="01 - Games/Jungle Hunt">
+    <rom name="Jungle Hunt (USA).col" size="24576" sha1="8271203fa88e36dbee9423981f580c11b110001a" crc="58e886d2" />
+  </game>
+  <game name="01 - Games/Ken Uston Blackjack-Poker">
+    <rom name="Ken Uston Blackjack-Poker (USA, Europe).col" size="16384" sha1="282c8b5186a7dbbb69b4b7dacd2095e1eaa5b4cd" crc="8c7b7803" />
+  </game>
+  <game name="01 - Games/Ken Uston Blackjack">
+    <rom name="Ken Uston Blackjack-Poker (USA, Europe).col" size="16384" sha1="282c8b5186a7dbbb69b4b7dacd2095e1eaa5b4cd" crc="8c7b7803" />
+  </game>
+  <game name="01 - Games/Ken Uston Poker">
+    <rom name="Ken Uston Blackjack-Poker (USA, Europe).col" size="16384" sha1="282c8b5186a7dbbb69b4b7dacd2095e1eaa5b4cd" crc="8c7b7803" />
+  </game>
+  <game name="01 - Games/Keystone Kapers">
+    <rom name="Keystone Kapers (USA).col" size="16384" sha1="4591c2927131338ff2f602fc8aebb2dda0407a8c" crc="69fc2966" />
+  </game>
+  <game name="01 - Games/Lady Bug">
+    <rom name="Lady Bug (USA, Europe).col" size="16384" sha1="afa8e2f119d63463dbdd0c88be6873b0c6a27594" crc="2c3097b8" />
+  </game>
+  <game name="01 - Games/Learning with Leeper">
+    <rom name="Learning with Leeper (USA).col" size="16384" sha1="0ce165b3c2a9e60964d33f37e8aec7cbf9e9d00f" crc="1641044f" />
+  </game>
+  <game name="01 - Games/Linking Logic">
+    <rom name="Linking Logic (USA).col" size="8192" sha1="198767e1c8794f974f3434674cb0e542108d0011" crc="918f12c0" />
+  </game>
+  <game name="01 - Games/Logic Levels">
+    <rom name="Logic Levels (USA).col" size="8192" sha1="77c46391de8073f6af9754f2b4eba150f258b182" crc="d54c581b" />
+  </game>
+  <game name="01 - Games/Looping">
+    <rom name="Looping (USA, Europe).col" size="16384" sha1="83ee624c22dd42650bcd585b9cc8cc87da6811d5" crc="6a2d637b" />
+  </game>
+  <game name="01 - Games/Lord of the Dungeon/~Prototypes and Betas">
+    <rom name="Lord of the Dungeon (USA) (Beta).col" size="32768" sha1="681fa9f5c4130f65616c11ad7c598b667a3177f4" crc="fee15196" />
+  </game>
+  <game name="01 - Games/M.A.S.H/~Prototypes and Betas">
+    <rom name="M.A.S.H (Europe) (Proto).col" size="16384" sha1="06513b0f49a86784b54dbd8abf8ef8eae934e3c4" crc="fc95b302" />
+  </game>
+  <game name="01 - Games/Masters of the Universe - The Power of He-Man/~Prototypes and Betas">
+    <rom name="Masters of the Universe - The Power of He-Man (USA) (Proto).col" size="32768" sha1="be034ef23af778b986b59bf6609dff0c90b6f8de" crc="2277f82b" />
+  </game>
+  <game name="01 - Games/Matt Patrol/~Prototypes and Betas">
+    <rom name="Matt Patrol (USA) (Proto) (Alt).col" size="32768" sha1="a801f587360782afe7ac1bb7a9b08525a8363531" crc="fbe12de7" />
+    <rom name="Matt Patrol (USA) (Proto).col" size="32768" sha1="8a1e2db621b84e630960b2341ac459af2723a3f6" crc="90007079" />
+  </game>
+  <game name="01 - Games/Memory Manor">
+    <rom name="Memory Manor (USA).col" size="8192" sha1="06f3fd038fa903597bec67cdc5c9ab9572c9c799" crc="bab520ea" />
+  </game>
+  <game name="01 - Games/Meteoric Shower">
+    <rom name="Meteoric Shower (Europe).col" size="8192" sha1="4429f4bcfac5612de5e8f601706cb3af1b82e58e" crc="6a162c7d" />
+  </game>
+  <game name="01 - Games/Miner 2049er Starring Bounty Bob">
+    <rom name="Miner 2049er Starring Bounty Bob (USA, Europe) (v1.1).col" size="24576" sha1="b29cd441e9edebc37abc08c3fd932f1d4185bacd" crc="b24f10fd" />
+    <rom name="Miner 2049er Starring Bounty Bob (USA, Europe).col" size="24576" sha1="591a08c17bbd716e13770e3b14e57a0c21229fc4" crc="f37af58c" />
+  </game>
+  <game name="01 - Games/Monkey Academy">
+    <rom name="Monkey Academy (USA).col" size="20480" sha1="ac51f1a107b962e9322411d6233b3ce922e0fc15" crc="d92b09c8" />
+  </game>
+  <game name="01 - Games/Monkey Academy/~Prototypes and Betas">
+    <rom name="Monkey Academy (USA) (Beta).col" size="16384" sha1="5de6442754c639c77045ce9f18d1b59f38ab07b3" crc="d1e8df85" />
+  </game>
+  <game name="01 - Games/Montezuma's Revenge">
+    <rom name="Montezuma's Revenge (USA).col" size="12288" sha1="44862334e171bccd80d41a2afbc5d7af46d68d07" crc="ced0d16e" />
+  </game>
+  <game name="01 - Games/Moonsweeper">
+    <rom name="Moonsweeper (USA, Europe).col" size="16384" sha1="eeccf73225e03ce10f6f6a02a808dc04f5bb0242" crc="8a303f5a" />
+  </game>
+  <game name="01 - Games/Motocross Racer">
+    <rom name="Motocross Racer (USA).col" size="16384" sha1="89b6f5f482f8f79c10ef9d3ffdeac1ded47a2362" crc="0f4d800a" />
+  </game>
+  <game name="01 - Games/Mountain King">
+    <rom name="Mountain King (USA).col" size="16384" sha1="46602df46117513d7166eba81e2e3546246adf94" crc="c173bbec" />
+  </game>
+  <game name="01 - Games/Mouse Trap">
+    <rom name="Mouse Trap (USA, Europe).col" size="12288" sha1="36686b5f84c8ecfe9e6468ca0f2402ce0c03150c" crc="de47c29f" />
+  </game>
+  <game name="01 - Games/Mr. Do!'s Castle">
+    <rom name="Mr. Do!'s Castle (USA).col" size="12288" sha1="e94e5d8dd549cae8b70d02170502eca4e90a3c30" crc="546f2c54" />
+  </game>
+  <game name="01 - Games/Mr. Do!">
+    <rom name="Mr. Do! (USA, Europe).col" size="24576" sha1="d40a69f4d010636de50fdc1d43a0682141286cbd" crc="461ab6ad" />
+  </game>
+  <game name="01 - Games/Nova Blast">
+    <rom name="Nova Blast (USA, Europe).col" size="12288" sha1="2c35f5b2eb5914a14e544e00c67d4cb5582832d8" crc="4491a35b" />
+  </game>
+  <game name="01 - Games/Oil's Well">
+    <rom name="Oil's Well (USA).col" size="16384" sha1="779e43f183dbdb692dc26ae41dde6b35891f8f8b" crc="add10242" />
+  </game>
+  <game name="01 - Games/Omega Race">
+    <rom name="Omega Race (USA, Europe).col" size="16384" sha1="d0b00ee7b4368ef3dbd74fbace4f8e061ed632f4" crc="0a0511c7" />
+  </game>
+  <game name="01 - Games/Orbit/~Prototypes and Betas">
+    <rom name="Orbit (USA) (Proto).col" size="8192" sha1="bcb3d6845b09adc1adf842cba1ca12f57aa47d79" crc="2cc6f4aa" />
+  </game>
+  <game name="01 - Games/Pac-Man/~Prototypes and Betas">
+    <rom name="Pac-Man (USA) (Proto).col" size="16384" sha1="4d724d40c389cdb62929aa69bc76466c3bcb5bcd" crc="a40a07e8" />
+  </game>
+  <game name="01 - Games/Pepper II">
+    <rom name="Pepper II (USA, Europe).col" size="16384" sha1="0983d0a562ccb3d4ac88d8ae26cf29a465075067" crc="53b85e20" />
+  </game>
+  <game name="01 - Games/Pitfall II - Lost Caverns">
+    <rom name="Pitfall II - Lost Caverns (USA).col" size="16384" sha1="2642c458899c1cafa2f3b9e0959b9ead5829aa68" crc="851a455f" />
+  </game>
+  <game name="01 - Games/Pitfall!">
+    <rom name="Pitfall! (USA).col" size="16384" sha1="964a3551121cd33ce72624c5414d1406ee75ca35" crc="d4f180df" />
+  </game>
+  <game name="01 - Games/Pitstop">
+    <rom name="Pitstop (USA).col" size="16384" sha1="f5a649238057fb354512da2f5336bcb4b09216e5" crc="e627fcf0" />
+    <rom name="Pitstop (USA, Europe) (v1.1).col" size="16384" sha1="bc449bf923cc6b1695598b1ffa7a328618a4ad85" crc="81be4f55" />
+  </game>
+  <game name="01 - Games/Popeye">
+    <rom name="Popeye (USA).col" size="16384" sha1="f54f110ba5864bb3418f84e1c2cdc5c856dda771" crc="a095454d" />
+  </game>
+  <game name="01 - Games/Porky's/~Prototypes and Betas">
+    <rom name="Porky's (USA) (Proto).col" size="16384" sha1="4471f402c0cb8be232ece0ea84dcaef9ee002398" crc="46fc1c00" />
+  </game>
+  <game name="01 - Games/Power Lords - Quest for Volcan/~Prototypes and Betas">
+    <rom name="Power Lords - Quest for Volcan (USA) (Proto 1).col" size="32768" sha1="c2db4f799a1159761f106e8afbb724df3e05081d" crc="6e58974e" />
+    <rom name="Power Lords - Quest for Volcan (USA) (Proto 2).col" size="32768" sha1="bf81f1254f0c5eb11d46ef5e8b8c03e8b02801b4" crc="2ebf88c4" />
+  </game>
+  <game name="01 - Games/Q-bert's Qubes">
+    <rom name="Q-bert's Qubes (USA).col" size="12288" sha1="523fd9fce7047ae76dd4219cdb89a4f298fe14ab" crc="79d90d26" />
+  </game>
+  <game name="01 - Games/Q-bert">
+    <rom name="Q-bert (USA).col" size="8192" sha1="6243fc5593f40d7285ea6b69c541307d3fc583ac" crc="532f61ba" />
+  </game>
+  <game name="01 - Games/Quest for Quintana Roo">
+    <rom name="Quest for Quintana Roo (USA).col" size="16384" sha1="1aef03f7d0bdaa701517a1ad6a75ab8820674f15" crc="eec81c42" />
+  </game>
+  <game name="01 - Games/River Raid">
+    <rom name="River Raid (USA).col" size="16384" sha1="00a5b9dc41e3a684a874b65cf29121984f10f327" crc="fe897f9c" />
+  </game>
+  <game name="01 - Games/Robin Hood">
+    <rom name="Robin Hood (USA).col" size="16384" sha1="f987591f915eb0d3547b85f3767fff2d4fd0540f" crc="cdb8d3cf" />
+  </game>
+  <game name="01 - Games/Roc 'N Rope">
+    <rom name="Roc 'N Rope (USA, Europe).col" size="24576" sha1="6598592f1f4debccce5bccfff406bf10970ffdac" crc="af885d76" />
+  </game>
+  <game name="01 - Games/Rock n' Bolt">
+    <rom name="Rock n' Bolt (USA).col" size="16384" sha1="2b2f337ba597af5eee2b10e70a129638b4679c9e" crc="af49a0c3" />
+  </game>
+  <game name="01 - Games/Rocky - Super Action Boxing">
+    <rom name="Rocky - Super Action Boxing (USA, Europe).col" size="20480" sha1="11def2adb622bbf62bfd2ac14d8151c8f2f772eb" crc="37f144d3" />
+  </game>
+  <game name="01 - Games/Rolloverture">
+    <rom name="Rolloverture (USA).col" size="16384" sha1="5bd7c21d64eee044c88ae438479d22802a510677" crc="0364fb81" />
+  </game>
+  <game name="01 - Games/Root Beer Tapper">
+    <rom name="Root Beer Tapper (USA).col" size="32768" sha1="bbb25e64aefa3adaff9f864713ecabe3b6f0316b" crc="8afd7db2" />
+  </game>
+  <game name="01 - Games/Sammy Lightfoot">
+    <rom name="Sammy Lightfoot (USA).col" size="16384" sha1="b011dc446bb20bcdf5ee8404919d039b690d976b" crc="3563286b" />
+  </game>
+  <game name="01 - Games/Sector Alpha">
+    <rom name="Sector Alpha (USA).col" size="20480" sha1="990967a4ef5795733a29efbacddb23e4d4dd3c15" crc="0ec63a5c" />
+  </game>
+  <game name="01 - Games/Sewer Sam">
+    <rom name="Sewer Sam (USA).col" size="24576" sha1="407c2a1bef81522dfd88ace7abd7d80c0f7de357" crc="4591f393" />
+  </game>
+  <game name="01 - Games/Sir Lancelot">
+    <rom name="Sir Lancelot (USA).col" size="16384" sha1="15e6f8197caee5a500c6ce33952d51beca6a43cc" crc="df84ffb5" />
+  </game>
+  <game name="01 - Games/Skiing">
+    <rom name="Skiing (USA).col" size="8192" sha1="2cfd62a4b403fc2f5344d0e095d1028cc11e4ecc" crc="b37d48bd" />
+  </game>
+  <game name="01 - Games/Slither">
+    <rom name="Slither (USA, Europe).col" size="16384" sha1="b11de2476f867c7c4efb2977777e12fcb454f10b" crc="53d2651c" />
+  </game>
+  <game name="01 - Games/Slurpy">
+    <rom name="Slurpy (USA).col" size="16384" sha1="b56ccdd5a6df3ad753b3f552daad70e1d7bd7e4d" crc="8871e9fd" />
+  </game>
+  <game name="01 - Games/Smurf - Rescue in Gargamel's Castle">
+    <rom name="Smurf - Rescue in Gargamel's Castle (USA, Europe).col" size="16384" sha1="f0740e1916d2351537c6725b37ba3c1b321f15eb" crc="42850379" />
+  </game>
+  <game name="01 - Games/Space Fury">
+    <rom name="Space Fury (USA, Europe).col" size="16384" sha1="f400e1e368ae420a97015674a28db91b4bea15a6" crc="df8de30f" />
+  </game>
+  <game name="01 - Games/Space Panic">
+    <rom name="Space Panic (USA, Europe).col" size="16384" sha1="530870501f322f1d72e820a722790d300f43a6de" crc="5bdf2997" />
+  </game>
+  <game name="01 - Games/Spectron">
+    <rom name="Spectron (USA).col" size="16384" sha1="fb092284a0a6cdabd1b10e6c4127125fe74c7b96" crc="a6401c46" />
+  </game>
+  <game name="01 - Games/Spy Hunter">
+    <rom name="Spy Hunter (USA).col" size="32768" sha1="97865d067bd531209857c3c8502c1260e0a30366" crc="36478923" />
+  </game>
+  <game name="01 - Games/Spy Hunter/~Prototypes and Betas">
+    <rom name="Spy Hunter (USA) (Beta).col" size="32768" sha1="f95fb554b211bde690a85d1f14ff5501cbcaf8bd" crc="1969b9b7" />
+  </game>
+  <game name="01 - Games/Squish'em Featuring Sam">
+    <rom name="Squish'em Featuring Sam (USA).col" size="16384" sha1="ae25507b840b15ca3a832ba0bd8e1cbfdf4634a6" crc="ac92862d" />
+  </game>
+  <game name="01 - Games/Star Fire/~Prototypes and Betas">
+    <rom name="Star Fire (USA) (Proto).col" size="18688" sha1="6bca6df0a2869ec916190db783fab82d0ac3b178" crc="ea3aa29e" />
+  </game>
+  <game name="01 - Games/Star Trek - Strategic Operations Simulator">
+    <rom name="Star Trek - Strategic Operations Simulator (USA).col" size="24576" sha1="d37140e1abd1a0402af5c9e02ab3e4d0c6afe598" crc="95824f1e" />
+  </game>
+  <game name="01 - Games/Star Wars - The Arcade Game">
+    <rom name="Star Wars - The Arcade Game (USA).col" size="16384" sha1="da0567bee88bd1991481a755ac8292a115ed15ac" crc="0e75b3bf" />
+  </game>
+  <game name="01 - Games/Star Wars - The Arcade Game/~Prototypes and Betas">
+    <rom name="Star Wars - The Arcade Game (USA) (Beta) (1984-04-12).col" size="16384" sha1="c7f7aeeb9497a6e68e524944323677de5a7a66cd" crc="d7febc67" />
+  </game>
+  <game name="01 - Games/Steamroller/~Prototypes and Betas">
+    <rom name="Steamroller (USA) (Proto).col" size="16384" sha1="9b0da21d8e6e9a762c578f989d90dd057fea2b5a" crc="153ac4ef" />
+  </game>
+  <game name="01 - Games/Strike It!">
+    <rom name="Strike It! (Europe).col" size="16384" sha1="a455e93e5ce6e562092d2c0b06070a746296395b" crc="d247a1c8" />
+  </game>
+  <game name="01 - Games/Subroc">
+    <rom name="Subroc (USA, Europe).col" size="20480" sha1="d3dca3dab60a386156d823bf1905e5542ac1aa21" crc="a417f25f" />
+  </game>
+  <game name="01 - Games/Super Action Baseball">
+    <rom name="Super Action Baseball (USA).col" size="20480" sha1="4829d304cbb752031bf5b4b1d48eed2ad06f222e" crc="b3bcf3f9" />
+  </game>
+  <game name="01 - Games/Super Action Football">
+    <rom name="Super Action Football (Europe).col" size="32768" sha1="5f43180c243039eecef024ab1f4e70a2e2502fc1" crc="4d6c0458" />
+    <rom name="Super Action Football (USA).col" size="32768" sha1="4c16f4e233db50e3d9b3a191f4f408338640ac19" crc="62619dc0" />
+  </game>
+  <game name="01 - Games/Super Cobra">
+    <rom name="Super Cobra (USA).col" size="8192" sha1="3bf730acbfb0404d2e2411169c8fc6a81b907053" crc="f84622d2" />
+  </game>
+  <game name="01 - Games/Super Cross Force">
+    <rom name="Super Cross Force (USA, Europe).col" size="12288" sha1="42a22d2314081450e8cb2a5e8ba4aa0987971063" crc="84350129" />
+  </game>
+  <game name="01 - Games/Super DK! Junior/~Prototypes and Betas">
+    <rom name="Super DK! Junior (USA) (Proto).col" size="32768" sha1="44a22e508002a069f7953668f2e8a3c901c677d6" crc="c2e7f0e0" />
+  </game>
+  <game name="01 - Games/Super DK!/~Prototypes and Betas">
+    <rom name="Super DK! (USA) (Proto).col" size="32768" sha1="b1ac18780e36821a8d41fc4410e14ab0ce80ac91" crc="ef25af90" />
+  </game>
+  <game name="01 - Games/TOMARC the Barbarian">
+    <rom name="TOMARC the Barbarian (USA).col" size="16384" sha1="44b285d438854dfa0186c7fe6e21872e2dde13f1" crc="1e14397e" />
+  </game>
+  <game name="01 - Games/Tank Wars">
+    <rom name="Tank Wars (Europe).col" size="12288" sha1="0a32a17a3e5e6c220de91e4dcf036d7d02ad8e30" crc="af6bbc7e" />
+  </game>
+  <game name="01 - Games/Tarzan">
+    <rom name="Tarzan (USA, Europe).col" size="24576" sha1="59cb8dec033c3b1df476c7c93109aba9562ba3d4" crc="7cd7a702" />
+  </game>
+  <game name="01 - Games/Threshold">
+    <rom name="Threshold (USA).col" size="16384" sha1="7f71c024d7d85627b893d28131d284dde25577b8" crc="1593f7df" />
+  </game>
+  <game name="01 - Games/Time Pilot">
+    <rom name="Time Pilot (USA, Europe).col" size="16384" sha1="3b7cbc5c0d47027ecd5e6f5d1485af436ab02ad1" crc="b3a1eacb" />
+  </game>
+  <game name="01 - Games/Tournament Tennis">
+    <rom name="Tournament Tennis (USA).col" size="16384" sha1="0f113cda3b12253d1d42e994896db3f88a5b884d" crc="c1d5a702" />
+  </game>
+  <game name="01 - Games/Turbo">
+    <rom name="Turbo (USA, Europe).col" size="16384" sha1="27f39b9e42cce0cead88c0d0691d56ce46b97111" crc="bd6ab02a" />
+  </game>
+  <game name="01 - Games/Tutankham">
+    <rom name="Tutankham (USA).col" size="12288" sha1="a668ff92e6f83e37f44178260618bbc650ca61c9" crc="0408f58c" />
+  </game>
+  <game name="01 - Games/Up 'n Down">
+    <rom name="Up 'n Down (USA).col" size="16384" sha1="96d83945d041f6f795a3107904a9986de86df8a6" crc="fdd52ca0" />
+  </game>
+  <game name="01 - Games/Venture">
+    <rom name="Venture (USA, Europe).col" size="16384" sha1="9cf7e7439d1719152ed28c1123ae8ad68175412f" crc="8e5a4aa3" />
+  </game>
+  <game name="01 - Games/Victory">
+    <rom name="Victory (Europe).col" size="20480" sha1="589b130410faadcb3f6cdb68a58353f4fb3a7e5f" crc="b1fda1c5" />
+    <rom name="Victory (USA).col" size="20480" sha1="7144c65cb57eeb846f4771aeb402469494f8f56f" crc="70142655" />
+  </game>
+  <game name="01 - Games/Video Hustler/~Prototypes and Betas">
+    <rom name="Video Hustler (USA) (Proto 1).col" size="8192" sha1="5f481ff47762a812c73bb120e60f31ee99fd6b5f" crc="841d168f" />
+    <rom name="Video Hustler (USA) (Proto 2).col" size="8192" sha1="08172d85140c004241ab585fc41cdc7841f8290b" crc="a9177b20" />
+  </game>
+  <game name="01 - Games/War Room">
+    <rom name="War Room (USA).col" size="24576" sha1="031eaec9188105150460ff354fe50e22ce738c53" crc="261b7d56" />
+  </game>
+  <game name="01 - Games/WarGames">
+    <rom name="WarGames (USA, Europe).col" size="24576" sha1="1e3b525f2d895105727fee76076dd5ecccbf1778" crc="fd25adb3" />
+  </game>
+  <game name="01 - Games/Wing War">
+    <rom name="Wing War (USA).col" size="16384" sha1="eb7764ef6f50885e2eaffaff42ab9fcf760a77e1" crc="29ec00c9" />
+  </game>
+  <game name="01 - Games/Wizard of Id's - WizMath">
+    <rom name="Wizard of Id's - WizMath (USA).col" size="16384" sha1="dc89ba95d30e9e46ab77506e700b9d5e264b90a7" crc="b9ba2bb6" />
+  </game>
+  <game name="01 - Games/Word Feud">
+    <rom name="Word Feud (USA).col" size="8192" sha1="9a6188511ae54e6886222b84185714d2ead8cfbc" crc="f7a29c01" />
+  </game>
+  <game name="01 - Games/Yolk's on you, The/~Prototypes and Betas">
+    <rom name="Yolk's on you, The (Europe) (Proto).col" size="16384" sha1="9b5bfb69d37042d131a5c9576f927e09f44f9666" crc="997ad8de" />
+  </game>
+  <game name="01 - Games/Zaxxon">
+    <rom name="Zaxxon (Taiwan) (En) (Unl).col" size="24576" sha1="5b6bde9746d7b57291a9acc519962717e2c12aaa" crc="5b0e2adf" />
+    <rom name="Zaxxon (USA, Europe).col" size="24576" sha1="1733b3407939f5c37e39d5494abfa4137f500707" crc="8cb0891a" />
+  </game>
+  <game name="01 - Games/Zenji">
+    <rom name="Zenji (USA).col" size="16384" sha1="9119f3a485eb4215e7d41c7cf0e412d903458647" crc="6e523e50" />
+  </game>
+  <game name="02 - Software and Utilities/240p Test Suite/240p Test Suite (2024-01-27) (ColecoVision)">
+    <rom name="suitecv.rom" size="32768" sha1="3331d9ec07885a20e5431b83b04392f77d21da3a" crc="b2a15b2b" />
+  </game>
+  <game name="02 - Software and Utilities/Cabbage Patch Kids - Picture Show">
+    <rom name="Cabbage Patch Kids - Picture Show (USA).col" size="24576" sha1="e083b81f7a5d47571214eac56b352e5a8a2b08b5" crc="75b08d99" />
+  </game>
+  <game name="02 - Software and Utilities/ColecoVision Monitor Test">
+    <rom name="ColecoVision Monitor Test (USA, Europe).col" size="16384" sha1="5d0c451744b714514c3113a44320019c2457e52c" crc="71ae16ed" />
+  </game>
+  <game name="02 - Software and Utilities/Dance Fantasy">
+    <rom name="Dance Fantasy (USA).col" size="8192" sha1="6f65bbe13f13a70aee79ce7970095aef280abeaa" crc="bff86a98" />
+  </game>
+  <game name="02 - Software and Utilities/Final Test Cartridge">
+    <rom name="Final Test Cartridge (USA).col" size="8192" sha1="cef53b9eae8dfbd877e18277980975f862f95f9d" crc="3ae4b58c" />
+  </game>
+  <game name="02 - Software and Utilities/Smurf - Paint 'n' Play WORKSHOP">
+    <rom name="Smurf - Paint 'n' Play WORKSHOP (USA, Europe).col" size="24576" sha1="d46d6e0edeaf6f76430d4800caa7a6af291cb199" crc="97c0382d" />
+  </game>
+  <game name="02 - Software and Utilities/Super Controller Tester">
+    <rom name="Super Controller Tester (USA).col" size="16384" sha1="0c6840b7bc24a36529f0a80ccef85ee9f409a972" crc="eb6cb4d8" />
+  </game>
+  <game name="02 - Software and Utilities/Super Sketch - Sketch Master">
+    <rom name="Super Sketch - Sketch Master (USA) (Program) (Unl).col" size="8192" sha1="3acbae2580c38bfea9ce7ec06274edd39607016d" crc="8627300a" />
+  </game>
+  <game name="02 - Software and Utilities/Telly Turtle">
+    <rom name="Telly Turtle (USA).col" size="16384" sha1="c0157c0622a751f8eb7ff19b83f521c107f7a7ce" crc="c8bc1950" />
+  </game>
+</datafile>

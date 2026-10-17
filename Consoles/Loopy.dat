@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<datafile>
+  <header>
+    <name>Loopy</name>
+    <version>2026-10-16</version>
+    <romvault forcepacking="fileonly" />
+  </header>
+  <game name="01 - Games/Chakrakun no Omajinai Paradise">
+    <rom name="Chakrakun no Omajinai Paradise (Japan).bin" size="2097152" sha1="d29f5d80a74e3a167b34e8ec4d9e33ade139a639" crc="955c56ea" />
+  </game>
+  <game name="01 - Games/Dream Change - Kogane-chan no Fashion Party">
+    <rom name="Dream Change - Kogane-chan no Fashion Party (Japan).bin" size="2097152" sha1="8c6176b9aeaf9094f29175b05a01958cd606c988" crc="0fb0a794" />
+  </game>
+  <game name="01 - Games/Little Romance">
+    <rom name="Little Romance (Japan).bin" size="3145728" sha1="1792c46af96dbea9f0bb9965d53e4af8066e0fd2" crc="550616f0" />
+  </game>
+  <game name="01 - Games/Loopy Town no Oheya ga Hoshii!">
+    <rom name="Loopy Town no Oheya ga Hoshii! (Japan).bin" size="3145728" sha1="cda377884f3e4544c338c5625b99b68836de0543" crc="352b4ae6" />
+  </game>
+  <game name="01 - Games/Loopy Town no Oheya ga Hoshii!/~Translations">
+    <rom name="I Want a Room in Loopy Town! (Japan) [T-En by SeriaMau v1.0.0] [4x Pay] [n] [AI assisted].bin" size="3695520" sha1="783a4902b6debbced8ccacf336b9a4458573ca34" crc="bdca1342" />
+    <rom name="I Want a Room in Loopy Town! (Japan) [T-En by SeriaMau v1.0.0] [n] [AI assisted].bin" size="3695520" sha1="d4cf9a721f70189dcdd11080b0eb36ad190a9e22" crc="9407d6df" />
+  </game>
+  <game name="01 - Games/Wanwan Aijou Monogatari">
+    <rom name="Wanwan Aijou Monogatari (Japan).bin" size="2097152" sha1="4a306e64f5e4743d943efb41c6deb2af4dd85974" crc="10c5f568" />
+  </game>
+  <game name="01 - Games/Wanwan Aijou Monogatari/~Translations/Puppy Love Story (Japan) [T-En by Roger Braunstein v1.0] [n]">
+    <rom name="Puppy Love Story (Japan) [T-En by Roger Braunstein v1.0] [n].bin" size="2097152" sha1="42f69a770d13c4e3a016838512a968c942d5b361" crc="038a02a9" />
+  </game>
+  <game name="01 - Games/Wanwan Aijou Monogatari/~Translations/Puppy Love Story (Japan) [T-En by Roger Braunstein v1.0] [n]/pcm">
+    <rom name="src01.wav" size="386336" sha1="8c49a343adf4228f0d58e6ddd5de14e081de5867" crc="4e3967f1" />
+    <rom name="src02.wav" size="904028" sha1="c4ab5cbb45004a3570d087ae39d93492c18ccbbc" crc="d6a13482" />
+    <rom name="src03.wav" size="525436" sha1="27367d60571d6ded52485c50ef0171ce6f19eea8" crc="3e027973" />
+    <rom name="src04.wav" size="617936" sha1="aadd6c1c2ba08eefe78ceb2fe5c763f702fe932c" crc="68f250cf" />
+    <rom name="src05.wav" size="525444" sha1="82f20364190fb6ad038d35e6566ef779b5df7a63" crc="a2eaac62" />
+    <rom name="src06.wav" size="324548" sha1="760ef4de3527d4fb0bebecdc398afd9190b4fbe6" crc="76b05061" />
+    <rom name="src07.wav" size="479064" sha1="0dfe93a980fcb05bae42a652622b26c03c63ec32" crc="26aa506f" />
+    <rom name="src08.wav" size="224104" sha1="67745270c63c8410ef13433939b80fdc578b430f" crc="ee5a3108" />
+    <rom name="src09.wav" size="726320" sha1="5b5ac27c6f1e811016beff79bddffca60965ce00" crc="c2f9df92" />
+    <rom name="src10.wav" size="525336" sha1="a44a8ff2adaf3f16220e619fe56d403492cf49b8" crc="924e442b" />
+    <rom name="src11.wav" size="316820" sha1="d9e5be954c9680bc547140610943cd18eafa5127" crc="9308f5d3" />
+    <rom name="src12.wav" size="618068" sha1="7dff8ee5791bbd9e219deb5a44fbf8bc83598d54" crc="9a8f7c55" />
+    <rom name="src13.wav" size="386256" sha1="31f35a845d0984797063eed7c477ff647af75a63" crc="1c23a3fd" />
+    <rom name="src14.wav" size="92756" sha1="d9de697e5ed6c2f49dd1ad38647531982ffd0662" crc="77ae1111" />
+    <rom name="src15.wav" size="231808" sha1="2ec8ac4ae3978a139fb5e48144f74bc844ce265e" crc="2ab950e2" />
+    <rom name="src16.wav" size="571788" sha1="bd7b65e7234058ac7ce3b2035a634f7ee376680f" crc="d181e87b" />
+    <rom name="src17.wav" size="231840" sha1="321e20da10a9f7a7bee7f6fc0ee096bd8e320c4b" crc="1e12a3ff" />
+    <rom name="src18.wav" size="896288" sha1="25250d26500834a9d63cf18e099c5227938fc7bf" crc="c04c06f9" />
+    <rom name="src19.wav" size="424988" sha1="c26f251d79939a5099971dcb972571872c0a8e0e" crc="6aa6759e" />
+    <rom name="src20.wav" size="564060" sha1="5b71bf03ab04804f6be001978366fb993f372ba0" crc="6bc5e8d4" />
+    <rom name="src21.wav" size="1545320" sha1="86a9376f5c87b96fdf210f8e078bda7184b4d4da" crc="9e1849d6" />
+    <rom name="src22.wav" size="231832" sha1="20ed2aa094bd26d8e611390cccc60c8ec9f56909" crc="3d737cc1" />
+  </game>
+  <game name="02 - Software and Utilities/Anime Land">
+    <rom name="Anime Land (Japan).bin" size="2097152" sha1="4df91e02dd8456ca32e8413f537cfeb88f65d799" crc="3fd9713b" />
+  </game>
+  <game name="02 - Software and Utilities/HARIHARI Seal Paradise">
+    <rom name="HARIHARI Seal Paradise (Japan).bin" size="2097152" sha1="2dafcd6b2a50a4c38adb01641cd0c59e5214bccb" crc="b82ac7f3" />
+  </game>
+  <game name="02 - Software and Utilities/Lupiton no Wonder Palette">
+    <rom name="Lupiton no Wonder Palette (Japan).bin" size="2097152" sha1="b461920ac5d28f56444f0aee36dee42350b7ea9e" crc="f4662e66" />
+  </game>
+  <game name="02 - Software and Utilities/Nigaoe Artist">
+    <rom name="Nigaoe Artist (Japan).bin" size="2097152" sha1="43103d14c39964b0d008ccd16284ffa43299c278" crc="ef1b33f3" />
+  </game>
+  <game name="02 - Software and Utilities/Pasocom Collection">
+    <rom name="Pasocom Collection (Japan).bin" size="2097152" sha1="d54ad999418a31955aa4facd64360a208674531c" crc="fe3be881" />
+  </game>
+</datafile>

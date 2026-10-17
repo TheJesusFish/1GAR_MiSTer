@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='utf-8'?>
+<datafile>
+  <header>
+    <name>Game and Watch</name>
+    <version>2026-10-16</version>
+    <romvault forcepacking="fileonly" />
+  </header>
+  <game name="1. Nintendo">
+    <rom name="Ball.gnw" size="4467392" sha1="e76501d9bc0d934f738110d7415c478653aa84ee" crc="2615f8df" />
+    <rom name="Balloon Fight (Crystal Screen).gnw" size="4467392" sha1="82139a4e5fb62830f62670b24e9f61efc0d1bcd9" crc="a2ed5ca7" />
+    <rom name="Balloon Fight (New Wide Screen).gnw" size="4467392" sha1="00c55d03a001013cce9924074f3dbd2336c4f361" crc="4250c44a" />
+    <rom name="Black Jack.gnw" size="4467392" sha1="456e8cfb72097f679860c2e55fdaea55c869a89a" crc="7d17bae4" />
+    <rom name="Bomb Sweeper.gnw" size="4467392" sha1="0f8c20246eee6165d5e474dddb0eb7a1311e1c93" crc="ce57d827" />
+    <rom name="Chef.gnw" size="4467392" sha1="1e2cd3618a2bb7d8bb36a433085fb99e3930a0f9" crc="ecf57543" />
+    <rom name="Climber (Crystal Screen).gnw" size="4467392" sha1="18a2c2dfb9a16c4d0d85f0c524cf3178b45a4936" crc="7b0f7c20" />
+    <rom name="Climber (New Wide Screen).gnw" size="4467392" sha1="8a91ac61603e0b6429c9d215a988a597f871f514" crc="47fe16c8" />
+    <rom name="Crab Grab.gnw" size="4467392" sha1="10e660aa5a1e4f2d6f5d9a396a885c85e4837ad6" crc="fcf0b626" />
+    <rom name="Donkey Kong Circus.gnw" size="4467392" sha1="85276f08ca34ae889b341c0de7230f3841415043" crc="5862b8e8" />
+    <rom name="Donkey Kong II.gnw" size="4467392" sha1="ac360fa0f3044c406dc8f09d60d4ba3e55d07712" crc="132a8223" />
+    <rom name="Donkey Kong Jr. (New Wide Screen).gnw" size="4467392" sha1="1ca95132e452d26dc81996620628b7f8118d3005" crc="880831dd" />
+    <rom name="Donkey Kong Jr. (Panorama Screen).gnw" size="4467392" sha1="cc30493e42fa1661d9d41ec55827ba2531df5269" crc="de49ff62" />
+    <rom name="Donkey Kong.gnw" size="4467392" sha1="72c0eb191493ae6f73456000034ece8590e42d84" crc="0e4dd85a" />
+    <rom name="Egg.gnw" size="4467392" sha1="6bdb2a0f422133f9c2740655e04908e4b556a9cc" crc="167aac11" />
+    <rom name="Fire (Silver).gnw" size="4467392" sha1="201d8c22cb259d55afbb636aadcc89a9a4f32551" crc="f9009b48" />
+    <rom name="Fire (Wide Screen).gnw" size="4467392" sha1="8e1029a2cc3af1d8d2e324d4b20ca5296d302521" crc="e58c8514" />
+    <rom name="Fire Attack.gnw" size="4467392" sha1="2bc7cd4f4fe14187d8e56a4d34df6348328f5cf8" crc="28f8400e" />
+    <rom name="Flagman.gnw" size="4467392" sha1="7cf9ccc13ec55a74f799f358ba5daf7f76b75d59" crc="7dd28d9b" />
+    <rom name="Gold Cliff.gnw" size="4467392" sha1="28d2ac235ab0f70f1953c087ab7abe34bb128c0e" crc="9ec168d1" />
+    <rom name="Green House.gnw" size="4467392" sha1="3a6425b5e3141e719b04bc70c15f215d5ebf9090" crc="0a6f451b" />
+    <rom name="Helmet (version CN-07).gnw" size="4467392" sha1="9ed3da2feff0ede15420348e391d6fa1793dacde" crc="719803b7" />
+    <rom name="Helmet (version CN-17).gnw" size="4467392" sha1="19178ac08744f610d785693473d89d876ffb673b" crc="cfbad836" />
+    <rom name="Judge (green version).gnw" size="4467392" sha1="a11012f01f100c27297e0331ea7f8b8e57d1e7b5" crc="1e0b0506" />
+    <rom name="Judge (purple version).gnw" size="4467392" sha1="f6f1977b2db51790488be113a82133b987b7033e" crc="54a229d9" />
+    <rom name="Life Boat.gnw" size="4467392" sha1="1afbc825d8076ca53b0c5d582cfa1f4a2c62f6e8" crc="d80d5568" />
+    <rom name="Lion.gnw" size="4467392" sha1="9691b2381b155711a4fcb2950921865d0db722ac" crc="015b3aee" />
+    <rom name="Manhole (Gold).gnw" size="4467392" sha1="1a07126f8f053b6efe5c4179d351515025ef24c8" crc="355d493c" />
+    <rom name="Manhole (New Wide Screen).gnw" size="4467392" sha1="88f55d403758523435b309ac2ce309a7d071b152" crc="8a5e1c28" />
+    <rom name="Mario Bros..gnw" size="4467392" sha1="ca9b8d30edc26d4048be7ec67c93b93e24bc8882" crc="92f3c2ed" />
+    <rom name="Mario The Juggler.gnw" size="4467392" sha1="5e682bb91697d441eccb223ac25da39371605ba9" crc="1cb3b061" />
+    <rom name="Mario's Bombs Away.gnw" size="4467392" sha1="7e606b99be1bb6c3e9ac54e39e17507e3b0246b1" crc="267f1997" />
+    <rom name="Mario's Cement Factory (New Wide Screen).gnw" size="4467392" sha1="26773be1fe342642880b4b57283f5a2decf03889" crc="8ffc3b71" />
+    <rom name="Mario's Cement Factory (Table Top, version CM-72).gnw" size="4467392" sha1="d8c512949fdf1e964e4e98e6ce3c19cc125467e0" crc="f9f6bb01" />
+    <rom name="Mario's Cement Factory (Table Top, version CM-72A).gnw" size="4467392" sha1="16c0c616babaf75c34e5a6ed3bc615fd1f6e3b93" crc="cb254b60" />
+    <rom name="Mickey &amp; Donald.gnw" size="4467392" sha1="aadb00b857f134ccc74ca58557ac4dc70e778dcc" crc="a0b39ba5" />
+    <rom name="Mickey Mouse (Panorama Screen).gnw" size="4467392" sha1="785dffe8335f83b2e59bfceb2fabb81a81bdfa7c" crc="2c9dbf8d" />
+    <rom name="Mickey Mouse (Wide Screen).gnw" size="4467392" sha1="d703dc6bf065be33ce9b5d9d0634eb161f436e91" crc="6854ba0b" />
+    <rom name="Micro Vs. System - Boxing.gnw" size="4467392" sha1="29ec0522347c8820114da0cbc289589d40907fcc" crc="f12ee87e" />
+    <rom name="Micro Vs. System - Donkey Kong 3.gnw" size="4467392" sha1="e1dd036f992cb9ec9f5e9a3487d1f9a108e067cc" crc="e2d6f769" />
+    <rom name="Micro Vs. System - Donkey Kong Hockey.gnw" size="4467392" sha1="bbcb418ca9172021e7d15063c40c878db4e0a7d0" crc="50d5118b" />
+    <rom name="Octopus.gnw" size="4467392" sha1="a2fa6e2563253aaebf2f99e4510bb586cb449990" crc="e3dfbf41" />
+    <rom name="Oil Panic.gnw" size="4467392" sha1="df7e5c38123068fe94aea4860490b93da7065071" crc="93ccc0cc" />
+    <rom name="Parachute.gnw" size="4467392" sha1="96c01b6527be5cc03d327c6d5d0c0dc59d8612d0" crc="2199c86b" />
+    <rom name="Pinball.gnw" size="4467392" sha1="227220b572f86d68198bbee0c4216bbe86f97ff0" crc="d6c2d92d" />
+    <rom name="Popeye (Panorama Screen).gnw" size="4467392" sha1="3181611e38f7472a95a50d64ffa89df374252bb9" crc="d6848526" />
+    <rom name="Popeye (Wide Screen).gnw" size="4467392" sha1="e4117d48d25cd1dec4a9e0cf89db5dc793021dfd" crc="942cd6f8" />
+    <rom name="Rain Shower.gnw" size="4467392" sha1="af7ab579b8f6a0920b446f469b5f7c088789034a" crc="00a0737a" />
+    <rom name="Safe Buster.gnw" size="4467392" sha1="5c33fdb38bf160090c8bbd0eee34dd86b2c45528" crc="e08f5d17" />
+    <rom name="Snoopy (Panorama Screen).gnw" size="4467392" sha1="4f096fa7023a400ec87a2ef191da4f22287f3d90" crc="a20ac2b1" />
+    <rom name="Snoopy Tennis.gnw" size="4467392" sha1="27c47526d060528ac635f31c117dd5c644eb3dd0" crc="34d98ba0" />
+    <rom name="Spitball Sparky.gnw" size="4467392" sha1="307e70cd6d3c430aa3ceca0298b4fa8ba4001a85" crc="8d1a0d14" />
+    <rom name="Squish.gnw" size="4467392" sha1="3fb171ae934292dacda1041180c16cdf00b9b4d1" crc="726fa844" />
+    <rom name="Super Mario Bros. (Crystal Screen).gnw" size="4467392" sha1="3e1d3a68491d399d7d8a5f33d295a23906c843ae" crc="2b2458bc" />
+    <rom name="Super Mario Bros. (New Wide Screen).gnw" size="4467392" sha1="5f3bf9050bdd67a01a3546e8ee80ae924d02643b" crc="3b4c7b88" />
+    <rom name="Tropical Fish.gnw" size="4467392" sha1="b586c058ee1847c40193ee0bb5e5d9392a748b78" crc="b5036f51" />
+    <rom name="Turtle Bridge.gnw" size="4467392" sha1="b5f904d7c7c17de15d9cf577266a60f43cfbedda" crc="3d1ac357" />
+    <rom name="Vermin.gnw" size="4467392" sha1="e7d734a967a49518752293801aedbfb66b00b4fb" crc="8d7123ec" />
+    <rom name="Zelda.gnw" size="4467392" sha1="63a68f783c2e5370c242d3f5e9694e522bd0ba9d" crc="6a1b19da" />
+  </game>
+  <game name="2. Tiger Electronics">
+    <rom name="007 - GoldenEye (Tiger).gnw" size="4467392" sha1="8d256c1425e1553120766ba5ab1a63b716b5d3c5" crc="c0ab9c56" />
+    <rom name="Altered Beast (Tiger).gnw" size="4467392" sha1="294ca0aa3ba3400c7285bb90d0ad342540c8a4ea" crc="eae1cbf4" />
+    <rom name="Apollo 13 (Tiger).gnw" size="4467392" sha1="2b37b16fed63c0a8c4504e3658f9fd9c4e779fea" crc="3090fd02" />
+    <rom name="Back to the Future (Tiger).gnw" size="4467392" sha1="e85acee5c77c918dbd43b650f2de2df805aa9d10" crc="445e3950" />
+    <rom name="Batman (Tiger).gnw" size="4467392" sha1="22e7d0efc06d90c6ad29ada086b6316c3cd0327f" crc="b566092b" />
+    <rom name="Batman - The Animated Series (Tiger).gnw" size="4467392" sha1="97336404b8e433a5419b010ddf3f66075c541d69" crc="64c00914" />
+    <rom name="Batman Forever - Double Dose of Doom (Tiger).gnw" size="4467392" sha1="ac4cb5e848bfbe6fb36d7600c4d05a7e13e2396a" crc="522993e4" />
+    <rom name="Battletoads (Tiger).gnw" size="4467392" sha1="2e9dd2555414eb4b4178ea1fcffb3377c3504143" crc="9c39e15d" />
+    <rom name="Castlevania II - Simon's Quest (Tiger).gnw" size="4467392" sha1="0575bd10dfa699cd125a10c300696c90505758a8" crc="57a74538" />
+    <rom name="Dennis the Menace (Tiger).gnw" size="4467392" sha1="909f2bcd48711c7e1898c63f187f02724fb9baca" crc="843acdc7" />
+    <rom name="Double Dragon (Tiger).gnw" size="4467392" sha1="f78a1c4e808fe07ce1aa0144edd2274121e5cf7a" crc="91165c67" />
+    <rom name="Double Dragon 3 - The Rosetta Stone (Tiger).gnw" size="4467392" sha1="672dc3f7db942e99d6b45e4e4635ee8349a5dea3" crc="1d9a1613" />
+    <rom name="Double Dragon II - The Revenge (Tiger).gnw" size="4467392" sha1="83438ccfc330e3517e2c57c1d0eaeba7b19a0dd7" crc="02faf638" />
+    <rom name="Gargoyles - Night Flight (Tiger).gnw" size="4467392" sha1="728825bbf1b54d0ccd5b3430d404e5620c64dad1" crc="e2ba08ad" />
+    <rom name="Gauntlet (Tiger).gnw" size="4467392" sha1="38601fd245c5988f5bf20b132c643e626c671d3f" crc="066da448" />
+    <rom name="Golden Axe (Tiger).gnw" size="4467392" sha1="560038ebdc3884aee43a924f0be70f19f124c8a2" crc="d60d43ae" />
+    <rom name="Home Alone (Tiger).gnw" size="4467392" sha1="3806c8e19e094af284f1b967bfeeb1e914e11a56" crc="d649f403" />
+    <rom name="Home Alone 2 - Lost in New York (Tiger).gnw" size="4467392" sha1="b466260990134fb2849108c6bd9f56d2420c047c" crc="9af0a0bc" />
+    <rom name="Hook (Tiger).gnw" size="4467392" sha1="94959b57698c01c6e021283ccdfd5684c2b0a004" crc="121763ec" />
+    <rom name="Independence Day (Tiger).gnw" size="4467392" sha1="2705450fc694b1f5238f34eeab77e2f75efd0959" crc="891ac357" />
+    <rom name="Judge Dredd (Tiger).gnw" size="4467392" sha1="f55c63d691a30056c8e37dc5a1d758610005dc55" crc="6ef14ca3" />
+    <rom name="Jurassic Park (Tiger).gnw" size="4467392" sha1="dceea829a9d7ae07fb930f191d83695050c9e4e3" crc="15b19881" />
+    <rom name="Karnov (Tiger).gnw" size="4467392" sha1="05ef10b3423b8ad5b18463f503aacdc80f92c856" crc="3f9a3bec" />
+    <rom name="Kazaam (Tiger).gnw" size="4467392" sha1="98d9f42441b3cdf33756a015ea28bf8571c94d9b" crc="2cdeda61" />
+    <rom name="MC Hammer - U Can't Touch This (Tiger).gnw" size="4467392" sha1="7d7de5f3e345f3900a4c87b907c2f0201c0f5463" crc="fa1a24fc" />
+    <rom name="Mega Man 3 (Tiger).gnw" size="4467392" sha1="2d9a33068576cc115608904cc6b917f61e34660e" crc="3c00900d" />
+    <rom name="Mighty Max (Tiger).gnw" size="4467392" sha1="f3ee7d8bc1ed4eb173200f8d09f7c132e8bf4f78" crc="0a2441ad" />
+    <rom name="Mortal Kombat (Tiger).gnw" size="4467392" sha1="03feb6b9be991aae2310fcc8b21e72c3e5a65012" crc="0e6729c5" />
+    <rom name="Nightmare Before Christmas (Tiger).gnw" size="4467392" sha1="4101ddc34720d309ba5cea38f2f476ceb7d09ef9" crc="c0438b9e" />
+    <rom name="Ninja Gaiden III (Tiger).gnw" size="4467392" sha1="b7ee7aa180bbb235b47da4b044ec5a518c832e22" crc="6f5e05db" />
+    <rom name="Operation - Aliens (Tiger).gnw" size="4467392" sha1="57d33579c42b0cb4e35eed1ca590ffcffa729043" crc="9e1b9fb2" />
+    <rom name="Pit-Fighter (Tiger).gnw" size="4467392" sha1="d130029fb3a1ded46408d68b0db36c5d3b407f61" crc="f08cb003" />
+    <rom name="Robin Hood (Tiger).gnw" size="4467392" sha1="dea5cd6e32f9935ce6dc43049adecfe7930d9f86" crc="db3d071d" />
+    <rom name="Robocop 2 (Tiger).gnw" size="4467392" sha1="7c8c7f3f80e30a621f8143ee1ba5a6338add27da" crc="236b3415" />
+    <rom name="Robocop 3 (Tiger).gnw" size="4467392" sha1="273abbe8e37bdd44de37a803bc40954de1c1f6cb" crc="0fa40c2c" />
+    <rom name="Skeleton Warriors - The Dark Crusade (Tiger).gnw" size="4467392" sha1="8ace095e8a81d0dc54bbe783491b644e582e140d" crc="46415745" />
+    <rom name="Sonic The Hedgehog (Tiger).gnw" size="4467392" sha1="ca0ceb568d67edfe3fe6a5bd6d183911c9bdcfb8" crc="088c5d11" />
+    <rom name="Sonic The Hedgehog 2 (Tiger).gnw" size="4467392" sha1="ee33a590ba8fd18aa48df333501e1d3e83f63df9" crc="038feaa2" />
+    <rom name="Space Harrier II (Tiger).gnw" size="4467392" sha1="8050fa3def3d93a5ecc8febad6166aab309b7ec3" crc="aa7be14b" />
+    <rom name="Space Jam (Tiger).gnw" size="4467392" sha1="acac040178ca2114b33edbd6fb6935abaa6f13f7" crc="f7c4e753" />
+    <rom name="Spider-Man (Tiger, 1991 version).gnw" size="4467392" sha1="15accedbe8ab73b717271a1bccc7d36cd255f71d" crc="061193ba" />
+    <rom name="Street Fighter 2010 - The Final Fight (Tiger).gnw" size="4467392" sha1="3f90b5136cfa350058dabb84bcbaa1f79f3e6cbb" crc="9fe2a3b7" />
+    <rom name="Street Fighter II (Tiger).gnw" size="4467392" sha1="585f8478ed757392e8cb83155f4585f0f0914095" crc="941ed55f" />
+    <rom name="Strider (Tiger).gnw" size="4467392" sha1="c6367981ef476439c1e57ac26a27a713bb5db79c" crc="f246ed9e" />
+    <rom name="Super Double Dragon (Tiger).gnw" size="4467392" sha1="b1faf37aaf20cd54647f906e257577353f09ed53" crc="edabaaa7" />
+    <rom name="Superman (Tiger).gnw" size="4467392" sha1="6445a65a212d4e4da9fb88b2515674c99216e239" crc="a28fb8f5" />
+    <rom name="Swamp Thing (Tiger).gnw" size="4467392" sha1="433a44bf857eb350fc6de2f4dbdf6150f8a486e8" crc="190307b5" />
+    <rom name="The Addams Family (Tiger).gnw" size="4467392" sha1="3acd96cbfe0f54855a3bc4d03e193fb57522ce0c" crc="845a87be" />
+    <rom name="The Flash (Tiger).gnw" size="4467392" sha1="f913f59d3fc90a17fc68ea19d06149eb2d6419a1" crc="f77fbf42" />
+    <rom name="The Incredible Crash Dummies (Tiger).gnw" size="4467392" sha1="f8b1624f4f37f60359b2be651f3d944ea51f8169" crc="79ec3bc2" />
+    <rom name="The Rocketeer (Tiger).gnw" size="4467392" sha1="bb9cad9772992d1513e78b0bc6c4234cc97d94ee" crc="51c89ddc" />
+    <rom name="The Shadow (Tiger).gnw" size="4467392" sha1="e623ca5a5c65e14b75677ef537728a39d0af66b8" crc="3c4b47de" />
+    <rom name="Transformers - Generation 2 (Tiger).gnw" size="4467392" sha1="393189c6f690b68f1d88165421efce3c6b0a0fce" crc="0968278a" />
+    <rom name="Vindicators (Tiger).gnw" size="4467392" sha1="4ee49d9f2644654154fad5bd4380ed26542bc964" crc="2aa159f3" />
+    <rom name="Wayne's World (Tiger).gnw" size="4467392" sha1="fb1788c8571803097c3503ac2d86518cfebf98d0" crc="5ea4f415" />
+    <rom name="X-Men (Tiger).gnw" size="4467392" sha1="fe7b5800c50338498f0906156ce7979c74bc0c36" crc="b4a27f21" />
+    <rom name="X-Men - Project X (Tiger).gnw" size="4467392" sha1="9f6e8144c2f781b4b5378f2ad94ef969cd23c5ed" crc="0c447a73" />
+  </game>
+  <game name="3. Konami">
+    <rom name="Bill Elliott's NASCAR Racing (handheld).gnw" size="4467392" sha1="3a323947fbbd17bae60085db6aa499e4608e29d7" crc="388561b3" />
+    <rom name="Blades of Steel (handheld).gnw" size="4467392" sha1="b1a35cce92fa1dd32929c7a14e7c3ea30783e6ee" crc="f590be2c" />
+    <rom name="Bottom of the Ninth (handheld).gnw" size="4467392" sha1="c4a3daecaa2222e041f3753ef5999e020481329c" crc="0853f067" />
+    <rom name="Bucky O'Hare (handheld).gnw" size="4467392" sha1="02c8d41a15746808ef62cef70ff2d640407d3487" crc="ea001d8d" />
+    <rom name="Chequered Flag (handheld).gnw" size="4467392" sha1="25a459de44b7cce674b63f49c1bf75a43a6a78ee" crc="40bcd2ff" />
+    <rom name="Contra (handheld).gnw" size="4467392" sha1="4a8110f72c10f134d156bdc7fb47b5afd055cdb9" crc="d4ec6403" />
+    <rom name="Double Dribble (handheld).gnw" size="4467392" sha1="2c221fe5f7ea5c89e33167cc26953c4cce75f933" crc="c33f546b" />
+    <rom name="Garfield (Konami).gnw" size="4467392" sha1="cf617937e62e7085127ea38ce4ee2378299cab9e" crc="6226be33" />
+    <rom name="Gradius (handheld).gnw" size="4467392" sha1="cd23fb9683795645a26778736d1e04ba5e92f1f9" crc="acdd10a4" />
+    <rom name="NFL Football (Konami, handheld).gnw" size="4467392" sha1="3dfee0a4f831444116abfeb7ca5a5c92014f71a5" crc="fba5cb13" />
+    <rom name="Skate or Die (Konami, handheld).gnw" size="4467392" sha1="6013aa7d955914216e541d33fd335f8e934b883f" crc="623c8f17" />
+    <rom name="Star Trek - 25th Anniversary (handheld).gnw" size="4467392" sha1="369a99b3ce057af5d7c19370ff02d2663830edbd" crc="ec25fcb2" />
+    <rom name="Teenage Mutant Ninja Turtles (handheld).gnw" size="4467392" sha1="ba3f38ced8d69c02da0add5d0fc5672d688e25b1" crc="d726e115" />
+    <rom name="Teenage Mutant Ninja Turtles - Basketball.gnw" size="4467392" sha1="e874223a4f6187512980279d3c34f4fa1900fc9e" crc="802adbc5" />
+    <rom name="Teenage Mutant Ninja Turtles 3 - Shredder's Last Stand (handheld).gnw" size="4467392" sha1="48200a82a7348c09be8dfc3f4b3c54a9f47767ca" crc="e7abd441" />
+    <rom name="Teenage Mutant Ninja Turtles II - Splinter Speaks (handheld).gnw" size="4467392" sha1="c5872fef01799ee9950e51a5574eb232b4ce190b" crc="deaa5272" />
+    <rom name="The Adventures of Bayou Billy (handheld).gnw" size="4467392" sha1="536552853e4ab12ee9e7f282a93106e176ce13d1" crc="d2b78a20" />
+    <rom name="The Lone Ranger (handheld).gnw" size="4467392" sha1="37df346ebd9d9f4302fe9d4dc1789e0df8261f72" crc="65a2730d" />
+    <rom name="Top Gun (handheld).gnw" size="4467392" sha1="1963d7682987dcd1b824469c1eb8d7032e912d0f" crc="ee82ce1a" />
+    <rom name="Top Gun - Second Mission (handheld).gnw" size="4467392" sha1="f01d7f58c684600044fd05f652c2fd920858d042" crc="99ad5fab" />
+  </game>
+  <game name="4. Nelsonic">
+    <rom name="Star Fox (Nelsonic).gnw" size="4467392" sha1="51db30f511fb23ecce60d05eb6ee08128f9429e5" crc="b35759c7" />
+    <rom name="Super Mario Bros. 3 (Nelsonic).gnw" size="4467392" sha1="f4ec6863619b84c4c93948c6e2b4ba2c2639cf7c" crc="88ff7b04" />
+    <rom name="Super Mario World (Nelsonic).gnw" size="4467392" sha1="3906fcec80b92b684b5889022a23ec5722693ed0" crc="1876d9af" />
+  </game>
+  <game name="5. Elektronika">
+    <rom name="Ataka asteroidov.gnw" size="4467392" sha1="f5fbba25c2c3643069cc72fc315123e6d016ae1d" crc="0c03acda" />
+    <rom name="Autoslalom.gnw" size="4467392" sha1="45981d0e39c1a9235015854a0f13abc512d2b440" crc="f4fdae65" />
+    <rom name="Biathlon.gnw" size="4467392" sha1="3f714fa65ca7009e9f73c8c784448d74531b6e3c" crc="4f14c54c" />
+    <rom name="Circus (Elektronika).gnw" size="4467392" sha1="3ea2af9ae80a3c35764cb567c37e3f88a6d7b8d6" crc="f0f2ddbb" />
+    <rom name="Hockey (Elektronika).gnw" size="4467392" sha1="d9f50350502d44b433960bab3fdff352a055d2fa" crc="4d4a5fd0" />
+    <rom name="Kosmicheskiy most.gnw" size="4467392" sha1="0eceb974493b8efdb8f89f63cadab49bbb24a149" crc="dc8dcda5" />
+    <rom name="Kosmicheskiy polyot.gnw" size="4467392" sha1="0050aa832b98911e220dbdb13de3b9a6503572c6" crc="3a482860" />
+    <rom name="Kot-rybolov (Elektronika).gnw" size="4467392" sha1="5b0bab008bf1da8cf222eab24942c12a0cf71c39" crc="b0a75127" />
+    <rom name="Kvaka-zadavaka.gnw" size="4467392" sha1="9ce09540a89d499a3a88c6db14de119f056cab31" crc="4805cb34" />
+    <rom name="Morskaja ataka.gnw" size="4467392" sha1="8bf1402f7c17e216cd99d3c1c53a55fa629310ad" crc="8d94e99b" />
+    <rom name="Nochnye vorishki.gnw" size="4467392" sha1="f3b18fdec81a3a19dc8e4af3010034306ed2a2f1" crc="237efb66" />
+    <rom name="Nu, pogodi!.gnw" size="4467392" sha1="a2d4d5d6039691b780cd4f5c013fcc5d03ff2f8d" crc="118896da" />
+    <rom name="Okhota.gnw" size="4467392" sha1="f593978fccaa63d91862abbf8c9ec382b8314e2f" crc="2de38569" />
+    <rom name="Razvedchiki kosmosa.gnw" size="4467392" sha1="8d76a2c6ccf18d8a29e6aca31b50cbe344be0541" crc="98fffce5" />
+    <rom name="Tayny okeana.gnw" size="4467392" sha1="e2c6c0fb361e337d4f3cbc0d57e3ad09fec3f319" crc="991e88c5" />
+    <rom name="Vesolaya arifmetika.gnw" size="4467392" sha1="81a939ef3cc620f15d884d10c1165b5916c64a7a" crc="f3730cd5" />
+    <rom name="Vesyolye futbolisty.gnw" size="4467392" sha1="2ef987e6e7544f66243edcd31a308c67a78a60b1" crc="bdd9017a" />
+    <rom name="Vesyolyy povar.gnw" size="4467392" sha1="fab6106880132abac2af59d0d23716cfd829ee37" crc="eac17e6d" />
+    <rom name="Vinni-Pukh.gnw" size="4467392" sha1="fe2ff69305cea156f0f3b8386e723d418d84323a" crc="ece5f98b" />
+  </game>
+  <game name="6. Tronica">
+    <rom name="Clever Chicken.gnw" size="4467392" sha1="43d5d59ae4bffcfb1ca2ffd6563ecabf02ec1186" crc="26a98672" />
+    <rom name="Diver's Adventure.gnw" size="4467392" sha1="939b7876a51fe05137d8361a38f5c4df40bc907d" crc="38a9252a" />
+    <rom name="Space Mission (Tronica).gnw" size="4467392" sha1="1a4da86fd262ca08603d2a5ee858073c8397b206" crc="44259b04" />
+    <rom name="Space Rescue.gnw" size="4467392" sha1="3c5ded0cd1d84c7277a4f3f6ffd83ec7f8842641" crc="b3a8632b" />
+    <rom name="Spider (Tronica).gnw" size="4467392" sha1="76d0f7303cde61b23a8ecd0200894e15e3f3333f" crc="796dd1b4" />
+    <rom name="Super Goal Keeper.gnw" size="4467392" sha1="a030975b8072ae2bf899c1e29ebe6d69e03a9f2c" crc="b8ec38fd" />
+    <rom name="Thunder Ball (Tronica).gnw" size="4467392" sha1="2553f093a2f2a8d2aa96818aaddcf04d83d697da" crc="7d6e2b84" />
+    <rom name="Treasure Island (Tronica).gnw" size="4467392" sha1="b56a853047de3a167c6a14f62efa7babb81d6037" crc="85b7e4f7" />
+  </game>
+  <game name="7. Homebrew">
+    <rom name="Bride.gnw" size="4467392" sha1="1ca95132e452d26dc81996620628b7f8118d3005" crc="880831dd" />
+    <rom name="Squeeze.gnw" size="4467392" sha1="aadb00b857f134ccc74ca58557ac4dc70e778dcc" crc="a0b39ba5" />
+  </game>
+</datafile>

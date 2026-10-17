@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<datafile>
+  <header>
+    <name>CreatiVision</name>
+    <version>2026-10-16</version>
+    <romvault forcepacking="fileonly" />
+  </header>
+  <game name="01 - Games/Air Sea Attack">
+    <rom name="Air Sea Attack (Europe, Asia) (En).rom" size="4096" sha1="1fbc52f335c0d8bb96578a6ba764f5631c41fd36" crc="81a9257d" />
+  </game>
+  <game name="01 - Games/Astro Pinball">
+    <rom name="Astro Pinball (Europe, Asia) (En).rom" size="8192" sha1="e7cb096d4d16fd8193f7e39c2f73bdf0930c9654" crc="d03c0603" />
+  </game>
+  <game name="01 - Games/Auto Chase">
+    <rom name="Auto Chase (Europe, Asia) (En).rom" size="8192" sha1="369dc9aa55dd2c09376be840f8ebeca450db8b9c" crc="bd091ee0" />
+  </game>
+  <game name="01 - Games/Chopper Rescue">
+    <rom name="Chopper Rescue (Europe, Asia) (En).rom" size="18432" sha1="43dc37755306ac824492e98c9d0e25379ac69672" crc="afb482ae" />
+  </game>
+  <game name="01 - Games/Crazy Chicky">
+    <rom name="Crazy Chicky (Europe, Asia) (En).rom" size="4096" sha1="c0eed370267644d142a42de6201f7ac6d275104d" crc="b1b5bfe5" />
+  </game>
+  <game name="01 - Games/Crazy Pucker ~ Crazy Moonie ~ Crazy Chewy">
+    <rom name="Crazy Pucker ~ Crazy Moonie ~ Crazy Chewy (Europe, Asia) (En).rom" size="4096" sha1="0762ba98e9a08b7e6063e2a54734becd83df6eb3" crc="c673be37" />
+  </game>
+  <game name="01 - Games/Deep Sea Adventure">
+    <rom name="Deep Sea Adventure (Europe, Asia) (En) (6K).rom" size="6144" sha1="30018a2f7328f747ce21e12c4b0da8dda6334e5f" crc="28a30e3a" />
+    <rom name="Deep Sea Adventure (Europe, Asia) (En) (8K).rom" size="8192" sha1="d25f82aab473d4c7850ab626ae92d1eac69dbb32" crc="2e0ddd86" />
+  </game>
+  <game name="01 - Games/Locomotive">
+    <rom name="Locomotive (Europe, Asia) (En) (10K).rom" size="10240" sha1="4b383260f8b0db5abe5a0c595f52d3dab55a6fb1" crc="81b552ef" />
+    <rom name="Locomotive (Europe, Asia) (En) (12K).rom" size="12288" sha1="4aa0db7b236ac512d777cfc811b58d59f9095ab1" crc="3618b415" />
+  </game>
+  <game name="01 - Games/Mouse Puzzle">
+    <rom name="Mouse Puzzle (Europe, Asia) (En).rom" size="8192" sha1="c3aa8077756a6101009645711687edd59bf90a98" crc="e954c46b" />
+  </game>
+  <game name="01 - Games/Planet Defender">
+    <rom name="Planet Defender (Europe, Asia) (En) (6K).rom" size="6144" sha1="a89c96ff084f2eb220fc626aaae479d4172b769b" crc="b8cb39f7" />
+    <rom name="Planet Defender (Europe, Asia) (En) (8K).rom" size="8192" sha1="0be7935db55ecf3e70b96e071ecbc489bd22dc73" crc="4457c7b3" />
+  </game>
+  <game name="01 - Games/Police Jump">
+    <rom name="Police Jump (Europe, Asia) (En) (Rev 1).rom" size="8192" sha1="0fe6d15c973c73b53c33945e213bc2671ff5d7df" crc="db3d50b2" />
+    <rom name="Police Jump (Europe, Asia) (En).rom" size="8192" sha1="f8a304e9cfa572ad17dab38c33c395771dfc55d7" crc="173ff42c" />
+  </game>
+  <game name="01 - Games/Soccer">
+    <rom name="Soccer (Europe, Asia) (En).rom" size="12288" sha1="d7526d3bcf156a38d35ae439080eb8913d56e51e" crc="90a7438d" />
+  </game>
+  <game name="01 - Games/Sonic Invader">
+    <rom name="Sonic Invader (Europe, Asia) (En).rom" size="4096" sha1="d77f49bfa951ce0ba505ad4f05f3d0adb697811f" crc="767a1f38" />
+  </game>
+  <game name="01 - Games/Stone Age">
+    <rom name="Stone Age (Europe, Asia) (En).rom" size="8192" sha1="dafe57b0ea5da7431bd5b0393bae7cf256c9a562" crc="74365e94" />
+  </game>
+  <game name="01 - Games/Tank Attack">
+    <rom name="Tank Attack (Europe, Asia) (En) (6K).rom" size="6144" sha1="67b8da0b96ded6b74a78f0f7da21aede9244d379" crc="7e99fb44" />
+    <rom name="Tank Attack (Europe, Asia) (En) (8K).rom" size="8192" sha1="f3c69a848f1246faf6f9558c0badddd3db626e5f" crc="2621ffca" />
+  </game>
+  <game name="01 - Games/Tennis">
+    <rom name="Tennis (Europe, Asia) (En) (Coca-Cola ~ Sprite).rom" size="8192" sha1="7ea0c5aa6072e2c9eab711f278fd939986a92602" crc="098d1cbb" />
+    <rom name="Tennis (Europe, Asia) (En) (DSE) (Rev 1) (6K).rom" size="6144" sha1="16e5d557449a11656d4821051a8aa61dabcb688e" crc="2e65cfa9" />
+    <rom name="Tennis (Europe, Asia) (En) (DSE) (Rev 1) (8K).rom" size="8192" sha1="7b64efddb590332c192f6c4a6accce85a6d402c3" crc="c914c092" />
+    <rom name="Tennis (Europe, Asia) (En) (DSE).rom" size="6144" sha1="6d9be5b182b2ba65be6448ea215e0c3adfd4834d" crc="28774d6b" />
+    <rom name="Tennis (Europe, Asia) (En) (Wimbledon) (6K).rom" size="6144" sha1="88b9fbee783ed966c8c03614779847e0cc8c6692" crc="1c5ea624" />
+    <rom name="Tennis (Europe, Asia) (En) (Wimbledon) (8K).rom" size="8192" sha1="690a4dcb412e517b172ec5b44c86863ef63b1246" crc="8bed8745" />
+  </game>
+  <game name="02 - Software and Utilities/BASIC">
+    <rom name="BASIC (Europe, Asia) (En) (Rev 1).rom" size="12288" sha1="7523b938d251315ffc54b1cca166790beba8972a" crc="4aee923e" />
+    <rom name="BASIC (Europe, Asia) (En) (Rev 2).rom" size="12288" sha1="5226bc0fa08f1046179572ed602ce157959bf92f" crc="10409a1d" />
+    <rom name="BASIC (Europe, Asia) (En) (Rev 3).rom" size="12288" sha1="d878f23143e3362d5065550c2e1bd80d8f7c25c0" crc="b8df3b18" />
+    <rom name="BASIC (Europe, Asia) (En).rom" size="12288" sha1="96027c0b250e252625143211f3ff6ac4e6e0aeff" crc="1849efd0" />
+  </game>
+  <game name="02 - Software and Utilities/Diagnostic A">
+    <rom name="Diagnostic A (Europe, Asia) (Program).rom" size="4096" sha1="7538411e54c8f3f9af1d8331340637e4a96949cb" crc="9e584ce2" />
+  </game>
+  <game name="02 - Software and Utilities/Diagnostic B">
+    <rom name="Diagnostic B (Europe, Asia) (Program).rom" size="4096" sha1="6cb389e177cf532a7de29de903c2d238a9215cfe" crc="4d92ff4e" />
+  </game>
+  <game name="02 - Software and Utilities/Hapmon">
+    <rom name="Hapmon (Europe, Asia) (En) (Program) (Unl).rom" size="4096" sha1="89359dca952bc90644dfd7f546c184a8165faa14" crc="15d07b96" />
+  </game>
+  <game name="02 - Software and Utilities/Music Maker">
+    <rom name="Music Maker (Europe, Asia) (En).rom" size="12288" sha1="d1eb8c679310b8988ac4d018853b979613508b0e" crc="f8383d33" />
+  </game>
+  <game name="02 - Software and Utilities/Werben Informieren">
+    <rom name="Werben Informieren (Germany) (Program).rom" size="10240" sha1="81d732541d6e4569f4d3ee6f24bf27797490b3ac" crc="b0f298e6" />
+  </game>
+</datafile>

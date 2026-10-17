@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<datafile>
+  <header>
+    <name>VirtualBoy</name>
+    <version>2026-10-16</version>
+    <romvault forcepacking="fileonly" />
+  </header>
+  <game name="01 - Games/3-D BattleSnake">
+    <rom name="3-D BattleSnake (World) (Aftermarket) (Unl).vb" size="1048576" sha1="35d8c26e62d64dade68847dd1d8f55a92c6b8058" crc="14ee3f7d" />
+  </game>
+  <game name="01 - Games/3-D Tetris">
+    <rom name="3-D Tetris (USA).vb" size="1048576" sha1="5177015a91442e56bd76af39447bca365e06c272" crc="bb71b522" />
+  </game>
+  <game name="01 - Games/3D Crosswords">
+    <rom name="3D Crosswords (World) (Emulator Version) (Aftermarket) (Unl).vb" size="2097152" sha1="c778106d5c378022bbb078cd303bd0155e9fcabc" crc="bb061c9d" />
+    <rom name="3D Crosswords (World) (Hardware Version) (Aftermarket) (Unl).vb" size="524288" sha1="d02befd9e2269093c45109b91609eefd4b7a2bed" crc="3754e82e" />
+  </game>
+  <game name="01 - Games/BLOX 2">
+    <rom name="BLOX 2 (World) (En,Fr,De,Es,It,Sv,Fi,Cs,Sl) (Aftermarket) (Unl).vb" size="2097152" sha1="66b2a25ef8e1af74bed4bbba4785951a9d6edce0" crc="85460a25" />
+  </game>
+  <game name="01 - Games/BLOX">
+    <rom name="BLOX (World) (v1.0) (Aftermarket) (Unl).vb" size="1048576" sha1="e7b28cafb0950969c8f0ea0df2288e0f8d418cc8" crc="7baf43b0" />
+    <rom name="BLOX (World) (v1.1) (Aftermarket) (Unl).vb" size="1048576" sha1="f2105349dff09bdc00e4548460991dde9ac7c2af" crc="450feab5" />
+  </game>
+  <game name="01 - Games/Bound High/~Prototypes and Betas">
+    <rom name="Bound High (World) (Proto 1) [b].vb" size="2097152" sha1="1196ef8b9a96a0ff2f3634f8eb1c4865c0fb6b01" crc="e81a3703" />
+    <rom name="Bound High (World) (Proto 2).vb" size="2097152" sha1="c9d4181ed56e2520ae42a74afaeaff9902180f86" crc="e365ddd3" />
+  </game>
+  <game name="01 - Games/Capitan Sevilla 2">
+    <rom name="Capitan Sevilla 2 (World) (Es) (Aftermarket) (Unl).vb" size="1048576" sha1="d971b1621cbea6c90907e65780eb2ed20e13edb5" crc="f18001f0" />
+  </game>
+  <game name="01 - Games/Dragon Hopper">
+    <rom name="Dragon Hopper (Japan, USA) (En,Ja) (Switch Online).vb" size="2097152" sha1="103ced4ebb5b43832294ae2702e014d08b4756be" crc="193c1a2f" />
+  </game>
+  <game name="01 - Games/Elevated Speed">
+    <rom name="Elevated Speed (World) (High Resolution Version) (Aftermarket) (Unl).vb" size="4194304" sha1="8b08f08f37127621483aa4e204a3e3b2312af196" crc="9c93aa2a" />
+    <rom name="Elevated Speed (World) (Low Resolution Version) (Aftermarket) (Unl).vb" size="2097152" sha1="8f225d86672a8ba923dd0c262b1e6a1fc22438e5" crc="61d03ccc" />
+  </game>
+  <game name="01 - Games/Fishbone">
+    <rom name="Fishbone (World) (Aftermarket) (Unl).vb" size="2097152" sha1="c036c441bb3c16e5b2cc6ea7681f56a8605b932e" crc="b5977e82" />
+  </game>
+  <game name="01 - Games/Galactic Pinball">
+    <rom name="Galactic Pinball (Japan, USA) (En).vb" size="1048576" sha1="93a25abf4f86e71a49c1c3a470140bb40cb693d6" crc="c9710a36" />
+  </game>
+  <game name="01 - Games/Galactic Pinball/~Prototypes and Betas">
+    <rom name="Space Pinball (Japan) (En) (Proto).vb" size="2097152" sha1="dc182360c7c8d26323db8921f09db76638e81ced" crc="44c2b723" />
+  </game>
+  <game name="01 - Games/Golf">
+    <rom name="Golf (USA).vb" size="2097152" sha1="23ce3c174789cdd306497d86cb2c4e76ba8b06e5" crc="2199af41" />
+    <rom name="T&amp;E Virtual Golf (Japan).vb" size="2097152" sha1="c595285d42c69f14b2b418c1edfbe4a7f9a624b6" crc="6ba07915" />
+  </game>
+  <game name="01 - Games/Hamburgers En Route to Switzerland">
+    <rom name="Hamburgers En Route to Switzerland (World) (Aftermarket) (Unl).vb" size="524288" sha1="bf426b164378376e11dc0416ffa840a84fd1cd15" crc="efb7577c" />
+  </game>
+  <game name="01 - Games/Hyper Fighting">
+    <rom name="Hyper Fighting (World) (Aftermarket) (Unl).vb" size="4194304" sha1="578355de83822ce67522033dd7545631124a71ab" crc="3f2a6ba2" />
+  </game>
+  <game name="01 - Games/Hyper Fighting/~Prototypes and Betas">
+    <rom name="Hyper Fighting (World) (Beta) (Aftermarket) (Unl).vb" size="2097152" sha1="322dc4c2df74bf19d8a30d43c489401be5e76ca5" crc="4450ede0" />
+  </game>
+  <game name="01 - Games/Innsmouth no Yakata">
+    <rom name="Innsmouth no Yakata (Japan).vb" size="1048576" sha1="37e06e53ce2810e870835c48decdd6c72079bfda" crc="83cb6a00" />
+  </game>
+  <game name="01 - Games/Insecticide">
+    <rom name="Insecticide (World) (Aftermarket) (Unl).vb" size="2097152" sha1="dd7d02cd879584dea3cb9766e44948ae6a4b320f" crc="de9f669b" />
+  </game>
+  <game name="01 - Games/Insmouth Mansion/~Translations">
+    <rom name="Insmouth Mansion (Japan) [T-En by Thunderstruck v1.0] [n].vb" size="1048576" sha1="37f0351b1711a9580a7346127bc54b3927bc7e1e" crc="04ccbe94" />
+  </game>
+  <game name="01 - Games/Jack Bros">
+    <rom name="Jack Bros. (USA).vb" size="1048576" sha1="0e086d7ef2bd8b97315196943fd0b71da07aa8f1" crc="a44de03c" />
+    <rom name="Jack Bros. no Meiro de Hiihoo! (Japan).vb" size="1048576" sha1="a973406590382ee503037271330d68d2834b79db" crc="cab61e8b" />
+  </game>
+  <game name="01 - Games/Mario Clash">
+    <rom name="Mario Clash (Japan, USA) (En).vb" size="1048576" sha1="7556a778b60490bdb81774bcbaa7413fc84cb985" crc="a47de78c" />
+  </game>
+  <game name="01 - Games/Mario Combat">
+    <rom name="Mario Combat (World) (Aftermarket) (Unl).vb" size="2097152" sha1="2dd53ebf483f20d53473d5e7a2a42e39dd1d8f49" crc="fb91380f" />
+  </game>
+  <game name="01 - Games/Mario Kart - Virtual Cup">
+    <rom name="Mario Kart - Virtual Cup (World) (Aftermarket) (Unl).vb" size="1048576" sha1="7743978a58a27b8e05e36d353439a8b11ead5235" crc="27988ab9" />
+  </game>
+  <game name="01 - Games/Mario VB">
+    <rom name="Mario VB (World) (Aftermarket) (Unl).vb" size="524288" sha1="ccdc23e4f866e771d15fa480706669003afbde5b" crc="dd63d32d" />
+  </game>
+  <game name="01 - Games/Mario's Tennis">
+    <rom name="Mario's Tennis (Japan, USA) (En).vb" size="524288" sha1="5162f7fa9e3eae4338c53ccba641ba080c768754" crc="7ce7460d" />
+  </game>
+  <game name="01 - Games/Nester's Funky Bowling">
+    <rom name="Nester's Funky Bowling (USA).vb" size="2097152" sha1="f4a4c7928f15102cf14c90c5f044e5f7cc7c32f9" crc="df4d56b4" />
+  </game>
+  <game name="01 - Games/Niko-chan Battle/~Prototypes and Betas">
+    <rom name="Niko-chan Battle (Japan) (Proto).vb" size="1048576" sha1="217ca062f65d4e8b2848085918af5ac4b33b12d4" crc="f3cd40dd" />
+  </game>
+  <game name="01 - Games/Panic Bomber">
+    <rom name="Panic Bomber (USA).vb" size="524288" sha1="80216b2874cf162f301d571bb8aebc98d80b4f3e" crc="19bb2dfb" />
+    <rom name="Tobidase! Panibon (Japan).vb" size="524288" sha1="b8a12a9677afa5cbce6ed43eb0effb5a02875534" crc="40498f5e" />
+  </game>
+  <game name="01 - Games/Red Alarm">
+    <rom name="Red Alarm (Japan).vb" size="1048576" sha1="f5057fa9bfd9d60b9dcfc004cfdd12aa8eb1cb4a" crc="7e85c45d" />
+    <rom name="Red Alarm (USA).vb" size="1048576" sha1="494fa60cb8997880b4e8cd3270b21d6c2768a48a" crc="aa10a7b4" />
+  </game>
+  <game name="01 - Games/Red Square">
+    <rom name="Red Square (World) (Aftermarket) (Unl).vb" size="524288" sha1="58443bae644d3b777b9cb2dba4d76be582e3e0cf" crc="aa50b353" />
+  </game>
+  <game name="01 - Games/SD Gundam - Dimension War">
+    <rom name="SD Gundam - Dimension War (Japan).vb" size="1048576" sha1="1a67f6bdb45db46e22b8aadea754a68ad379ae29" crc="44788197" />
+  </game>
+  <game name="01 - Games/SD Gundam - Dimension War/~Translations">
+    <rom name="SD Gundam - Dimension War (Japan) [T-En by Greg Stevens &amp; Benjamin Stevens v1.0].vb" size="1048576" sha1="fc4c9d8b463ec493815fa7994d0179e1c26aebc2" crc="db4da3d9" />
+  </game>
+  <game name="01 - Games/Soviet Union 2010">
+    <rom name="Soviet Union 2010 (World) (v1.0) (Aftermarket) (Unl).vb" size="2097152" sha1="328ea332004d6150b4ac8d9bdc4f0e16534907f9" crc="447ba0c0" />
+    <rom name="Soviet Union 2010 (World) (v1.2) (Aftermarket) (Unl).vb" size="2097152" sha1="f534d323bc838a5f5a25e0bf977ba297708eabe3" crc="e7cbc290" />
+  </game>
+  <game name="01 - Games/Soviet Union 2011">
+    <rom name="Soviet Union 2011 (World) (v1.0) (Aftermarket) (Unl).vb" size="2097152" sha1="3c55fc50972fd39105da3fd2bf2df033a5b7c1c3" crc="5cde2c56" />
+    <rom name="Soviet Union 2011 (World) (v1.1) (Aftermarket) (Unl).vb" size="2097152" sha1="82067d7326c217d3b5bbb09031a1d51fc5811e56" crc="0cd7390b" />
+    <rom name="Soviet Union 2011 (World) (v1.2) (Aftermarket) (Unl).vb" size="2097152" sha1="b6f9c7c86ecaaf37f1966c3480752531f9dd5515" crc="3a2e0413" />
+  </game>
+  <game name="01 - Games/Soviet Union 2011/~Prototypes and Betas">
+    <rom name="Soviet Union 2011 (World) (Beta 1) (Aftermarket) (Unl).vb" size="2097152" sha1="9c84f75182f372891d2d41f75a32326e1b17ebeb" crc="8f013627" />
+    <rom name="Soviet Union 2011 (World) (Beta 2) (Aftermarket) (Unl).vb" size="2097152" sha1="dc7b74dbb1b4ff185acf086d5bed87560675745f" crc="13660731" />
+  </game>
+  <game name="01 - Games/Space Invaders - Virtual Collection">
+    <rom name="Space Invaders - Virtual Collection (Japan).vb" size="524288" sha1="16ad904faafd24642dfd056d10a768e81f0d9bfa" crc="fa44402d" />
+  </game>
+  <game name="01 - Games/Space Invaders - Virtual Collection/~Translations">
+    <rom name="Space Invaders - Virtual Collection (Japan) [T-En by Thunderstruck v1.0].vb" size="2097152" sha1="085cbe9de99f166341b3b7374f18195f25fa5330" crc="7eb3b932" />
+  </game>
+  <game name="01 - Games/Space Squash">
+    <rom name="Space Squash (Japan).vb" size="524288" sha1="3f08cae2b6f9e386529949ff954220860db1af64" crc="60895693" />
+  </game>
+  <game name="01 - Games/Space Squash/~Translations">
+    <rom name="Space Squash (Japan) [T-En by Feel &amp; Greg Stevens &amp; Benjamin Stevens &amp; Thunderstruck v2.0].vb" size="2097152" sha1="6737c0525239d84060c06169556218b7b8422518" crc="f17be1a2" />
+  </game>
+  <game name="01 - Games/Teleroboxer">
+    <rom name="Teleroboxer (Japan, USA) (En).vb" size="1048576" sha1="c59e020f9674774c5cbc022317ebba0eb1d744f7" crc="36103000" />
+  </game>
+  <game name="01 - Games/V-Tetris">
+    <rom name="V-Tetris (Japan) (En).vb" size="524288" sha1="ff7d4dfc467e6e0d3fe8517102132a65a9d17589" crc="3ccb67ae" />
+  </game>
+  <game name="01 - Games/Vertical Force">
+    <rom name="Vertical Force (Japan).vb" size="1048576" sha1="c7204ba5cfe7d26394b5e22badc580c8ed8c0b37" crc="9e9b8b92" />
+    <rom name="Vertical Force (USA).vb" size="1048576" sha1="38f9008f60b09deef1151d46b905b090a0338200" crc="4c32ba5e" />
+  </game>
+  <game name="01 - Games/Virtual Bowling">
+    <rom name="Virtual Bowling (Japan) (En).vb" size="1048576" sha1="a5be7654037050f0a781e70efea0191f43d26f06" crc="20688279" />
+  </game>
+  <game name="01 - Games/Virtual Boy Wario Land">
+    <rom name="Virtual Boy Wario Land (Japan, USA) (En).vb" size="2097152" sha1="274c328fbd904f20e69172ab826bf8f94ced1bdb" crc="133e9372" />
+  </game>
+  <game name="01 - Games/Virtual Fishing">
+    <rom name="Virtual Fishing (Japan).vb" size="1048576" sha1="583b409b7215159219d08e789db46140062095f2" crc="526cc969" />
+  </game>
+  <game name="01 - Games/Virtual Fishing/~Translations">
+    <rom name="Virtual Fishing (Japan) [T-En by Benjamin Stevens &amp; Thunderstruck v1.0].vb" size="2097152" sha1="448f0bc30d2611aa970c2fdc25e462a6e17d3da5" crc="9602cf06" />
+  </game>
+  <game name="01 - Games/Virtual Lab">
+    <rom name="Virtual Lab (Japan).vb" size="1048576" sha1="d96c9f8aac5b4ea012a8fe659bb68fb1159a9c6d" crc="8989fe0a" />
+  </game>
+  <game name="01 - Games/Virtual Lab/~Translations">
+    <rom name="Virtual Lab (Japan) [T-En by Thunderstruck v1.0].vb" size="1048576" sha1="cd1305e86e1b5a3c7b49deba61196bc88fe7dd8f" crc="1b1e5cb7" />
+  </game>
+  <game name="01 - Games/Virtual League Baseball 2/~Prototypes and Betas">
+    <rom name="Virtual League Baseball 2 (USA) (Proto).vb" size="2097152" sha1="68726cd0611a2d9e8974bea4442ddc1fbffcebb3" crc="8daea1bf" />
+  </game>
+  <game name="01 - Games/Virtual League Baseball">
+    <rom name="Virtual League Baseball (USA).vb" size="1048576" sha1="266fe615ee3df1160a20b456824699f16810fa28" crc="736b40d6" />
+    <rom name="Virtual Pro Yakyuu '95 (Japan).vb" size="1048576" sha1="ab8fa82b79512eefefccdccea6768078a374c4aa" crc="9ba8bb5e" />
+  </game>
+  <game name="01 - Games/Virtual WarZone">
+    <rom name="Virtual WarZone (World) (Aftermarket) (Unl).vb" size="4194304" sha1="c43d905b372ea096fd831c3e9b63fcd88b887dcf" crc="6a1e6ac5" />
+  </game>
+  <game name="01 - Games/Waterworld">
+    <rom name="Waterworld (USA).vb" size="2097152" sha1="dcc46484bd0acab0ac1ea178f425a0f5ccfb8dc2" crc="82a95e51" />
+  </game>
+  <game name="01 - Games/Zero Racers">
+    <rom name="Zero Racers (Japan, USA) (En) (Switch Online).vb" size="1048576" sha1="73d161b737e35201aff703b6ff6bf611e5e9c370" crc="71553796" />
+  </game>
+  <game name="02 - Software and Utilities/Tronimal - Robonaut">
+    <rom name="Tronimal - Robonaut (World) (Album) (Aftermarket) (Unl).vb" size="65536" sha1="19e65fdf8d8f7881b8ec9084fc08512e13e63f73" crc="92d5e43a" />
+  </game>
+</datafile>

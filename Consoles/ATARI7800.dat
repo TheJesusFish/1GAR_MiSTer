@@ -1,0 +1,585 @@
+<?xml version='1.0' encoding='utf-8'?>
+<datafile>
+  <header>
+    <name>ATARI7800</name>
+    <version>2026-10-16</version>
+    <romvault forcepacking="fileonly" />
+  </header>
+  <game name="01 - Games/1942">
+    <rom name="1942 (Extended) (World) (Aftermarket) (Unl).a78" size="262272" sha1="eaacb56bbcc5e534c12f45de3012681c4749511b" crc="c87f030c" />
+    <rom name="1942 (Small) (World) (Aftermarket) (Unl).a78" size="131200" sha1="934aa6bd79b6aa957da2ee3b97dc3c8ad2849530" crc="f8a336f7" />
+    <rom name="1942 (World) (Aftermarket) (Unl).a78" size="262272" sha1="c7d22ecdcd7f86b1f114d769cd053c568188bda9" crc="c44cd08a" />
+  </game>
+  <game name="01 - Games/2048">
+    <rom name="2048 (World) (Aftermarket) (Unl).a78" size="49280" sha1="99ed61f87bad6e119c1ef69099e4c348b3bbf143" crc="118ea84d" />
+  </game>
+  <game name="01 - Games/Ace of Aces">
+    <rom name="Ace of Aces (Europe).a78" size="131200" sha1="9ffd88033c2e11f600fec315dfaf4995c75873fb" crc="c2fb707d" />
+    <rom name="Ace of Aces (USA).a78" size="131200" sha1="02513ed15c2f2edc5690ba28e75dbc50ae0200ef" crc="9ad565a9" />
+  </game>
+  <game name="01 - Games/Alien Brigade">
+    <rom name="Alien Brigade (Europe).a78" size="147584" sha1="0eff6507bf0fb965e5e5862cf4d95f2b3b8f929b" crc="ce4c0558" />
+    <rom name="Alien Brigade (USA).a78" size="147584" sha1="0dcb6afb1a416410463006fcdd53d7b8f6e303d7" crc="534707e3" />
+  </game>
+  <game name="01 - Games/Alpha Race">
+    <rom name="Alpha Race (World) (Aftermarket) (Unl).a78" size="32896" sha1="d1be28ca38864170558c671fdcbf7f2a091b34ef" crc="bdecce7f" />
+  </game>
+  <game name="01 - Games/Armor Attack II">
+    <rom name="Armor Attack II (World) (Aftermarket) (Unl).a78" size="16512" sha1="a5893a6738580d7a0a8f3dc2d3600d424a79c8b0" crc="680f6143" />
+  </game>
+  <game name="01 - Games/Asteroids Deluxe">
+    <rom name="Asteroids Deluxe (World) (NTSC) (Aftermarket) (Unl).a78" size="32896" sha1="8eabd12465207566499c30ded9a6fda8183de546" crc="6e9b0bd8" />
+    <rom name="Asteroids Deluxe (World) (PAL) (Aftermarket) (Unl).a78" size="32896" sha1="287d1032b1b8fb32682bb35ba12623d8d68978af" crc="93ca7c33" />
+  </game>
+  <game name="01 - Games/Asteroids">
+    <rom name="Asteroids (USA).a78" size="16512" sha1="f8141008c6a4426bbd7e0f7c0c03fe3c7f4d54b1" crc="320e32ba" />
+  </game>
+  <game name="01 - Games/Asteroids/~Prototypes and Betas">
+    <rom name="Asteroids (USA) (Beta).a78" size="16512" sha1="eeb27f6267d2fd06a768dc4cd9c685834353a0fe" crc="ef370585" />
+  </game>
+  <game name="01 - Games/Astro Blaster">
+    <rom name="Astro Blaster (World) (Aftermarket) (Unl).a78" size="49280" sha1="6e8668df288619c468dd2dce9e87e6af8b74e794" crc="bbb02d92" />
+  </game>
+  <game name="01 - Games/Astro Fighter">
+    <rom name="Astro Fighter (World) (Aftermarket) (Unl).a78" size="32896" sha1="6ffde355256a75492d67259d5a5edff83d9a9046" crc="a6d77f38" />
+  </game>
+  <game name="01 - Games/Atlas">
+    <rom name="Atlas (World) (Aftermarket) (Unl).a78" size="32896" sha1="54f0b1ec68c6161131e68b442218cd2443cb1ed3" crc="41d5f6e5" />
+  </game>
+  <game name="01 - Games/Baby Pac-Man">
+    <rom name="Baby Pac-Man (World) (Digital) (Aftermarket) (Unl).a78" size="49280" sha1="f1d24d06642f08840e99b09a4d50594a09a7b8c2" crc="e2b65b38" />
+  </game>
+  <game name="01 - Games/Baby Pac-Man/~Prototypes and Betas">
+    <rom name="Baby Pac-Man (World) (2019-02-09) (Beta) (Aftermarket) (Unl).a78" size="49280" sha1="8443560fc1b1029800dab7d9dc16702a7ab4e2a9" crc="4e07c0bc" />
+  </game>
+  <game name="01 - Games/Ballblazer">
+    <rom name="Ballblazer (Europe).a78" size="32896" sha1="031c3cdeda552674ab09cbd878f20ba3ea4795cd" crc="e4725a46" />
+    <rom name="Ballblazer (USA).a78" size="32896" sha1="4e296807b098cdbc1a97a57b0f4a816a5fe1a3d9" crc="d63731cb" />
+  </game>
+  <game name="01 - Games/Barnyard Blaster">
+    <rom name="Barnyard Blaster (Europe).a78" size="131200" sha1="26f148964b38710e3d329d5d268e628efec309d2" crc="16155336" />
+    <rom name="Barnyard Blaster (USA).a78" size="131200" sha1="a15c05636226c4936c9a7e51bd4cbbd8998a2e72" crc="7956c6fc" />
+  </game>
+  <game name="01 - Games/Basketbrawl">
+    <rom name="Basketbrawl (Europe).a78" size="131200" sha1="e065a22382cc25266cb307b4bfea7a62b349e034" crc="5ffbafa5" />
+    <rom name="Basketbrawl (USA).a78" size="131200" sha1="e76c589da0e45a220f10fcfe1d743143f819120b" crc="9d8ee7e6" />
+  </game>
+  <game name="01 - Games/Bentley Bear's Crystal Quest">
+    <rom name="Bentley Bear's Crystal Quest (World) (NTSC) (Aftermarket) (Unl).a78" size="147584" sha1="992d0db39826ee844541a95c27507be8522acfe0" crc="0c7355d4" />
+  </game>
+  <game name="01 - Games/Berzerk (Frenzy port)">
+    <rom name="Frenzy (World) (v1.06) (Aftermarket) (Unl).a78" size="49280" sha1="1d713f9ab2b1964bacaf952ec59c65111402a0c1" crc="3eabb9dd" />
+    <rom name="Frenzy (World) (v1.07) (Aftermarket) (Unl).a78" size="49280" sha1="5fa12f0ac0f7b381e7852211e2dcbdeb5261b5c7" crc="7c60adec" />
+  </game>
+  <game name="01 - Games/Cartesian Chaos">
+    <rom name="Cartesian Chaos (World) (Aftermarket) (Unl).a78" size="32896" sha1="0c10daf78c985e5a3c9cc660104e806cfc28c1de" crc="29a44422" />
+  </game>
+  <game name="01 - Games/Centipede">
+    <rom name="Centipede (Europe).a78" size="16512" sha1="b439862268f679a5f80580caaaffa7723f823453" crc="404789ce" />
+    <rom name="Centipede (USA).a78" size="16512" sha1="5c0ff7d5018c398fb3b99c1e725b7de62e784118" crc="875c3dd4" />
+  </game>
+  <game name="01 - Games/Centipede/~Prototypes and Betas">
+    <rom name="Centipede (USA) (Beta) (1984-05-02).bin" size="16384" sha1="2446325f139d8cb93743b6668fee96c4fc99fc48" crc="0b85a1f2" />
+  </game>
+  <game name="01 - Games/Choplifter!">
+    <rom name="Choplifter! (Europe).a78" size="49280" sha1="faa5e3172297a4a328d8a96b0424cc95b54ec62f" crc="e12f9836" />
+    <rom name="Choplifter! (USA).a78" size="32896" sha1="b8885cba8202381f453204680f76b8b2f7b3abe4" crc="9e53f1af" />
+  </game>
+  <game name="01 - Games/Commando">
+    <rom name="Commando (Europe).a78" size="131200" sha1="8dd49089a859eddd4f6428ad5f9791ac4d0787eb" crc="7643fd32" />
+    <rom name="Commando (USA).a78" size="131200" sha1="11df9afb50ccb84d7afb4f4eddb9c2e701b60759" crc="aed722c9" />
+  </game>
+  <game name="01 - Games/Commando/~Prototypes and Betas">
+    <rom name="Commando (USA) (Beta) (1988-04-29).a78" size="16512" sha1="72f340c9f873ad691982d786c6f258e231eaabb6" crc="048b2bd8" />
+  </game>
+  <game name="01 - Games/Crack'ed">
+    <rom name="Crack'ed (Europe).a78" size="131200" sha1="f08648f5cc42d11d9145b92d90c96331a4f2748b" crc="1b0a2607" />
+    <rom name="Crack'ed (USA).a78" size="131200" sha1="df4d0d6ab7dbfc1771a2bd1ac6f0c2359e5ee874" crc="c41d93ff" />
+  </game>
+  <game name="01 - Games/Crazy Bricks">
+    <rom name="Crazy Bricks (World) (Aftermarket) (Unl).a78" size="16512" sha1="1be686cde8c58755e18efe27224f67db43dd5ceb" crc="f8dafbe6" />
+  </game>
+  <game name="01 - Games/Crossbow">
+    <rom name="Crossbow (Europe).a78" size="147584" sha1="aba2bd6cfdd08ab6ca09389f9e6098600ccc6220" crc="6e48fa29" />
+    <rom name="Crossbow (USA).a78" size="147584" sha1="551997b71ac350bfd04a942717bd66ae3ad2d396" crc="48a5a5dc" />
+  </game>
+  <game name="01 - Games/Dark Chambers">
+    <rom name="Dark Chambers (Europe).a78" size="131200" sha1="9265c519b9260efb120062d8e842c8caafc7f839" crc="88b643f2" />
+    <rom name="Dark Chambers (USA).a78" size="131200" sha1="2c847528978c4cdf1fcd90b44561715ef57d59a4" crc="8ddc4cc0" />
+  </game>
+  <game name="01 - Games/DeathMerchant">
+    <rom name="DeathMerchant (World) (v1.30) (Digital) (Aftermarket) (Unl).a78" size="49280" sha1="e01c232f1c51ad1a7f15b0ec5ecc1a47271bc232" crc="57adcd6b" />
+  </game>
+  <game name="01 - Games/Desert Falcon">
+    <rom name="Desert Falcon (Europe).a78" size="49280" sha1="ab33f0b0384400fd44fe54e777f04a742cfb5d1f" crc="6952d8eb" />
+    <rom name="Desert Falcon (USA).a78" size="49280" sha1="407fc874c0278e7f03548e1a0e94906575e6fe51" crc="d933db33" />
+  </game>
+  <game name="01 - Games/Desert Falcon/~Prototypes and Betas">
+    <rom name="Desert Falcon (USA) (Beta) (1987-03-09) [b].a78" size="49280" sha1="e3486d9422f9cc6d61fcfade553f2e73b0eadaa4" crc="3718ffca" />
+    <rom name="Desert Falcon (USA) (Beta) (1987-03-25).a78" size="49280" sha1="7c677b7812880e6871882e3e32966fb1ae23db5f" crc="c5a9c969" />
+  </game>
+  <game name="01 - Games/Destroyer 7800">
+    <rom name="Destroyer 7800 (World) (v1.03) (Aftermarket) (Unl).a78" size="32896" sha1="f8e659862d26e0895215dfdbd40d5f8b324d3ac4" crc="48546b5c" />
+  </game>
+  <game name="01 - Games/Dig Dug">
+    <rom name="Dig Dug (Europe).a78" size="32896" sha1="0b82daf48ef1ad8ed8cf0ec900ac322acba6dc89" crc="6fce926e" />
+    <rom name="Dig Dug (USA).a78" size="16512" sha1="375f4b41e10826f00d1d402ec42ec2df5b7098fb" crc="566b8f41" />
+  </game>
+  <game name="01 - Games/Donkey Kong Junior">
+    <rom name="Donkey Kong Junior (Europe).a78" size="49280" sha1="decf96df9e6ee7cde5f00f0f754f902126ad43d6" crc="8decbfa0" />
+    <rom name="Donkey Kong Junior (USA).a78" size="49280" sha1="f5396bc4dc5efbc1715c9d5ea085e3b3b3e6bb23" crc="25a6907e" />
+  </game>
+  <game name="01 - Games/Donkey Kong">
+    <rom name="Donkey Kong (Europe).a78" size="49280" sha1="cf0cd1e369972eab6de0787de2f50746c66d8f13" crc="8c2c67b8" />
+    <rom name="Donkey Kong (USA).a78" size="49280" sha1="84e1752ec7776aa5c9dabc0cce880d28395b581f" crc="1130896d" />
+  </game>
+  <game name="01 - Games/Double Dragon">
+    <rom name="Double Dragon (Europe).a78" size="131200" sha1="65baa6cf77718965947d2878377005357376b749" crc="bd15d964" />
+    <rom name="Double Dragon (USA).a78" size="131200" sha1="c896e36f234298456820a60ddd3b79caecd89c0b" crc="1f9e124e" />
+  </game>
+  <game name="01 - Games/Dragon's Cache">
+    <rom name="Dragon's Cache (World) (2020-10-24) (Aftermarket) (Unl).a78" size="49280" sha1="a9babaa6e3d0c64726fea773a6045b1f33582a0c" crc="633daed1" />
+    <rom name="Dragon's Cache (World) (2020-10-24) (BupSystem) (Aftermarket) (Unl).a78" size="49280" sha1="27ed9b1d37cd30390864614264eef5e53851ff61" crc="ffd2ad35" />
+    <rom name="Dragon's Cache (World) (2021-02-07) (Aftermarket) (Unl).a78" size="49280" sha1="1db233e2f339cc798938cefde1ebc2b3ecf249df" crc="dc3c1d8f" />
+  </game>
+  <game name="01 - Games/Dragon's Descent">
+    <rom name="Dragon's Descent (World) (2021-07-31) (Aftermarket) (Unl).a78" size="49280" sha1="b4e17b54e7935bfe7c5ab499bc951865512ede6d" crc="b927352f" />
+  </game>
+  <game name="01 - Games/Drelbs">
+    <rom name="Drelbs (World) (Aftermarket) (Unl).a78" size="32896" sha1="239c6d8797420c275048533c7955dce3c7b735fa" crc="1fb72164" />
+  </game>
+  <game name="01 - Games/Dungeon Stalker">
+    <rom name="Dungeon Stalker (World) (1.245d) (Aftermarket) (Unl).a78" size="49280" sha1="ebb4b845274c2c5c80b9f57a074b11d96e7d2b36" crc="2bbf626f" />
+  </game>
+  <game name="01 - Games/Easter Klondike Solitaire">
+    <rom name="Easter Klondike Solitaire (World) (Aftermarket) (Unl).a78" size="49280" sha1="81bc9379b8a391aadcc9b4d9bdc44ce509bd450a" crc="fecd04de" />
+  </game>
+  <game name="01 - Games/F-18 Hornet">
+    <rom name="F-18 Hornet (Europe).a78" size="65664" sha1="fd4a4b24a08ff9250030b93137cb1631c9763335" crc="2f3ba376" />
+    <rom name="F-18 Hornet (USA).a78" size="65664" sha1="c57959de11a3b27f1e796db4a4f60e552a84ace5" crc="84beabce" />
+  </game>
+  <game name="01 - Games/FailSafe">
+    <rom name="FailSafe (World) (NTSC) (Aftermarket) (Unl).a78" size="49280" sha1="ab7e51b840da47f9e34b061544266eaf02d052a7" crc="d31efe1b" />
+    <rom name="FailSafe (World) (PAL) (Aftermarket) (Unl).a78" size="49280" sha1="9fc4866549ed221d129991ddcd64253ff80de2b8" crc="75fd728a" />
+  </game>
+  <game name="01 - Games/Fatal Run">
+    <rom name="Fatal Run (Europe).a78" size="131200" sha1="d4c89362670308b225302347e8e6fba93df944e7" crc="32b08ca9" />
+    <rom name="Fatal Run (USA).a78" size="131200" sha1="1af4cb62063cb47c97566ab589c70b90ba2ecf77" crc="4bd89b75" />
+  </game>
+  <game name="01 - Games/Fight Night">
+    <rom name="Fight Night (Europe).a78" size="131200" sha1="3065df3ee82682e317ba04fa034e532f76d9e58b" crc="f06a3a7e" />
+    <rom name="Fight Night (USA).a78" size="131200" sha1="7b48919c7e22ee80debcef1f2b6a0ecc4d8a9887" crc="48578009" />
+  </game>
+  <game name="01 - Games/Food Fight">
+    <rom name="Food Fight (Europe).a78" size="49280" sha1="4b76576143b179f7b8cfb0e0c1cafecc48012cdd" crc="685ce3c4" />
+    <rom name="Food Fight (USA).a78" size="32896" sha1="22c5d183d349b2f3aa38aec190069dc028a4a941" crc="eced1493" />
+  </game>
+  <game name="01 - Games/Food Fight/~Prototypes and Betas">
+    <rom name="Food Fight (USA) (Beta).bin" size="32768" sha1="ca47caff9cb976da34192e4fb9eea8dedf2222cd" crc="47e94868" />
+  </game>
+  <game name="01 - Games/Frenzy">
+    <rom name="Frenzy (World) (v1.06) (Aftermarket) (Unl).a78" size="49280" sha1="1d713f9ab2b1964bacaf952ec59c65111402a0c1" crc="3eabb9dd" />
+    <rom name="Frenzy (World) (v1.07) (Aftermarket) (Unl).a78" size="49280" sha1="5fa12f0ac0f7b381e7852211e2dcbdeb5261b5c7" crc="7c60adec" />
+  </game>
+  <game name="01 - Games/Froggie">
+    <rom name="Froggie (World) (Aftermarket) (Unl).a78" size="32896" sha1="480ff5485ccc3f5a21bfa2d98752ac1637cfa40f" crc="bc3566e7" />
+  </game>
+  <game name="01 - Games/GATO/~Prototypes and Betas">
+    <rom name="GATO (USA) (Proto).a78" size="49280" sha1="ba3485175860c343a13800d00feced6db8773ccf" crc="eb8ed9ec" />
+  </game>
+  <game name="01 - Games/Galaga">
+    <rom name="Galaga (Europe).a78" size="49280" sha1="31ea118b48a93c7225bbfb855dcab6f86270fe7f" crc="770c1c76" />
+    <rom name="Galaga (USA).a78" size="32896" sha1="c4df823046f8c4c4ac088d12a71022373831b602" crc="24710cb5" />
+  </game>
+  <game name="01 - Games/Galaxian">
+    <rom name="Galaxian (World) (Aftermarket) (Unl).a78" size="32896" sha1="0161b7251db9f8478402ce9d67dfd909f52c2910" crc="d247e353" />
+  </game>
+  <game name="01 - Games/GoSub">
+    <rom name="GoSub (World) (Digital) (Aftermarket) (Unl).a78" size="32896" sha1="9be5f2ffe31076057a6c3abb4e9dd216f145674b" crc="b17a6ec6" />
+  </game>
+  <game name="01 - Games/Harpy's Curse/~Prototypes and Betas">
+    <rom name="Harpy's Curse (World) (2023-09-17) (Proto) (Aftermarket) (Unl).a78" size="131200" sha1="52144277e6c654551c868c5970bf4d0ec802abaa" crc="5b404ce1" />
+  </game>
+  <game name="01 - Games/Hat Trick">
+    <rom name="Hat Trick (Europe).a78" size="49280" sha1="804fd5814a2a1be2dac613c1eec16ad2bdeee06b" crc="cd4f032d" />
+    <rom name="Hat Trick (USA).a78" size="49280" sha1="043f1c2036dac4d0d67d2354a0dfa01ec63845b6" crc="c95d0c59" />
+  </game>
+  <game name="01 - Games/Hat Trick/~Prototypes and Betas">
+    <rom name="Hat Trick (USA) (Beta) (1987-05-01).a78" size="49280" sha1="c43d7970573dc3cae9221f0902f94dd9280ee377" crc="2d07ccca" />
+  </game>
+  <game name="01 - Games/Ikari Warriors">
+    <rom name="Ikari Warriors (Europe).a78" size="131200" sha1="9bb731504783635a1e3d22db9f632ecb6478397a" crc="76076bcb" />
+    <rom name="Ikari Warriors (USA).a78" size="131200" sha1="2e124ec66ed188f61b6a2edb7b64bcb13b2a4cc0" crc="51a653b9" />
+  </game>
+  <game name="01 - Games/Impossible Mission">
+    <rom name="Impossible Mission (Europe).a78" size="131200" sha1="1e35685d9963793d0d472276c58ee6c097e84e88" crc="0a1cd14d" />
+    <rom name="Impossible Mission (USA).a78" size="131200" sha1="1fb6c39974346b0d757decec9bebabe3c46f9d5c" crc="718c88c9" />
+  </game>
+  <game name="01 - Games/Impossible Mission/~Prototypes and Betas">
+    <rom name="Impossible Mission (USA) (Rev 1) (Proto).a78" size="131200" sha1="2ae7d2fa3f0b6682491abbd773c43982a68249e1" crc="a7a4adb5" />
+  </game>
+  <game name="01 - Games/Jacks or Better Poker">
+    <rom name="Jacks or Better Poker (World) (v1.37) (Aftermarket) (Unl).a78" size="49280" sha1="f60398b483b7a8667f0eb0f36abc3a14dd72132f" crc="bcd091cb" />
+  </game>
+  <game name="01 - Games/Jinks">
+    <rom name="Jinks (Europe).a78" size="131200" sha1="b7f0a901b6f3f033b34194fa7f00d5d24e2d7fa3" crc="358f3229" />
+    <rom name="Jinks (USA).a78" size="131200" sha1="f922cbf8bfee2a839db20d4d28c9c9bdad539814" crc="6634e835" />
+  </game>
+  <game name="01 - Games/Joust">
+    <rom name="Joust (Europe).a78" size="49280" sha1="76b889feefacfe543c264f0216d6035d31ef10a2" crc="4aa9c4a6" />
+    <rom name="Joust (USA).a78" size="32896" sha1="1978a494967ac2f6216bdf80797e8a24285d35cd" crc="81328367" />
+  </game>
+  <game name="01 - Games/Jr. Pac-Man">
+    <rom name="Jr. Pac-Man (World) (NTSC) (Aftermarket) (Unl).a78" size="32896" sha1="3e8b869c85a947d3db4694b5316ed7ce296d1b6b" crc="66acfe73" />
+    <rom name="Jr. Pac-Man (World) (PAL) (Aftermarket) (Unl).a78" size="32896" sha1="32b4c3561a506b7f6b772727860d6378fbbf510c" crc="12f0cdd0" />
+    <rom name="Jr. Pac-Man (World) (PAL) (Aftermarket) (Unl).bin" size="32768" sha1="7c61d9e201ba9ed7362a8f0d560b40ee9d9dc864" crc="b039b160" />
+  </game>
+  <game name="01 - Games/K.C. Munchkin">
+    <rom name="K.C. Munchkin (World) (v1.00) (Aftermarket) (Unl).a78" size="16512" sha1="740eefe35b319b75269302e4f5c28744470f8722" crc="cb150695" />
+    <rom name="K.C. Munchkin (World) (v1.01) (Aftermarket) (Unl).a78" size="16512" sha1="10140ad27acd95545ab7526ae3c84bc41fcf48a3" crc="230d6984" />
+  </game>
+  <game name="01 - Games/Karateka">
+    <rom name="Karateka (Europe).a78" size="65664" sha1="a745dafaf41c8357dbbf99f575ed4b4a1e142f11" crc="e4e30cc3" />
+    <rom name="Karateka (USA).a78" size="49280" sha1="835ab6f30cc2d4af0bbe0d12ea8a711db6cb5bbd" crc="65dbf62d" />
+  </game>
+  <game name="01 - Games/Keystone Koppers">
+    <rom name="Keystone Koppers (World) (Aftermarket) (Unl).a78" size="131200" sha1="c9bac0534e6f6846da5bba3a5f9536bedce5f987" crc="817dbb38" />
+  </game>
+  <game name="01 - Games/Klax/~Prototypes and Betas">
+    <rom name="Klax (USA) (Proto).a78" size="131200" sha1="9855cd7a450958131f18f6c41a7688fd3cdec4b5" crc="75060646" />
+  </game>
+  <game name="01 - Games/Knight Guy in Low-Res World - Castle Days/~Prototypes and Betas">
+    <rom name="Knight Guy in Low-Res World - Castle Days (World) (RC1.1) (Aftermarket) (Unl).a78" size="147584" sha1="31e9ef48c43b06aa96df459b72b75c73eddc7633" crc="539e3dd7" />
+  </game>
+  <game name="01 - Games/Kung-Fu Master">
+    <rom name="Kung-Fu Master (Europe).a78" size="32896" sha1="f1db8de4b5c417cd71bb006e6eccc5fc3e22b1f3" crc="5253c2e0" />
+    <rom name="Kung-Fu Master (USA).a78" size="32896" sha1="ea7ce447c03e9511291bc183b80d247d73194b7c" crc="33619c37" />
+  </game>
+  <game name="01 - Games/Legend of Silverpeak">
+    <rom name="Legend of Silverpeak (World) (v1.00) (Aftermarket) (Unl).a78" size="524416" sha1="1fb196b41f1736268c649b8988291c03d4b61145" crc="414c68a4" />
+    <rom name="Legend of Silverpeak (World) (v1.01) (Aftermarket) (Unl).a78" size="524416" sha1="cea2b21e00c228718e96dabcbd2dbec8f021c64b" crc="863579d2" />
+  </game>
+  <game name="01 - Games/Mario Bros">
+    <rom name="Mario Bros. (Europe).a78" size="49280" sha1="933f9a1e7c5b48f294c519fa13ef5021355fd45f" crc="6939a732" />
+    <rom name="Mario Bros. (USA).a78" size="49280" sha1="fd2fc8b274a33210db27a276daf587f0c68a25f6" crc="321f74a5" />
+  </game>
+  <game name="01 - Games/Mat Mania Challenge">
+    <rom name="Mat Mania Challenge (Europe).a78" size="131200" sha1="a5dbf4f97c80af63986335a4b60c90d18f31aab0" crc="e0b72e99" />
+    <rom name="Mat Mania Challenge (USA).a78" size="131200" sha1="39b08410b82bfdb40c25607511614741b7c51ccb" crc="0027548f" />
+  </game>
+  <game name="01 - Games/Mean 18 Ultimate Golf">
+    <rom name="Mean 18 Ultimate Golf (Europe).a78" size="131200" sha1="874df3a10b27ff4868b4a17acaebd4136e9a8a0b" crc="8c2d685f" />
+    <rom name="Mean 18 Ultimate Golf (USA).a78" size="131200" sha1="701f4b8d8714f54d8892920203fcda01bd299cf2" crc="c32476a5" />
+  </game>
+  <game name="01 - Games/Meltdown">
+    <rom name="Meltdown (Europe).a78" size="131200" sha1="515b33a856daf62b50f967074864c51f96af5db1" crc="2a5b173d" />
+    <rom name="Meltdown (USA).a78" size="131200" sha1="52bf5229231916a3f2f2fb268b5ab0b73b64e38e" crc="1e04af30" />
+  </game>
+  <game name="01 - Games/Meteor Shower">
+    <rom name="Meteor Shower (World) (v1.05) (NTSC) (Aftermarket) (Unl).a78" size="16512" sha1="50f743e617c4456ea5f2f1d66725e63b9359fd41" crc="8052ccb3" />
+    <rom name="Meteor Shower (World) (v1.05) (PAL) (Aftermarket) (Unl).a78" size="16512" sha1="d180f54254bc61323f265323bcc3ebee435621e2" crc="f973ea31" />
+    <rom name="Meteor Shower (World) (v1.06) (NTSC) (Aftermarket) (Unl).a78" size="16512" sha1="b1601664cb740b52a867def0dfc876295b248a72" crc="30461a69" />
+    <rom name="Meteor Shower (World) (v1.06) (PAL) (Aftermarket) (Unl).a78" size="16512" sha1="d6e7c6258fab3a447f5da8f70c9d9068b3f58b18" crc="69aba899" />
+  </game>
+  <game name="01 - Games/Midnight Mutants">
+    <rom name="Midnight Mutants (Europe).a78" size="131200" sha1="91c126d26cfc4b206f5c3b078f9d3110a70a82c5" crc="d290db0e" />
+    <rom name="Midnight Mutants (USA).a78" size="131200" sha1="2b9aceaa0122b47e2ec6ebc64bfafd0c14532e9f" crc="077f9ed5" />
+  </game>
+  <game name="01 - Games/Missing in Action/~Prototypes and Betas">
+    <rom name="Missing in Action (USA) (Proto).a78" size="147584" sha1="da3ad40f21beccc249804b52b7cffeb4bb499a87" crc="7bb4ecf8" />
+  </game>
+  <game name="01 - Games/Moon Cresta">
+    <rom name="Moon Cresta (World) (NTSC) (Aftermarket) (Unl).a78" size="32896" sha1="dea2231575f55fecb83a864ea9ce1fae72e0b275" crc="9b607d11" />
+    <rom name="Moon Cresta (World) (PAL) (Aftermarket) (Unl).a78" size="32896" sha1="b5aacc9b3f832111008534a02095c56c97d0ccfb" crc="a506bae7" />
+  </game>
+  <game name="01 - Games/Motor Psycho">
+    <rom name="Motor Psycho (Europe).a78" size="131200" sha1="be736221b4fc32288bb80abcc84e70454fbce453" crc="3fb0ceed" />
+    <rom name="Motor Psycho (USA).a78" size="131200" sha1="990515124f30bc39926498dae4e724a657347174" crc="af9df83d" />
+  </game>
+  <game name="01 - Games/Ms. Pac-Man 320">
+    <rom name="Ms. Pac-Man 320 (World) (NTSC) (Aftermarket) (Unl).a78" size="32896" sha1="bb1ac9788f840fdf9dcaa9d9c37e75ed4cee5b9d" crc="a1fe2e34" />
+    <rom name="Ms. Pac-Man 320 (World) (PAL) (Aftermarket) (Unl).a78" size="32896" sha1="d0027b21d2cd9d2d2a7c7b9f1c6186552fd8a5ef" crc="dfa80d2e" />
+  </game>
+  <game name="01 - Games/Ms. Pac-Man">
+    <rom name="Ms. Pac-Man (Europe).a78" size="32896" sha1="262ab5d2818cb41e2cd07d469101cfec8e11e10b" crc="672458a7" />
+    <rom name="Ms. Pac-Man (USA).a78" size="16512" sha1="207826d1ec1eb4aa702e9d8b66b7541f1316e9e3" crc="0e99408b" />
+    <rom name="Pac-Man Collection (World) (Digital) (NTSC) (Aftermarket) (Unl).a78" size="32896" sha1="2a8e374e032364b9168d5d70475eda91a23bb6b2" crc="1e857ea5" />
+    <rom name="Pac-Man Collection (World) (Digital) (PAL) (Aftermarket) (Unl).a78" size="32896" sha1="1c139b85a151fff18f8921e91dcc8ada35864896" crc="3b674661" />
+  </game>
+  <game name="01 - Games/Ninja Golf">
+    <rom name="Ninja Golf (Europe).a78" size="131200" sha1="d89ebeca5695a3141827da41c0095acfd12e1613" crc="7399ccf7" />
+    <rom name="Ninja Golf (USA).a78" size="131200" sha1="edfbabb8788713208f38a06d8adf5cd1b6eb3e7e" crc="801e68ad" />
+  </game>
+  <game name="01 - Games/One-on-One Basketball">
+    <rom name="One-on-One Basketball (Europe).a78" size="49280" sha1="91e945595232bfc40f7ee022546792953224a932" crc="9360f1c5" />
+    <rom name="One-on-One Basketball (USA).a78" size="49280" sha1="4753a485c3bd30a775edf1e07d4bb3e14159ebb7" crc="73c6109a" />
+  </game>
+  <game name="01 - Games/Oozy the Goo Gaiden">
+    <rom name="Oozy the Goo Gaiden (World) (Aftermarket) (Unl).a78" size="147584" sha1="d38f619b9bfeede74327240a98435151d794e192" crc="f5efd437" />
+  </game>
+  <game name="01 - Games/Orion Assault/~Prototypes and Betas">
+    <rom name="Orion Assault (World) (v01.78b) (Proto) (Aftermarket) (Unl).a78" size="131200" sha1="fa25a5720b95ae9e88dbbfb8fc92908f1dd2dd18" crc="16f45552" />
+  </game>
+  <game name="01 - Games/Pac-Man (Pac-Man Collection port)">
+    <rom name="Pac-Man Collection (World) (Digital) (NTSC) (Aftermarket) (Unl).a78" size="32896" sha1="2a8e374e032364b9168d5d70475eda91a23bb6b2" crc="1e857ea5" />
+    <rom name="Pac-Man Collection (World) (Digital) (PAL) (Aftermarket) (Unl).a78" size="32896" sha1="1c139b85a151fff18f8921e91dcc8ada35864896" crc="3b674661" />
+  </game>
+  <game name="01 - Games/Pac-Man - Energy Drink Edition">
+    <rom name="Pac-Man - Energy Drink Edition (World) (v1.02) (Aftermarket) (Unl).a78" size="49280" sha1="b24a11a731fb6cd9832addef89d38a2b0809dc53" crc="2dcbfa74" />
+  </game>
+  <game name="01 - Games/Pac-Man 320">
+    <rom name="Pac-Man 320 (World) (v1.05) (NTSC) (Aftermarket) (Unl).a78" size="32896" sha1="a275cd00a0642bc67ea02cf2c1939beb1d47f107" crc="1b317f72" />
+    <rom name="Pac-Man 320 (World) (v1.05) (PAL) (Aftermarket) (Unl).a78" size="32896" sha1="424dd598a224185d8fb0b47cc01e4d5f84dff708" crc="0694b7fe" />
+  </game>
+  <game name="01 - Games/Pac-Man Collection - 40th Anniversary Edition">
+    <rom name="Pac-Man Collection - 40th Anniversary Edition (World) (Digital) (Aftermarket) (Unl).a78" size="131200" sha1="3830154cd50c0355e55a13611377377fa6442972" crc="9110b4d5" />
+  </game>
+  <game name="01 - Games/Pac-Man Collection - Remastered Edition">
+    <rom name="Pac-Man Collection - Remastered Edition (World) (NTSC) (TIA) (Aftermarket) (Unl).a78" size="49280" sha1="1efd31d55be8abbe369e47fff5fe97cc04aeff7e" crc="e2a5a351" />
+    <rom name="Pac-Man Collection - Remastered Edition (World) (PAL) (TIA) (Aftermarket) (Unl).a78" size="49280" sha1="252e5b6fdd143b60690db5b1d4de68a52f9c77c9" crc="8a7b837e" />
+  </game>
+  <game name="01 - Games/Pac-Man Collection - Ultimate Edition">
+    <rom name="Pac-Man Collection - Ultimate Edition (World) (NTSC) (Pokey) (Aftermarket) (Unl).a78" size="32896" sha1="8365c31cb7930fb59083b6f6add2a9e49f15f693" crc="4c89fd07" />
+    <rom name="Pac-Man Collection - Ultimate Edition (World) (PAL) (Pokey) (Aftermarket) (Unl).a78" size="32896" sha1="108de34dcd8b89402faeb950ba588c7113a04f6f" crc="63caa656" />
+  </game>
+  <game name="01 - Games/Pac-Man Collection">
+    <rom name="Pac-Man Collection (World) (Digital) (NTSC) (Aftermarket) (Unl).a78" size="32896" sha1="2a8e374e032364b9168d5d70475eda91a23bb6b2" crc="1e857ea5" />
+    <rom name="Pac-Man Collection (World) (Digital) (PAL) (Aftermarket) (Unl).a78" size="32896" sha1="1c139b85a151fff18f8921e91dcc8ada35864896" crc="3b674661" />
+  </game>
+  <game name="01 - Games/Pac-Man Plus (Pac-Man Collection port)">
+    <rom name="Pac-Man Collection (World) (Digital) (NTSC) (Aftermarket) (Unl).a78" size="32896" sha1="2a8e374e032364b9168d5d70475eda91a23bb6b2" crc="1e857ea5" />
+    <rom name="Pac-Man Collection (World) (Digital) (PAL) (Aftermarket) (Unl).a78" size="32896" sha1="1c139b85a151fff18f8921e91dcc8ada35864896" crc="3b674661" />
+  </game>
+  <game name="01 - Games/Pac-Man Plus 320">
+    <rom name="Pac-Man Plus 320 (World) (NTSC) (Aftermarket) (Unl).a78" size="32896" sha1="7cc5bd294ef6118bb5ed4276c3c827e00906f20c" crc="24cc913e" />
+    <rom name="Pac-Man Plus 320 (World) (PAL) (Aftermarket) (Unl).a78" size="32896" sha1="42b59d3d3ef9b33db3b2a836d1e9cee97bc48cf7" crc="9c0a6699" />
+  </game>
+  <game name="01 - Games/Pete Rose Baseball">
+    <rom name="Baseball (Europe).a78" size="32896" sha1="aae75fd26ba123b5fcb74855e54c044927f12a48" crc="0e04618e" />
+    <rom name="Pete Rose Baseball (USA).a78" size="32896" sha1="58ba72a2b5df89209959bc117b03e7f9a67b326a" crc="6905f39e" />
+  </game>
+  <game name="01 - Games/Pirate Cove">
+    <rom name="Pirate Cove (World) (Aftermarket) (Unl).a78" size="32896" sha1="3a57cab4a10a08838cda74c271951573b1bbf0dd" crc="cacd77a3" />
+  </game>
+  <game name="01 - Games/Pit Fighter/~Prototypes and Betas">
+    <rom name="Pit Fighter (USA) (Proto).a78" size="65664" sha1="4d4c61456bf35185a90199b801c8bb0d826f3768" crc="1cab98f3" />
+  </game>
+  <game name="01 - Games/Planet Smashers">
+    <rom name="Planet Smashers (Europe).a78" size="131200" sha1="f190e46d13498d99f4c394bfb7b3b3aabd6e157f" crc="43d2412a" />
+    <rom name="Planet Smashers (USA).a78" size="131200" sha1="c03bdf9948abae34935c4c7dc201a02897bf4d44" crc="6f8975a7" />
+  </game>
+  <game name="01 - Games/Plink">
+    <rom name="Plink (World) (Aftermarket) (Unl).a78" size="131200" sha1="68feaeb49026e39cad7a4935e97643484f7047db" crc="5162cba5" />
+  </game>
+  <game name="01 - Games/Plutos XM">
+    <rom name="Plutos XM (World) (Aftermarket) (Unl).a78" size="131200" sha1="c7148a825e5a3b1a4f18bf0d42093f050eff000e" crc="07de21cb" />
+  </game>
+  <game name="01 - Games/Plutos/~Prototypes and Betas">
+    <rom name="Plutos (USA) (Proto).a78" size="131200" sha1="82b7a6fb7e0e0a8337f1bff3a64a619b1ddeee74" crc="c9403509" />
+  </game>
+  <game name="01 - Games/Poetiru">
+    <rom name="Poetiru (World) (Aftermarket) (Unl).a78" size="32896" sha1="90fe11217b9d3ff09a5c45cc2fe806a13eaea999" crc="526b8eac" />
+  </game>
+  <game name="01 - Games/Pole Position II">
+    <rom name="Pole Position II (Europe).a78" size="32896" sha1="e2ed43dc832260ab7130558a15a69eb3b9755155" crc="d4652626" />
+    <rom name="Pole Position II (USA).a78" size="32896" sha1="5d11386f78dece46747c5498884d8f136f1f17ab" crc="aab8854d" />
+  </game>
+  <game name="01 - Games/Pole Position II/~Prototypes and Betas">
+    <rom name="Pole Position II (USA) (Beta).bin" size="32768" sha1="e65e2bbf62f902c4dee3f2e95ec5a222d151beb4" crc="fd40b838" />
+  </game>
+  <game name="01 - Games/Popeye">
+    <rom name="Popeye (World) (v2.40) (Aftermarket) (Unl).a78" size="147584" sha1="272f0bc69ebcaed628509f3b7c550f04f4ef581a" crc="e495c257" />
+  </game>
+  <game name="01 - Games/Rampage">
+    <rom name="Rampage (USA).a78" size="131200" sha1="4b91d2e4cd3d007517ff09f2fdc26f8e5fcfa8e6" crc="470d06cb" />
+  </game>
+  <game name="01 - Games/Rampart/~Prototypes and Betas">
+    <rom name="Rampart (USA) (Proto).a78" size="131200" sha1="5661dcd884259616ad2c9f19ca90a384595d5536" crc="a01b03d1" />
+  </game>
+  <game name="01 - Games/RealSports Baseball">
+    <rom name="RealSports Baseball (USA).a78" size="65664" sha1="5eacdfad74efad640b5e826823c475a5cd020d2b" crc="0ffcb636" />
+  </game>
+  <game name="01 - Games/Rescue on Fractalus/~Prototypes and Betas">
+    <rom name="Rescue on Fractalus (USA) (Proto).a78" size="32896" sha1="7e615a9e439bb35a02182c13f8aa226c1782ce55" crc="a40009a1" />
+  </game>
+  <game name="01 - Games/Rikki &amp; Vikki">
+    <rom name="Rikki &amp; Vikki (World) (R12) (Aftermarket) (Unl).bin" size="524288" sha1="4982183b2e374e4d104b187b788b9e4001ba5d85" crc="77f665cf" />
+    <rom name="Rikki &amp; Vikki (World) (R13) (Aftermarket) (Unl).bin" size="524288" sha1="87572d8de855c3674ddf7d183774366d81b9c003" crc="ed893425" />
+    <rom name="Rikki &amp; Vikki (World) (R14) (Aftermarket) (Unl).a78" size="524416" sha1="331f5546a402ebb6dfc58600a5ddd40a90fae811" crc="4151e9bc" />
+  </game>
+  <game name="01 - Games/Rip-Off">
+    <rom name="Rip-Off (World) (v1.05) (NTSC) (Aftermarket) (Unl).a78" size="16512" sha1="ae42664106ef2793eeae48f89b05bcefbe527beb" crc="e14f228e" />
+    <rom name="Rip-Off (World) (v1.05) (PAL) (Aftermarket) (Unl).a78" size="16512" sha1="e4a8158da9e15712940778e8919c3d84a105c429" crc="bb7da3e7" />
+    <rom name="Rip-Off (World) (v1.06) (NTSC) (Aftermarket) (Unl).a78" size="16512" sha1="c29c7a8cfaf78b3a6cf7a65294a45e2002c54d07" crc="e62fe9ca" />
+    <rom name="Rip-Off (World) (v1.06) (PAL) (Aftermarket) (Unl).a78" size="16512" sha1="2dac5e0fbb9c2bfd236d525e031d751ff358c4fe" crc="b8c8e216" />
+  </game>
+  <game name="01 - Games/Robot Finds Kitten">
+    <rom name="Robot Finds Kitten (World) (2005-06-19) (Aftermarket) (Unl).a78" size="32896" sha1="131035773a422d067ca8d3efcd0a7f9095cd3595" crc="c1580bba" />
+    <rom name="Robot Finds Kitten (World) (2022-03-31) (Aftermarket) (Unl).a78" size="32896" sha1="3e1d1b795a8431a48db57c70e3b4a523c741ea0a" crc="a1030447" />
+  </game>
+  <game name="01 - Games/Robotron - 2084">
+    <rom name="Robotron - 2084 (USA).a78" size="32896" sha1="ae9620f23c10adb5db289853c1ffd442e1fcaf02" crc="240bf597" />
+  </game>
+  <game name="01 - Games/Santa Simon">
+    <rom name="Santa Simon (World) (Aftermarket) (Unl).a78" size="49280" sha1="be3c8a89d969409a85c36ec1a63c0b3fa78e1c9b" crc="8689b7d1" />
+    <rom name="Santa Simon (World) (Aftermarket) (Unl).bin" size="49152" sha1="635340bb2e0060fb47b0156f105d0d2e4c2cf635" crc="deafa85e" />
+  </game>
+  <game name="01 - Games/Scramble">
+    <rom name="Scramble (World) (v1.14) (NTSC) (Aftermarket) (Unl).a78" size="49280" sha1="2b4796fa6e55928d216c719a9319a0000aaafc8b" crc="79b068df" />
+    <rom name="Scramble (World) (v1.14) (PAL) (Aftermarket) (Unl).a78" size="49280" sha1="33f021b672d19db0540b3d3286a0305bcf1f4c3c" crc="c98edf0c" />
+    <rom name="Scramble (World) (v1.15) (NTSC) (Aftermarket) (Unl).a78" size="49280" sha1="05e73c3a53fadc9214c4cadbed64f73a3c66ee62" crc="6736d0ff" />
+    <rom name="Scramble (World) (v1.15) (PAL) (Aftermarket) (Unl).a78" size="49280" sha1="4a2db5eac7df8c33bbf4f4e961f74e542076b549" crc="50ec4ad0" />
+  </game>
+  <game name="01 - Games/Scrapyard Dog">
+    <rom name="Scrapyard Dog (Europe).a78" size="131200" sha1="f1fe47533cce2d1bd535802c82c8bbc3567a626a" crc="d094512d" />
+    <rom name="Scrapyard Dog (USA).a78" size="131200" sha1="7f6488a62fdf5cc0adc8b2663a65dd566b3aa301" crc="30b62afd" />
+  </game>
+  <game name="01 - Games/Sentinel">
+    <rom name="Sentinel (Europe).a78" size="131200" sha1="c007285c26e7f27e6181999b9000a39b5e42e195" crc="5acd131c" />
+  </game>
+  <game name="01 - Games/Sentinel/~Prototypes and Betas">
+    <rom name="Sentinel (USA) (Proto).a78" size="131200" sha1="0856d8f7aebec3574f55cb7bbfa8250cf4feed4c" crc="331861be" />
+  </game>
+  <game name="01 - Games/Serpentine">
+    <rom name="Serpentine (World) (Aftermarket) (Unl).a78" size="131200" sha1="6c43626c1a9b8a447bcb1981196a1cc797f9ae17" crc="e2998530" />
+  </game>
+  <game name="01 - Games/Shoot the UFO 2015">
+    <rom name="Shoot the UFO 2015 (World) (Aftermarket) (Unl).a78" size="32896" sha1="595291f4a19bcd3cb7a56f54e67ceef4b12868b9" crc="73507bee" />
+  </game>
+  <game name="01 - Games/Shuriken">
+    <rom name="Shuriken (World) (Aftermarket) (Unl).a78" size="32896" sha1="3eb4383c78172241226df66b0c0c22085b2c7bf4" crc="d4b96817" />
+  </game>
+  <game name="01 - Games/Sick Pickles">
+    <rom name="Sick Pickles (World) (Aftermarket) (Unl).a78" size="49280" sha1="395edcd25a3a42cf6169980e68f128bb8e085e98" crc="4e7948b3" />
+  </game>
+  <game name="01 - Games/Sirius XM">
+    <rom name="Sirius XM (World) (Aftermarket) (Unl).a78" size="131200" sha1="8fc5dcafed7d08af7ff4fc3bf3a169704deb9773" crc="9b9aedab" />
+  </game>
+  <game name="01 - Games/Sirius/~Prototypes and Betas">
+    <rom name="Sirius (USA) (Proto).a78" size="131200" sha1="ccd994919e0b2b250c1f10882313ac4970996acf" crc="d89b3d8a" />
+  </game>
+  <game name="01 - Games/Slide Boy in Maze Land">
+    <rom name="Slide Boy in Maze Land (World) (Digital) (Aftermarket) (Unl).a78" size="49280" sha1="4bc76ad90326fd2a118e797501b6fb35bfa88cb7" crc="85ab68cf" />
+  </game>
+  <game name="01 - Games/Slide Boy in Maze Land/~Prototypes and Betas">
+    <rom name="Slide Boy in Maze Land (World) (2021-05-10) (Beta) (Aftermarket) (Unl).a78" size="49280" sha1="7fdb898926d7a922a7b681690b7bfb93faecf148" crc="74f0d327" />
+  </game>
+  <game name="01 - Games/Space Duel">
+    <rom name="Space Duel (World) (v1.09) (NTSC) (Aftermarket) (Unl).a78" size="32896" sha1="de21b55badd1a4f0a5117aab0fd57a2b3db72d1d" crc="d795b3da" />
+    <rom name="Space Duel (World) (v1.09) (PAL) (Aftermarket) (Unl).a78" size="32896" sha1="8fd416c300f438e9ecc15d8f0c885a3b11981e50" crc="36d212f9" />
+  </game>
+  <game name="01 - Games/Space Invaders">
+    <rom name="Space Invaders (World) (v2.01) (NTSC) (Aftermarket) (Unl).a78" size="16512" sha1="f04fc68880ba2d6ec57c39012749e413cca144d1" crc="f2699e24" />
+    <rom name="Space Invaders (World) (v2.01) (PAL) (Aftermarket) (Unl).a78" size="32896" sha1="4c02d00d28bf6e8d58d1ab5f8d2b69d8325a65cb" crc="a78e5587" />
+    <rom name="Space Invaders (World) (v2.02) (Aftermarket) (Unl).a78" size="16512" sha1="795026b9e7a753a683d88b27e5d083c10402be55" crc="8f873069" />
+  </game>
+  <game name="01 - Games/Space Race">
+    <rom name="Space Race (World) (v0.96) (Aftermarket) (Unl).a78" size="49280" sha1="31a3f2618a17b4479c2f08be6b156f4a52b054cf" crc="6dd90f8c" />
+  </game>
+  <game name="01 - Games/Stinger">
+    <rom name="Stinger (World) (Aftermarket) (Unl).a78" size="32896" sha1="bcdd587f6da83631207cc2d5e8531688a0e1f700" crc="2c98ce80" />
+  </game>
+  <game name="01 - Games/Summer Games">
+    <rom name="Summer Games (USA).a78" size="131200" sha1="5ab217627e49a5fe3a87b622e8ce6168b7f8021b" crc="ec9897ad" />
+  </game>
+  <game name="01 - Games/Super Circus AtariAge">
+    <rom name="Super Circus AtariAge (World) (NTSC) (Aftermarket) (Unl).a78" size="32896" sha1="e163a77f2552fa8e5f70316c8ae8afcd6c737943" crc="110b8249" />
+    <rom name="Super Circus AtariAge (World) (PAL) (Aftermarket) (Unl).a78" size="32896" sha1="31d958ca0e8614fd0da4fae2e2cb83bdebe1e667" crc="aac29c8b" />
+    <rom name="Super Circus AtariAge (World) (PAL) (Aftermarket) (Unl).bin" size="32768" sha1="d7d39ebd7285827e8173671b15a4a408cb515a9a" crc="2a9088c6" />
+  </game>
+  <game name="01 - Games/Super Huey UH-IX">
+    <rom name="Super Huey UH-IX (Europe).a78" size="49280" sha1="251f6c7f98cd6e434eced63845c65dbd08d65465" crc="bf8a8c75" />
+    <rom name="Super Huey UH-IX (USA).a78" size="49280" sha1="bb19116dead18cb0d403053911dc62f543a4b8cd" crc="2229520f" />
+  </game>
+  <game name="01 - Games/Super Pac-Man">
+    <rom name="Super Pac-Man (World) (v1.09) (NTSC) (Aftermarket) (Unl).a78" size="32896" sha1="0927e0ffd2477d7026a1f24a49d8bb89fd475d55" crc="79e2be17" />
+    <rom name="Super Pac-Man (World) (v1.09) (PAL) (Aftermarket) (Unl).a78" size="32896" sha1="1a6cbcb6c7b326d34a99f1481976a8a446e88a27" crc="d1983466" />
+    <rom name="Super Pac-Man (World) (v1.10) (NTSC) (Aftermarket) (Unl).a78" size="32896" sha1="14123ae1d19676cbd446c64441805f998a943169" crc="451914c8" />
+    <rom name="Super Pac-Man (World) (v1.10) (PAL) (Aftermarket) (Unl).a78" size="32896" sha1="5d016126a4e2b9eb923a6e6a66429f9e12b45201" crc="e94ee02a" />
+    <rom name="Super Pac-Man (World) (v1.10) (PAL) (Aftermarket) (Unl).bin" size="32768" sha1="0637e4cf50f7903aa56758b67974c0bf4f3f4563" crc="24c93682" />
+  </game>
+  <game name="01 - Games/Super Skateboardin'">
+    <rom name="Super Skateboardin' (Europe).a78" size="32896" sha1="228b47338be25ac0e81218f5baad487df9831354" crc="79956280" />
+    <rom name="Super Skateboardin' (USA).a78" size="32896" sha1="a1b22cec274558d55250ef2f39277e023a447c64" crc="ee634609" />
+  </game>
+  <game name="01 - Games/Super Stunt Cycle/~Prototypes and Betas">
+    <rom name="Super Stunt Cycle (USA) (Proto) (1988-11-03).a78" size="65664" sha1="9995e4c1401e2c8dbb77d51f5e447d7f2052e32f" crc="0ab7b0a4" />
+    <rom name="Super Stunt Cycle (USA) (Proto) (1989-04-14).a78" size="65664" sha1="838fb405d7dd807c46c8e724c6ac58ab41393673" crc="850af1b9" />
+    <rom name="Super Stunt Cycle (USA) (Proto) (1989-05-26).a78" size="65664" sha1="2f772b44d26369d2ff626dbd43a48707a0653ca7" crc="867c2107" />
+  </game>
+  <game name="01 - Games/Tank Command">
+    <rom name="Tank Command (USA).a78" size="65664" sha1="dabc5d5bd9403cd3ee43f7d36aa574a98e0a8169" crc="e2d35dfc" />
+  </game>
+  <game name="01 - Games/Title Match Pro Wrestling">
+    <rom name="Title Match Pro Wrestling (Europe).a78" size="32896" sha1="c2459de60d3cd1739343301170947a765d4f7ee1" crc="1b3efb0d" />
+    <rom name="Title Match Pro Wrestling (USA).a78" size="32896" sha1="60f3daa0898a29a6cf83748c226a127cd87fb79e" crc="d386054c" />
+  </game>
+  <game name="01 - Games/Tomcat - The F-14 Fighter Simulator">
+    <rom name="Tomcat - The F-14 Fighter Simulator (Europe).a78" size="32896" sha1="9a9498bc06d206808f36aa4e1ee505e07d2a15b4" crc="8c50c2a9" />
+    <rom name="Tomcat - The F-14 Fighter Simulator (USA).a78" size="32896" sha1="27993d961ae6977cd7382090b93f83ea193c1fba" crc="b0eb3dd3" />
+  </game>
+  <game name="01 - Games/Touchdown Challenge">
+    <rom name="Touchdown Challenge (World) (v2.21) (Aftermarket) (Unl).a78" size="49280" sha1="7cfcd94b92606211d82db5283447fcd9084be927" crc="edd00d48" />
+  </game>
+  <game name="01 - Games/Touchdown Football">
+    <rom name="Touchdown Football (USA).a78" size="131200" sha1="56b0243435f08e52c722a20b7ca6a6a240d8b6f8" crc="d94eb521" />
+  </game>
+  <game name="01 - Games/Tower Toppler">
+    <rom name="Tower Toppler (Europe).a78" size="65664" sha1="1801c2709c3c61c64df70d9268356380a1280ab1" crc="f1c70892" />
+    <rom name="Tower Toppler (USA).a78" size="65664" sha1="0a4ffc717a9990648d89b9323d63b56622506e9d" crc="6570bb2a" />
+  </game>
+  <game name="01 - Games/Tunnels of Hyperion">
+    <rom name="Tunnels of Hyperion (World) (Aftermarket) (Unl).a78" size="49280" sha1="522d80e7194898afa0eed7d2ce8710a0296452bd" crc="6c0f5141" />
+  </game>
+  <game name="01 - Games/UniWarS">
+    <rom name="UniWarS (World) (v1.05) (Aftermarket) (Unl).a78" size="32896" sha1="d20e5dbad5c34c96c79b11c9c494198b22793427" crc="5645ae47" />
+    <rom name="UniWarS (World) (v1.06) (Aftermarket) (Unl).a78" size="32896" sha1="126c214e1b32dbf3dd89a0fe8da0fc3313a19b53" crc="8b04d33d" />
+  </game>
+  <game name="01 - Games/Wasp!">
+    <rom name="Wasp! (World) (Aftermarket) (Unl).a78" size="32896" sha1="45b22dc034444c4511d705473653c47b9c809d49" crc="9b566f99" />
+  </game>
+  <game name="01 - Games/Water Ski">
+    <rom name="Water Ski (USA).a78" size="65664" sha1="16876714cb9b4375b85e6f59535e9bf151e1685a" crc="2af768c3" />
+  </game>
+  <game name="01 - Games/Winter Games">
+    <rom name="Winter Games (USA).a78" size="131200" sha1="b7b7fedc72e683561b9099b6179021770dcb9e57" crc="70912151" />
+  </game>
+  <game name="01 - Games/Wizard's Dungeon">
+    <rom name="Wizard's Dungeon (World) (Aftermarket) (Unl).a78" size="49280" sha1="3e6d18447518d79fd920a4dac99f0931856da282" crc="985ed95e" />
+  </game>
+  <game name="01 - Games/Wordle">
+    <rom name="Wordle (World) (v1.07) (Aftermarket) (Unl).a78" size="131200" sha1="5d1bfb4f747ac621be1cd85a5663778c15928baf" crc="718e07c5" />
+  </game>
+  <game name="01 - Games/Worm!">
+    <rom name="Worm! (World) (Aftermarket) (Unl).a78" size="16512" sha1="6aed0c4b4a829221d41f4e326056181e1f926c48" crc="d10fe951" />
+  </game>
+  <game name="01 - Games/Xenophobe">
+    <rom name="Xenophobe (Europe).a78" size="131200" sha1="3369b7e4563d8447a0974039358211b4fc513fe3" crc="18ef0b69" />
+    <rom name="Xenophobe (USA).a78" size="131200" sha1="fb8bc2e825e2aa159739966533cb78fa181daf50" crc="7f1799ef" />
+  </game>
+  <game name="01 - Games/Xevious">
+    <rom name="Xevious (Europe).a78" size="49280" sha1="7ce219a3ac4ceb857c357e9d7d11f62e12f411d9" crc="8f813c8e" />
+    <rom name="Xevious (USA).a78" size="32896" sha1="09b68a05cef6409fcbc21dbe9eac57104a56c161" crc="651b78ab" />
+  </game>
+  <game name="01 - Games/Xevious/~Prototypes and Betas">
+    <rom name="Xevious (USA) (Beta).bin" size="32768" sha1="5f7d2d52ed8c9a3263ee0aefb3bc05a2847665dd" crc="6fd15498" />
+  </game>
+  <game name="01 - Games/bonQ">
+    <rom name="bonQ (World) (Aftermarket) (Unl).a78" size="49280" sha1="ba493e783db0768e79a11759d03cb219adc048d2" crc="cc71caa1" />
+  </game>
+  <game name="02 - Software and Utilities/7800 Monitor Cart">
+    <rom name="7800 Monitor Cart (USA) (Program) (Unl).bin" size="8192" sha1="1cddbc51c924f38ee7f7587bc608aaa71bb16c24" crc="d98bc2f8" />
+  </game>
+  <game name="02 - Software and Utilities/Atari 7800 Development Card">
+    <rom name="Atari 7800 Development Card (USA).bin" size="16384" sha1="4df3657f57e3086bee26fb5c6ea946c509d08553" crc="3fbe74ce" />
+  </game>
+  <game name="02 - Software and Utilities/Diagnostic Test Cartridge">
+    <rom name="Diagnostic Test Cartridge (USA).a78" size="32896" sha1="065f0a9e759fb1f02b1c95960b166187c10e6abe" crc="69b477ae" />
+  </game>
+  <game name="02 - Software and Utilities/Diagnostic Test Cartridge/~Prototypes and Betas">
+    <rom name="Diagnostic Test Cartridge (USA) (Beta).bin" size="16384" sha1="ea4df28c6bedc09f7013013f257c984aed9b5319" crc="729dd769" />
+  </game>
+  <game name="02 - Software and Utilities/High Score Cartridge/~Prototypes and Betas">
+    <rom name="High Score Cartridge (USA) (Proto).bin" size="4096" sha1="a3af676991391a6dd716c79022d4947206b78164" crc="9be408d3" />
+  </game>
+</datafile>

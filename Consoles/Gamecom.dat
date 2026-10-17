@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<datafile>
+  <header>
+    <name>Gamecom</name>
+    <version>2026-10-16</version>
+    <romvault forcepacking="fileonly" />
+  </header>
+  <game name="01 - Games/Batman &amp; Robin">
+    <rom name="Batman &amp; Robin (USA).tgc" size="2097152" sha1="066d5cddce9729044ad598ad3cc3489a834f5197" crc="b336e530" />
+  </game>
+  <game name="01 - Games/Castlevania - Symphony of the Night/~Prototypes and Betas">
+    <rom name="Castlevania - Symphony of the Night (Unknown) (Proto).tgc" size="2097152" sha1="86fc20a233f18c4c7aac8ebed3e4d95dabc6e8bb" crc="eec4e8e3" />
+  </game>
+  <game name="01 - Games/Centipede">
+    <rom name="Centipede (USA).tgc" size="262144" sha1="b3d50e0cca6e2a539fba5883854aaf26424ab382" crc="1a041ff0" />
+  </game>
+  <game name="01 - Games/Defender II">
+    <rom name="Williams Arcade Classics (USA).tgc" size="1048576" sha1="5e2164fa76546b2795af7b04a766e31784b82eca" crc="f894065d" />
+  </game>
+  <game name="01 - Games/Defender">
+    <rom name="Williams Arcade Classics (USA).tgc" size="1048576" sha1="5e2164fa76546b2795af7b04a766e31784b82eca" crc="f894065d" />
+  </game>
+  <game name="01 - Games/Duke Nukem 3D">
+    <rom name="Duke Nukem 3D (USA).tgc" size="2097152" sha1="9aaa1cf3b12f14201079dfbdd4c17fe868972de6" crc="884568d1" />
+  </game>
+  <game name="01 - Games/Fighters Megamix">
+    <rom name="Fighters Megamix (USA).tgc" size="2097152" sha1="c165e5f4b61341ae0e8a4d141b28e18108942326" crc="061e943f" />
+  </game>
+  <game name="01 - Games/Frogger">
+    <rom name="Frogger (USA).tgc" size="1048576" sha1="8224d3e71a3da2f4029bee8b62b4a0c108c054e4" crc="10e4c5cd" />
+  </game>
+  <game name="01 - Games/Henry">
+    <rom name="Henry (USA).tgc" size="1048576" sha1="b72a03af1dec0c621f9eda89ded3845724bb34ac" crc="75d3c8d8" />
+  </game>
+  <game name="01 - Games/Hi-Low">
+    <rom name="Tiger Casino (USA).tgc" size="2097152" sha1="3620491b531b9fce67545e822eff2f99c1adb4a4" crc="e7fb8fd9" />
+  </game>
+  <game name="01 - Games/Indy 500">
+    <rom name="Indy 500 (USA).tgc" size="1048576" sha1="117bfa1c831fbcf4a1d507cb70b6e0636c29bbd3" crc="845ed281" />
+  </game>
+  <game name="01 - Games/Jeopardy!">
+    <rom name="Jeopardy! (USA).tgc" size="1048576" sha1="c60ac5e59c3cc092506bc47adb60b40a9415bc97" crc="8c512912" />
+  </game>
+  <game name="01 - Games/Joust">
+    <rom name="Williams Arcade Classics (USA).tgc" size="1048576" sha1="5e2164fa76546b2795af7b04a766e31784b82eca" crc="f894065d" />
+  </game>
+  <game name="01 - Games/Jurassic Park - The Lost World">
+    <rom name="Jurassic Park - The Lost World (USA).tgc" size="2097152" sha1="648badcac6c386d7ff40f917e34bd309e737c027" crc="b422c5f8" />
+  </game>
+  <game name="01 - Games/Lights Out">
+    <rom name="Lights Out (USA).tgc" size="32768" sha1="1d91b616caa2d35f53ec5680aada8f75e2f0ac43" crc="496efa62" />
+  </game>
+  <game name="01 - Games/Monopoly">
+    <rom name="Monopoly (USA).tgc" size="2097152" sha1="8057144f6995eafff6d893383114b48f4c77abc3" crc="d6a65a07" />
+  </game>
+  <game name="01 - Games/Mortal Kombat Trilogy">
+    <rom name="Mortal Kombat Trilogy (USA).tgc" size="2097152" sha1="a560ad2b916a9e4ace917d7e707cdcafbffe6e66" crc="bd29c844" />
+  </game>
+  <game name="01 - Games/Quiz Wiz - Cyber Trivia">
+    <rom name="Quiz Wiz - Cyber Trivia (USA).tgc" size="1048576" sha1="c9c4435bdcea2b9ddaa2768f28f286abd382608d" crc="0e018f6a" />
+  </game>
+  <game name="01 - Games/Resident Evil 2">
+    <rom name="Resident Evil 2 (USA).tgc" size="2097152" sha1="e32357d08b07a6a8f6a7e64205cca35e50225269" crc="0984c7f5" />
+  </game>
+  <game name="01 - Games/Robotron - 2084">
+    <rom name="Williams Arcade Classics (USA).tgc" size="1048576" sha1="5e2164fa76546b2795af7b04a766e31784b82eca" crc="f894065d" />
+  </game>
+  <game name="01 - Games/Roulette">
+    <rom name="Tiger Casino (USA).tgc" size="2097152" sha1="3620491b531b9fce67545e822eff2f99c1adb4a4" crc="e7fb8fd9" />
+  </game>
+  <game name="01 - Games/Scrabble">
+    <rom name="Scrabble (USA).tgc" size="2097152" sha1="2735d59964fe7c1d43bd260df86b9dfbc1bfd736" crc="4d4ad909" />
+  </game>
+  <game name="01 - Games/Sinistar">
+    <rom name="Williams Arcade Classics (USA).tgc" size="1048576" sha1="5e2164fa76546b2795af7b04a766e31784b82eca" crc="f894065d" />
+  </game>
+  <game name="01 - Games/Slots">
+    <rom name="Tiger Casino (USA).tgc" size="2097152" sha1="3620491b531b9fce67545e822eff2f99c1adb4a4" crc="e7fb8fd9" />
+  </game>
+  <game name="01 - Games/Sonic &amp; Knuckles">
+    <rom name="Sonic Jam (USA).tgc" size="2097152" sha1="393a98138c8825ed61990e1b15e1967f87068ac6" crc="8b4a63f9" />
+  </game>
+  <game name="01 - Games/Sonic Jam">
+    <rom name="Sonic Jam (USA).tgc" size="2097152" sha1="393a98138c8825ed61990e1b15e1967f87068ac6" crc="8b4a63f9" />
+  </game>
+  <game name="01 - Games/Sonic the Hedgehog 2">
+    <rom name="Sonic Jam (USA).tgc" size="2097152" sha1="393a98138c8825ed61990e1b15e1967f87068ac6" crc="8b4a63f9" />
+  </game>
+  <game name="01 - Games/Sonic the Hedgehog 3">
+    <rom name="Sonic Jam (USA).tgc" size="2097152" sha1="393a98138c8825ed61990e1b15e1967f87068ac6" crc="8b4a63f9" />
+  </game>
+  <game name="01 - Games/Tiger Casino">
+    <rom name="Tiger Casino (USA).tgc" size="2097152" sha1="3620491b531b9fce67545e822eff2f99c1adb4a4" crc="e7fb8fd9" />
+  </game>
+  <game name="01 - Games/Video Blackjack">
+    <rom name="Tiger Casino (USA).tgc" size="2097152" sha1="3620491b531b9fce67545e822eff2f99c1adb4a4" crc="e7fb8fd9" />
+  </game>
+  <game name="01 - Games/Video Poker">
+    <rom name="Tiger Casino (USA).tgc" size="2097152" sha1="3620491b531b9fce67545e822eff2f99c1adb4a4" crc="e7fb8fd9" />
+  </game>
+  <game name="01 - Games/Wheel of Fortune 2">
+    <rom name="Wheel of Fortune 2 (USA).tgc" size="524288" sha1="30ddd349b8bdc21ef7ada4772ab1f3a9318ab0c8" crc="b91e2e32" />
+  </game>
+  <game name="01 - Games/Wheel of Fortune">
+    <rom name="Wheel of Fortune (USA).tgc" size="524288" sha1="298c2b87754dd93481feea1d9e01585a1e269770" crc="048347a0" />
+  </game>
+  <game name="01 - Games/Williams Arcade Classics">
+    <rom name="Williams Arcade Classics (USA).tgc" size="1048576" sha1="5e2164fa76546b2795af7b04a766e31784b82eca" crc="f894065d" />
+  </game>
+  <game name="02 - Software and Utilities/Internet">
+    <rom name="Internet (USA).tgc" size="262144" sha1="4c6b5b91a70397cb5e1add4ab53afe3ec0fe2072" crc="7e721a84" />
+  </game>
+  <game name="02 - Software and Utilities/Tiger Web Link">
+    <rom name="Tiger Web Link (USA).tgc" size="262144" sha1="d4e08fc050c006ed6c1a177a1f4c41b4a68c26bb" crc="4c13e65b" />
+  </game>
+</datafile>

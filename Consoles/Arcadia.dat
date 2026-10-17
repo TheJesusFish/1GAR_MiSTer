@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<datafile>
+  <header>
+    <name>Arcadia</name>
+    <version>2026-10-16</version>
+    <romvault forcepacking="fileonly" />
+  </header>
+  <game name="01 - Games/3D Bowling">
+    <rom name="3D Bowling (USA, Europe).bin" size="4096" sha1="edd33cabd3d600e9e3d3c22f326a065ea6ebe32c" crc="f3c08e19" />
+  </game>
+  <game name="01 - Games/3D Soccer">
+    <rom name="3D Soccer (Europe).bin" size="8192" sha1="50e799c96be3613f937825c6c722521bc6df0162" crc="4da68df8" />
+  </game>
+  <game name="01 - Games/Alien Invaders">
+    <rom name="Alien Invaders (USA, Europe).bin" size="4096" sha1="8d17de81fbf70db8fe32830763c6a940aa9124c3" crc="1f65b21e" />
+  </game>
+  <game name="01 - Games/American Football">
+    <rom name="American Football (USA, Europe).bin" size="6144" sha1="359e938391b72742643c81228713fac804ff8244" crc="22624414" />
+  </game>
+  <game name="01 - Games/Astro Invader">
+    <rom name="Astro Invader (Europe).bin" size="8192" sha1="629330819642e55340aefd438ac30399fd1689c0" crc="df0bf3fb" />
+  </game>
+  <game name="01 - Games/Autorace">
+    <rom name="Autorace (Europe).bin" size="8192" sha1="7a6b67d4f83ae01ed39736ab13320dfd9882e546" crc="28ad5bcf" />
+  </game>
+  <game name="01 - Games/Baseball">
+    <rom name="Baseball (USA, Europe).bin" size="4096" sha1="f4d39aaab61e6b01c673166ae54841d450860b31" crc="1cf08155" />
+  </game>
+  <game name="01 - Games/Basketball">
+    <rom name="Basketball (Europe).bin" size="4096" sha1="c6e3f963ea9db520bcd682a3206cc291504c9e3d" crc="e93938f6" />
+  </game>
+  <game name="01 - Games/Blackjack and Poker">
+    <rom name="Blackjack and Poker (Europe).bin" size="4096" sha1="a8afadfcaea847c2e998005652ace36803d6601b" crc="0930ce04" />
+  </game>
+  <game name="01 - Games/Blackjack">
+    <rom name="Blackjack and Poker (Europe).bin" size="4096" sha1="a8afadfcaea847c2e998005652ace36803d6601b" crc="0930ce04" />
+  </game>
+  <game name="01 - Games/Boxing">
+    <rom name="Boxing (Europe).bin" size="4096" sha1="0fc3a8a33f2e89b2b32ea0a962effcf3ee430d34" crc="9240891b" />
+  </game>
+  <game name="01 - Games/Brain Quiz">
+    <rom name="Brain Quiz (USA, Europe).bin" size="4096" sha1="e9560e064043946b6bc0a88087d4164adf62e773" crc="ca58b3f8" />
+  </game>
+  <game name="01 - Games/Breakaway">
+    <rom name="Breakaway (USA, Europe).bin" size="4096" sha1="396fe12bd34cc7cd555ad3b9b66f20e56e862385" crc="33c348c1" />
+  </game>
+  <game name="01 - Games/Capture">
+    <rom name="Capture (USA, Europe).bin" size="2048" sha1="107c864252647a4f3569ff501c8a9a3c7dd6067f" crc="aeb803e4" />
+  </game>
+  <game name="01 - Games/Cat Trax">
+    <rom name="Cat Trax (USA, Europe).bin" size="4096" sha1="b0982ed95d92a4d97a5451acbee36af10ff99a3f" crc="fd2cf496" />
+  </game>
+  <game name="01 - Games/Circus">
+    <rom name="Circus (Europe).bin" size="4096" sha1="e8abeb702d9a7b7e12e1cea02946dae267b23041" crc="086ebc8c" />
+  </game>
+  <game name="01 - Games/Combat">
+    <rom name="Combat (Europe).bin" size="8192" sha1="f130cd5e85e801519740ed8c7ac8b4444ce91201" crc="82d049d7" />
+  </game>
+  <game name="01 - Games/Crazy Climber">
+    <rom name="Crazy Climber (Europe).bin" size="4096" sha1="0c6ce7577a121e7810ec54c5dd180a55dd0ace17" crc="76e773fa" />
+  </game>
+  <game name="01 - Games/Crazy Gobbler">
+    <rom name="Crazy Gobbler (Europe).bin" size="2048" sha1="021e78bbc1f2c4ee2e7ca2fa560dd448bdd39798" crc="e84df2ef" />
+  </game>
+  <game name="01 - Games/Escape">
+    <rom name="Escape (USA, Europe).bin" size="4096" sha1="87f81511ea5b7a9671fb945cb22bb578bedb47c9" crc="fc7eba76" />
+  </game>
+  <game name="01 - Games/Funky Fish">
+    <rom name="Funky Fish (Europe).bin" size="8192" sha1="e56be2ecd8284cd43a44620d56d6615766f45451" crc="77c19320" />
+  </game>
+  <game name="01 - Games/Golf">
+    <rom name="Golf (Europe).bin" size="8192" sha1="90c9ffa6c7439af65b045d1eb552ee7da5082f0b" crc="9da024d3" />
+  </game>
+  <game name="01 - Games/Grand Slam Tennis">
+    <rom name="Grand Slam Tennis (USA, Europe).bin" size="8192" sha1="03cedd5fd67ff11a4ac74d513f03a2266af89446" crc="8bf2dfa9" />
+  </game>
+  <game name="01 - Games/Hobo">
+    <rom name="Hobo (Europe).bin" size="8192" sha1="cebb340cb0a50b2815dafc6df8f46d814015a49f" crc="1cec4b21" />
+  </game>
+  <game name="01 - Games/Horse Racing">
+    <rom name="Horse Racing (Europe).bin" size="4096" sha1="72dd8dea83bf9ab7d486931516e99b2209ca0a1d" crc="560daa7f" />
+  </game>
+  <game name="01 - Games/Jump Bug">
+    <rom name="Jump Bug (Europe).bin" size="8192" sha1="d0ace24fd1f3805e46b077e8a4770f922157c8c4" crc="97060a54" />
+  </game>
+  <game name="01 - Games/Jungler">
+    <rom name="Jungler (USA, Europe).bin" size="8192" sha1="8d6e32ab3cc872017c597e61c076330015411435" crc="dfb5dd55" />
+  </game>
+  <game name="01 - Games/Missile War">
+    <rom name="Missile War (USA, Europe).bin" size="4096" sha1="cc3e46adc8a3ed2cbfd5f9bbbf96f61f4e2ecebe" crc="a615f068" />
+  </game>
+  <game name="01 - Games/Monaco Grand Prix">
+    <rom name="Monaco Grand Prix (Europe).bin" size="4096" sha1="7dcc1387892fa7275514c91ce584f83a5d3e14d6" crc="5e033f9c" />
+  </game>
+  <game name="01 - Games/Nibblemen">
+    <rom name="Nibblemen (Europe).bin" size="4096" sha1="a2f3d269e422e6ee89d58f001d39438704178e17" crc="7832f7ad" />
+  </game>
+  <game name="01 - Games/Ocean Battle">
+    <rom name="Ocean Battle (USA, Europe).bin" size="4096" sha1="444146bf89c3a0e0e010f6a30e675be3f2b023a7" crc="449e80cb" />
+  </game>
+  <game name="01 - Games/Parashooter">
+    <rom name="Parashooter (Europe).bin" size="4096" sha1="2e7c8e4263eec7f033019ec763effebca40ca30b" crc="4f538848" />
+  </game>
+  <game name="01 - Games/Pleiades">
+    <rom name="Pleiades (Europe).bin" size="8192" sha1="bdb7ce3d4552c82be3cf8db43d5ad103f9d9cc91" crc="4f19fd9b" />
+  </game>
+  <game name="01 - Games/Poker">
+    <rom name="Blackjack and Poker (Europe).bin" size="4096" sha1="a8afadfcaea847c2e998005652ace36803d6601b" crc="0930ce04" />
+  </game>
+  <game name="01 - Games/R2D Tank">
+    <rom name="R2D Tank (Europe).bin" size="4096" sha1="e1daef4cc1e8c51cf542d900ba7139f5f472f2c8" crc="a0626e23" />
+  </game>
+  <game name="01 - Games/Red Clash">
+    <rom name="Red Clash (USA, Europe).bin" size="8192" sha1="25c64048c71a7fc96d6c64afd81b7da61bd20be6" crc="06a86f4a" />
+  </game>
+  <game name="01 - Games/Robot Killer">
+    <rom name="Robot Killer (Europe).bin" size="4096" sha1="acb45a8314fe531390d1c58be23ae860fa344c94" crc="4671b7f7" />
+  </game>
+  <game name="01 - Games/Route 16">
+    <rom name="Route 16 (Europe).bin" size="8192" sha1="6f6d0c0e2ae06112643c63cb6892f8c7269c98a6" crc="8169864e" />
+  </game>
+  <game name="01 - Games/Soccer">
+    <rom name="Soccer (USA, Europe).bin" size="8192" sha1="581c7dc666359e76781f3509f6d59b953166eb3a" crc="8c0c456e" />
+  </game>
+  <game name="01 - Games/Space Attack">
+    <rom name="Space Attack (USA, Europe).bin" size="4096" sha1="25a27466dc3ffb6013cd4f632947834002c80105" crc="e3794a2c" />
+  </game>
+  <game name="01 - Games/Space Mission">
+    <rom name="Space Mission (USA, Europe).bin" size="4096" sha1="a46fa9cbc12cb83218d3936ec3f4d0a4aff8cd60" crc="3ff224e5" />
+  </game>
+  <game name="01 - Games/Space Raiders">
+    <rom name="Space Raiders (USA, Europe).bin" size="4096" sha1="c2c247b57c3d3a9321f7c16e48b1d733bd7d7dbb" crc="88defacf" />
+  </game>
+  <game name="01 - Games/Space Squadron">
+    <rom name="Space Squadron (Europe).bin" size="4096" sha1="e76efb5f2707f67775d09d2d1547a4af0254b7b1" crc="caa5f449" />
+  </game>
+  <game name="01 - Games/Space Vultures">
+    <rom name="Space Vultures (USA, Europe).bin" size="6144" sha1="a1697ee165307792f07fdd7767122140958a4e9f" crc="7666a712" />
+  </game>
+  <game name="01 - Games/Spiders">
+    <rom name="Spiders (USA, Europe).bin" size="8192" sha1="f95b38de1e82fec8c3cf4730f11c05a7e99e5a5b" crc="f9d9ec5b" />
+  </game>
+  <game name="01 - Games/Star Chess">
+    <rom name="Star Chess (USA, Europe).bin" size="4096" sha1="348ca876b1113827d8e7ffb9b2422e863ba92b0f" crc="83e6e40b" />
+  </game>
+  <game name="01 - Games/Super Gobbler">
+    <rom name="Super Gobbler (Europe).bin" size="4096" sha1="ca2efbcb1f1f580b7995aa47ab7da09fa4a1b9e2" crc="08d8b186" />
+  </game>
+  <game name="01 - Games/Tanks a Lot">
+    <rom name="Tanks a Lot (USA, Europe).bin" size="4096" sha1="c431d5190e86f3dfbb3e8b1a3b9bec82bb5014ae" crc="0076422e" />
+  </game>
+  <game name="01 - Games/The End">
+    <rom name="The End (Europe).bin" size="4096" sha1="1148aa1525d7b46640babb50b004c79abec45d3a" crc="e66f362d" />
+  </game>
+  <game name="01 - Games/Turtles">
+    <rom name="Turtles (Europe).bin" size="8192" sha1="a806e3f248a962bb99e2515f489d45bb11fb0a0e" crc="306e39c1" />
+  </game>
+</datafile>

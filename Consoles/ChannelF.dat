@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<datafile>
+  <header>
+    <name>ChannelF</name>
+    <version>2026-10-16</version>
+    <romvault forcepacking="fileonly" />
+  </header>
+  <game name="01 - Games/Acey-Deucey">
+    <rom name="Backgammon, Acey-Deucey (USA).bin" size="2048" sha1="9ac23df58c95bdbe68e3a0d0a477f07cd4e951d0" crc="a1731b52" />
+  </game>
+  <game name="01 - Games/Alien Invasion">
+    <rom name="Alien Invasion (USA).bin" size="4096" sha1="1837e95e6631687fc6d008207e56a31705d55cdf" crc="85e00865" />
+  </game>
+  <game name="01 - Games/Backgammon, Acey-Deucey">
+    <rom name="Backgammon, Acey-Deucey (USA).bin" size="2048" sha1="9ac23df58c95bdbe68e3a0d0a477f07cd4e951d0" crc="a1731b52" />
+  </game>
+  <game name="01 - Games/Backgammon">
+    <rom name="Backgammon, Acey-Deucey (USA).bin" size="2048" sha1="9ac23df58c95bdbe68e3a0d0a477f07cd4e951d0" crc="a1731b52" />
+  </game>
+  <game name="01 - Games/Baseball">
+    <rom name="Baseball (USA).bin" size="2048" sha1="9b0c9bd3e52da22ca7f2aab6fbb5f3c24f89ef75" crc="01129bcd" />
+  </game>
+  <game name="01 - Games/Bowling">
+    <rom name="Bowling (USA).bin" size="2048" sha1="82d49201ee82e8cba6a907aca80969796a84d7f4" crc="94322c79" />
+  </game>
+  <game name="01 - Games/Casino Poker">
+    <rom name="Casino Poker (USA).bin" size="4096" sha1="4540b1cfca461d6eba26754c34090aa74822a4bd" crc="5aa30c12" />
+  </game>
+  <game name="01 - Games/Checkers">
+    <rom name="Checkers (USA).bin" size="2048" sha1="2683b330dc2350341a51f1e3bdf75922bb425a9e" crc="fdae7044" />
+  </game>
+  <game name="01 - Games/Desert Fox, Shooting Gallery">
+    <rom name="Desert Fox, Shooting Gallery (USA).bin" size="2048" sha1="3440928903f39354e1358018cebf12a00c8dff77" crc="1570934b" />
+  </game>
+  <game name="01 - Games/Desert Fox">
+    <rom name="Desert Fox, Shooting Gallery (USA).bin" size="2048" sha1="3440928903f39354e1358018cebf12a00c8dff77" crc="1570934b" />
+  </game>
+  <game name="01 - Games/Dodge It">
+    <rom name="Dodge It (USA).bin" size="2048" sha1="54fdab06a07f84d073858f56a054a59ec0b1142e" crc="e3c1811c" />
+  </game>
+  <game name="01 - Games/Drag Race">
+    <rom name="Drag Race (USA).bin" size="2048" sha1="d915c8997f56ae09548498feecebf3c3bfcdf6c4" crc="6a64dda3" />
+  </game>
+  <game name="01 - Games/Galactic Space Wars, Lunar Lander">
+    <rom name="Galactic Space Wars, Lunar Lander (USA).bin" size="2048" sha1="fc3cadc90d73ce7e3b32b5c9a855d621e79c592a" crc="c8ef3410" />
+  </game>
+  <game name="01 - Games/Galactic Space Wars">
+    <rom name="Galactic Space Wars, Lunar Lander (USA).bin" size="2048" sha1="fc3cadc90d73ce7e3b32b5c9a855d621e79c592a" crc="c8ef3410" />
+  </game>
+  <game name="01 - Games/Hangman">
+    <rom name="Hangman (USA).bin" size="3072" sha1="19166d49dec273cae1f2dbac983b130d282ed231" crc="9238d6ce" />
+    <rom name="Ordtaevling (Sweden).bin" size="3072" sha1="62509545b8eef641c432705ff82cd8264c3e1d82" crc="3a386e79" />
+    <rom name="Rat' Mal (Germany).bin" size="3072" sha1="35f3fb741b643c4b8e8fdbff4ed0ea24402c4528" crc="87752425" />
+  </game>
+  <game name="01 - Games/Lunar Lander">
+    <rom name="Galactic Space Wars, Lunar Lander (USA).bin" size="2048" sha1="fc3cadc90d73ce7e3b32b5c9a855d621e79c592a" crc="c8ef3410" />
+  </game>
+  <game name="01 - Games/Magic Numbers - Mind Reader + Nim">
+    <rom name="Magic Numbers - Mind Reader + Nim (USA).bin" size="2048" sha1="4b696a4f8a20f6dcd6a4ba690756d862956515a4" crc="24da0529" />
+  </game>
+  <game name="01 - Games/Math Quiz I - Addition + Subtraction">
+    <rom name="Math Quiz I - Addition + Subtraction (USA).bin" size="2048" sha1="f0bfdc8f6beed2ef54add820c5e164005d2d1d25" crc="bb4c24a2" />
+  </game>
+  <game name="01 - Games/Math Quiz II - Multiplication + Division">
+    <rom name="Math Quiz II - Multiplication + Division (USA).bin" size="2048" sha1="4c643e00f32629c066e778be92f37e3f7bfd1ad6" crc="4aa7ea97" />
+  </game>
+  <game name="01 - Games/Maze, Jailbreak, Blind-man's-bluff, Trailblazer">
+    <rom name="Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA) (Alt).bin" size="2048" sha1="b53ba16c6d91e2f62e020d18445217b91907a83b" crc="0a948b61" />
+    <rom name="Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA).bin" size="2048" sha1="a7b70fb6f24bb1dd79f2cbb1e57b3edb04332e04" crc="4d42b296" />
+  </game>
+  <game name="01 - Games/Memory Match 1 &amp; 2">
+    <rom name="Memory Match 1 &amp; 2 (USA).bin" size="2048" sha1="e46406119020c85002513b1c01352f76dcd604a4" crc="104b5e18" />
+  </game>
+  <game name="01 - Games/Mind Reader">
+    <rom name="Magic Numbers - Mind Reader + Nim (USA).bin" size="2048" sha1="4b696a4f8a20f6dcd6a4ba690756d862956515a4" crc="24da0529" />
+  </game>
+  <game name="01 - Games/Nim">
+    <rom name="Magic Numbers - Mind Reader + Nim (USA).bin" size="2048" sha1="4b696a4f8a20f6dcd6a4ba690756d862956515a4" crc="24da0529" />
+  </game>
+  <game name="01 - Games/Pinball Challenge">
+    <rom name="Pinball Challenge (USA) (Alt).bin" size="2048" sha1="cc69feb8243e6fce3e6317bf9ea82d70a85eae1c" crc="7cadf0fd" />
+    <rom name="Pinball Challenge (USA).bin" size="2048" sha1="9267d85982414af753172e4c9998863463c32c99" crc="c610b330" />
+  </game>
+  <game name="01 - Games/Pro Football">
+    <rom name="Pro Football (USA).bin" size="4096" sha1="9be97cace9b99f15a373bd95f3996034d633fff5" crc="a1ae99be" />
+  </game>
+  <game name="01 - Games/Robot War, Torpedo Alley">
+    <rom name="Robot War, Torpedo Alley (USA).bin" size="2048" sha1="87f3f9afcc232d767cf6a5040c88b31283f76199" crc="38241e4f" />
+  </game>
+  <game name="01 - Games/Robot War">
+    <rom name="Robot War, Torpedo Alley (USA).bin" size="2048" sha1="87f3f9afcc232d767cf6a5040c88b31283f76199" crc="38241e4f" />
+  </game>
+  <game name="01 - Games/Schach">
+    <rom name="Schach (Germany).bin" size="6144" sha1="cbbaa8522fee16a0cc13ed3140d41e22919da24b" crc="04fb6dce" />
+  </game>
+  <game name="01 - Games/Shooting Gallery">
+    <rom name="Desert Fox, Shooting Gallery (USA).bin" size="2048" sha1="3440928903f39354e1358018cebf12a00c8dff77" crc="1570934b" />
+    <rom name="Muehle, Tontauben-Schiessen, Kreatives Malspiel, Videoscope (Germany).bin" size="2048" sha1="15d5e6d152d93a2099b97a2bd5dcf7134dd1a770" crc="7124dc59" />
+    <rom name="Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA).bin" size="2048" sha1="8edfb668b3eb759f8597fb13b1aeaf43aaf53680" crc="ff4768b0" />
+  </game>
+  <game name="01 - Games/Slot Machine">
+    <rom name="Slot Machine (USA).bin" size="2048" sha1="97e12dba298460ce466509e9aefb82fe2503ef6f" crc="b7eabd08" />
+  </game>
+  <game name="01 - Games/Sonar Search">
+    <rom name="Sonar Search (USA).bin" size="2048" sha1="a15449eec75382af6dd71e766cae1171308d192c" crc="dbdc56bf" />
+  </game>
+  <game name="01 - Games/Space War">
+    <rom name="Space War (USA).bin" size="2048" sha1="c1d83b1e89d11465456bd5829a85db06c4ef322f" crc="22ef49e8" />
+  </game>
+  <game name="01 - Games/Spitfire">
+    <rom name="Spitfire (USA).bin" size="2048" sha1="9af18e7fa3b2d040f33cbe2286392ce5fe31d0df" crc="5357c5f6" />
+  </game>
+  <game name="01 - Games/Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle">
+    <rom name="Muehle, Tontauben-Schiessen, Kreatives Malspiel, Videoscope (Germany).bin" size="2048" sha1="15d5e6d152d93a2099b97a2bd5dcf7134dd1a770" crc="7124dc59" />
+    <rom name="Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA).bin" size="2048" sha1="8edfb668b3eb759f8597fb13b1aeaf43aaf53680" crc="ff4768b0" />
+  </game>
+  <game name="01 - Games/Tic-Tac-Toe">
+    <rom name="Muehle, Tontauben-Schiessen, Kreatives Malspiel, Videoscope (Germany).bin" size="2048" sha1="15d5e6d152d93a2099b97a2bd5dcf7134dd1a770" crc="7124dc59" />
+    <rom name="Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA).bin" size="2048" sha1="8edfb668b3eb759f8597fb13b1aeaf43aaf53680" crc="ff4768b0" />
+  </game>
+  <game name="01 - Games/Torpedo Alley">
+    <rom name="Robot War, Torpedo Alley (USA).bin" size="2048" sha1="87f3f9afcc232d767cf6a5040c88b31283f76199" crc="38241e4f" />
+  </game>
+  <game name="01 - Games/Video Blackjack">
+    <rom name="Video Blackjack (USA).bin" size="2048" sha1="86579196567c9686009ad271263269181496a9c7" crc="e98d4456" />
+  </game>
+  <game name="01 - Games/Video Whizball">
+    <rom name="Video Whizball (USA).bin" size="3072" sha1="61babb950ebc0b0acab29acf5dcbecc60dcd70a3" crc="65fdfe49" />
+  </game>
+</datafile>

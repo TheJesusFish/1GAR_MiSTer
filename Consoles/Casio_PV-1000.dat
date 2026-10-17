@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<datafile>
+  <header>
+    <name>Casio_PV-1000</name>
+    <version>2026-10-16</version>
+    <romvault forcepacking="fileonly" />
+  </header>
+  <game name="01 - Games/Amidar">
+    <rom name="Amidar (Japan).bin" size="8192" sha1="00322d4025fef19728194442f9e06a4cccd01933" crc="c82628cc" />
+  </game>
+  <game name="01 - Games/Dig Dug">
+    <rom name="Dig Dug (Japan).bin" size="16384" sha1="502a163c1ae88eccc7e9782261d86d4090cb41e1" crc="a94f02fa" />
+  </game>
+  <game name="01 - Games/Dirty Chameleon">
+    <rom name="Dirty Chameleon (Japan).bin" size="8192" sha1="63e94cc01410aefd59b465105e701330dc13c398" crc="8e7fb358" />
+  </game>
+  <game name="01 - Games/Excite Mahjong">
+    <rom name="Excite Mahjong (Japan).bin" size="16384" sha1="6cc9e5d234bc1b483108ae4dc79d644802a64ef0" crc="0d2f829c" />
+  </game>
+  <game name="01 - Games/Fighting Bug">
+    <rom name="Fighting Bug (Japan).bin" size="8192" sha1="7202641a387da90323d149e2f327a5c828856556" crc="84986255" />
+  </game>
+  <game name="01 - Games/Naughty Boy">
+    <rom name="Naughty Boy (Japan).bin" size="8192" sha1="a72e8606b8b6c8d10050d6d7b1ff87455b623004" crc="43a13e99" />
+  </game>
+  <game name="01 - Games/Pachinko-UFO">
+    <rom name="Pachinko-UFO (Japan).bin" size="16384" sha1="d6ca45430a34ce0090ba882ade5a2268a862d4f4" crc="9ee981ab" />
+  </game>
+  <game name="01 - Games/Pooyan">
+    <rom name="Pooyan (Japan).bin" size="8192" sha1="606b7d603da23e70012b361d7ffb53ea026f88f5" crc="bd6edc48" />
+  </game>
+  <game name="01 - Games/Space Panic">
+    <rom name="Space Panic (Japan).bin" size="8192" sha1="b16dbea89ba9f934a08c274d8bb6cce06da13193" crc="23547111" />
+  </game>
+  <game name="01 - Games/Super Cobra">
+    <rom name="Super Cobra (Japan).bin" size="8192" sha1="9e748050ccb0fa948b06346d241dfcd11868e8e2" crc="cdffc2cd" />
+  </game>
+  <game name="01 - Games/Turpin">
+    <rom name="Turpin (Japan).bin" size="8192" sha1="1f49371b0ebf4fe6c5fb606fd9744f3bb15a619b" crc="a3aef98d" />
+  </game>
+  <game name="01 - Games/Tutankham">
+    <rom name="Tutankham (Japan).bin" size="8192" sha1="56efa2ab7c4a6db7b44714e46c5bf2ba71983ee8" crc="a0b606d8" />
+  </game>
+  <game name="01 - Games/Warp &amp; Warp">
+    <rom name="Warp &amp; Warp (Japan).bin" size="8192" sha1="f9ffca3a1d85b116dd92f118f9ea940bf2449db5" crc="2a0d4ad9" />
+  </game>
+</datafile>

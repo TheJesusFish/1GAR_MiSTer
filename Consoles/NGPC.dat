@@ -1,0 +1,355 @@
+<?xml version='1.0' encoding='utf-8'?>
+<datafile>
+  <header>
+    <name>NGPC</name>
+    <version>2026-10-16</version>
+    <romvault forcepacking="fileonly" />
+  </header>
+  <game name="01 - Games (Color)/Baseball Stars Color - Pocket Sports Series">
+    <rom name="Baseball Stars Color - Pocket Sports Series (World) (En,Ja).ngc" size="1048576" sha1="495199cd783e7cd962eece160dbc238a648c5e39" crc="d1434df5" />
+  </game>
+  <game name="01 - Games (Color)/Big Bang Pro Wrestling">
+    <rom name="Big Bang Pro Wrestling (Japan) (En,Ja).ngc" size="2097152" sha1="5d0c956c2175d5af65c6e8595427fb1fea701ada" crc="f1716fdf" />
+  </game>
+  <game name="01 - Games (Color)/Big Bang Pro Wrestling/~Prototypes and Betas">
+    <rom name="Wrestling Madness (Japan) (En) (Beta).ngc" size="2097152" sha1="2dd82db967e2bc8c2d8b569a364793d56176a68e" crc="16b0be9b" />
+  </game>
+  <game name="01 - Games (Color)/Bikkuriman 2000 - Viva! Pocket Festival!">
+    <rom name="Bikkuriman 2000 - Viva! Pocket Festival! (Japan).ngc" size="1048576" sha1="62898d43cfc9ace86a53520ecf62abc6b0c404f3" crc="7a2d7635" />
+  </game>
+  <game name="01 - Games (Color)/Biomotor Unitron">
+    <rom name="Biomotor Unitron (Japan).ngc" size="1048576" sha1="c81c21dd3536c91166181a36bee93d1803dceb07" crc="fcbbe494" />
+    <rom name="Biomotor Unitron (USA, Europe).ngc" size="1048576" sha1="ff74d5877bf58164419710888923e46b9cfb415e" crc="3807df4f" />
+  </game>
+  <game name="01 - Games (Color)/Cool Boarders Pocket">
+    <rom name="Cool Boarders Pocket (Japan, Europe) (En,Ja).ngc" size="1048576" sha1="86d30070b01e822fb042daeb41d6823d4ee6060a" crc="2ed72635" />
+  </game>
+  <game name="01 - Games (Color)/Cool Cool Jam">
+    <rom name="Cool Cool Jam (Japan).ngc" size="2097152" sha1="525b5fe7aa4bbbe767598e96c2a3904a056e702a" crc="0fd6f378" />
+  </game>
+  <game name="01 - Games (Color)/Cool Cool Jam/~Prototypes and Betas">
+    <rom name="Cool Cool Jam (USA) (Proto).ngc" size="2097152" sha1="77d7bb74844d43520dcd6e9cd912560c995c6247" crc="4d8d27f0" />
+  </game>
+  <game name="01 - Games (Color)/Cool Cool Jam/~Translations">
+    <rom name="Cool Cool Jam (Japan) [T-En by WyndCrosser v0.01] [i].ngc" size="2097152" sha1="1b82899da5084b31d0df19c740fc5e08bd193176" crc="c9c631ca" />
+  </game>
+  <game name="01 - Games (Color)/Crush Roller">
+    <rom name="Crush Roller (World) (En,Ja).ngc" size="1048576" sha1="b68e7f5f43d35feda39f0c46ebd6baadc942ac4f" crc="f20ff9f2" />
+  </game>
+  <game name="01 - Games (Color)/Dark Arms - Beast Buster 1999">
+    <rom name="Dark Arms - Beast Buster 1999 (World) (En,Ja).ngc" size="2097152" sha1="c32afc4348a1adbf9f6855b658b5eb5767e7ebcd" crc="77caa548" />
+  </game>
+  <game name="01 - Games (Color)/Delta Warp">
+    <rom name="Delta Warp (Japan) (En,Ja).ngc" size="1048576" sha1="25d507f2aec336fcfcd8c8e6dfdb753e3abb351d" crc="1273b10e" />
+  </game>
+  <game name="01 - Games (Color)/Densetsu no Ogre Battle Gaiden - Zenobia no Ouji">
+    <rom name="Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan).ngc" size="2097152" sha1="5ac794c0f125bfb97efe9cd06c2aca3afdf549ea" crc="eeeefd6a" />
+  </game>
+  <game name="01 - Games (Color)/Densetsu no Ogre Battle Gaiden - Zenobia no Ouji/~Translations">
+    <rom name="Legend of Ogre Battle Gaiden, The - Prince of Zenobia (Japan) [T-En by scienceandresearch v1.0.0] [n] [AI MTL].ngc" size="2097152" sha1="d5234b95d12096c722c324d23e5e4fb227179eff" crc="efb42439" />
+    <rom name="Ogre Battle Gaiden - The Prince of Zenobia (Japan) [T-En by FFaddic v1.0] [i] [n].ngc" size="2097152" sha1="f0f1a421e4c16529d3d6eb41170087c550c44005" crc="d3c0ad6d" />
+  </game>
+  <game name="01 - Games (Color)/Densha de Go! 2 on NeoGeo Pocket">
+    <rom name="Densha de Go! 2 on NeoGeo Pocket (Japan).ngc" size="4194304" sha1="be8f5b4699e5b38f330d4ac02a1507f67544b571" crc="a0334549" />
+  </game>
+  <game name="01 - Games (Color)/Dive Alert - Becky's Version">
+    <rom name="Dive Alert - Becky's Version (USA, Europe).ngc" size="2097152" sha1="64467acf90be6931f9aa532ed8e1fd4dc60946c6" crc="83db5772" />
+    <rom name="Dive Alert - Rebecca Hen (Japan).ngc" size="2097152" sha1="ac81de4f9c1473c5ecd761dc449ae5af0e98915f" crc="3c4af4f5" />
+  </game>
+  <game name="01 - Games (Color)/Dive Alert - Matt's Version">
+    <rom name="Dive Alert - Burn Hen (Japan).ngc" size="2097152" sha1="66624028ec986084a95237c74173849a8a729398" crc="c213941d" />
+    <rom name="Dive Alert - Matt's Version (USA, Europe).ngc" size="2097152" sha1="0abdf64dd402a8192b0af8127a6ee214173dfe3c" crc="ef75081b" />
+  </game>
+  <game name="01 - Games (Color)/Dive Alert - Matt's Version/~Prototypes and Betas">
+    <rom name="Dive Alert - Burn Hen (Japan) (Beta).ngc" size="2097152" sha1="03e1f5b60c4fdc7665932c1c51e965788d4895f5" crc="d9817a88" />
+  </game>
+  <game name="01 - Games (Color)/Dokodemo Mahjong">
+    <rom name="Dokodemo Mahjong (Japan).ngc" size="524288" sha1="d7edf6bb3773a5319dfd2a20e204c70e8cc6971e" crc="78c21b5e" />
+  </game>
+  <game name="01 - Games (Color)/Dynamite Slugger">
+    <rom name="Dynamite Slugger (Japan, Europe) (En,Ja).ngc" size="1048576" sha1="90104d5917db4cacfd1d0ef8b2b01fea09679a93" crc="7f1779cd" />
+  </game>
+  <game name="01 - Games (Color)/Evolution - Eternal Dungeons">
+    <rom name="Evolution - Eternal Dungeons (Europe) (v03).ngc" size="2097152" sha1="b054fffae64f3c97c6d9fb68dd68ef7c8a92053c" crc="a60582f8" />
+    <rom name="Evolution - Eternal Dungeons (Europe) (vA1).ngc" size="2097152" sha1="9f607095b038ccdbf98e6a8fce2dd67740ae5571" crc="be47e531" />
+    <rom name="Shinki Sekai Evolution - Hateshinai Dungeon (Japan).ngc" size="2097152" sha1="61827b7a13b3efe6a6b60f314fb0589a29c1bfd2" crc="e006f42f" />
+  </game>
+  <game name="01 - Games (Color)/Fantastic Night Dreams - Cotton">
+    <rom name="Fantastic Night Dreams - Cotton (Europe).ngc" size="1048576" sha1="a9d8be97ab7bab1aaa1bedd2ce6914ec7fb8cb85" crc="1bf412f5" />
+    <rom name="Fantastic Night Dreams - Cotton (Japan).ngc" size="1048576" sha1="935b9d671df660192d9fc215aa03d90a486e743a" crc="b8a12409" />
+  </game>
+  <game name="01 - Games (Color)/Faselei!">
+    <rom name="Faselei! (Japan).ngc" size="2097152" sha1="04a65a7529098bfb2295ab4bc3782ea45ec116ee" crc="8f585838" />
+    <rom name="Faselei! (USA, Europe).ngc" size="2097152" sha1="48c04c8a261b25a942a9fe68abace8aad9deae23" crc="e705e30e" />
+  </game>
+  <game name="01 - Games (Color)/Fatal Fury - First Contact - Pocket Fighting Series">
+    <rom name="Fatal Fury - First Contact - Pocket Fighting Series (World) (En,Ja).ngc" size="2097152" sha1="d33da5587a27344221a4f925867047addaafa97c" crc="e7e5d6e8" />
+  </game>
+  <game name="01 - Games (Color)/Ganbare Neo Poke-kun (Kari)">
+    <rom name="Ganbare Neo Poke-kun (Kari) (Japan).ngc" size="2097152" sha1="bc8be263618601d5967538d125be1d58103ca7b7" crc="6df986a3" />
+  </game>
+  <game name="01 - Games (Color)/Infinity Cure">
+    <rom name="Infinity Cure (Japan).ngc" size="1048576" sha1="b0f3f57c5ad084a009631e7e0fa497451415e73b" crc="32dc2aa2" />
+  </game>
+  <game name="01 - Games (Color)/Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori">
+    <rom name="Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan).ngc" size="2097152" sha1="b1ae3d5ee557821fe1be024f8b8bbbf6c8c13290" crc="f029f1c0" />
+  </game>
+  <game name="01 - Games (Color)/Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori/~Translations">
+    <rom name="Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan) [T-En by WyndCrosser v0.38] [i].ngc" size="2097152" sha1="9fc12489baef0e4b4e68267b139276001f252336" crc="364de6b4" />
+  </game>
+  <game name="01 - Games (Color)/King of Fighters R-2 - Pocket Fighting Series">
+    <rom name="King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).ngc" size="2097152" sha1="72d2b8f19f51b7cd5da18ebe7f3e2c90263c0a0c" crc="9bc63f27" />
+  </game>
+  <game name="01 - Games (Color)/King of Fighters, The - Battle de Paradise">
+    <rom name="King of Fighters, The - Battle de Paradise (Japan).ngc" size="2097152" sha1="8aabdd45ba2b9e24bdcd8e51f6653736257d4644" crc="77e37bac" />
+  </game>
+  <game name="01 - Games (Color)/King of Fighters, The - Battle de Paradise/~Translations">
+    <rom name="King of Fighters, The - Battle de Paradise (Japan) [T-En by xenophile127 &amp; marc_max v1.0].ngc" size="2097152" sha1="967b0d1a7074ecbfbd4bf476fcaed3be30e2a7b3" crc="e08dc918" />
+  </game>
+  <game name="01 - Games (Color)/Koi Koi Mahjong">
+    <rom name="Koi Koi Mahjong (Japan) (v08).ngc" size="524288" sha1="4d707900c2b46f8e6f3c7fbe11d7ff347d72cfa0" crc="75fe164c" />
+    <rom name="Koi Koi Mahjong (Japan) (v0B).ngc" size="524288" sha1="d705dfa87cf26c8232cf4885f8ae326eb690df59" crc="b51c3eba" />
+  </game>
+  <game name="01 - Games (Color)/Last Blade, The - Beyond the Destiny">
+    <rom name="Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan).ngc" size="2097152" sha1="cf94cd3812a8905432ecba30ed874be97efc792e" crc="be913cfa" />
+    <rom name="Last Blade, The - Beyond the Destiny (USA, Europe).ngc" size="2097152" sha1="a553876c7e04498474f193508effa52c3d59614b" crc="4238a840" />
+  </game>
+  <game name="01 - Games (Color)/Magical Drop Pocket">
+    <rom name="Magical Drop Pocket (Japan).ngc" size="1048576" sha1="dfde0db9026b74988eaa1bdfc2a9ea0b0f52a48a" crc="694ce2dc" />
+    <rom name="Magical Drop Pocket (USA, Europe).ngc" size="1048576" sha1="42717bda4f505083d51108fecd5aa37b08e904cb" crc="7712f82d" />
+  </game>
+  <game name="01 - Games (Color)/Memories Off - Pure">
+    <rom name="Memories Off - Pure (Japan).ngc" size="1048576" sha1="20e7bb3b4eafca79fe0fd78e7f6e66d979be0502" crc="7f919dde" />
+  </game>
+  <game name="01 - Games (Color)/Metal Slug - 1st Mission">
+    <rom name="Metal Slug - 1st Mission (World) (En,Ja).ngc" size="2097152" sha1="df0ccb349c71d2032b02512a645a4fc760bb8834" crc="d29ec1ba" />
+  </game>
+  <game name="01 - Games (Color)/Metal Slug - 2nd Mission">
+    <rom name="Metal Slug - 2nd Mission (World) (En,Ja).ngc" size="4194304" sha1="71e1f9bf01680e1566583dc10fc7a5556d6b82f2" crc="18e692a5" />
+  </game>
+  <game name="01 - Games (Color)/Mezase! Kanji Ou">
+    <rom name="Mezase! Kanji Ou (Japan).ngc" size="2097152" sha1="030a59f990e96649001582be2d5acc9af18424fe" crc="a52e1c82" />
+  </game>
+  <game name="01 - Games (Color)/Mizuki Shigeru no Youkai Shashinkan">
+    <rom name="Mizuki Shigeru no Youkai Shashinkan (Japan).ngc" size="2097152" sha1="8025d09368598951da94f8601729c16972b96830" crc="dde08335" />
+  </game>
+  <game name="01 - Games (Color)/Mizuki Shigeru no Youkai Shashinkan/~Translations">
+    <rom name="Mizuki Shigeru no Youkai Shashinkan (Japan) [T-En by WyndCrosser v0.01] [i].ngc" size="2097152" sha1="21e07e17866f65ed826041c667149068c1fc8d60" crc="7fe6d50e" />
+  </game>
+  <game name="01 - Games (Color)/Neo 21 - Pocket Casino Series">
+    <rom name="Neo 21 - Pocket Casino Series (World).ngc" size="1048576" sha1="98463a834e3f42dc02662b620e8e66f3856b1d4f" crc="95c38985" />
+  </game>
+  <game name="01 - Games (Color)/Neo Baccarat - Pocket Casino Series">
+    <rom name="Neo Baccarat - Pocket Casino Series (Japan, Europe) (En) (v11).ngc" size="1048576" sha1="c13639f9206d4395d555aadfe9648427ad216c2c" crc="c8be28c0" />
+    <rom name="Neo Baccarat - Pocket Casino Series (Japan, Europe) (En) (v16).ngc" size="1048576" sha1="80218804eb591e50831d098b5bd213a3586849a5" crc="22aab454" />
+  </game>
+  <game name="01 - Games (Color)/Neo Baccarat - Pocket Casino Series/~Prototypes and Betas">
+    <rom name="Neo Baccarat - Pocket Casino Series (Japan, Europe) (En) (Beta).ngc" size="1048576" sha1="aeb77b92155e0a291d00ef3c97319788cc3d1006" crc="80880498" />
+  </game>
+  <game name="01 - Games (Color)/Neo Cherry Master Color - Pocket Casino Series">
+    <rom name="Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja).ngc" size="1048576" sha1="745ced46bb5b7c911dd808a66d3b4fcfeffefa6c" crc="2f6eb991" />
+  </game>
+  <game name="01 - Games (Color)/Neo Derby Champ Daiyosou">
+    <rom name="Neo Derby Champ Daiyosou (Japan).ngc" size="2097152" sha1="34ebc515977c099032fc66ff477674b945326fc8" crc="4760564a" />
+  </game>
+  <game name="01 - Games (Color)/Neo Dragon's Wild - Pocket Casino Series">
+    <rom name="Neo Dragon's Wild - Pocket Casino Series (World) (En,Ja) (v11).ngc" size="1048576" sha1="b80a2ab886c80ad17a6cb0968ea3ad6218922fa1" crc="225fd7f9" />
+    <rom name="Neo Dragon's Wild - Pocket Casino Series (World) (En,Ja) (v13).ngc" size="1048576" sha1="b83f713370169e146a1687424ae8ce56b35a23da" crc="5d028c99" />
+  </game>
+  <game name="01 - Games (Color)/Neo Mystery Bonus - Pocket Casino Series">
+    <rom name="Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja).ngc" size="1048576" sha1="0d137a2cac0a03ab55dfeb4dbaf3929477cfb5d0" crc="e79dc5b3" />
+  </game>
+  <game name="01 - Games (Color)/Neo Poke Pro Yakyuu">
+    <rom name="Neo Poke Pro Yakyuu (Japan) (v1F).ngc" size="1048576" sha1="bb5dca72bc973eb8bc83952c9ba60e3247cd578a" crc="3ca883a5" />
+    <rom name="Neo Poke Pro Yakyuu (Japan) (v32).ngc" size="1048576" sha1="80b0037ddfb83090f13189b59c486fcd54d3276c" crc="c624388f" />
+  </game>
+  <game name="01 - Games (Color)/Neo Turf Masters - Pocket Sports Series">
+    <rom name="Neo Turf Masters - Pocket Sports Series (World) (En,Ja).ngc" size="2097152" sha1="308361297bd28ebb8fb60713ae5e00cee514415c" crc="e0e853dd" />
+  </game>
+  <game name="01 - Games (Color)/NeoGeo Cup '98 Plus Color - Pocket Sports Series">
+    <rom name="NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja).ngc" size="1048576" sha1="a8bb64f093b418a88e674d9fab62a34fc220ea9f" crc="c0da4fe9" />
+  </game>
+  <game name="01 - Games (Color)/Nige-ron-pa">
+    <rom name="Nige-ron-pa (Japan).ngc" size="1048576" sha1="eb382b818dbbe9d1bcf88c02918ad55bfd520f33" crc="a9063d9e" />
+  </game>
+  <game name="01 - Games (Color)/Nige-ron-pa/~Translations">
+    <rom name="Nige-ron-pa (Japan) [T-En by Loïc v0.9].ngc" size="2097152" sha1="85bf5be2cce3b5559fbb68799ac6c15539b87621" crc="6672d6e6" />
+  </game>
+  <game name="01 - Games (Color)/Pac-Man">
+    <rom name="Pac-Man (World) (En,Ja).ngc" size="524288" sha1="ec64ab4be669f9860c216151094b9eea898c64b9" crc="21e8cc15" />
+  </game>
+  <game name="01 - Games (Color)/Pachi-Slot Aruze Oukoku - Porcano 2">
+    <rom name="Pachi-Slot Aruze Oukoku - Porcano 2 (Japan).ngc" size="1048576" sha1="fd51a5a649cebfe5692ee498d11c48fd84661dc4" crc="96ddfbe3" />
+  </game>
+  <game name="01 - Games (Color)/Pachi-Slot Aruze Oukoku Pocket - Azteca">
+    <rom name="Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan) (v03).ngc" size="524288" sha1="449054f72eee89bd76bbcdf47ee0bc814ae8a4c0" crc="2314440a" />
+    <rom name="Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan) (v04).ngc" size="1048576" sha1="ed9f717e629b0a55714b58df12a6a75e27d50577" crc="9ff16520" />
+    <rom name="Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan) (v06).ngc" size="1048576" sha1="3dd183d9b2bdf358d604331fd78de423de287160" crc="c9b55e6b" />
+  </game>
+  <game name="01 - Games (Color)/Pachi-Slot Aruze Oukoku Pocket - Dekahel 2">
+    <rom name="Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan).ngc" size="1048576" sha1="7f5446cfe6535db63678d6fc26f598ed3ff73b7f" crc="346f3c46" />
+  </game>
+  <game name="01 - Games (Color)/Pachi-Slot Aruze Oukoku Pocket - Delsol 2">
+    <rom name="Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan).ngc" size="1048576" sha1="df3da196c01be73b0dea64b86ab27ec7dde5b594" crc="1ea69db1" />
+  </game>
+  <game name="01 - Games (Color)/Pachi-Slot Aruze Oukoku Pocket - Hanabi">
+    <rom name="Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v03).ngc" size="524288" sha1="479eb217aa85f9d115682b88c21dfb8ee30ad0e7" crc="4014ff42" />
+    <rom name="Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v04).ngc" size="1048576" sha1="710a8f700e640785675225c54349a3cd7770a975" crc="2a4f45ab" />
+    <rom name="Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v05).ngc" size="524288" sha1="9d30e0c67851bc99e4a77e89e3fbc101b358b458" crc="a0c26f9b" />
+  </game>
+  <game name="01 - Games (Color)/Pachi-Slot Aruze Oukoku Pocket - Ohanabi">
+    <rom name="Pachi-Slot Aruze Oukoku Pocket - Ohanabi (Japan).ngc" size="1048576" sha1="a99e8aabefd36a5a297fef59e376cf24f8f619f8" crc="8a88c50f" />
+  </game>
+  <game name="01 - Games (Color)/Pachi-Slot Aruze Oukoku Pocket - Ward of Lights">
+    <rom name="Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan) (v03).ngc" size="524288" sha1="c17a535195719e0dafb5de76663c7649d209f0ff" crc="d46cbc54" />
+    <rom name="Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan) (v04).ngc" size="1048576" sha1="7645e84b645223534002b13ee88e825fada4b80d" crc="a54ec305" />
+  </game>
+  <game name="01 - Games (Color)/Pachi-Slot Aruze Oukoku Pocket - e-CUP">
+    <rom name="Pachi-Slot Aruze Oukoku Pocket - e-CUP (Japan) (v03).ngc" size="1048576" sha1="13ae4c1513c56a62a2b670d43a3065facb251bc6" crc="b5311753" />
+    <rom name="Pachi-Slot Aruze Oukoku Pocket - e-CUP (Japan) (v04).ngc" size="1048576" sha1="e46aa1eb7c33c2f71bb236d279ca1d7c5d841e74" crc="0a7c32df" />
+  </game>
+  <game name="01 - Games (Color)/Pachinko Hisshou Guide - Pocket Parlor">
+    <rom name="Pachinko Hisshou Guide - Pocket Parlor (Japan).ngc" size="1048576" sha1="db839c56dc849b0f1924a029b4e8104bf8c738cf" crc="543dc257" />
+  </game>
+  <game name="01 - Games (Color)/Pachinko Hisshou Guide - Pocket Parlor/~Prototypes and Betas">
+    <rom name="Pachinko Hisshou Guide - Pocket Parlor (Japan) (Beta).ngc" size="1048576" sha1="63fd9e4be7ba482e70fcafde6e50773046a5fe40" crc="ccf07c2f" />
+  </game>
+  <game name="01 - Games (Color)/Party Mail">
+    <rom name="Party Mail (Japan).ngc" size="1048576" sha1="b805c908c1bef29c0792a73b6a6a05dd27cc5ff0" crc="4da8a1c0" />
+  </game>
+  <game name="01 - Games (Color)/Party Mail/~Prototypes and Betas">
+    <rom name="Party Mail (Japan) (Beta).ngc" size="2097152" sha1="d781a1a1e74ba822249d38dbe60e160a29ec2824" crc="f2284a95" />
+  </game>
+  <game name="01 - Games (Color)/Picture Puzzle">
+    <rom name="Oekaki Puzzle (Japan).ngc" size="524288" sha1="c4231f90d69fc2b7d794aa9eadc59244473441e6" crc="a9118e82" />
+    <rom name="Picture Puzzle (Europe).ngc" size="524288" sha1="f6f4a7e412eca2235dfdd575cd0df64adaa2f476" crc="6f2d35e6" />
+  </game>
+  <game name="01 - Games (Color)/Pocket Love - if">
+    <rom name="Pocket Love - if (Japan).ngc" size="2097152" sha1="2b5d9628b7b5911f90c28321227d47a527a719ea" crc="c2ee1ee5" />
+  </game>
+  <game name="01 - Games (Color)/Pocket Reversi">
+    <rom name="Pocket Reversi (Europe) (v03).ngc" size="524288" sha1="e1698b96dd37aca3d0b977235234550292baaa74" crc="9589f2f2" />
+    <rom name="Pocket Reversi (Europe) (vA1).ngc" size="524288" sha1="b7678e5e38a83ab227f320dc356a74628ea8b6e4" crc="22c07c25" />
+    <rom name="Pocket Reversi (Japan).ngc" size="524288" sha1="791d7068c9ea2f50e74524977a5bd0ab032c83ab" crc="d115fedf" />
+  </game>
+  <game name="01 - Games (Color)/Pocket Tennis Color - Pocket Sports Series">
+    <rom name="Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).ngc" size="524288" sha1="680a1631120ae3418db9f60b16206e65e4ec9b33" crc="e0b9aa22" />
+  </game>
+  <game name="01 - Games (Color)/Puyo Pop">
+    <rom name="Puyo Pop (Japan) (En,Ja) (v05).ngc" size="1048576" sha1="27c3250fb17f291832fa7189a35478d017a0ef5e" crc="3090b2fd" />
+    <rom name="Puyo Pop (USA) (En,Ja) (v06).ngc" size="1048576" sha1="cdc044d75b38b1e6574f6757723b9899a18dc989" crc="5ea9559e" />
+  </game>
+  <game name="01 - Games (Color)/Puzzle Bobble Mini">
+    <rom name="Bust-A-Move Pocket (USA).ngc" size="1048576" sha1="3b102e32fccf8ff389c508be55517368d56b144f" crc="b073d601" />
+    <rom name="Puzzle Bobble Mini (Europe).ngc" size="1048576" sha1="0966c6ea1ae5b6ae15f769be5aae41f65acfb3f7" crc="d31312dc" />
+    <rom name="Puzzle Bobble Mini (Japan) (En).ngc" size="1048576" sha1="0e9e5e60f60d7795430f4e3d4b655e796998f856" crc="d6544f6c" />
+  </game>
+  <game name="01 - Games (Color)/Puzzle Bobble Mini/~Prototypes and Betas">
+    <rom name="Bust-A-Move Pocket (USA) (Beta).ngc" size="1048576" sha1="2af0197415bdf1679342d8aeca5c35ea3eff8b73" crc="78a1361d" />
+  </game>
+  <game name="01 - Games (Color)/Puzzle Link 2">
+    <rom name="Puzzle Link 2 (USA, Europe).ngc" size="1048576" sha1="57e44ee5168b69fd3b0ede0fe0dda44070e0aad1" crc="ba9ca21c" />
+    <rom name="Tsunagete Pon! 2 (Japan).ngc" size="1048576" sha1="db030e02819d50315f15c00b93c3a46f1f89d126" crc="129091bb" />
+  </game>
+  <game name="01 - Games (Color)/Puzzle Link">
+    <rom name="Puzzle Link (USA, Europe).ngc" size="524288" sha1="2507d1bdeb67bdb6379424817707693549efb487" crc="8d0610ac" />
+    <rom name="Renketsu Puzzle Tsunagete Pon! Color (Japan).ngc" size="524288" sha1="e8e903bc4baf5ab61726626af7c0d1a571db4a40" crc="c3f3e83c" />
+  </game>
+  <game name="01 - Games (Color)/Rockman - Battle &amp; Fighters">
+    <rom name="Rockman - Battle &amp; Fighters (Japan).ngc" size="2097152" sha1="7aabe4ce0a81c959625f1a9e254c144893f0e16a" crc="3c010642" />
+  </game>
+  <game name="01 - Games (Color)/Rockman - Battle &amp; Fighters/~Translations">
+    <rom name="Rockman - Battle &amp; Fighters (Japan) [T-En by RyuHayabusa &amp; marc_max v1.0].ngc" size="2097152" sha1="120d4a90ab67b770e3fd18a49f36d2e7059983d5" crc="33a57a95" />
+    <rom name="Rockman - Battle &amp; Fighters (Japan) [T-En by marc_max v0.9] [i].ngc" size="2097152" sha1="2c93c45b5aeda0eba1ba66b0a56cba86e8f675b8" crc="65985356" />
+  </game>
+  <game name="01 - Games (Color)/Rockman - The Power Battle">
+    <rom name="Rockman - Battle &amp; Fighters (Japan).ngc" size="2097152" sha1="7aabe4ce0a81c959625f1a9e254c144893f0e16a" crc="3c010642" />
+  </game>
+  <game name="01 - Games (Color)/Rockman - The Power Battle/~Translations">
+    <rom name="Rockman - Battle &amp; Fighters (Japan) [T-En by RyuHayabusa &amp; marc_max v1.0].ngc" size="2097152" sha1="120d4a90ab67b770e3fd18a49f36d2e7059983d5" crc="33a57a95" />
+    <rom name="Rockman - Battle &amp; Fighters (Japan) [T-En by marc_max v0.9] [i].ngc" size="2097152" sha1="2c93c45b5aeda0eba1ba66b0a56cba86e8f675b8" crc="65985356" />
+  </game>
+  <game name="01 - Games (Color)/Rockman 2 - The Power Fighters">
+    <rom name="Rockman - Battle &amp; Fighters (Japan).ngc" size="2097152" sha1="7aabe4ce0a81c959625f1a9e254c144893f0e16a" crc="3c010642" />
+  </game>
+  <game name="01 - Games (Color)/Rockman 2 - The Power Fighters/~Translations">
+    <rom name="Rockman - Battle &amp; Fighters (Japan) [T-En by RyuHayabusa &amp; marc_max v1.0].ngc" size="2097152" sha1="120d4a90ab67b770e3fd18a49f36d2e7059983d5" crc="33a57a95" />
+    <rom name="Rockman - Battle &amp; Fighters (Japan) [T-En by marc_max v0.9] [i].ngc" size="2097152" sha1="2c93c45b5aeda0eba1ba66b0a56cba86e8f675b8" crc="65985356" />
+  </game>
+  <game name="01 - Games (Color)/SNK Gals' Fighters">
+    <rom name="SNK Gals' Fighters (Japan).ngc" size="2097152" sha1="32b16d5200a6029f7babc5c233c91e9277550c80" crc="d73b5b9f" />
+    <rom name="SNK Gals' Fighters (USA, Europe).ngc" size="2097152" sha1="09a74b42ef9b63aca675aead5854512ad0b585a1" crc="b02c2be7" />
+  </game>
+  <game name="01 - Games (Color)/SNK vs. Capcom - Card Fighters 2 - Expand Edition">
+    <rom name="SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan).ngc" size="2097152" sha1="2c4fc8594f8ba2bf39e62fe8bcb79fc2df5a83b6" crc="ccbcfda7" />
+  </game>
+  <game name="01 - Games (Color)/SNK vs. Capcom - Card Fighters 2 - Expand Edition/~Translations">
+    <rom name="SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan) [T-En by CFC2 Translation Team v20170125].ngc" size="2097152" sha1="5d5c95bad71e32cd80a9993ed46f621f2df74874" crc="0cc88d96" />
+  </game>
+  <game name="01 - Games (Color)/SNK vs. Capcom - Card Fighters' Clash - Capcom Version">
+    <rom name="SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).ngc" size="2097152" sha1="2a95ab1fe62b6a9dc30a05131ad212ba2de5c3cd" crc="80ce137b" />
+    <rom name="SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan).ngc" size="2097152" sha1="3b1d5ac5b4aaf1aa04479e46961c4d7c458d70fb" crc="9217159b" />
+  </game>
+  <game name="01 - Games (Color)/SNK vs. Capcom - Card Fighters' Clash - SNK Version">
+    <rom name="SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).ngc" size="2097152" sha1="dfb232a527647337d6274ddf9d8b3d94281fd86d" crc="94b63a97" />
+    <rom name="SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan).ngc" size="2097152" sha1="551ceb97d1e3e6384221be738b11efb5d936ffd6" crc="7065295c" />
+  </game>
+  <game name="01 - Games (Color)/SNK vs. Capcom - The Match of the Millennium">
+    <rom name="SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).ngc" size="4194304" sha1="0806e4a0cff55180e158c9af0060fac17ee9243a" crc="682a7a7b" />
+  </game>
+  <game name="01 - Games (Color)/Samurai Shodown! 2 - Pocket Fighting Series">
+    <rom name="Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).ngc" size="2097152" sha1="5c87a9109bb2c7c99f7dd1b9b9a7b807776862b1" crc="58a62fb2" />
+  </game>
+  <game name="01 - Games (Color)/Shanghai Mini">
+    <rom name="Shanghai Mini (World) (En,Ja).ngc" size="1048576" sha1="3e3e625852ac4997d3e3739e59c16e9a74f40f19" crc="90732d53" />
+  </game>
+  <game name="01 - Games (Color)/Shanghai Mini/~Prototypes and Betas">
+    <rom name="Shanghai Mini (World) (En,Ja) (Beta 1).ngc" size="1048576" sha1="cd72fc48d6981d3b521d9ef2a339664d0c229f3c" crc="79620c3f" />
+    <rom name="Shanghai Mini (World) (En,Ja) (Beta 2).ngc" size="1048576" sha1="83955172d78b5dc855b651e574132cfdf8d3d675" crc="920af0ed" />
+  </game>
+  <game name="01 - Games (Color)/Shougi no Tatsujin Color">
+    <rom name="Shougi no Tatsujin Color (Japan).ngc" size="524288" sha1="9f420d0a7cc1115f60bda1c0916247935118ce98" crc="1f2872ed" />
+  </game>
+  <game name="01 - Games (Color)/Sonic The Hedgehog - Pocket Adventure">
+    <rom name="Sonic The Hedgehog - Pocket Adventure (World) (En,Ja).ngc" size="2097152" sha1="5a881d8124d902b4a98d76362ad62566a86f0aba" crc="8bd22145" />
+  </game>
+  <game name="01 - Games (Color)/Sonic The Hedgehog - Pocket Adventure/~Prototypes and Betas">
+    <rom name="Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22).ngc" size="2097152" sha1="fb34cc0f6a19fb47ffeae4e6f4113ed66d14e1bd" crc="45fc3bca" />
+  </game>
+  <game name="01 - Games (Color)/Soreike!! Hanafuda Doujou">
+    <rom name="Soreike!! Hanafuda Doujou (Japan).ngc" size="524288" sha1="f4a4264eaf1605086ccbc526f21da222aa6341bf" crc="05fa3eb0" />
+  </game>
+  <game name="01 - Games (Color)/Super Real Mahjong - Premium Collection">
+    <rom name="Super Real Mahjong - Premium Collection (Japan).ngc" size="2097152" sha1="c61847bca43c5387d19096a86ef109560d71ca9b" crc="c6e620c3" />
+  </game>
+  <game name="01 - Games (Original)/Baseball Stars - Pocket Sports Series">
+    <rom name="Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).ngp" size="1048576" sha1="d5a53c1b18626909b58fc73740d8c566357a7812" crc="caa3a827" />
+  </game>
+  <game name="01 - Games (Original)/King of Fighters R-1 - Pocket Fighting Series">
+    <rom name="King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).ngp" size="2097152" sha1="4a7adbcccb05b6047a38bb861523cbae7d956bfa" crc="dceb7e11" />
+  </game>
+  <game name="01 - Games (Original)/Melon-chan no Seichou Nikki">
+    <rom name="Melon-chan no Seichou Nikki (Japan).ngp" size="1048576" sha1="f0353334c42730fb30c41229fb881183e11ad304" crc="c4e58fd2" />
+  </game>
+  <game name="01 - Games (Original)/Neo Cherry Master - Real Casino Series">
+    <rom name="Neo Cherry Master - Real Casino Series (Japan) (En,Ja).ngp" size="1048576" sha1="30e8a0264922a050d3d674df4043c7d67ebde62b" crc="d5b4696c" />
+  </game>
+  <game name="01 - Games (Original)/NeoGeo Cup '98">
+    <rom name="NeoGeo Cup '98 (Japan, Europe) (En,Ja).ngp" size="1048576" sha1="445743119c65a6765a0bdc849a12e9038192840c" crc="33add5bd" />
+  </game>
+  <game name="01 - Games (Original)/Pocket Tennis - Pocket Sports Series">
+    <rom name="Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).ngp" size="524288" sha1="67826f4c8e488938f7e1b26e331f79ebf0aa2565" crc="4b1eed05" />
+  </game>
+  <game name="01 - Games (Original)/Renketsu Puzzle Tsunagete Pon!">
+    <rom name="Renketsu Puzzle Tsunagete Pon! (Japan).ngp" size="524288" sha1="cbe53b08d03ef684c08fc6ee28fca168a3d091a7" crc="ce09f534" />
+  </game>
+  <game name="01 - Games (Original)/Samurai Shodown! - Pocket Fighting Series">
+    <rom name="Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).ngp" size="2097152" sha1="2c6adfa69e7aeada7d4198b373436eee35b70d01" crc="32e4696a" />
+  </game>
+  <game name="01 - Games (Original)/Shougi no Tatsujin">
+    <rom name="Shougi no Tatsujin (Japan).ngp" size="524288" sha1="ab0c33236f72d2b317d91d034756b56cfca1b0b4" crc="f34d0c9b" />
+  </game>
+  <game name="02 - Software and Utilities/PP-AA01 - Pusher - Program - Hontai Controller Gawa">
+    <rom name="PP-AA01 - Pusher - Program - Hontai Controller Gawa (Japan).ngc" size="524288" sha1="8c5677b51f18fac55fffbb2e15baefba3af8fa1d" crc="78acdbcb" />
+  </game>
+</datafile>

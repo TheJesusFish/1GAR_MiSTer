@@ -1,0 +1,248 @@
+<?xml version='1.0' encoding='utf-8'?>
+<datafile>
+  <header>
+    <name>Astrocade</name>
+    <version>2026-10-16</version>
+    <romvault forcepacking="fileonly" />
+  </header>
+  <game name="01 - Games/280 Zzzap ~ Dodgem">
+    <rom name="280 Zzzap ~ Dodgem (USA).bin" size="2048" sha1="0de670d6f78e3011e84fefc65f70544cdad3320e" crc="e4d285e5" />
+  </game>
+  <game name="01 - Games/280 Zzzap">
+    <rom name="280 Zzzap ~ Dodgem (USA).bin" size="2048" sha1="0de670d6f78e3011e84fefc65f70544cdad3320e" crc="e4d285e5" />
+  </game>
+  <game name="01 - Games/Acey-Duecy">
+    <rom name="Blackjack ~ Poker ~ Acey-Duecy (USA).bin" size="4096" sha1="7b92e3ad161e31926a730780d1f28015310dd7d7" crc="78d45a11" />
+  </game>
+  <game name="01 - Games/Amazing Maze ~ Tic-Tac-Toe">
+    <rom name="Amazing Maze ~ Tic-Tac-Toe (USA).bin" size="2048" sha1="8c833f077830db847caad91a3f040ac7ddcd33f8" crc="cd57c485" />
+  </game>
+  <game name="01 - Games/Amazing Maze">
+    <rom name="Amazing Maze ~ Tic-Tac-Toe (USA).bin" size="2048" sha1="8c833f077830db847caad91a3f040ac7ddcd33f8" crc="cd57c485" />
+  </game>
+  <game name="01 - Games/Artillery Duel/~Prototypes and Betas">
+    <rom name="Artillery Duel (USA) (Proto) (Alt).bin" size="2048" sha1="4b02162dd5503e08479929be36de5a6648410310" crc="2521a6ec" />
+    <rom name="Artillery Duel (USA) (Proto).bin" size="4096" sha1="376027b2974aa73e523dc0c139f723168a379ece" crc="53f75720" />
+  </game>
+  <game name="01 - Games/Astro Battle">
+    <rom name="Astro Battle (USA).bin" size="4096" sha1="cdf7a2a8608c3e90d0cc8a4b751276b76de72f8c" crc="0b5298bc" />
+  </game>
+  <game name="01 - Games/Bally Black Box">
+    <rom name="Bally Black Box (USA).bin" size="8192" sha1="bfb24a437bae5d7f0b608369d082c32cfd50a410" crc="980244d8" />
+  </game>
+  <game name="01 - Games/Bally Pin">
+    <rom name="Bally Pin (USA).bin" size="4096" sha1="05b680777aa9639620c790f0590d96416d49bf94" crc="3f431613" />
+  </game>
+  <game name="01 - Games/Blackjack ~ Poker ~ Acey-Duecy">
+    <rom name="Blackjack ~ Poker ~ Acey-Duecy (USA).bin" size="4096" sha1="7b92e3ad161e31926a730780d1f28015310dd7d7" crc="78d45a11" />
+  </game>
+  <game name="01 - Games/Blackjack">
+    <rom name="Blackjack ~ Poker ~ Acey-Duecy (USA).bin" size="4096" sha1="7b92e3ad161e31926a730780d1f28015310dd7d7" crc="78d45a11" />
+  </game>
+  <game name="01 - Games/Blast Droids">
+    <rom name="Blast Droids (USA).bin" size="4096" sha1="addc89e0add729f2a93cd1774f6f5c1c693e6068" crc="79fe386b" />
+  </game>
+  <game name="01 - Games/Bowling/~Prototypes and Betas">
+    <rom name="Bowling (USA) (Proto).bin" size="4096" sha1="de27100803a414989d538ca34fc1b3e122dfac78" crc="1f8bc8ba" />
+  </game>
+  <game name="01 - Games/Brickyard">
+    <rom name="Clowns ~ Brickyard (USA).bin" size="4096" sha1="4c1a9efcd4435f6a79dc2212c4d0d17ea753809c" crc="28f9e502" />
+  </game>
+  <game name="01 - Games/Candyman">
+    <rom name="Candyman (USA).bin" size="8192" sha1="c87644de2b9231d74cd8c82d612ebd5412a3d87c" crc="0fc97852" />
+  </game>
+  <game name="01 - Games/Checkers/~Prototypes and Betas">
+    <rom name="Checkers (USA) (Proto).bin" size="2048" sha1="9ef927e88e3f799276966b569c2402f6b25be416" crc="757bab8f" />
+  </game>
+  <game name="01 - Games/Chicken">
+    <rom name="Chicken (USA).bin" size="4096" sha1="714235b6919dcdae55f9e2a361fc1264d14aa84e" crc="5b946526" />
+  </game>
+  <game name="01 - Games/Claim Jumper">
+    <rom name="Claim Jumper (USA).bin" size="8192" sha1="d9dc00d62b7cddd74facba39b6efdc0da1b415b0" crc="1edeae0e" />
+  </game>
+  <game name="01 - Games/Clowns ~ Brickyard">
+    <rom name="Clowns ~ Brickyard (USA).bin" size="4096" sha1="4c1a9efcd4435f6a79dc2212c4d0d17ea753809c" crc="28f9e502" />
+  </game>
+  <game name="01 - Games/Clowns">
+    <rom name="Clowns ~ Brickyard (USA).bin" size="4096" sha1="4c1a9efcd4435f6a79dc2212c4d0d17ea753809c" crc="28f9e502" />
+  </game>
+  <game name="01 - Games/Conan the Barbarian">
+    <rom name="Conan the Barbarian (USA).bin" size="8192" sha1="8b0d3125b805d57b9958b0e7a4f0e9d1a70f6353" crc="8a6adbfe" />
+  </game>
+  <game name="01 - Games/Conan the Barbarian/~Prototypes and Betas">
+    <rom name="Conan the Barbarian (USA) (Proto).bin" size="8192" sha1="bc4f757271fca69e0de3973f43d363c4474e2fb7" crc="15b1afea" />
+  </game>
+  <game name="01 - Games/Cosmic Raiders">
+    <rom name="Cosmic Raider (USA).bin" size="8192" sha1="09ae145e3dbfd132f5130a0cbb508f4fbcf35bee" crc="2a77b3fb" />
+  </game>
+  <game name="01 - Games/Cosmic Raiders/~Prototypes and Betas">
+    <rom name="Cosmic Raiders (USA) (Proto) (Alt).bin" size="8192" sha1="30044130dd3b41295351fa3905d53e26e52b3745" crc="37670f78" />
+    <rom name="Cosmic Raiders (USA) (Proto).bin" size="8192" sha1="b71b81eeaf10b59efb1b51d88b1e758305d5f1e4" crc="869b692e" />
+    <rom name="Cosmic Raiders (v3.5) (USA) (Proto).bin" size="8192" sha1="337cdffe2260dc6d36d674fa35047cb5a3598bf9" crc="e3d723a0" />
+    <rom name="Cosmic Raiders (v3.6) (USA) (Proto).bin" size="8192" sha1="5a3772b8524361b174c761ef759659b4a63166fa" crc="00b6fe88" />
+  </game>
+  <game name="01 - Games/Crazy Climber">
+    <rom name="Crazy Climber (USA).bin" size="8187" sha1="3fc71a3061ddc39788920b27ce11d0ea545e3da6" crc="bf864c44" />
+  </game>
+  <game name="01 - Games/Demolition Derby">
+    <rom name="Grand Prix ~ Demolition Derby (USA).bin" size="4096" sha1="fd133dc402b6ecbcc718ffb895a16e07979ab329" crc="7b3b7b70" />
+  </game>
+  <game name="01 - Games/Dodgem">
+    <rom name="280 Zzzap ~ Dodgem (USA).bin" size="2048" sha1="0de670d6f78e3011e84fefc65f70544cdad3320e" crc="e4d285e5" />
+  </game>
+  <game name="01 - Games/Dogpatch">
+    <rom name="Dogpatch (USA).bin" size="2048" sha1="263e6372392bc37a2228eb455d1477dcd41d9104" crc="77bed6ba" />
+  </game>
+  <game name="01 - Games/Fawn Dungeon/~Prototypes and Betas">
+    <rom name="Fawn Dungeon (USA) (Proto) (1st Version).bin" size="2048" sha1="cb8a8c3b049465e927a0401b390383a63f8e7708" crc="2ff0fbef" />
+    <rom name="Fawn Dungeon (USA) (Proto) (2nd Version).bin" size="2048" sha1="586281ff1adf4c567acb68884331339f23b2ada3" crc="72dd4512" />
+  </game>
+  <game name="01 - Games/Football">
+    <rom name="Football (USA).bin" size="4096" sha1="1d07b45162fab5497fe0a3d4ccb1b33bfd47177a" crc="fc8998a9" />
+  </game>
+  <game name="01 - Games/Galactic Invasion">
+    <rom name="Galactic Invasion (USA).bin" size="4096" sha1="939857d621715b831d558bcb2fd2f0f9e9b37676" crc="ba558eb7" />
+  </game>
+  <game name="01 - Games/Gate Escape, The">
+    <rom name="Gate Escape, The (USA).bin" size="8192" sha1="a9dca8ae5410a8e5d375f1a36f1ee282aadb7eda" crc="d89abb30" />
+  </game>
+  <game name="01 - Games/Grand Prix ~ Demolition Derby">
+    <rom name="Grand Prix ~ Demolition Derby (USA).bin" size="4096" sha1="fd133dc402b6ecbcc718ffb895a16e07979ab329" crc="7b3b7b70" />
+  </game>
+  <game name="01 - Games/Grand Prix">
+    <rom name="Grand Prix ~ Demolition Derby (USA).bin" size="4096" sha1="fd133dc402b6ecbcc718ffb895a16e07979ab329" crc="7b3b7b70" />
+  </game>
+  <game name="01 - Games/Handball">
+    <rom name="Tornado Baseball ~ Tennis ~ Hockey ~ Handball (USA).bin" size="4096" sha1="4dda98d6cf257652fd179eca137b69b67e38b8c6" crc="5be548cc" />
+  </game>
+  <game name="01 - Games/Haunted House">
+    <rom name="Haunted House (USA) (Part 1).bin" size="3933" sha1="1b681e18be65af9a4367a272befa4e6f43859adf" crc="6e74fb1f" />
+    <rom name="Haunted House (USA) (Part 2).bin" size="2051" sha1="c2d2382bfb295dad3536328ef22df944fa33dc53" crc="8a0dec01" />
+    <rom name="Haunted House (USA) (Part 3).bin" size="2021" sha1="5a5562730c58b9edb39a3a72c0f1cbb46f24065d" crc="6b047b28" />
+    <rom name="Haunted House (USA) (Part 4).bin" size="1979" sha1="738d8de4065414a2720437270a12136435214c96" crc="839a81d4" />
+    <rom name="Haunted House (USA) (Part 5).bin" size="2045" sha1="09e18e73a008751df676b4493abdf3319ef5dad1" crc="85bc423c" />
+    <rom name="Haunted House (USA) (Part 6).bin" size="1993" sha1="6072ff4a2c0b7471d6733d5bf4dcc812befbc147" crc="95dd96d6" />
+    <rom name="Haunted House (USA) (Part 7).bin" size="1965" sha1="6a5e7e47f03653c851019ed739a3c0842ac1c44a" crc="8af974cf" />
+    <rom name="Haunted House (USA) (Part 8).bin" size="1857" sha1="b23a82e9dcd30117e8dc666d775b59db145639b7" crc="2a6e8a19" />
+    <rom name="Haunted House (USA) (Part 9).bin" size="1927" sha1="73dbcdb24ee17cde7b5eb8ecf4d484dc82796d5a" crc="a3983f23" />
+  </game>
+  <game name="01 - Games/Hockey">
+    <rom name="Tornado Baseball ~ Tennis ~ Hockey ~ Handball (USA).bin" size="4096" sha1="4dda98d6cf257652fd179eca137b69b67e38b8c6" crc="5be548cc" />
+  </game>
+  <game name="01 - Games/Incredible Wizard, The">
+    <rom name="Incredible Wizard, The (USA).bin" size="8192" sha1="da366390c91e24206b5034bc525e98f2a3ce5f86" crc="1395b130" />
+  </game>
+  <game name="01 - Games/Incredible Wizard, The/~Prototypes and Betas">
+    <rom name="Incredible Wizard, The (USA) (Proto) [b].bin" size="8192" sha1="262c731967b193ece4e1d395e7cb3e8ce9c4fc2c" crc="a0cba256" />
+  </game>
+  <game name="01 - Games/Mazeman">
+    <rom name="Mazeman (USA).bin" size="4096" sha1="4b16f6138d4ecffe532995fa697e9e312550e88a" crc="565a644c" />
+  </game>
+  <game name="01 - Games/Mazeman/~Prototypes and Betas">
+    <rom name="Mazeman (USA) (Proto).bin" size="4096" sha1="f296ebdfe1a8c4f1dacf06914be1918b92f4d2b3" crc="af649678" />
+  </game>
+  <game name="01 - Games/Missile">
+    <rom name="Seawolf ~ Missile (USA) [b].bin" size="8192" sha1="a0bfee170d0e8dc0b6fec60713e3bdf11d589527" crc="ee3489ea" />
+  </game>
+  <game name="01 - Games/Ms. Candyman">
+    <rom name="Ms. Candyman (USA).bin" size="4096" sha1="39cc94a350892ac57dfa144bcf5ba12973d9684b" crc="14e93a41" />
+  </game>
+  <game name="01 - Games/Muncher">
+    <rom name="Muncher (USA).bin" size="8192" sha1="02f37ded48b1fb9ba0a2d7e45f5b0a85eaecb1c8" crc="e4726657" />
+  </game>
+  <game name="01 - Games/Muncher/~Hacks">
+    <rom name="No-Die! (USA).bin" size="8192" sha1="8dd34f2428a65ac590a26b25904a96e6f04e01d2" crc="784b256a" />
+  </game>
+  <game name="01 - Games/Pac-Man/~Prototypes and Betas">
+    <rom name="Pac-Man (USA) (Proto) (Alt).bin" size="8192" sha1="fc5cd6ec56e0f2d3acf7acfd4dbc560bdf63c768" crc="ca3a67dd" />
+    <rom name="Pac-Man (USA) (Proto).bin" size="8192" sha1="3d0e2b3fc4adfd0297a609bd78eb8b557414ea23" crc="17363546" />
+  </game>
+  <game name="01 - Games/Pacmaze/~Prototypes and Betas">
+    <rom name="Pacmaze (USA) (Proto).bin" size="4096" sha1="f8d1b6eb9c4e148b76a46bda7ca3e976abeba056" crc="cff3a6cc" />
+  </game>
+  <game name="01 - Games/Panzer Attack ~ Red Baron">
+    <rom name="Panzer Attack ~ Red Baron (USA).bin" size="4096" sha1="e0602c7485f511d6aa29d669967b101de79ddb15" crc="a1c7e129" />
+  </game>
+  <game name="01 - Games/Panzer Attack">
+    <rom name="Panzer Attack ~ Red Baron (USA).bin" size="4096" sha1="e0602c7485f511d6aa29d669967b101de79ddb15" crc="a1c7e129" />
+  </game>
+  <game name="01 - Games/Pirate's Chase">
+    <rom name="Pirate's Chase (USA).bin" size="4096" sha1="3ad79a4381441c7f28479ad6b50c9105ca1ba7e4" crc="7b1b206a" />
+  </game>
+  <game name="01 - Games/Poker">
+    <rom name="Blackjack ~ Poker ~ Acey-Duecy (USA).bin" size="4096" sha1="7b92e3ad161e31926a730780d1f28015310dd7d7" crc="78d45a11" />
+  </game>
+  <game name="01 - Games/Red Baron">
+    <rom name="Panzer Attack ~ Red Baron (USA).bin" size="4096" sha1="e0602c7485f511d6aa29d669967b101de79ddb15" crc="a1c7e129" />
+  </game>
+  <game name="01 - Games/Road Toad">
+    <rom name="Road Toad (USA).bin" size="8192" sha1="3c7016eb90e9e2fca97f002581880f560c312db3" crc="f74385ee" />
+  </game>
+  <game name="01 - Games/Sea Devil">
+    <rom name="Sea Devil (USA).bin" size="4096" sha1="09efab90ff6a8cdea18fa0fa16dd4996c1feaa9b" crc="960b6f86" />
+  </game>
+  <game name="01 - Games/Seawolf ~ Missile">
+    <rom name="Seawolf ~ Missile (USA) [b].bin" size="8192" sha1="a0bfee170d0e8dc0b6fec60713e3bdf11d589527" crc="ee3489ea" />
+  </game>
+  <game name="01 - Games/Seawolf">
+    <rom name="Seawolf ~ Missile (USA) [b].bin" size="8192" sha1="a0bfee170d0e8dc0b6fec60713e3bdf11d589527" crc="ee3489ea" />
+  </game>
+  <game name="01 - Games/Soccer">
+    <rom name="Soccer (USA).bin" size="8192" sha1="12f1f59d79188b41b39fee40dd4f12cc236b4126" crc="56d28b62" />
+  </game>
+  <game name="01 - Games/Soccer/~Prototypes and Betas">
+    <rom name="Soccer (USA) (Proto) (Alt 2).bin" size="8192" sha1="a6fd25d85124e4c3f005f25c067a0b60a7a617c3" crc="7c2858dd" />
+    <rom name="Soccer (USA) (Proto) (Alt 3).bin" size="8192" sha1="a6cee6a0bc7a7bfe506b1089b431629e8b57dc04" crc="5cb41426" />
+    <rom name="Soccer (USA) (Proto) (Alt 4).bin" size="8192" sha1="5ea2b708df06b09abd63b58e03229efecb98d464" crc="4f5e93d5" />
+    <rom name="Soccer (USA) (Proto) (Alt).bin" size="4096" sha1="39ac51f18eb6ceb8e1f766f4d13d4c0ed7af1f85" crc="fd633ca9" />
+    <rom name="Soccer (USA) (Proto).bin" size="8192" sha1="955b138b4db95e8a7c35ff958724440bd75d5fc2" crc="7de08d9a" />
+  </game>
+  <game name="01 - Games/Solar Conqueror">
+    <rom name="Solar Conqueror (USA).bin" size="8192" sha1="3185285687a1b4f643329bea94cba398e1b3ed4b" crc="d15ce025" />
+  </game>
+  <game name="01 - Games/Solar Conqueror/~Prototypes and Betas">
+    <rom name="Solar Conqueror (USA) (Proto).bin" size="8192" sha1="99139da1e5b8a52251033de6902b537d3f9ab6bc" crc="4a229478" />
+    <rom name="Solar Conqueror (v2.8) (USA) (Proto).bin" size="8192" sha1="90900ec2c1fb9d476db22fd479400a6315230f9f" crc="0709b022" />
+    <rom name="Solar Conqueror (v3.9) (USA) (Proto).bin" size="8192" sha1="eba87f0296ff0759eb25a094ea98fd05d9eb91b6" crc="8612cc7a" />
+  </game>
+  <game name="01 - Games/Space Fortress">
+    <rom name="Space Fortress (USA).bin" size="4096" sha1="d1d4527128cad5446cdd4d4f0dfa7194cb50aaef" crc="519cc707" />
+  </game>
+  <game name="01 - Games/Space Fortress/~Prototypes and Betas">
+    <rom name="Space Fortress (USA) (Proto).bin" size="2048" sha1="08510e05c81192908bb62330dc825e1f63052584" crc="cf5012bd" />
+  </game>
+  <game name="01 - Games/Space Invaders">
+    <rom name="Space Invaders (USA).bin" size="4096" sha1="aecaa45ed1d74ebf882120da75c006ae502e94c1" crc="52964c1f" />
+  </game>
+  <game name="01 - Games/Space Invaders/~Prototypes and Betas">
+    <rom name="Space Invaders (USA) (Proto).bin" size="2048" sha1="46b2396ce3223a8e709a819e674726e6bf0d026e" crc="a542f4b2" />
+  </game>
+  <game name="01 - Games/Star Battle">
+    <rom name="Star Battle (USA) (Astrovision) [b].bin" size="8192" sha1="8e10074e03169ce88327ace728f2718e90438be0" crc="ce15563b" />
+    <rom name="Star Battle (USA) (Bally).bin" size="2048" sha1="00f8c65ed73f6ce134c1e4e0af7c5aa91a287951" crc="d54a74c8" />
+  </game>
+  <game name="01 - Games/Stweek">
+    <rom name="Stweek (USA).bin" size="2048" sha1="a8170dba7126ff6acb56686a46362bb36bebd799" crc="e4f3766a" />
+  </game>
+  <game name="01 - Games/Super Slope">
+    <rom name="Super Slope (USA).bin" size="4096" sha1="e0793194497631f427581b951f5b0569cc7be398" crc="df6b2304" />
+  </game>
+  <game name="01 - Games/Tennis">
+    <rom name="Tornado Baseball ~ Tennis ~ Hockey ~ Handball (USA).bin" size="4096" sha1="4dda98d6cf257652fd179eca137b69b67e38b8c6" crc="5be548cc" />
+  </game>
+  <game name="01 - Games/Tic-Tac-Toe">
+    <rom name="Amazing Maze ~ Tic-Tac-Toe (USA).bin" size="2048" sha1="8c833f077830db847caad91a3f040ac7ddcd33f8" crc="cd57c485" />
+  </game>
+  <game name="01 - Games/Tornado Baseball ~ Tennis ~ Hockey ~ Handball">
+    <rom name="Tornado Baseball ~ Tennis ~ Hockey ~ Handball (USA).bin" size="4096" sha1="4dda98d6cf257652fd179eca137b69b67e38b8c6" crc="5be548cc" />
+  </game>
+  <game name="01 - Games/Tornado Baseball">
+    <rom name="Tornado Baseball ~ Tennis ~ Hockey ~ Handball (USA).bin" size="4096" sha1="4dda98d6cf257652fd179eca137b69b67e38b8c6" crc="5be548cc" />
+  </game>
+  <game name="01 - Games/War">
+    <rom name="War (USA).bin" size="7931" sha1="bca64e756b1f1c23a6b78d90a14541e44161371b" crc="c1faf1bf" />
+  </game>
+  <game name="02 - Software and Utilities/Life">
+    <rom name="Life (USA).bin" size="2048" sha1="f31cfef8dde6cd5bc030a1e0aae2655da09a2a34" crc="752d13fd" />
+  </game>
+</datafile>

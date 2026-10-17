@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<datafile>
+  <header>
+    <name>SuperAcan</name>
+    <version>2026-10-16</version>
+    <romvault forcepacking="fileonly" />
+  </header>
+  <game name="01 - Games/Boom Zoo">
+    <rom name="Boom Zoo (Taiwan).bin" size="524288" sha1="0b5fbe2117bb77a827453c5489b3af691e5c7ade" crc="6099bb44" />
+  </game>
+  <game name="01 - Games/Boom Zoo/~Translations">
+    <rom name="Boom-Boom Zoo (Taiwan) [T+Eng 1.00].bin" size="1048576" sha1="d62c1308bd54e6bc9df6eb132906f75e44d46238" crc="757a3be1" />
+  </game>
+  <game name="01 - Games/Formosa Duel">
+    <rom name="Formosa Duel (Taiwan).bin" size="1048576" sha1="8d0680e1322af21b20d5cee2c100b05cf4217815" crc="b2bf31dc" />
+  </game>
+  <game name="01 - Games/Formosa Duel/~Translations">
+    <rom name="Great Formosa Showdown, The (Taiwan) [T+Eng 1.00].bin" size="1048576" sha1="94170d8c1e5aa56c707411756851eeac6e7e01bd" crc="84cd0f55" />
+  </game>
+  <game name="01 - Games/Gambling Lord">
+    <rom name="Gambling Lord (Taiwan).bin" size="2097152" sha1="0fda223817f0b50f0ce9687076d29df3d1b86960" crc="ac4fa721" />
+  </game>
+  <game name="01 - Games/Gambling Lord/~Translations">
+    <rom name="Gambling Overlord (Taiwan) [T+Eng 1.00].bin" size="2097152" sha1="143ad8a28dbb4e48fcc3011160cca0d9483103c2" crc="846f1531" />
+  </game>
+  <game name="01 - Games/Journey to the Laugh">
+    <rom name="Journey to the Laugh (Taiwan).bin" size="2097152" sha1="fc82fc3a7d55571494cd62d8807160e22cf437bc" crc="cee25eea" />
+  </game>
+  <game name="01 - Games/Journey to the Laugh/~Translations">
+    <rom name="Journey to the Jest (Taiwan) [T+Eng 1.00].bin" size="4194304" sha1="242e5ceef111e76c90df56ffdd5908c228e3701d" crc="e5b28428" />
+  </game>
+  <game name="01 - Games/Magical Pool">
+    <rom name="Magical Pool (Taiwan).bin" size="2097152" sha1="6be79db9006c46ea21f5dbe1add755ce2e413796" crc="aed4e4f8" />
+  </game>
+  <game name="01 - Games/Magical Pool/~Translations">
+    <rom name="Magic Cue Pool (Taiwan) [T+Eng 1.00].bin" size="2097152" sha1="34b5dd3ad4cc8e8545bdcbabfba409bd4cdb36fd" crc="9b8ac43a" />
+  </game>
+  <game name="01 - Games/Monopoly - Adventure in Africa">
+    <rom name="Monopoly - Adventure in Africa (Taiwan).bin" size="1048576" sha1="6dcbd7923203da7892915595d65ee668afbf0339" crc="dc3b7b84" />
+  </game>
+  <game name="01 - Games/Monopoly - Adventure in Africa/~Translations">
+    <rom name="African Expedition - The Board Game (Taiwan) [T+Eng 1.00].bin" size="2097152" sha1="67951eae18204d448cc5fbe24c4b980d3e7fa550" crc="7d6f5057" />
+  </game>
+  <game name="01 - Games/Rebel Star">
+    <rom name="Rebel Star (Taiwan) (En).bin" size="2097152" sha1="fce6fe629e74c6547901fd208a65ee2eff5e2fbb" crc="9e243c91" />
+  </game>
+  <game name="01 - Games/Rebel Star/~Translations">
+    <rom name="REBEL (Taiwan) [T+Eng 1.00].bin" size="2097152" sha1="70078fcea14a1271a1625f3c38c1f0944bb9d8c0" crc="25174db4" />
+  </game>
+  <game name="01 - Games/Sango Fighter">
+    <rom name="Sango Fighter (Taiwan).bin" size="3145728" sha1="f4bed63775130a75eb9c50b32e0cf50d1a7b8f50" crc="a4de6dde" />
+  </game>
+  <game name="01 - Games/Sango Fighter/~Translations">
+    <rom name="Sango Fighter (Taiwan) [T+Eng 1.00].bin" size="3145728" sha1="302520e0c9864c783fc91e37f56cbbc25d14909b" crc="3e1e6fed" />
+  </game>
+  <game name="01 - Games/Speedy Dragon">
+    <rom name="Speedy Dragon (Taiwan).bin" size="2097152" sha1="fbd62b5d287aa82ef27f400ab2a6b3da0308192a" crc="f631383c" />
+  </game>
+  <game name="01 - Games/Speedy Dragon/~Translations">
+    <rom name="Sonic Dragon (Taiwan) [T+Eng 1.00].bin" size="2097152" sha1="ff0e771bfca11e0879cc8b86f2d63dfc1ed03e24" crc="42e1f01d" />
+  </game>
+  <game name="01 - Games/Super Dragon Force">
+    <rom name="Super Dragon Force (Taiwan).bin" size="3145728" sha1="bfa3d5e86dd26b71646414f205521c6fdd7e9d97" crc="c4fe1ca1" />
+  </game>
+  <game name="01 - Games/Super Dragon Force/~Translations">
+    <rom name="War of Light Saga - Dragonforce (Taiwan) [T+Eng 1.00].bin" size="3145728" sha1="3fbae4bca7e247bb28060d61a7b1e4c43f4d9b93" crc="832becdb" />
+  </game>
+  <game name="01 - Games/Super Taiwanese Baseball League">
+    <rom name="Super Taiwanese Baseball League (Taiwan).bin" size="2097152" sha1="17a413803d8749fbe9643ca56d703afd64569b9f" crc="ccf6829b" />
+  </game>
+  <game name="01 - Games/The Son of Evil">
+    <rom name="The Son of Evil (Taiwan).bin" size="2097152" sha1="67ae9e7f99e1c3054ea54d53dbbba7792ef45134" crc="9f6119a7" />
+  </game>
+  <game name="01 - Games/The Son of Evil/~Translations">
+    <rom name="Child of Evil, The (Taiwan) [T+Eng 1.00].bin" size="4194304" sha1="d390287d74867f328c802043ffa56e64a6ef224b" crc="f31d3904" />
+  </game>
+</datafile>

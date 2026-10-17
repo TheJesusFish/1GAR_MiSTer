@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<datafile>
+  <header>
+    <name>MyVision</name>
+    <version>2026-10-16</version>
+    <romvault forcepacking="fileonly" />
+  </header>
+  <game name="01 - Games/Gomoku Narabe Renju">
+    <rom name="Gomoku Narabe Renju (Japan).bin" size="16384" sha1="8d93d92d2d560a2701d26a78fff32c3ccd3e8dd5" crc="11f00f57" />
+  </game>
+  <game name="01 - Games/Hanafuda">
+    <rom name="Hanafuda (Japan).bin" size="24576" sha1="d404324ffbff54841e6e0f497199b2456239eeee" crc="4ab8224b" />
+  </game>
+  <game name="01 - Games/Mahjong">
+    <rom name="Mahjong (Japan).bin" size="24576" sha1="a4505acd7e7c40dd1f0974d0086818a72ea83525" crc="46bf6c1f" />
+  </game>
+  <game name="01 - Games/Tsume Shougi">
+    <rom name="Tsume Shougi (Japan).bin" size="24576" sha1="cce35889295d4185601958ea3f88dddad22f9728" crc="b7363738" />
+  </game>
+</datafile>

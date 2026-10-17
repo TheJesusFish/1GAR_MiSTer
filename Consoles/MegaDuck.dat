@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<datafile>
+  <header>
+    <name>MegaDuck</name>
+    <version>2026-10-16</version>
+    <romvault forcepacking="fileonly" />
+  </header>
+  <game name="01 - Games/2nd Space">
+    <rom name="2nd Space (World).bin" size="131072" sha1="b2b54faa87996d614941630c7f098431bf699b58" crc="43272949" />
+  </game>
+  <game name="01 - Games/Ant Soldiers">
+    <rom name="Ant Soldiers (World).bin" size="131072" sha1="52f087a0156c1ef42e03427b405911f5be423b16" crc="4907c1d8" />
+  </game>
+  <game name="01 - Games/Arctic Zone">
+    <rom name="Arctic Zone (World).bin" size="32768" sha1="4f3022126f33964e0fb5505fa0caeaa13b995309" crc="f88f2d25" />
+  </game>
+  <game name="01 - Games/Armour Force">
+    <rom name="Armour Force (World).bin" size="65536" sha1="aa2c3774eb48df0854d4b61997653f79a810f4cc" crc="eca6c0ad" />
+  </game>
+  <game name="01 - Games/Beast Fighter">
+    <rom name="Beast Fighter (World).bin" size="131072" sha1="9ff96b40e8636fad37b1b95f83f3a9584f3dfe3e" crc="2adb7253" />
+  </game>
+  <game name="01 - Games/Black Forest Tale">
+    <rom name="Black Forest Tale (World).bin" size="65536" sha1="3d62acc2db46bb7b6a2909d640dec6ce095aeec3" crc="211d268b" />
+  </game>
+  <game name="01 - Games/Bomb Disposer">
+    <rom name="Bomb Disposer (World).bin" size="32768" sha1="ba17489d8b753d51bed183459b3de5167e514c65" crc="cac582ad" />
+  </game>
+  <game name="01 - Games/Captain Knick Knack">
+    <rom name="Captain Knick Knack (World).bin" size="131072" sha1="3496ef24a27bbf4050783e090344b0e3275ee862" crc="a17de1a3" />
+  </game>
+  <game name="01 - Games/Commin 5 in 1">
+    <rom name="Commin 5 in 1 (World).bin" size="65536" sha1="fb4ba6c9823808c2705f597294b784837342cbcb" crc="ff0da355" />
+  </game>
+  <game name="01 - Games/Dice Block">
+    <rom name="Mega Duck 4 in 1 (World).bin" size="65536" sha1="2a1c5bea602ab27ecf680c88cfe9884186b61438" crc="8046ea70" />
+  </game>
+  <game name="01 - Games/Duck Adventures">
+    <rom name="Duck Adventures (World).bin" size="131072" sha1="b0ddee2de1032fc21c379ada1c891543aa130860" crc="cc9c6d10" />
+  </game>
+  <game name="01 - Games/Electron World">
+    <rom name="Mega Duck 4 in 1 (World).bin" size="65536" sha1="2a1c5bea602ab27ecf680c88cfe9884186b61438" crc="8046ea70" />
+  </game>
+  <game name="01 - Games/Hong Kong Mahjong">
+    <rom name="Commin 5 in 1 (World).bin" size="65536" sha1="fb4ba6c9823808c2705f597294b784837342cbcb" crc="ff0da355" />
+  </game>
+  <game name="01 - Games/Japan Mahjong">
+    <rom name="Commin 5 in 1 (World).bin" size="65536" sha1="fb4ba6c9823808c2705f597294b784837342cbcb" crc="ff0da355" />
+  </game>
+  <game name="01 - Games/Magic Maze">
+    <rom name="Magic Maze (World).bin" size="32768" sha1="5c765a8c5875b237a1af8f7766ca3f0defb9ce10" crc="93c878be" />
+  </game>
+  <game name="01 - Games/Magical Tower">
+    <rom name="Magical Tower (World).bin" size="65536" sha1="6eefbf8742eba1279f943c321b5d55e45a727a67" crc="98694021" />
+  </game>
+  <game name="01 - Games/Mega Duck 4 in 1">
+    <rom name="Mega Duck 4 in 1 (World).bin" size="65536" sha1="2a1c5bea602ab27ecf680c88cfe9884186b61438" crc="8046ea70" />
+  </game>
+  <game name="01 - Games/Pile Wonder">
+    <rom name="Pile Wonder (World) (Alt).bin" size="32768" sha1="13d8882371823e5dfb74191ef0addafc43aa1de4" crc="61c81e06" />
+    <rom name="Pile Wonder (World).bin" size="32768" sha1="69222a0c5c3920d0784d0e58c3407b74c1b2bfe8" crc="d71f1770" />
+  </game>
+  <game name="01 - Games/Puppet Knight">
+    <rom name="Puppet Knight (World).bin" size="65536" sha1="4849cd6f881b5b78e1d3a08edb727e79c77f9d39" crc="35fb1616" />
+  </game>
+  <game name="01 - Games/Railway">
+    <rom name="Railway (World).bin" size="65536" sha1="f1a9a8365f1b78057ed5cc647fd68efafc0c49e8" crc="2bb6aeb9" />
+  </game>
+  <game name="01 - Games/Snake Roy">
+    <rom name="Snake Roy (World).bin" size="65536" sha1="c76a57047f0f72252cddd7974a3b694392753469" crc="315ef9f2" />
+  </game>
+  <game name="01 - Games/Store Tris 1">
+    <rom name="Commin 5 in 1 (World).bin" size="65536" sha1="fb4ba6c9823808c2705f597294b784837342cbcb" crc="ff0da355" />
+  </game>
+  <game name="01 - Games/Store Tris 2">
+    <rom name="Commin 5 in 1 (World).bin" size="65536" sha1="fb4ba6c9823808c2705f597294b784837342cbcb" crc="ff0da355" />
+  </game>
+  <game name="01 - Games/Street Rider">
+    <rom name="Street Rider (World).bin" size="32768" sha1="9b7d69f9b0a44eeaa36971aabec553ebd3bfdc0e" crc="74c3377f" />
+  </game>
+  <game name="01 - Games/Suleiman's Treasure">
+    <rom name="Suleiman's Treasure (World).bin" size="65536" sha1="022d7e635ea64c6a525db5d31c30a7d8636f4c18" crc="cd2730ac" />
+  </game>
+  <game name="01 - Games/Taiwan Mahjong">
+    <rom name="Commin 5 in 1 (World).bin" size="65536" sha1="fb4ba6c9823808c2705f597294b784837342cbcb" crc="ff0da355" />
+  </game>
+  <game name="01 - Games/The Brick Wall">
+    <rom name="The Brick Wall (World).bin" size="32768" sha1="9b050e41b9aa18dbf5c043f19b7c945c89811cc1" crc="58efe338" />
+  </game>
+  <game name="01 - Games/Trap Turn">
+    <rom name="Trap Turn (World).bin" size="32768" sha1="946e1fc387b4eb9114d82cd4471ea9064c3497ce" crc="2b58d9a4" />
+  </game>
+  <game name="01 - Games/Trouble Zone">
+    <rom name="Mega Duck 4 in 1 (World).bin" size="65536" sha1="2a1c5bea602ab27ecf680c88cfe9884186b61438" crc="8046ea70" />
+  </game>
+  <game name="01 - Games/Vex">
+    <rom name="Vex (World).bin" size="32768" sha1="b750a4c303342e302e5c20556b5e1761deac7c99" crc="b26bb405" />
+  </game>
+  <game name="01 - Games/Virus Attack">
+    <rom name="Mega Duck 4 in 1 (World).bin" size="65536" sha1="2a1c5bea602ab27ecf680c88cfe9884186b61438" crc="8046ea70" />
+  </game>
+  <game name="01 - Games/Waternet">
+    <rom name="Waternet (World) (Aftermarket) (Unl).bin" size="32768" sha1="c7181cee5ddee2f665d21c38b5a44838f7b8f511" crc="d6f9dcfa" />
+  </game>
+  <game name="01 - Games/Worm Visitor">
+    <rom name="Worm Visitor (World).bin" size="65536" sha1="81d7c74f2f029a8b15c3d4fcb8567870b387c60d" crc="da4743e7" />
+  </game>
+  <game name="01 - Games/Zipball">
+    <rom name="Zipball (World).bin" size="65536" sha1="5a9615ace92ea7ad96a02c73dc99ebdd01cefb94" crc="2004c1fb" />
+  </game>
+</datafile>
