@@ -28,3 +28,8 @@ The whole collection is around 8tb, so plan for that.
 God, I don't know, man. Because I'm broken and we live in hell? I'm not saying this is a good idea, but it is an idea. One of the ideas of all time.
 
 And it has quieted the brain worms...for now
+
+# FAQ
+
+**Only Consoles?**
+- Brother do you know how many games there are for the PC? Even if you hold yourself to just the collections (0mhz, Neon68K, Amigavision, etc), do you know how many games there are for the Mac? The Apple II? I don't know if I have the strength....yet
