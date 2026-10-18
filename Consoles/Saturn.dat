@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>Saturn</name>
-    <version>2026-10-16</version>
+    <version>2026-10-17</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/2Tax Gold/2Tax Gold (Japan)">
@@ -32995,5 +32995,21 @@
     <rom name="Yoshiyuki Sadamoto Illustrations (Japan) (Track 2).bin" size="343083888" sha1="0e954ca39bba31344dcf2f13104b319693535024" crc="52bf3478" />
     <rom name="Yoshiyuki Sadamoto Illustrations (Japan) (Track 3).bin" size="1764000" sha1="8fd42dae3a71212cb64eb8eb2c7c4c8b037ebfbe" crc="82437320" />
     <rom name="Yoshiyuki Sadamoto Illustrations (Japan).cue" size="412" sha1="125e29af8dfc440f543ddfd3537aca49331986b6" crc="722fb7b4" />
+  </game>
+  <game name="01 - Games/Street Fighter Zero 3/~Translations/Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n] [Japanese Names] [Unlocked Characters]">
+    <rom name="Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n] [Japanese Names] [Unlocked Characters].chd" size="460551680" sha1="d398c67234f8b7e5144fe5af7adcb0b6ad1b1247" crc="38a1dd5e" />
+    <rom name="Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n].txt" size="5007" sha1="4418c434db8e41b6f50c52f06fc588715ce6eaa2" crc="50851a93" />
+  </game>
+  <game name="01 - Games/Street Fighter Zero 3/~Translations/Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n] [Japanese Names]">
+    <rom name="Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n] [Japanese Names].chd" size="460551483" sha1="87a5370000f9c1785db574c32cade9c076b32905" crc="83f1793e" />
+    <rom name="Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n].txt" size="5007" sha1="4418c434db8e41b6f50c52f06fc588715ce6eaa2" crc="50851a93" />
+  </game>
+  <game name="01 - Games/Street Fighter Zero 3/~Translations/Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n] [Western Names]">
+    <rom name="Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n] [Western Names].chd" size="460557415" sha1="7f6096e70a399c7f9df7b1119b4ddf7c9af47f5d" crc="37960fa0" />
+    <rom name="Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n].txt" size="5007" sha1="4418c434db8e41b6f50c52f06fc588715ce6eaa2" crc="50851a93" />
+  </game>
+  <game name="01 - Games/Street Fighter Zero 3/~Translations/Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n] [Western Names] [Unlocked Characters]">
+    <rom name="Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n] [Western Names] [Unlocked Characters].chd" size="460557614" sha1="6c0d995d1f1b9346b6882d4cf52ab5123097afe4" crc="edc7cf94" />
+    <rom name="Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n].txt" size="5007" sha1="4418c434db8e41b6f50c52f06fc588715ce6eaa2" crc="50851a93" />
   </game>
 </datafile>

@@ -8480,6 +8480,7 @@
   </game>
   <game name="01 - Games/Jacob's Elevator">
     <rom name="Jacob's Elevator (World) (v1.1) (Aftermarket) (Unl).nes" size="40976" sha1="58febe9731bb5d6b24fab96ef408891afd807020" crc="45a38d68" />
+    <rom name="Jacob's Elevator (World) (Aftermarket) (Unl).nes" size="40976" sha1="cda88e63059d1e35dc3a67276fd2b0be5bec99a3" crc="9440814a" />
   </game>
   <game name="01 - Games/Ninja JaJaMaru - The Legend of the Golden Castle">
     <rom name="Jajamaru Gekimaden - Maboroshi no Kinmajou (Japan).nes" size="262160" sha1="909ea44da2b704e88b4058631b985897cd6ae41c" crc="214b9bc6" />
@@ -18580,5 +18581,11 @@
   <game name="02 - Software and Utilities/project SHVTERA">
     <rom name="project SHVTERA (World) (v1.0.2) (NESDev 2023) (Aftermarket) (Unl).nes" size="65552" sha1="b90318b93918eb79b616bf36f10423ba5c3da457" crc="f8db7f30" />
     <rom name="project SHVTERA (World) (v1.1.0) (Aftermarket) (Unl).nes" size="65552" sha1="47753d5c1854c9280bace8acd6d969ab61171296" crc="eb60d5f3" />
+  </game>
+  <game name="01 - Games/Hanjuku Hero/~Translations">
+    <rom name="Hanjuku Hero (Japan) [T-En by Gan v1.0].nes" size="131088" sha1="e41fd89b3d86a255a0f03c6bcd105c607ebf4846" crc="78019212" />
+  </game>
+  <game name="01 - Games/Maison Ikkoku/~Translations">
+    <rom name="Maison Ikkoku (Japan) [T-En by mr_sausage v1.0].nes" size="262160" sha1="922a592aa2c16237561c3bca275ecd9e6969b8b3" crc="89c3f2a5" />
   </game>
 </datafile>

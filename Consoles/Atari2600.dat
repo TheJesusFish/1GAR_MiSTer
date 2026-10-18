@@ -2256,4 +2256,21 @@
     <rom name="synthcart (Europe) (PAL) (Aftermarket) (Unl).a26" size="8192" sha1="c4c19c5e0d8b6fcf1aeafa0bd3c88ef3f834c59b" crc="c80ec2f8" />
     <rom name="synthcart (USA) (NTSC) (Aftermarket) (Unl).a26" size="8192" sha1="c24256c1d51246281a400fb03fc4ca465bd092dd" crc="5ddd1eba" />
   </game>
+  <game name="01 - Games/Angry Video Game Nerd, The">
+    <rom name="Angry Video Game Nerd, The (World) (NTSC) (Aftermarket) (Unl).bin" size="16384" sha1="ffc3eff7afc1051716159ddfaf2fe2bf149e5d49" crc="21696547" />
+  </game>
+  <game name="01 - Games/Carrot Kingdom">
+    <rom name="Carrot Kingdom (World) (Rev B) (NTSC) (Aftermarket) (Unl).bin" size="32768" sha1="5988b25bc64f2c9791c85982acae546c3af29c37" crc="7f177e4c" />
+  </game>
+  <game name="01 - Games/Portal 2600">
+    <rom name="Portal 2600 (World) (NTSC) (Aftermarket) (Unl).bin" size="4096" sha1="2be54553e1366541f6a621ee1e7e64981e28ee3c" crc="97a6c9ec" />
+  </game>
+  <game name="01 - Games/Princess Rescue">
+    <rom name="Princess Rescue (World) (NTSC) (Aftermarket) (Unl).bin" size="32768" sha1="58aa6bba1d0d26c1287135fc9237b684a984b6be" crc="560dac0c" />
+    <rom name="Princess Rescue (World) (PAL) (Aftermarket) (Unl).a26" size="32768" sha1="7380960df4cdce8d3d7318fb003f7bcfde173812" crc="85b8e00f" />
+  </game>
+  <game name="01 - Games/Zippy the Porcupine">
+    <rom name="Zippy the Porcupine (World) (v2.0) (NTSC) (Aftermarket) (Unl).bin" size="65536" sha1="cbe88e316b471a6476f284df8634d5b646b4bdc5" crc="d57d3189" />
+    <rom name="Zippy the Porcupine (World) (v2.0) (PAL) (Aftermarket) (Unl).bin" size="65536" sha1="e9885f1b0f20dbd56cab9c0b3a18d2d432d5c3d5" crc="ed346394" />
+  </game>
 </datafile>

@@ -6090,4 +6090,7 @@
   <game name="02 - Software and Utilities/Unearthed OST">
     <rom name="Unearthed OST (World) (Album) (Aftermarket) (Unl).gb" size="262144" sha1="d602b612cee4b45b3d5b88a3f00d38bf8b6ad0c8" crc="4249e80c" />
   </game>
+  <game name="01 - Games/Pocket Love/~Translations">
+    <rom name="Pocket Love (Japan) (SGB Enhanced) [T-En by jeffzzq v1.1].gb" size="1048576" sha1="e7d35adda143f8eb1041f21639ee5d3e137c5f98" crc="2d556a3d" />
+  </game>
 </datafile>
