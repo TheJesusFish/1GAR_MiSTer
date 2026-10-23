@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>Marty</name>
-    <version>2026-10-16</version>
+    <version>2026-10-23</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - CD Games/3x3 Eyes - Sanjiyan Henjou/3x3 Eyes - Sanjiyan Henjou (Japan)">
@@ -3871,13 +3871,6 @@
     <rom name="Custom Mate 2 + Itsuka Dokoka de (Japan).cue" size="2435" sha1="8a80a7fc4e635cc56322e318231a23461b2ca54e" crc="21bfdf02" />
     <rom name="Custom Mate 2 + Itsuka Dokoka de (Japan).hdm" size="1261568" sha1="23be34e523e56b51934b0428f4afeeda1243cdca" crc="7ea7f95a" />
   </game>
-  <game name="01 - CD Games/J. B. Harold Jikenbo 1 - Murder Club DX/J. B. Harold Jikenbo 1 - Murder Club DX (Japan)">
-    <rom name="J. B. Harold Jikenbo 1 - Murder Club DX (Japan) (Track 1).bin" size="20815200" sha1="1f867edf6baac20109f36f1f2d84e37a4e3cac8e" crc="8cc51349" />
-    <rom name="J. B. Harold Jikenbo 1 - Murder Club DX (Japan) (Track 2).bin" size="28400400" sha1="54f2302b865ded61934b751250952d6bf5e913cc" crc="182dba3b" />
-    <rom name="J. B. Harold Jikenbo 1 - Murder Club DX (Japan) (Track 3).bin" size="3175200" sha1="4a8893c9394ffb64ed9a2344dec72dd93b04618c" crc="017cca9a" />
-    <rom name="J. B. Harold Jikenbo 1 - Murder Club DX (Japan) (Track 4).bin" size="64386000" sha1="fad3c63c43eaad40cb8de536840fe67434775dfd" crc="ebef43d2" />
-    <rom name="J. B. Harold Jikenbo 1 - Murder Club DX (Japan).cue" size="569" sha1="8cb148150ed5bb07691df935210ecdb864f9cc44" crc="141c8877" />
-  </game>
   <game name="01 - CD Games/Jan Jaka Jan/Jan Jaka Jan (Japan)">
     <rom name="Jan Jaka Jan (Japan).bin" size="10231200" sha1="c64d41a0697e989be2dda9ec339a71431b212303" crc="67d1d7e4" />
     <rom name="Jan Jaka Jan (Japan).cue" size="86" sha1="8f1fda4a3a580a8b7caa521d88fd209370c104c7" crc="9fba1c2d" />
@@ -5980,30 +5973,6 @@
   <game name="01 - CD Games/Morita Shougi II/Morita Shougi II (Japan)">
     <rom name="Morita Shougi II (Japan).bin" size="4939200" sha1="4d4ee55323057d6615811efe9639c98a805e578c" crc="22405a0c" />
     <rom name="Morita Shougi II (Japan).cue" size="90" sha1="de855cb61aa67aad87a4876aeb14f2ea3c6b9016" crc="872638d6" />
-  </game>
-  <game name="01 - CD Games/Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken/Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken (Japan) (FM Towns Marty)">
-    <rom name="Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken (Japan) (FM Towns Marty) (Track 1).bin" size="473692800" sha1="7f44d047146dfd282abf05dc92e5b9db2eb582ff" crc="94b7e859" />
-    <rom name="Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken (Japan) (FM Towns Marty) (Track 2).bin" size="57240624" sha1="b0bda4091b22c7eda443b102d1c2f1271c87567a" crc="e46efbbc" />
-    <rom name="Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken (Japan) (FM Towns Marty) (Track 3).bin" size="5992896" sha1="f36b48802dd13cfb4c27058455c21915ed395db0" crc="7d0d6658" />
-    <rom name="Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken (Japan) (FM Towns Marty) (Track 4).bin" size="50208144" sha1="8ca2d99e7095fda0c6c1c77fc3c9552657b4da5a" crc="f10a619d" />
-    <rom name="Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken (Japan) (FM Towns Marty).cue" size="658" sha1="53693155a8abb8b3ef7152b6f21cca87bd6b99a5" crc="ee907f5a" />
-    <rom name="Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken (Japan) (FM Towns Marty).hdm" size="1261568" sha1="05d3f256874fec6deccf8f3a4f80d143182f3846" crc="3e70fc8c" />
-  </game>
-  <game name="01 - CD Games/Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken/Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken (Japan)">
-    <rom name="Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken (Japan) (Disc 1).bin" size="361540032" sha1="dee4ab701aba51df0ebd635131f0b040d5ab81d9" crc="bdea9ba7" />
-    <rom name="Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken (Japan) (Disc 1).cue" size="133" sha1="b33e3fdf96c42840574b57b4790a217a6c6ad0f8" crc="95759928" />
-    <rom name="Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken (Japan) (Disc 2) (Track 1).bin" size="370926864" sha1="289cac34e8ef0d41278f23548704e820724cf4ac" crc="8d084f92" />
-    <rom name="Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken (Japan) (Disc 2) (Track 2).bin" size="58082640" sha1="adb97bc92f3ef4cdb9bcdba89e1f472e4450bdec" crc="f95a3b7b" />
-    <rom name="Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken (Japan) (Disc 2) (Track 3).bin" size="38459904" sha1="d752c440cdf1df9e4b02d9c59084b7940a2997c3" crc="291ad684" />
-    <rom name="Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken (Japan) (Disc 2) (Track 4).bin" size="51391200" sha1="4bc4fb46af534734b26b181a3add23ad85424324" crc="d6fb361d" />
-    <rom name="Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken (Japan) (Disc 2).cue" size="626" sha1="24e2d849d2f58f6e7318db824930ba18f7b8f308" crc="ae3cacf9" />
-  </game>
-  <game name="01 - CD Games/Ms. Detective File 2 - Sugata-naki Irainin/Ms. Detective File 2 - Sugata-naki Irainin (Japan)">
-    <rom name="Ms. Detective File 2 - Sugata-naki Irainin (Japan) (Track 1).bin" size="411717600" sha1="1c1e17b564a524f7a5ed44f758fcda205e564aae" crc="b19bf465" />
-    <rom name="Ms. Detective File 2 - Sugata-naki Irainin (Japan) (Track 2).bin" size="5997600" sha1="6ecc47538dd2e211d732204258dcee947dad6eb9" crc="3b1cd37e" />
-    <rom name="Ms. Detective File 2 - Sugata-naki Irainin (Japan) (Track 3).bin" size="56459760" sha1="b40d51dfe5eb7c66062680b7aa7342b5cac2d440" crc="4b6d7133" />
-    <rom name="Ms. Detective File 2 - Sugata-naki Irainin (Japan).cue" size="414" sha1="4201c03b46d659847406d70981c21fd90b9656f3" crc="5a93df24" />
-    <rom name="Ms. Detective File 2 - Sugata-naki Irainin (Japan).hdm" size="1261568" sha1="7bf144014a2c44985115fa88cebcb836a6fbddf9" crc="b1d1b54f" />
   </game>
   <game name="01 - CD Games/Mugen Houyou/Mugen Houyou (Japan)">
     <rom name="Mugen Houyou (Japan) (Track 1).bin" size="17578848" sha1="e12cf4f7fa89bae2a30f7879c208175a1cb972e5" crc="db9ab3da" />
@@ -14867,5 +14836,36 @@
   <game name="02 - Software and Utilities/Z's Triphony DigitalCraft Towns/Z's Triphony DigitalCraft Towns (Japan)">
     <rom name="Z's Triphony DigitalCraft Towns (Japan).bin" size="14460096" sha1="3fe11ba7d1488b31883044eb72fe43eabddfe104" crc="fcb85250" />
     <rom name="Z's Triphony DigitalCraft Towns (Japan).cue" size="105" sha1="dbea85f233b8e2e396a95f1f0e15f8acd858b19c" crc="e9d3d283" />
+  </game>
+  <game name="01 - CD Games/J. B. Harold Jikenbo 1 - Murder Club DX/J. B. Harold Jikenbo #1 - Murder Club DX (Japan)">
+    <rom name="J. B. Harold Jikenbo #1 - Murder Club DX (Japan) (Track 1).bin" size="20815200" sha1="1f867edf6baac20109f36f1f2d84e37a4e3cac8e" crc="8cc51349" />
+    <rom name="J. B. Harold Jikenbo #1 - Murder Club DX (Japan) (Track 2).bin" size="28400400" sha1="54f2302b865ded61934b751250952d6bf5e913cc" crc="182dba3b" />
+    <rom name="J. B. Harold Jikenbo #1 - Murder Club DX (Japan) (Track 3).bin" size="3175200" sha1="4a8893c9394ffb64ed9a2344dec72dd93b04618c" crc="017cca9a" />
+    <rom name="J. B. Harold Jikenbo #1 - Murder Club DX (Japan) (Track 4).bin" size="64386000" sha1="fad3c63c43eaad40cb8de536840fe67434775dfd" crc="ebef43d2" />
+    <rom name="J. B. Harold Jikenbo #1 - Murder Club DX (Japan).cue" size="573" sha1="ccf036e11a73e07aac13941e1f10f67847bc9b3d" crc="d0f10714" />
+  </game>
+  <game name="01 - CD Games/Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken/Ms. Detective File #1 - Iwami Ginzan Satsujin Jiken (Japan)">
+    <rom name="Ms. Detective File #1 - Iwami Ginzan Satsujin Jiken (Japan) (Disc 1).bin" size="361540032" sha1="dee4ab701aba51df0ebd635131f0b040d5ab81d9" crc="bdea9ba7" />
+    <rom name="Ms. Detective File #1 - Iwami Ginzan Satsujin Jiken (Japan) (Disc 1).cue" size="134" sha1="7b03c38f891e6c9e15f0ccabc96d0900aa4a078d" crc="8cf76647" />
+    <rom name="Ms. Detective File #1 - Iwami Ginzan Satsujin Jiken (Japan) (Disc 2) (Track 1).bin" size="370926864" sha1="289cac34e8ef0d41278f23548704e820724cf4ac" crc="8d084f92" />
+    <rom name="Ms. Detective File #1 - Iwami Ginzan Satsujin Jiken (Japan) (Disc 2) (Track 2).bin" size="58082640" sha1="adb97bc92f3ef4cdb9bcdba89e1f472e4450bdec" crc="f95a3b7b" />
+    <rom name="Ms. Detective File #1 - Iwami Ginzan Satsujin Jiken (Japan) (Disc 2) (Track 3).bin" size="38459904" sha1="d752c440cdf1df9e4b02d9c59084b7940a2997c3" crc="291ad684" />
+    <rom name="Ms. Detective File #1 - Iwami Ginzan Satsujin Jiken (Japan) (Disc 2) (Track 4).bin" size="51391200" sha1="4bc4fb46af534734b26b181a3add23ad85424324" crc="d6fb361d" />
+    <rom name="Ms. Detective File #1 - Iwami Ginzan Satsujin Jiken (Japan) (Disc 2).cue" size="630" sha1="fa6cafc36ca14ac491f5cbaec1a668ef651ee1e6" crc="ac3eb5cc" />
+  </game>
+  <game name="01 - CD Games/Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken/Ms. Detective File #1 - Iwami Ginzan Satsujin Jiken (Japan) (FM Towns Marty)">
+    <rom name="Ms. Detective File #1 - Iwami Ginzan Satsujin Jiken (Japan) (FM Towns Marty) (Track 1).bin" size="473692800" sha1="7f44d047146dfd282abf05dc92e5b9db2eb582ff" crc="94b7e859" />
+    <rom name="Ms. Detective File #1 - Iwami Ginzan Satsujin Jiken (Japan) (FM Towns Marty) (Track 2).bin" size="57240624" sha1="b0bda4091b22c7eda443b102d1c2f1271c87567a" crc="e46efbbc" />
+    <rom name="Ms. Detective File #1 - Iwami Ginzan Satsujin Jiken (Japan) (FM Towns Marty) (Track 3).bin" size="5992896" sha1="f36b48802dd13cfb4c27058455c21915ed395db0" crc="7d0d6658" />
+    <rom name="Ms. Detective File #1 - Iwami Ginzan Satsujin Jiken (Japan) (FM Towns Marty) (Track 4).bin" size="50208144" sha1="8ca2d99e7095fda0c6c1c77fc3c9552657b4da5a" crc="f10a619d" />
+    <rom name="Ms. Detective File #1 - Iwami Ginzan Satsujin Jiken (Japan) (FM Towns Marty).cue" size="662" sha1="74dcbc15dd8246802848ec5353fe8c557f76b244" crc="b0a43ec2" />
+    <rom name="Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken (Japan) (FM Towns Marty).hdm" size="1261568" sha1="05d3f256874fec6deccf8f3a4f80d143182f3846" crc="3e70fc8c" />
+  </game>
+  <game name="01 - CD Games/Ms. Detective File 2 - Sugata-naki Irainin/Ms. Detective File #2 - Sugata-naki Irainin (Japan)">
+    <rom name="Ms. Detective File #2 - Sugata-naki Irainin (Japan) (Track 1).bin" size="411717600" sha1="1c1e17b564a524f7a5ed44f758fcda205e564aae" crc="b19bf465" />
+    <rom name="Ms. Detective File #2 - Sugata-naki Irainin (Japan) (Track 2).bin" size="5997600" sha1="6ecc47538dd2e211d732204258dcee947dad6eb9" crc="3b1cd37e" />
+    <rom name="Ms. Detective File #2 - Sugata-naki Irainin (Japan) (Track 3).bin" size="56459760" sha1="b40d51dfe5eb7c66062680b7aa7342b5cac2d440" crc="4b6d7133" />
+    <rom name="Ms. Detective File #2 - Sugata-naki Irainin (Japan).cue" size="417" sha1="73d69b5da13334fdc8f2ae78f942b05e16cc7cd0" crc="9b67ca36" />
+    <rom name="Ms. Detective File 2 - Sugata-naki Irainin (Japan).hdm" size="1261568" sha1="7bf144014a2c44985115fa88cebcb836a6fbddf9" crc="b1d1b54f" />
   </game>
 </datafile>

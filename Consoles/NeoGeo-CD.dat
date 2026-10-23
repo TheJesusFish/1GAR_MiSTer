@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>NeoGeo-CD</name>
-    <version>2026-10-16</version>
+    <version>2026-10-23</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/2020 Super Baseball/2020 Super Baseball (Japan) (En,Ja)">
@@ -3537,5 +3537,9 @@
   <game name="02 - Software and Utilities/240p Test Suite/240p Test Suite (v1.0)">
     <rom name="240pTestSuite.chd" size="1234521" sha1="99acb28909c7dd8712c4cf6e9ebb2a6aa645c01e" crc="1a894827" />
     <rom name="README.TXT" size="5388" sha1="1522ad963f2d92717f79a04553e5698b387f7b1c" crc="4e68d11b" />
+  </game>
+  <game name="01 - Games/Breakers/Breakers (USA) (En,Ja) (Polymega Collection)">
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection).cue" size="110" sha1="6836678a5f5ffeb99ca288120c378900028723e0" crc="e7e051d6" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection).bin" size="25768512" sha1="efcd18c19137d7359a6c3c944ebf3959bd6215ca" crc="56e51752" />
   </game>
 </datafile>

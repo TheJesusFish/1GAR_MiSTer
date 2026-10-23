@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>TGFX16-CD</name>
-    <version>2026-10-16</version>
+    <version>2026-10-23</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/1552 Tenka Tairan/1552 Tenka Tairan (Japan)">
@@ -6439,20 +6439,6 @@
     <rom name="J. B. Harold Murder Club (USA) (En,Ja) (Track 10).bin" size="4619328" sha1="01976c196e34018c68199469e3dc653f46b17bfc" crc="56129108" />
     <rom name="J. B. Harold Murder Club (USA) (En,Ja) (Track 11).bin" size="160159440" sha1="613191babbcdfe553c3fda1ce25fc77066d17537" crc="a4743948" />
     <rom name="J. B. Harold Murder Club (USA) (En,Ja).cue" size="1312" sha1="8a470dcdfb35a0a114accb8aa3448a9d2da5bdfb" crc="ca8e8911" />
-  </game>
-  <game name="01 - Games/J. B. Harold Murder Club/J. B. Harold Series 1 - Murder Club (Japan)">
-    <rom name="J. B. Harold Series 1 - Murder Club (Japan) (Track 01).bin" size="7916832" sha1="3b472f5e80bbf8259e09f8e4f547567bddb02490" crc="22144d0f" />
-    <rom name="J. B. Harold Series 1 - Murder Club (Japan) (Track 02).bin" size="160509888" sha1="344e3087216495cce2013ae791a5faa2f453ad9b" crc="cf416a01" />
-    <rom name="J. B. Harold Series 1 - Murder Club (Japan) (Track 03).bin" size="36319584" sha1="9be80241f5d495576d11567b89031756af2eae78" crc="512b68cd" />
-    <rom name="J. B. Harold Series 1 - Murder Club (Japan) (Track 04).bin" size="44424576" sha1="792db54181763014419baa2487b28fa83b8f97fc" crc="6b984738" />
-    <rom name="J. B. Harold Series 1 - Murder Club (Japan) (Track 05).bin" size="45602928" sha1="fc352a85c42a3cd98159be02d0c5f48f05c86d43" crc="19f8d99b" />
-    <rom name="J. B. Harold Series 1 - Murder Club (Japan) (Track 06).bin" size="3509184" sha1="8cb6fde0cf80c5bc44e8165227db1647ffd218ae" crc="56151e98" />
-    <rom name="J. B. Harold Series 1 - Murder Club (Japan) (Track 07).bin" size="1980384" sha1="f15e59fa4cc9a6e2f265c6c5d0bf585b3d7e7957" crc="b1c5d1a6" />
-    <rom name="J. B. Harold Series 1 - Murder Club (Japan) (Track 08).bin" size="966672" sha1="8f00c35b008161aa04e31d1a3246f82710455eee" crc="2b1b11a4" />
-    <rom name="J. B. Harold Series 1 - Murder Club (Japan) (Track 09).bin" size="2196768" sha1="42530d796622fed244371ab5073e062b550f221a" crc="155d9d48" />
-    <rom name="J. B. Harold Series 1 - Murder Club (Japan) (Track 10).bin" size="4619328" sha1="01976c196e34018c68199469e3dc653f46b17bfc" crc="56129108" />
-    <rom name="J. B. Harold Series 1 - Murder Club (Japan) (Track 11).bin" size="160159440" sha1="6399edad6941b0f54c8fabdb5f881331ae19b379" crc="f930b68a" />
-    <rom name="J. B. Harold Series 1 - Murder Club (Japan).cue" size="1367" sha1="c7e44d76fdf4d3c746ea78b9a6b0b869e5cbc8cc" crc="f71ed915" />
   </game>
   <game name="01 - Games/J.League Tremendous Soccer '94/J.League Tremendous Soccer '94 (Japan)">
     <rom name="J.League Tremendous Soccer '94 (Japan) (Track 01).bin" size="7660464" sha1="9174931e60dc75f0cf53452d6494f6873267fd3e" crc="c0015dce" />
@@ -16588,5 +16574,19 @@
     <rom name="ROM^2 Karaoke Volume 5 (Japan) (Track 11).bin" size="35280000" sha1="1af06c0919b9f255b4c9d1d7b9f6dc44d56d0bd9" crc="0573f830" />
     <rom name="ROM^2 Karaoke Volume 5 (Japan) (Track 12).bin" size="24110352" sha1="b4ce73cec08e14f711460850de1c8e60b8e48c66" crc="0e75bab0" />
     <rom name="ROM^2 Karaoke Volume 5 (Japan).cue" size="1482" sha1="7a928f0bfbe3a34c50f03df551a394e2c583d3a0" crc="a72282ef" />
+  </game>
+  <game name="01 - Games/J. B. Harold Murder Club/J. B. Harold Series #1 - Murder Club (Japan)">
+    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 01).bin" size="7916832" sha1="3b472f5e80bbf8259e09f8e4f547567bddb02490" crc="22144d0f" />
+    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 02).bin" size="160509888" sha1="344e3087216495cce2013ae791a5faa2f453ad9b" crc="cf416a01" />
+    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 03).bin" size="36319584" sha1="9be80241f5d495576d11567b89031756af2eae78" crc="512b68cd" />
+    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 04).bin" size="44424576" sha1="792db54181763014419baa2487b28fa83b8f97fc" crc="6b984738" />
+    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 05).bin" size="45602928" sha1="fc352a85c42a3cd98159be02d0c5f48f05c86d43" crc="19f8d99b" />
+    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 06).bin" size="3509184" sha1="8cb6fde0cf80c5bc44e8165227db1647ffd218ae" crc="56151e98" />
+    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 07).bin" size="1980384" sha1="f15e59fa4cc9a6e2f265c6c5d0bf585b3d7e7957" crc="b1c5d1a6" />
+    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 08).bin" size="966672" sha1="8f00c35b008161aa04e31d1a3246f82710455eee" crc="2b1b11a4" />
+    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 09).bin" size="2196768" sha1="42530d796622fed244371ab5073e062b550f221a" crc="155d9d48" />
+    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 10).bin" size="4619328" sha1="01976c196e34018c68199469e3dc653f46b17bfc" crc="56129108" />
+    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 11).bin" size="160159440" sha1="6399edad6941b0f54c8fabdb5f881331ae19b379" crc="f930b68a" />
+    <rom name="J. B. Harold Series #1 - Murder Club (Japan).cue" size="1378" sha1="17ec94a83b91125cfb33c2c73a291e141d05193f" crc="078708ac" />
   </game>
 </datafile>

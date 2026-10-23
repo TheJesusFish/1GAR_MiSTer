@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>Atari2600</name>
-    <version>2026-10-17</version>
+    <version>2026-10-23</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/3-D Genesis/~Prototypes and Betas">
@@ -1504,7 +1504,6 @@
     <rom name="Reactor (USA).a26" size="4096" sha1="5adf9b530321472380ebceb2539de2ffbb0310bc" crc="1619e222" />
   </game>
   <game name="01 - Games/RealSports Baseball">
-    <rom name="RealSports Baseball (USA) (NTSC).a26" size="8192" sha1="e432a35470f87f05d37c58f2aa1536950adab19d" crc="f0deff2b" />
     <rom name="RealSports Baseball (USA, Europe) (En,Fr,De,Es,It).a26" size="8192" sha1="ace97b89b8b6ab947434dbfd263951c6c0b349ac" crc="3c5a1b5f" />
   </game>
   <game name="01 - Games/RealSports Basketball/~Prototypes and Betas">
@@ -1713,6 +1712,7 @@
   </game>
   <game name="01 - Games/Smurf">
     <rom name="Smurf (Europe).a26" size="8192" sha1="fd8512452e69fd7627222f811e52fc54a92bf905" crc="28dbbbd5" />
+    <rom name="Smurf (Europe) (Alt).a26" size="8192" sha1="35d1ad88594964f1f968e5786d5f8d04e7f6aea7" crc="70114c56" />
   </game>
   <game name="01 - Games/Smurfs Save the Day">
     <rom name="KVS1.WAV" size="3436329" sha1="b094c2c1fca81a0e531e0541f302346150ec4604" crc="ace0dfbc" />
@@ -2272,5 +2272,8 @@
   <game name="01 - Games/Zippy the Porcupine">
     <rom name="Zippy the Porcupine (World) (v2.0) (NTSC) (Aftermarket) (Unl).bin" size="65536" sha1="cbe88e316b471a6476f284df8634d5b646b4bdc5" crc="d57d3189" />
     <rom name="Zippy the Porcupine (World) (v2.0) (PAL) (Aftermarket) (Unl).bin" size="65536" sha1="e9885f1b0f20dbd56cab9c0b3a18d2d432d5c3d5" crc="ed346394" />
+  </game>
+  <game name="01 - Games/RealSports Basketball/~Hacks">
+    <rom name="RealSports Baseball (USA) (NTSC).a26" size="8192" sha1="e432a35470f87f05d37c58f2aa1536950adab19d" crc="f0deff2b" />
   </game>
 </datafile>

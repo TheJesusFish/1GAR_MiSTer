@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>WonderSwanColor</name>
-    <version>2026-10-17</version>
+    <version>2026-10-23</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/3D Othello">
@@ -595,7 +595,7 @@
     <rom name="Terrors 2 (Japan) (WS Compatible).wsc" size="4194304" sha1="9532113e14b03c95f034c015168e21273d42eff1" crc="9bd8f08c" />
   </game>
   <game name="01 - Games/Tetris">
-    <rom name="Tetris (Japan) (WS Compatible).wsc" size="1048576" sha1="1a86403d7896d60fcb7a4c09367f5a976c7ea5a5" crc="7b0caea9" />
+    <rom name="Tetris (Japan) (En) (WS Compatible).wsc" size="1048576" sha1="1a86403d7896d60fcb7a4c09367f5a976c7ea5a5" crc="7b0caea9" />
   </game>
   <game name="01 - Games/Tonde Stone">
     <rom name="Tonde Stone (World) (WonderWitch) (Unl).wsc" size="524288" sha1="1c4f0145c44650e9e28d7ae8ad3d31bc5447e2bd" crc="bea730c6" />

@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>NES</name>
-    <version>2026-10-17</version>
+    <version>2026-10-23</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - FDS Games/19 - Neunzehn/~Translations">
@@ -1849,9 +1849,6 @@
     <rom name="Ai Senshi Nicol (Asia) (Ja) (Kaiser) (Pirate).nes" size="262160" sha1="cc3b5a211f9bc69b7e0a52802977cb27886caaca" crc="1d1822fe" />
     <rom name="Ai Senshi Nicol (Asia) (Ja) (Whirlwind Manu) (Pirate).nes" size="131088" sha1="bbd7c5d2f6436fd526b852fde50453269f5e5439" crc="b8696c33" />
     <rom name="Ai Senshi Nicol (Asia) (Ja) (v1.1) (Kaiser) (Pirate).nes" size="262160" sha1="935f64ff80cd646ef3134d9dc5e730691df7e7b7" crc="59ec66cc" />
-  </game>
-  <game name="01 - Games/Aien Cat 2">
-    <rom name="Aien Cat 2 (World) (Aftermarket) (Unl).nes" size="262160" sha1="fc43da8108bfdb51063af84456a96a9bf7be5305" crc="14939d21" />
   </game>
   <game name="01 - Games/Aighina's Prophecy - From the Legend of Balubalouk/~Translations">
     <rom name="Aighina's Prophecy - From the Legend of Balubalouk (Japan) [T-En by Psyklax v1.1] [n].nes" size="131088" sha1="d452cba1f483610eb8d158d544525cf168ae4eb9" crc="f1dbd5c7" />
@@ -15507,18 +15504,8 @@
     <rom name="Super Mario USA (Japan) (En).nes" size="262160" sha1="8f0db8c74c53a883bc4e67ba2429fb419258ac19" crc="94076bf6" />
   </game>
   <game name="01 - Games/Super Mario Bros. 2/~Pirate">
-    <rom name="1988 Jinpai Mali (Asia) (En) (Pirate).nes" size="131088" sha1="4346c9b69ef1035a15a8b2e2cd0b81108b3b61f1" crc="48030d52" />
     <rom name="Super Bros. 2 (Asia) (En) (Pirate).nes" size="262160" sha1="42265986968918099efc71c81019d039e94378cc" crc="b3484f2f" />
     <rom name="Super Bros. 5 (Asia) (En) (Pirate).nes" size="262160" sha1="4d3b94ffffc9a1ef14fd26e8000af0bb63f7f698" crc="39f3f5f1" />
-    <rom name="Super Mario Bros. 2 (Asia) (En) (09-034A PCB) (Pirate).nes" size="49168" sha1="d9d863ac58c45c7606244159927ef45efa52f039" crc="744aadf9" />
-    <rom name="Super Mario Bros. 2 (Asia) (En) (761214 PCB) (Pirate).nes" size="131088" sha1="57a1026e3f3848cadddbe5f358e7335accd1a05d" crc="b1968e2d" />
-    <rom name="Super Mario Bros. 2 (Asia) (En) (TONY-I PCB) (Pirate).nes" size="90128" sha1="45ef3fd8094e527f71117b38c42cc3aadd99e928" crc="bbcb8334" />
-    <rom name="Super Mario Bros. 2 (Asia) (En) (Whirlwind Manu) (Pirate).nes" size="73744" sha1="06322468e0986eb3e1a44fb0a6f23f6838a7ab2c" crc="0573d74a" />
-    <rom name="Super Mario Bros. 2 (Asia) (En) (YS-612 PCB) (Pirate).nes" size="90128" sha1="68e1678afd7daff5b37c56b6d558c41574c3ed47" crc="7cd77c82" />
-    <rom name="Super Mario Bros. 2 (Asia) (En) (YUNG-08 PCB) (Pirate).nes" size="139280" sha1="cce387b91e8b16f8b1ba8bbc628efeabe482b136" crc="f0fe1967" />
-    <rom name="Super Mario Bros. 2j (USA) (Aftermarket) (Pirate).nes" size="131088" sha1="257c588d11236884a9cbe4e4831f76b8447e766a" crc="1777ea6c" />
-    <rom name="Super Mario Bros. 4 (Asia) (En) (Pirate).nes" size="73744" sha1="eedffc6fa3f839a45fb6d30417fb81257f0fe875" crc="08a1d510" />
-    <rom name="Super Mario Bros. II+ (Asia) (En) (Pirate).nes" size="73744" sha1="42182361df14fa616eca36edc2c19960fa619161" crc="fafd784f" />
   </game>
   <game name="01 - Games/Super Mario Bros. 2/~Prototypes and Betas">
     <rom name="Super Mario Bros. 2 (USA) (Beta).nes" size="131088" sha1="a4c5f4ca733575c8f81c900a3f5f5cb86bb2146f" crc="f39052fd" />
@@ -18587,5 +18574,20 @@
   </game>
   <game name="01 - Games/Maison Ikkoku/~Translations">
     <rom name="Maison Ikkoku (Japan) [T-En by mr_sausage v1.0].nes" size="262160" sha1="922a592aa2c16237561c3bca275ecd9e6969b8b3" crc="89c3f2a5" />
+  </game>
+  <game name="01 - Games/Alien Cat 2">
+    <rom name="Alien Cat 2 (World) (Aftermarket) (Unl).nes" size="262160" sha1="fc43da8108bfdb51063af84456a96a9bf7be5305" crc="14939d21" />
+  </game>
+  <game name="01 - Games/Super Mario Bros. - The Lost Levels/~Pirate">
+    <rom name="1988 Jinpai Mali (Asia) (En) (Pirate).nes" size="131088" sha1="4346c9b69ef1035a15a8b2e2cd0b81108b3b61f1" crc="48030d52" />
+    <rom name="Super Mario Bros. 2 (Asia) (En) (09-034A PCB) (Pirate).nes" size="49168" sha1="d9d863ac58c45c7606244159927ef45efa52f039" crc="744aadf9" />
+    <rom name="Super Mario Bros. 2 (Asia) (En) (761214 PCB) (Pirate).nes" size="131088" sha1="57a1026e3f3848cadddbe5f358e7335accd1a05d" crc="b1968e2d" />
+    <rom name="Super Mario Bros. 2 (Asia) (En) (TONY-I PCB) (Pirate).nes" size="90128" sha1="45ef3fd8094e527f71117b38c42cc3aadd99e928" crc="bbcb8334" />
+    <rom name="Super Mario Bros. 2 (Asia) (En) (Whirlwind Manu) (Pirate).nes" size="73744" sha1="06322468e0986eb3e1a44fb0a6f23f6838a7ab2c" crc="0573d74a" />
+    <rom name="Super Mario Bros. 2 (Asia) (En) (YS-612 PCB) (Pirate).nes" size="90128" sha1="68e1678afd7daff5b37c56b6d558c41574c3ed47" crc="7cd77c82" />
+    <rom name="Super Mario Bros. 2 (Asia) (En) (YUNG-08 PCB) (Pirate).nes" size="139280" sha1="cce387b91e8b16f8b1ba8bbc628efeabe482b136" crc="f0fe1967" />
+    <rom name="Super Mario Bros. 2j (USA) (Aftermarket) (Pirate).nes" size="131088" sha1="257c588d11236884a9cbe4e4831f76b8447e766a" crc="1777ea6c" />
+    <rom name="Super Mario Bros. 4 (Asia) (En) (Pirate).nes" size="73744" sha1="eedffc6fa3f839a45fb6d30417fb81257f0fe875" crc="08a1d510" />
+    <rom name="Super Mario Bros. II+ (Asia) (En) (Pirate).nes" size="73744" sha1="42182361df14fa616eca36edc2c19960fa619161" crc="fafd784f" />
   </game>
 </datafile>

@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>Saturn</name>
-    <version>2026-10-17</version>
+    <version>2026-10-23</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/2Tax Gold/2Tax Gold (Japan)">
@@ -17213,13 +17213,6 @@
     <rom name="Nightruth - Explanation of the Paranormal - The Making of Nightruth (Japan) (2M) (Track 4).bin" size="45419472" sha1="34a0539be70b792192c530485a242d593d3ec965" crc="f7de07f2" />
     <rom name="Nightruth - Explanation of the Paranormal - The Making of Nightruth (Japan) (2M).cue" size="701" sha1="f0499bf10604d14d829d3f0f3f79f6b2cb57931c" crc="a63de619" />
   </game>
-  <game name="01 - Games/Nightruth - Explanation of the Paranormal 01 - Yami no Tobira/Nightruth - Explanation of the Paranormal 01 - Yami no Tobira (Japan) (2M)">
-    <rom name="Nightruth - Explanation of the Paranormal 01 - Yami no Tobira (Japan) (2M) (Track 1).bin" size="306634944" sha1="52fb1a08d5e2f38cc6c78eff211377dfe2dbe59f" crc="29f9d01d" />
-    <rom name="Nightruth - Explanation of the Paranormal 01 - Yami no Tobira (Japan) (2M) (Track 2).bin" size="1764000" sha1="0d118d27cd9828e2b8224530d3a9711803377629" crc="14e3e448" />
-    <rom name="Nightruth - Explanation of the Paranormal 01 - Yami no Tobira (Japan) (2M) (Track 3).bin" size="23468256" sha1="a7bf739e6089b2059b94c0113686e035fbc0da3f" crc="d06d5f2b" />
-    <rom name="Nightruth - Explanation of the Paranormal 01 - Yami no Tobira (Japan) (2M) (Track 4).bin" size="45419472" sha1="c804f98c232cf586176989d97e8396d7d0f5ac81" crc="1417d4ca" />
-    <rom name="Nightruth - Explanation of the Paranormal 01 - Yami no Tobira (Japan) (2M).cue" size="677" sha1="b7e8276ed6ce3c398b1a535659e84d43d59a43ba" crc="a91af989" />
-  </game>
   <game name="01 - Games/Nights into Dreams.../Nights into Dreams... (Europe)">
     <rom name="Nights into Dreams... (Europe) (Track 01).bin" size="46421424" sha1="b79a4ece9dea7af2fff693af9befdf165755109c" crc="f5d06dbb" />
     <rom name="Nights into Dreams... (Europe) (Track 02).bin" size="184236864" sha1="5f25ca7183b4441b5d06bb68184f14eb4ea79005" crc="827600cb" />
@@ -33011,5 +33004,12 @@
   <game name="01 - Games/Street Fighter Zero 3/~Translations/Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n] [Western Names] [Unlocked Characters]">
     <rom name="Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n] [Western Names] [Unlocked Characters].chd" size="460557614" sha1="6c0d995d1f1b9346b6882d4cf52ab5123097afe4" crc="edc7cf94" />
     <rom name="Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n].txt" size="5007" sha1="4418c434db8e41b6f50c52f06fc588715ce6eaa2" crc="50851a93" />
+  </game>
+  <game name="01 - Games/Nightruth - Explanation of the Paranormal 01 - Yami no Tobira/Nightruth - Explanation of the Paranormal #01 - Yami no Tobira (Japan) (2M)">
+    <rom name="Nightruth - Explanation of the Paranormal #01 - Yami no Tobira (Japan) (2M) (Track 1).bin" size="306634944" sha1="52fb1a08d5e2f38cc6c78eff211377dfe2dbe59f" crc="29f9d01d" />
+    <rom name="Nightruth - Explanation of the Paranormal #01 - Yami no Tobira (Japan) (2M) (Track 2).bin" size="1764000" sha1="0d118d27cd9828e2b8224530d3a9711803377629" crc="14e3e448" />
+    <rom name="Nightruth - Explanation of the Paranormal #01 - Yami no Tobira (Japan) (2M) (Track 3).bin" size="23468256" sha1="a7bf739e6089b2059b94c0113686e035fbc0da3f" crc="d06d5f2b" />
+    <rom name="Nightruth - Explanation of the Paranormal #01 - Yami no Tobira (Japan) (2M) (Track 4).bin" size="45419472" sha1="c804f98c232cf586176989d97e8396d7d0f5ac81" crc="1417d4ca" />
+    <rom name="Nightruth - Explanation of the Paranormal #01 - Yami no Tobira (Japan) (2M).cue" size="681" sha1="d9350b2075c90189d5eb9ad24b61dc28c1a0ebd9" crc="c27bcc80" />
   </game>
 </datafile>

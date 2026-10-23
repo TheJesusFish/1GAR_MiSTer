@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>GBA</name>
-    <version>2026-10-17</version>
+    <version>2026-10-23</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/007 - Everything or Nothing">
@@ -8675,5 +8675,11 @@
     <rom name="Card e-Reader (Japan).gba" size="4194304" sha1="5cf045a083bf7c86a197a7f19caf7153f3e227f4" crc="a4ef4e95" />
     <rom name="Card e-Reader+ (Japan).gba" size="8388608" sha1="2af41785dd72c664e8a1c0f1e1ce0edcd105dd5e" crc="4139e7c3" />
     <rom name="e-Reader (USA).gba" size="8388608" sha1="4b7005e81ee9ffee333b3f6095c3611800b56588" crc="8b27cd67" />
+  </game>
+  <game name="01 - Games/Dungeon Durban">
+    <rom name="Dungeon Durban (World) (v1.0.1) (Aftermarket) (Unl).gba" size="3377424" sha1="25d1f4978524c9cecda222e23bf3fdd8e295814d" crc="9c5d3395" />
+  </game>
+  <game name="01 - Games/Gambit Advance">
+    <rom name="Gambit Advance (World) (v1.1) (Aftermarket) (Unl).gba" size="2077496" sha1="b7f4b329b2afdf86ff2069ffe97b06cb249e7c58" crc="f4942faa" />
   </game>
 </datafile>

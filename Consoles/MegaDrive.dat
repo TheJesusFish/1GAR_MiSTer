@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>MegaDrive</name>
-    <version>2026-10-17</version>
+    <version>2026-10-23</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/10 Super Jogos">
@@ -5430,8 +5430,6 @@
     <rom name="Landstalker (USA) (Mega Drive Mini, Genesis Mini).md" size="2097152" sha1="492f27fa2c4f653ab23f6fcc049bf670a205ff4c" crc="f2d14a6a" />
     <rom name="Landstalker (USA) (Sega Channel).md" size="2097152" sha1="3461ddfcb7965f8476f556298575e32a249dcc83" crc="8866fb16" />
     <rom name="Landstalker (USA).md" size="2097152" sha1="24345e29427b000b90df778965dd8834300a9dde" crc="fbbb5b97" />
-    <rom name="Landstalker - Die Schatze von Konig Nolo (Germany) (Mega Drive Mini, Genesis Mini).md" size="2097152" sha1="1f4e6b414da8e7348a942452f95b8468b2e39b31" crc="fc64bb8c" />
-    <rom name="Landstalker - Die Schatze von Konig Nolo (Germany).md" size="2097152" sha1="b0b447158cabb562e6bf4c0b829ed938b34afb52" crc="10fedb8f" />
     <rom name="Landstalker - Koutei no Zaihou (Japan) (Mega Drive Mini, Genesis Mini).md" size="2097152" sha1="6aca4adeeca0bb1b97bc7e1c2b48d432feb35267" crc="b0afa45a" />
     <rom name="Landstalker - Koutei no Zaihou (Japan).md" size="2097152" sha1="cdbc7cd9ceb181cad9e49b641ff717072546f0d9" crc="60d4cedb" />
     <rom name="Landstalker - Le Tresor du Roi Nole (France) (Mega Drive Mini, Genesis Mini).md" size="2097152" sha1="ca034cc0e0fa2cbcef8bbe2bd0e066a719ac158f" crc="365d282a" />
@@ -5439,6 +5437,8 @@
     <rom name="Landstalker - The Treasures of King Nole (Europe) (Mega Drive Mini, Genesis Mini).md" size="2097152" sha1="3717be2ce3015ba3fb79f57ddafa69201615df63" crc="1ec0ec97" />
     <rom name="Landstalker - The Treasures of King Nole (Europe) (SEGA Classic Collection).md" size="2097152" sha1="74ebc2988d251313e15b984da032f93014292965" crc="b816446e" />
     <rom name="Landstalker - The Treasures of King Nole (Europe).md" size="2097152" sha1="9fbadc86319936855831ecd096d82d716b304215" crc="e3c65277" />
+    <rom name="Landstalker - Die Schaetze von Koenig Nolo (Germany) (Mega Drive Mini, Genesis Mini).md" size="2097152" sha1="1f4e6b414da8e7348a942452f95b8468b2e39b31" crc="fc64bb8c" />
+    <rom name="Landstalker - Die Schaetze von Koenig Nolo (Germany).md" size="2097152" sha1="b0b447158cabb562e6bf4c0b829ed938b34afb52" crc="10fedb8f" />
   </game>
   <game name="01 - Games/Landstalker/~Prototypes and Betas">
     <rom name="Landstalker (USA) (Beta).md" size="2097152" sha1="dfca19397479852584d4ac6fcbe27412f9bc1af0" crc="70483d03" />
