@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>Gameboy</name>
-    <version>2026-10-17</version>
+    <version>2026-10-26</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/10-Pin Bowling/~Prototypes and Betas">
@@ -290,6 +290,12 @@
   <game name="01 - Games/Athletic World">
     <rom name="Athletic World (World) (SGB Enhanced) (Aftermarket) (Unl).gb" size="131072" sha1="331592aec1098e4d960b344f931318464a567c4e" crc="ebd61ae9" />
   </game>
+  <game name="01 - Games/Atomic Punk">
+    <rom name="Atomic Punk (USA).gb" size="131072" sha1="4b364b4c12b83ab7adbec074fac951e2eb63dea8" crc="c4720897" />
+    <rom name="Bomber Boy (Japan) (En).gb" size="131072" sha1="a9baddfb693f20057b17c084422d7bfac590f2ba" crc="ef9595ac" />
+    <rom name="Dynablaster (Europe).gb" size="131072" sha1="3c284831353be165e20b56f3728b0421eaea274a" crc="9677d157" />
+    <rom name="Mani 4 in 1 - Takahashi Meijin no Bouken-jima II + GB Genjin + Bomber Boy + Milon no Meikyuu Kumikyoku (China) (Ja).gb" size="1048576" sha1="af4706da224d794668f3b2c68aea7b3c16452d83" crc="950773ee" />
+  </game>
   <game name="01 - Games/Attack of the Killer Tomatoes">
     <rom name="Attack of the Killer Tomatoes (Japan).gb" size="131072" sha1="96cd454513dfb363cda20bf0e72c6d74132a9487" crc="23068679" />
     <rom name="Attack of the Killer Tomatoes (USA, Europe).gb" size="131072" sha1="cbbba5d4f80f2b4ab3e882ceb4f79c293a17904f" crc="b5b38860" />
@@ -305,23 +311,6 @@
   </game>
   <game name="01 - Games/Ayakashi no Shiro">
     <rom name="Ayakashi no Shiro (Japan).gb" size="65536" sha1="dad3ec1a054cbd092eedfdb1d742b811c105181a" crc="da90f5fc" />
-  </game>
-  <game name="01 - Games/Bonk's Revenge">
-    <rom name="B.C. Kid 2 (Europe) (SGB Enhanced).gb" size="262144" sha1="952a14298dcde28975f2cdd61f781000afb53125" crc="c28ef062" />
-    <rom name="Bonk's Revenge (USA) (SGB Enhanced).gb" size="262144" sha1="8d1b81e456b271ad8f49a2c6efc9ca2504a24591" crc="f1344b78" />
-    <rom name="GB Genjin 2 (Japan) (SGB Enhanced).gb" size="262144" sha1="82c1e3dd8b425fb49a1d1c25813002b23963a84a" crc="6f7ad5d9" />
-  </game>
-  <game name="01 - Games/Bonk's Revenge/~Prototypes and Betas">
-    <rom name="B.C. Kid 2 (Europe) (Beta) (SGB Enhanced).gb" size="262144" sha1="dc70ba06fb2690c1b7e66963cc07da704f7a6d26" crc="11ffc359" />
-  </game>
-  <game name="01 - Games/Bonk's Adventure">
-    <rom name="B.C. Kid (Europe).gb" size="262144" sha1="b91f99408e4a6b69d505f304c176434321f837e7" crc="373343e6" />
-    <rom name="Bonk's Adventure (USA).gb" size="262144" sha1="e27d941af0a006c4f5ffd03914265146aa140e2c" crc="a7cdbb96" />
-    <rom name="GB Genjin (Japan).gb" size="262144" sha1="c2e98c76e49155e7b9815e0c33ae6cf71daaee2c" crc="690227f6" />
-    <rom name="Mani 4 in 1 - Takahashi Meijin no Bouken-jima II + GB Genjin + Bomber Boy + Milon no Meikyuu Kumikyoku (China) (Ja).gb" size="1048576" sha1="af4706da224d794668f3b2c68aea7b3c16452d83" crc="950773ee" />
-  </game>
-  <game name="01 - Games/Bonk's Adventure/~Prototypes and Betas">
-    <rom name="Bonk's Adventure (USA) (Beta).gb" size="262144" sha1="a26006158d90a61d22abf130f05297fd09a09b7c" crc="8d706dbc" />
   </game>
   <game name="01 - Games/Baby's Day Out/~Prototypes and Betas">
     <rom name="Baby's Day Out (USA) (Proto).gb" size="262144" sha1="d06b433a5d355490ebae150a45c47b0c5bce9087" crc="343f01ce" />
@@ -611,6 +600,23 @@
   <game name="01 - Games/Bonesy aka Farewell">
     <rom name="Bonesy aka Farewell (World) (Aftermarket) (Unl).gb" size="1048576" sha1="77b15c2e57ea9972952097ddaf6ac9102323f494" crc="a12bcd2e" />
   </game>
+  <game name="01 - Games/Bonk's Adventure">
+    <rom name="B.C. Kid (Europe).gb" size="262144" sha1="b91f99408e4a6b69d505f304c176434321f837e7" crc="373343e6" />
+    <rom name="Bonk's Adventure (USA).gb" size="262144" sha1="e27d941af0a006c4f5ffd03914265146aa140e2c" crc="a7cdbb96" />
+    <rom name="GB Genjin (Japan).gb" size="262144" sha1="c2e98c76e49155e7b9815e0c33ae6cf71daaee2c" crc="690227f6" />
+    <rom name="Mani 4 in 1 - Takahashi Meijin no Bouken-jima II + GB Genjin + Bomber Boy + Milon no Meikyuu Kumikyoku (China) (Ja).gb" size="1048576" sha1="af4706da224d794668f3b2c68aea7b3c16452d83" crc="950773ee" />
+  </game>
+  <game name="01 - Games/Bonk's Adventure/~Prototypes and Betas">
+    <rom name="Bonk's Adventure (USA) (Beta).gb" size="262144" sha1="a26006158d90a61d22abf130f05297fd09a09b7c" crc="8d706dbc" />
+  </game>
+  <game name="01 - Games/Bonk's Revenge">
+    <rom name="B.C. Kid 2 (Europe) (SGB Enhanced).gb" size="262144" sha1="952a14298dcde28975f2cdd61f781000afb53125" crc="c28ef062" />
+    <rom name="Bonk's Revenge (USA) (SGB Enhanced).gb" size="262144" sha1="8d1b81e456b271ad8f49a2c6efc9ca2504a24591" crc="f1344b78" />
+    <rom name="GB Genjin 2 (Japan) (SGB Enhanced).gb" size="262144" sha1="82c1e3dd8b425fb49a1d1c25813002b23963a84a" crc="6f7ad5d9" />
+  </game>
+  <game name="01 - Games/Bonk's Revenge/~Prototypes and Betas">
+    <rom name="B.C. Kid 2 (Europe) (Beta) (SGB Enhanced).gb" size="262144" sha1="dc70ba06fb2690c1b7e66963cc07da704f7a6d26" crc="11ffc359" />
+  </game>
   <game name="01 - Games/Booby Boys">
     <rom name="Booby Boys (Japan).gb" size="262144" sha1="61fe27a4ce83bc6d9dba5d4d0652e83dbec45e6e" crc="ec83c0b6" />
   </game>
@@ -715,6 +721,11 @@
     <rom name="Bugs Bunny Collection (Japan) (Rev 1) (SGB Enhanced).gb" size="262144" sha1="9d69d72b7de0377cb0439aa301b1fb82d3ce786a" crc="8244220b" />
     <rom name="Bugs Bunny Collection (Japan) (SGB Enhanced).gb" size="262144" sha1="4f1f56b06364272033372230cfe0819cb3e25b50" crc="d2dbea8f" />
   </game>
+  <game name="01 - Games/Bugs Bunny Crazy Castle 2, The">
+    <rom name="Bugs Bunny Crazy Castle 2, The (USA).gb" size="131072" sha1="1e4c8c8fe8b6c34f76cd0da876442f14299da725" crc="a973e604" />
+    <rom name="Mickey Mouse (Europe).gb" size="131072" sha1="b8e708dfe7496c712bd3ef171429d81cb6619252" crc="fc50dee7" />
+    <rom name="Mickey Mouse II (Japan) (En).gb" size="131072" sha1="2d44566d2d74f573d2faf23988a3070abb47555d" crc="dfee8bcc" />
+  </game>
   <game name="01 - Games/Bugs Bunny Crazy Castle, The">
     <rom name="Bugs Bunny Crazy Castle, The (USA, Europe).gb" size="65536" sha1="2a3e982e542a849f95b4497025ca5b04db2abe8c" crc="403e1b7e" />
     <rom name="Mickey Mouse (Japan) (En).gb" size="65536" sha1="a5e526b47e9295c7cbea21a84bef2c1658e6f87e" crc="4ca75d4d" />
@@ -738,6 +749,13 @@
   </game>
   <game name="01 - Games/Bust-A-Move 3 DX">
     <rom name="Bust-A-Move 3 DX (Europe).gb" size="131072" sha1="e89dc67087205c4113a4d152347eba38204e270b" crc="e555c612" />
+  </game>
+  <game name="01 - Games/Buster Bros.">
+    <rom name="Buster Bros. (USA).gb" size="131072" sha1="0d1692ff60ef1f6a97bbfd2bf8c1548f1f7439ed" crc="b4245ca3" />
+    <rom name="Pang (Europe).gb" size="131072" sha1="7ca64a45ea6a68770658ae39ef21c41f806988c5" crc="ea9615b4" />
+  </game>
+  <game name="01 - Games/Buster Bros./~Prototypes and Betas">
+    <rom name="Pang (Europe) (Beta).gb" size="131072" sha1="b57d436d8a83f2fb1e42bad3150893ef8ffab0d4" crc="54d2754a" />
   </game>
   <game name="01 - Games/Busty Bunny the Bounty Babe">
     <rom name="Busty Bunny the Bounty Babe (World) (v1.02) (Aftermarket) (Unl).gb" size="1048576" sha1="a1cbaacdf32cb8fb9a9c59fcb624c729e0ca17bf" crc="d0ed199c" />
@@ -987,6 +1005,18 @@
   <game name="01 - Games/Conefuse">
     <rom name="Conefuse (World) (Aftermarket) (Unl).gb" size="1048576" sha1="c6aee5677eef50ab4123442a9a6ad191554e425a" crc="f4f55d48" />
     <rom name="Conefuse (World) (Rev 1) (Aftermarket) (Unl).gb" size="1048576" sha1="fbf0cfce434c26c0b783cfce332ec9966cc32609" crc="75f4b99e" />
+  </game>
+  <game name="01 - Games/Contra - The Alien Wars">
+    <rom name="Contra - The Alien Wars (USA) (SGB Enhanced).gb" size="131072" sha1="2e23477eb8738d7fb45e13b02f054422222c9c4f" crc="f1c81eb0" />
+    <rom name="Contra Spirits (Japan) (SGB Enhanced).gb" size="131072" sha1="72213c5d8af05cad5f17a42566f7383066612eee" crc="7fc22df5" />
+    <rom name="Probotector 2 (Europe) (SGB Enhanced).gb" size="131072" sha1="d3eafed6727afd14bd30ffc31e2d3e4ee6cfc52e" crc="b5090e43" />
+  </game>
+  <game name="01 - Games/Contra - The Alien Wars/~Prototypes and Betas">
+    <rom name="Probotector 2 (Europe) (Beta) (SGB Enhanced).gb" size="131072" sha1="8f060253ea228c43d2992458dbf904a0b0d7b01e" crc="7d60c005" />
+  </game>
+  <game name="01 - Games/Cool Ball">
+    <rom name="Cool Ball (USA).gb" size="32768" sha1="f1932d4a3f063c5395e8558a63c64e5840789ce6" crc="e045b886" />
+    <rom name="Pop Up (Europe).gb" size="32768" sha1="80094c524c8c9dd01d1402692837b4bc9701350f" crc="7f545b40" />
   </game>
   <game name="01 - Games/Cool Hand">
     <rom name="Cool Hand (Europe) (Fr,De).gb" size="262144" sha1="b26441e13b9dc806b182999ff8784cef46961010" crc="a2f01695" />
@@ -1327,6 +1357,11 @@
     <rom name="Double Dragon (USA, Europe).gb" size="131072" sha1="6565a3d89827717d8e5d2e041c743266ba14b412" crc="40a8bf12" />
     <rom name="Double Dragon (World) (Evercade).gb" size="131072" sha1="5276714936edb5d536e6272ce0061a9d0c87976a" crc="8ae3f5ed" />
   </game>
+  <game name="01 - Games/Double Dribble - 5 on 5">
+    <rom name="Double Dribble - 5 on 5 (USA).gb" size="131072" sha1="d0f18c97b48dd8b355d195d2ddaeee910c5fc2b1" crc="ee28749d" />
+    <rom name="Hyper Dunk (Europe).gb" size="131072" sha1="6aca47dd2d9c57999a566903292af2601c832c9c" crc="02d09ce3" />
+    <rom name="Konamic Basket (Japan).gb" size="131072" sha1="10372339db6d65210f7d04591d92c1889cef5133" crc="8e367457" />
+  </game>
   <game name="01 - Games/Double Yakuman II">
     <rom name="Double Yakuman II (Japan).gb" size="131072" sha1="7f6ed21bf0cce0d524dcbce56af5cab61c85d729" crc="a3d77a55" />
   </game>
@@ -1437,12 +1472,6 @@
   <game name="01 - Games/Dungeon Warrior/~Prototypes and Betas">
     <rom name="Dungeon Warrior (Europe) (Proto).gb" size="65536" sha1="21a6fba83faa7649fbb2e75176649bcd7d846d25" crc="2910429c" />
   </game>
-  <game name="01 - Games/Atomic Punk">
-    <rom name="Atomic Punk (USA).gb" size="131072" sha1="4b364b4c12b83ab7adbec074fac951e2eb63dea8" crc="c4720897" />
-    <rom name="Bomber Boy (Japan) (En).gb" size="131072" sha1="a9baddfb693f20057b17c084422d7bfac590f2ba" crc="ef9595ac" />
-    <rom name="Dynablaster (Europe).gb" size="131072" sha1="3c284831353be165e20b56f3728b0421eaea274a" crc="9677d157" />
-    <rom name="Mani 4 in 1 - Takahashi Meijin no Bouken-jima II + GB Genjin + Bomber Boy + Milon no Meikyuu Kumikyoku (China) (Ja).gb" size="1048576" sha1="af4706da224d794668f3b2c68aea7b3c16452d83" crc="950773ee" />
-  </game>
   <game name="01 - Games/Earthworm Jim">
     <rom name="Earthworm Jim (Europe).gb" size="262144" sha1="4249abe39285b02ccb0e739b5a2cf96ace1281ff" crc="b1a7a008" />
     <rom name="Earthworm Jim (USA).gb" size="262144" sha1="f5d3085de17a5181c07739e49be7637faa5ff932" crc="259ff267" />
@@ -1461,6 +1490,14 @@
     <rom name="Elevator Action (Japan) (En).gb" size="65536" sha1="16dbf00df012c1216d9d4abec9abcd5512d053a3" crc="bead8ae4" />
     <rom name="Elevator Action (USA, Europe).gb" size="65536" sha1="c0c9de672a31f314e98392160fc343cf46ee98b9" crc="b749a927" />
     <rom name="Mani 4 in 1 - Bubble Bobble + Elevator Action + Chase H.Q. + Sagaia (China) (En).gb" size="524288" sha1="c0639d6c993690022200f2fa4b3094249b9335c0" crc="5bfc3ef5" />
+  </game>
+  <game name="01 - Games/Elite Soccer">
+    <rom name="Elite Soccer (USA) (SGB Enhanced).gb" size="131072" sha1="4576881ea25e29ebba91c49c89f8e70e105fbc60" crc="f54158a6" />
+    <rom name="Soccer (Europe, Australia) (En,Fr,De) (SGB Enhanced).gb" size="131072" sha1="355fb7f220a0ba470011220282a59e707f168e1a" crc="c36b199b" />
+    <rom name="World Cup Striker (Japan) (En).gb" size="131072" sha1="9cf86669d784a724eeb3409df732ce84afd38942" crc="fdefa88d" />
+  </game>
+  <game name="01 - Games/Elite Soccer/~Prototypes and Betas">
+    <rom name="World Cup Striker (Europe) (En,Fr,De) (Possible Proto).gb" size="131072" sha1="4c976fc98a85089cfae7e7af7de6baef31e39f92" crc="40418964" />
   </game>
   <game name="01 - Games/Escape 2042 - The Truth Defenders">
     <rom name="Escape 2042 - Les Defenseurs de la Verite (World) (Fr) (Aftermarket) (Unl).gb" size="32768" sha1="822566bcf93bc37f19b7318eb803ec4cf581f9ef" crc="40fd22c4" />
@@ -1549,6 +1586,18 @@
   <game name="01 - Games/Fighting Simulator 2 in 1 - Flying Warriors">
     <rom name="Fighting Simulator 2 in 1 - Flying Warriors (USA, Europe).gb" size="131072" sha1="9073276d8adf1e59829ae48073b42ae19c9770ce" crc="52678ae8" />
     <rom name="Hiryuu no Ken Gaiden (Japan).gb" size="131072" sha1="fb4133f25fa0b9eea75f2ec69b786fe2d20d537e" crc="8ee95e0b" />
+  </game>
+  <game name="01 - Games/Final Fantasy Adventure">
+    <rom name="Final Fantasy Adventure (USA).gb" size="262144" sha1="8b93c55ee2660c60cf86dd70058f96ace98782c8" crc="18c78b3a" />
+    <rom name="Final Fantasy Adventure (World) (Collection of Mana).gb" size="262144" sha1="bd8369977cfbbaf3cc57f6268b564d6b11c27d45" crc="8e5e5097" />
+    <rom name="Mystic Quest (Europe).gb" size="262144" sha1="3513310426c6ae88f9beb588f71c666e003273be" crc="57d95c92" />
+    <rom name="Mystic Quest (France).gb" size="262144" sha1="b52d82248849f1ead9bf22954b3cbf7bf8e02907" crc="b6e134af" />
+    <rom name="Mystic Quest (Germany).gb" size="262144" sha1="7cb65cb314e3f26b92549ddc7f4fc275186c6170" crc="0351b9a6" />
+    <rom name="Mystic Quest (World) (Collection of Mana).gb" size="262144" sha1="293cb213992a367fd452c8c32a9839a2b3275862" crc="d4e57574" />
+    <rom name="Mystic Quest (World) (De) (Collection of Mana).gb" size="262144" sha1="69235c3494ea650db3b66d6393264f03f0022194" crc="a9d7e152" />
+    <rom name="Mystic Quest (World) (Fr) (Collection of Mana).gb" size="262144" sha1="d6265d74e0380a1656ad9b14971d5040c4cc20c5" crc="c3373a18" />
+    <rom name="Seiken Densetsu - Final Fantasy Gaiden (Japan) (Seiken Densetsu Collection).gb" size="262144" sha1="12b9cb8d182d4f5ffa154d360fffc8c7a516d82b" crc="68985353" />
+    <rom name="Seiken Densetsu - Final Fantasy Gaiden (Japan).gb" size="262144" sha1="998a5e6df52dff24ae686e287eed06f125940194" crc="d771c1b6" />
   </game>
   <game name="01 - Games/Final Fantasy Legend II">
     <rom name="Final Fantasy Legend II (USA).gb" size="262144" sha1="6ab6890e8f688bcd87e97886a1748a4d9d341909" crc="58314182" />
@@ -1843,14 +1892,6 @@
     <rom name="Ganso!! Yancha Maru (Japan).gb" size="65536" sha1="76be351eac00749553c942b6f8002e65d8a35986" crc="004443e6" />
     <rom name="Mani 4 in 1 - R-Type II + Saigo no Nindou + Ganso!! Yancha Maru + Shisenshou - Match-Mania (China) (Ja).gb" size="524288" sha1="1c79eb31a6754b4e96d33a182d36833208dc7177" crc="cb48b6d0" />
   </game>
-  <game name="01 - Games/Real Ghostbusters, The">
-    <rom name="Garfield Labyrinth (Europe).gb" size="131072" sha1="87913e557dfb98c5f2a0f42ea074c36eca57a4f7" crc="51b8626d" />
-    <rom name="Mickey Mouse IV - Mahou no Labyrinth (Japan) (En).gb" size="131072" sha1="d091d67890103ca97caf2c46d6bf4e2a85c92383" crc="0d30b3a1" />
-    <rom name="Real Ghostbusters, The (USA).gb" size="131072" sha1="f470bf48b02e95b7f2c0d82b5c676bd298ab6d52" crc="e1592b83" />
-  </game>
-  <game name="01 - Games/Real Ghostbusters, The/~Prototypes and Betas">
-    <rom name="Garfield Labyrinth (Europe) (Beta).gb" size="131072" sha1="c9170113c3370523cf5d13132ed3e2253a3f9dde" crc="06884616" />
-  </game>
   <game name="01 - Games/Gargoyle's Quest">
     <rom name="Gargoyle's Quest (Europe) (Rev 1).gb" size="131072" sha1="21fbe39014ffed80d0de2092517522d3cb9b03f9" crc="b86ef7a5" />
     <rom name="Gargoyle's Quest (USA, Europe).gb" size="131072" sha1="1da5834cd7cea711195cd8581614c5022da768b7" crc="0030e61f" />
@@ -1965,10 +2006,6 @@
   <game name="01 - Games/Golden Rays of Sunshine">
     <rom name="Golden Rays of Sunshine (World) (Aftermarket) (Unl).gb" size="1048576" sha1="5775c9b517ac17212d83a8b48c3ab9382e002bb8" crc="d1384f61" />
   </game>
-  <game name="01 - Games/Sports Illustrated - Golf Classic">
-    <rom name="Golf Classic (Europe) (SGB Enhanced).gb" size="262144" sha1="b7ffb77a5061c33b0bbe5b074c1526e46c5eb7c3" crc="a6dadb1e" />
-    <rom name="Sports Illustrated - Golf Classic (USA) (SGB Enhanced).gb" size="262144" sha1="39761cfedcfe4e5cf161f58a91f5fd364fc3ddb9" crc="87b306b4" />
-  </game>
   <game name="01 - Games/Golf">
     <rom name="Golf (World).gb" size="131072" sha1="2acee1a14ba611e73b0b7d6bce170107213fcc0c" crc="6ed10383" />
   </game>
@@ -2082,6 +2119,11 @@
   </game>
   <game name="01 - Games/Goukaku Boy Series - Z-Kai Reibun de Oboeru - Kyuukyoku no Kobun Tango">
     <rom name="Goukaku Boy Series - Z-Kai Reibun de Oboeru - Kyuukyoku no Kobun Tango (Japan).gb" size="262144" sha1="e105f4d680fbf0621997aa2f9ce05cb0651a9ee9" crc="99062c13" />
+  </game>
+  <game name="01 - Games/Gradius - The Interstellar Assault">
+    <rom name="Gradius - The Interstellar Assault (USA).gb" size="262144" sha1="7a50fdf0b8ad15556c933df0657fae0a2cd8bc92" crc="90f87d57" />
+    <rom name="Nemesis II (Japan) (En).gb" size="262144" sha1="f2797d5fa272cecc8ce89f6326a29cad332f72d1" crc="ac5b062d" />
+    <rom name="Nemesis II - The Return of the Hero (Europe).gb" size="262144" sha1="ee59da08c23102ab99a28c5da9ceaf222e7fb461" crc="c3e62a35" />
   </game>
   <game name="01 - Games/Grander Musashi RV">
     <rom name="Grander Musashi RV (Japan) (SGB Enhanced).gb" size="524288" sha1="d6fc45fd02e3d7c885c0e0244dc3c8073fb64ff4" crc="e97f2e9a" />
@@ -2260,11 +2302,6 @@
   <game name="01 - Games/Hyper Black Bass '95">
     <rom name="Hyper Black Bass '95 (Japan) (En,Ja).gb" size="262144" sha1="bea9133cdbe8d96ee753a4f55cf5fa7bb80ff490" crc="32a81a49" />
   </game>
-  <game name="01 - Games/Double Dribble - 5 on 5">
-    <rom name="Double Dribble - 5 on 5 (USA).gb" size="131072" sha1="d0f18c97b48dd8b355d195d2ddaeee910c5fc2b1" crc="ee28749d" />
-    <rom name="Hyper Dunk (Europe).gb" size="131072" sha1="6aca47dd2d9c57999a566903292af2601c832c9c" crc="02d09ce3" />
-    <rom name="Konamic Basket (Japan).gb" size="131072" sha1="10372339db6d65210f7d04591d92c1889cef5133" crc="8e367457" />
-  </game>
   <game name="01 - Games/Hyper Lode Runner">
     <rom name="Hyper Lode Runner (World) (Rev 1).gb" size="32768" sha1="261da795c7b4155f1b8083acc55da78699c8a0de" crc="b3a86164" />
   </game>
@@ -2417,6 +2454,9 @@
   </game>
   <game name="01 - Games/Jetsons, The - Robot Panic/~Prototypes and Betas">
     <rom name="Jetsons, The - Robot Panic (Japan) (Proto).gb" size="131072" sha1="6035ee9364413b9eac7eb2290a806ffb57dc25cc" crc="d016d141" />
+  </game>
+  <game name="01 - Games/Jett Rider Mini H.E.R.O.">
+    <rom name="Jett Rider Mini H.E.R.O. (World) (Aftermarket) (Unl).gb" size="1048576" sha1="7a102a027f0e7f5d030b62a9035667ea471fed4d" crc="5a281421" />
   </game>
   <game name="01 - Games/Jikuu Senki Mu">
     <rom name="Jikuu Senki Mu (Japan).gb" size="262144" sha1="799790fdf14c6202a44e5c9a18023fa4245243b8" crc="435c4697" />
@@ -2589,10 +2629,9 @@
   <game name="01 - Games/King of Fighters, The - Heat of Battle/~Translations">
     <rom name="Nettou The King of Fighters '96 (Japan) (SGB Enhanced) [T-En by Vice Translations v0.30] [i].gb" size="524288" sha1="d0e731c56d5f0d4cc29563256ba2a6737912b371" crc="39d74852" />
   </game>
-  <game name="01 - Games/Penguin Wars">
-    <rom name="King of the Zoo (Europe).gb" size="65536" sha1="683fcb45cf98f8d84c221ffb180b06bf81c1cf74" crc="d2d648c4" />
-    <rom name="Penguin Wars (USA).gb" size="65536" sha1="2c00f5678d55dcb865b596fcb1dbecd2c9213988" crc="eecff7f3" />
-    <rom name="Penguin-kun Wars VS. (Japan).gb" size="65536" sha1="f19e870e95c03288b019ef6bac3966bf74dd48fb" crc="c169606d" />
+  <game name="01 - Games/Kingdom Crusade">
+    <rom name="Kingdom Crusade (USA).gb" size="131072" sha1="ceca61f9ee1e549ca5b70bf620159cf2c2290423" crc="920202dc" />
+    <rom name="Legend of Prince Valiant, The (Europe) (En,Fr,De).gb" size="131072" sha1="d56b59ad9e483f6912e8e5869c43e1771cf167c2" crc="179c494e" />
   </game>
   <game name="01 - Games/Kingyo Chuuihou! - Wapiko no Wakuwaku Stamp Rally!">
     <rom name="Kingyo Chuuihou! - Wapiko no Wakuwaku Stamp Rally! (Japan).gb" size="131072" sha1="baf5c1019c9a3752543036dca0925d370aa20d45" crc="e69a6f0a" />
@@ -2671,14 +2710,6 @@
   </game>
   <game name="01 - Games/Konami GB Collection Vol.4">
     <rom name="Konami GB Collection Vol.4 (Japan) (SGB Enhanced).gb" size="524288" sha1="c33ba418386b34b466b5dd28159ea76ca2db12f8" crc="3a43ea33" />
-  </game>
-  <game name="01 - Games/Ultra Golf">
-    <rom name="Konami Golf (Europe).gb" size="131072" sha1="59d13714f8477db50cf164254480dd25959ecd23" crc="0fdc9fb1" />
-    <rom name="Konamic Golf (Japan) (En).gb" size="131072" sha1="78d014f8feb88cc8b509172c1a6fa48aa5eed67c" crc="c16d4db2" />
-    <rom name="Ultra Golf (USA).gb" size="131072" sha1="a20c0a995a91b20646564965705fad129474e9bf" crc="12de9bac" />
-  </game>
-  <game name="01 - Games/Ultra Golf/~Prototypes and Betas">
-    <rom name="Ultra Golf (USA) (Beta) (1991-11-20).gb" size="131072" sha1="b29e5da6f794a010d858f4398da85145f20d8c55" crc="d9ddb091" />
   </game>
   <game name="01 - Games/Konchuu Hakase">
     <rom name="Konchuu Hakase (Japan) (Rev 1) (SGB Enhanced).gb" size="524288" sha1="3e8e47b36a2171ad93d0e21fe5c22feff17c6d88" crc="05753790" />
@@ -2762,10 +2793,6 @@
   </game>
   <game name="01 - Games/Legend - Ashita e no Tsubasa">
     <rom name="Legend - Ashita e no Tsubasa (Japan).gb" size="131072" sha1="7447b3faa1d15e80815cdace3c6c0691bc28aa90" crc="fc20ebf0" />
-  </game>
-  <game name="01 - Games/Kingdom Crusade">
-    <rom name="Kingdom Crusade (USA).gb" size="131072" sha1="ceca61f9ee1e549ca5b70bf620159cf2c2290423" crc="920202dc" />
-    <rom name="Legend of Prince Valiant, The (Europe) (En,Fr,De).gb" size="131072" sha1="d56b59ad9e483f6912e8e5869c43e1771cf167c2" crc="179c494e" />
   </game>
   <game name="01 - Games/Legend of Zelda, The - Link's Awakening DX/~Prototypes and Betas">
     <rom name="Legend of Zelda, The - Link's Awakening DX (France) (Proto) (1998-11-17).gb" size="524288" sha1="3d48bcec56bf202d3362ba3e5e20233f996492c5" crc="bfa800c0" />
@@ -3015,11 +3042,6 @@
   <game name="01 - Games/Marble Madness">
     <rom name="Marble Madness (USA, Europe).gb" size="262144" sha1="bf2a73f7adf200410038350c2c754a943d841681" crc="b9725e66" />
   </game>
-  <game name="01 - Games/Yoshi">
-    <rom name="Mario &amp; Yoshi (Europe).gb" size="65536" sha1="9bf642eabdb51625d1ef1ac470666ec8f5f10f77" crc="4627d88b" />
-    <rom name="Yoshi (USA).gb" size="65536" sha1="1b6e41c2270ce67e6fe15cc4977ef2debdd6e6ce" crc="f2f4bcca" />
-    <rom name="Yoshi no Tamago (Japan).gb" size="65536" sha1="5cb61dee0eb3f9d35775a607803d06c8cebcb842" crc="9b6fcc76" />
-  </game>
   <game name="01 - Games/Mario's Picross">
     <rom name="Mario no Picross (Japan) (SGB Enhanced).gb" size="262144" sha1="6b72cbff3e224299eff6f79e0110a477b8f840c2" crc="17533700" />
     <rom name="Mario's Picross (USA, Europe) (SGB Enhanced).gb" size="262144" sha1="9712f37171b8a0cdc99a60170ea7b2aed161195e" crc="f2d652ad" />
@@ -3072,11 +3094,6 @@
   <game name="01 - Games/Max">
     <rom name="Max (Europe).gb" size="65536" sha1="1f995332ae8a8832c178b22505d05080bf978aa8" crc="1b167f00" />
     <rom name="Rubble Saver II (Japan) (En).gb" size="65536" sha1="49a07665695018b29def2cf3f843e10b88889775" crc="92c95f2d" />
-  </game>
-  <game name="01 - Games/Spot - The Cool Adventure">
-    <rom name="McDonaldland (Europe).gb" size="131072" sha1="fd11d61f961a7e3c69e272ef19eb243b7df89833" crc="81de6c13" />
-    <rom name="Spot - Cool Adventure (Japan) (En).gb" size="131072" sha1="075512a3af4bc7c2da2d51d84df2d04c81b2a8ad" crc="552a53b9" />
-    <rom name="Spot - The Cool Adventure (USA).gb" size="131072" sha1="bcc923e6e73efe7e865625bb6ecf2ef08e380826" crc="76f67428" />
   </game>
   <game name="01 - Games/Medarot - Kabuto Version">
     <rom name="Medarot - Kabuto Version (Japan) (Rev 1) (SGB Enhanced).gb" size="524288" sha1="1cbc7ab5941dc27bc50699a00ef2b1beb930449d" crc="12a3982d" />
@@ -3193,11 +3210,6 @@
     <rom name="Mickey Mouse - Magic Wands! (USA, Europe) (SGB Enhanced).gb" size="131072" sha1="90a181ee7d42941bce3b425077d6570da0e2fb2c" crc="f0482567" />
     <rom name="Mickey Mouse V (Japan) (Rev 1).gb" size="131072" sha1="095285ec078124e3a4cbbfa3ac0d7680ee491e2b" crc="464eaa5d" />
     <rom name="Mickey Mouse V (Japan).gb" size="131072" sha1="b8537bef22696feadf51343b6e1697370c4a8d5a" crc="44cd01dd" />
-  </game>
-  <game name="01 - Games/Bugs Bunny Crazy Castle 2, The">
-    <rom name="Bugs Bunny Crazy Castle 2, The (USA).gb" size="131072" sha1="1e4c8c8fe8b6c34f76cd0da876442f14299da725" crc="a973e604" />
-    <rom name="Mickey Mouse (Europe).gb" size="131072" sha1="b8e708dfe7496c712bd3ef171429d81cb6619252" crc="fc50dee7" />
-    <rom name="Mickey Mouse II (Japan) (En).gb" size="131072" sha1="2d44566d2d74f573d2faf23988a3070abb47555d" crc="dfee8bcc" />
   </game>
   <game name="01 - Games/Mickey's Dangerous Chase">
     <rom name="Mickey's Chase (Japan).gb" size="131072" sha1="bd890e13f7518513178f324d6fc5d28bc22e5bfb" crc="0ab490c8" />
@@ -3449,18 +3461,6 @@
   <game name="01 - Games/Mystery Dungeon - Shiren the Wanderer GB - Monster of Moonlight Village/~Translations">
     <rom name="Mystery Dungeon - Shiren the Wanderer GB - Monster of Moonlight Village (Japan) (SGB Enhanced) [T-En by Giuseppe Astrologo v1.2 RC1] [n] [AI assisted].gb" size="1048576" sha1="d7baa4fc0968d823cecbb86cf7bcf840cf0a6efd" crc="1123c32a" />
   </game>
-  <game name="01 - Games/Final Fantasy Adventure">
-    <rom name="Final Fantasy Adventure (USA).gb" size="262144" sha1="8b93c55ee2660c60cf86dd70058f96ace98782c8" crc="18c78b3a" />
-    <rom name="Final Fantasy Adventure (World) (Collection of Mana).gb" size="262144" sha1="bd8369977cfbbaf3cc57f6268b564d6b11c27d45" crc="8e5e5097" />
-    <rom name="Mystic Quest (Europe).gb" size="262144" sha1="3513310426c6ae88f9beb588f71c666e003273be" crc="57d95c92" />
-    <rom name="Mystic Quest (France).gb" size="262144" sha1="b52d82248849f1ead9bf22954b3cbf7bf8e02907" crc="b6e134af" />
-    <rom name="Mystic Quest (Germany).gb" size="262144" sha1="7cb65cb314e3f26b92549ddc7f4fc275186c6170" crc="0351b9a6" />
-    <rom name="Mystic Quest (World) (Collection of Mana).gb" size="262144" sha1="293cb213992a367fd452c8c32a9839a2b3275862" crc="d4e57574" />
-    <rom name="Mystic Quest (World) (De) (Collection of Mana).gb" size="262144" sha1="69235c3494ea650db3b66d6393264f03f0022194" crc="a9d7e152" />
-    <rom name="Mystic Quest (World) (Fr) (Collection of Mana).gb" size="262144" sha1="d6265d74e0380a1656ad9b14971d5040c4cc20c5" crc="c3373a18" />
-    <rom name="Seiken Densetsu - Final Fantasy Gaiden (Japan) (Seiken Densetsu Collection).gb" size="262144" sha1="12b9cb8d182d4f5ffa154d360fffc8c7a516d82b" crc="68985353" />
-    <rom name="Seiken Densetsu - Final Fantasy Gaiden (Japan).gb" size="262144" sha1="998a5e6df52dff24ae686e287eed06f125940194" crc="d771c1b6" />
-  </game>
   <game name="01 - Games/Mystical Ninja Starring Goemon">
     <rom name="Ganbare Goemon - Kurofunetou no Nazo (Japan) (SGB Enhanced).gb" size="262144" sha1="bd336346982e33270128b74a7b356e9e6824e4a6" crc="910afe24" />
     <rom name="Mystical Ninja Starring Goemon (Europe) (SGB Enhanced).gb" size="262144" sha1="6a47ec0c2a81741d93687b85f966c6bfca039770" crc="a1813cd5" />
@@ -3570,11 +3570,6 @@
   <game name="01 - Games/Nekojara Monogatari">
     <rom name="Nekojara Monogatari (Japan).gb" size="131072" sha1="f0f320b9170501c762e724e9b22d37cb4d15d0a9" crc="3d6d309b" />
   </game>
-  <game name="01 - Games/Gradius - The Interstellar Assault">
-    <rom name="Gradius - The Interstellar Assault (USA).gb" size="262144" sha1="7a50fdf0b8ad15556c933df0657fae0a2cd8bc92" crc="90f87d57" />
-    <rom name="Nemesis II (Japan) (En).gb" size="262144" sha1="f2797d5fa272cecc8ce89f6326a29cad332f72d1" crc="ac5b062d" />
-    <rom name="Nemesis II - The Return of the Hero (Europe).gb" size="262144" sha1="ee59da08c23102ab99a28c5da9ceaf222e7fb461" crc="c3e62a35" />
-  </game>
   <game name="01 - Games/Nemesis">
     <rom name="Konami GB Collection Vol.1 (Japan) (SGB Enhanced).gb" size="524288" sha1="dfb86b1b2db29a7086d60dc143374ef27b130580" crc="992cd78f" />
     <rom name="Nemesis (Europe).gb" size="131072" sha1="e95e7a476a160bc0a685112d80239a5d669fd192" crc="19930ea5" />
@@ -3626,6 +3621,11 @@
     <rom name="Ninja Boy (USA, Europe).gb" size="65536" sha1="acd93f152574a47e2bef3ba739f722bec90badef" crc="59d3e2ad" />
     <rom name="Super Chinese Land (Japan).gb" size="65536" sha1="1810b088f5cb395512a04ba6a3c47d9ab74aa8cc" crc="037d966a" />
     <rom name="Super Chinese Land 1-2-3' (Japan) (SGB Enhanced).gb" size="1048576" sha1="2c2a1c2de0c2a88bc0a73b44f04f2ca434573d68" crc="7d1d8fdc" />
+  </game>
+  <game name="01 - Games/Ninja Gaiden Shadow">
+    <rom name="Ninja Gaiden Shadow (USA).gb" size="131072" sha1="8aadd7dfb4add75d5ac5351658762e5f56e78c66" crc="d3741a3a" />
+    <rom name="Ninja Ryuuken Den - Matenrou Kessen (Japan).gb" size="131072" sha1="7200ac959877b4e4e423997d699a0e5c144f5b0b" crc="d2be3397" />
+    <rom name="Shadow Warriors (Europe).gb" size="131072" sha1="f19075aa787cce771077152f0d6c83527b9d7104" crc="bcc18e24" />
   </game>
   <game name="01 - Games/Ninja Taro">
     <rom name="Ninja Taro (USA).gb" size="131072" sha1="bd472ed88042e032a57041eb0a889da6aa3d1598" crc="c53ebfbd" />
@@ -3713,6 +3713,15 @@
   <game name="01 - Games/Onigashima Pachinkoten">
     <rom name="Onigashima Pachinkoten (Japan).gb" size="131072" sha1="ff12ed91aa5cb3216860e7c18ff523b9bcb6a76a" crc="f54ec8eb" />
   </game>
+  <game name="01 - Games/Operation C">
+    <rom name="Contra (Japan) (En).gb" size="131072" sha1="c8b34b5aba3d448e357b59cdf106ee9b134713db" crc="cde6de15" />
+    <rom name="Contra (World) (Contra Anniversary Collection).gb" size="131072" sha1="6fea1350ac04f418095cca5f157a9c770a0505bc" crc="cc67a046" />
+    <rom name="Konami GB Collection Vol.1 (Japan) (SGB Enhanced).gb" size="524288" sha1="dfb86b1b2db29a7086d60dc143374ef27b130580" crc="992cd78f" />
+    <rom name="Operation C (USA).gb" size="131072" sha1="1dc3e1c62e62f77ac633408b544ac1d02b3761eb" crc="2ebbc1ae" />
+    <rom name="Operation C (World) (Contra Anniversary Collection).gb" size="131072" sha1="bd528f1b20051502e2b4418845e0c6698e1c5b4b" crc="a7a5d9c2" />
+    <rom name="Probotector (Europe).gb" size="131072" sha1="45482a44ce0cdfa33fc58a8a8afe2d7284dfa498" crc="c9acc4f4" />
+    <rom name="Probotector (World) (Contra Anniversary Collection).gb" size="131072" sha1="bc58585f8a1b2e27712ae5d44e3d851f4535a53f" crc="1c03c0ee" />
+  </game>
   <game name="01 - Games/Opossum a la Mode">
     <rom name="Opossum a la Mode (World) (Aftermarket) (Unl).gb" size="262144" sha1="3b6fb1311313687afebc4fb51f1b4befb5f47e1e" crc="810477a9" />
   </game>
@@ -3753,6 +3762,11 @@
   <game name="01 - Games/PGA Tour 96">
     <rom name="PGA Tour 96 (USA, Europe) (SGB Enhanced).gb" size="524288" sha1="8566f5c09ccb682bbc74cadcbc9ffcc8fc349968" crc="6ff72043" />
   </game>
+  <game name="01 - Games/Pac-Attack">
+    <rom name="Pac-Attack (USA) (SGB Enhanced).gb" size="131072" sha1="3fb6907d2352b34e0e60e3ae7b1d32f3e0c84fc9" crc="94e0af9c" />
+    <rom name="Pac-Panic (Europe) (SGB Enhanced).gb" size="131072" sha1="963222935becb2139fb0133fbd9b02a1e239bbf2" crc="e4af8f75" />
+    <rom name="Pac-Panic (Japan) (En) (SGB Enhanced).gb" size="131072" sha1="64573cd6c4a26087485af540818c972cd256a881" crc="aaebd509" />
+  </game>
   <game name="01 - Games/Pac-In-Time">
     <rom name="Pac-In-Time (Europe) (Rev 1) (SGB Enhanced).gb" size="262144" sha1="f30108b8e422c4b9776c90c884710194508545ea" crc="7ff79df9" />
     <rom name="Pac-In-Time (Europe) (SGB Enhanced).gb" size="262144" sha1="63419fd7af5fe2ba2f26a6cdaad5ed9c399fe44a" crc="8690b691" />
@@ -3763,11 +3777,6 @@
     <rom name="Pac-Man (Europe).gb" size="65536" sha1="8d9fda32419ca7030ba15f67ff8f857c1a119916" crc="0509069c" />
     <rom name="Pac-Man (Japan) (En).gb" size="65536" sha1="ae088bba7147780afaf5cff9e5b296f893db823b" crc="65998f48" />
     <rom name="Pac-Man (USA).gb" size="65536" sha1="a05f50d3571c0572eb0433474a99c966a67a2d1b" crc="b681e243" />
-  </game>
-  <game name="01 - Games/Pac-Attack">
-    <rom name="Pac-Attack (USA) (SGB Enhanced).gb" size="131072" sha1="3fb6907d2352b34e0e60e3ae7b1d32f3e0c84fc9" crc="94e0af9c" />
-    <rom name="Pac-Panic (Europe) (SGB Enhanced).gb" size="131072" sha1="963222935becb2139fb0133fbd9b02a1e239bbf2" crc="e4af8f75" />
-    <rom name="Pac-Panic (Japan) (En) (SGB Enhanced).gb" size="131072" sha1="64573cd6c4a26087485af540818c972cd256a881" crc="aaebd509" />
   </game>
   <game name="01 - Games/Pachi-Slot Hisshou Guide GB">
     <rom name="Pachi-Slot Hisshou Guide GB (Japan) (SGB Enhanced).gb" size="131072" sha1="48564d29dd997878eb3165d7b40ac3fa8f287143" crc="6ee0f7b9" />
@@ -3844,13 +3853,6 @@
   <game name="01 - Games/Panel no Ninja Kesamaru">
     <rom name="Panel no Ninja Kesamaru (Japan).gb" size="65536" sha1="67f8dea045bc2d01c00936a66cd4b56b10fa0f39" crc="12caa1ca" />
   </game>
-  <game name="01 - Games/Buster Bros.">
-    <rom name="Buster Bros. (USA).gb" size="131072" sha1="0d1692ff60ef1f6a97bbfd2bf8c1548f1f7439ed" crc="b4245ca3" />
-    <rom name="Pang (Europe).gb" size="131072" sha1="7ca64a45ea6a68770658ae39ef21c41f806988c5" crc="ea9615b4" />
-  </game>
-  <game name="01 - Games/Buster Bros./~Prototypes and Betas">
-    <rom name="Pang (Europe) (Beta).gb" size="131072" sha1="b57d436d8a83f2fb1e42bad3150893ef8ffab0d4" crc="54d2754a" />
-  </game>
   <game name="01 - Games/Panty Hunty">
     <rom name="Panty Hunty (World) (v1.4) (Aftermarket) (Unl).gb" size="524288" sha1="b5757b268a09d9085d469eda0676991f7361ad8c" crc="ce707b9a" />
   </game>
@@ -3895,6 +3897,11 @@
     <rom name="Penguin Migrants (World) (v1.1) (Aftermarket) (Unl).gb" size="32768" sha1="bf5601202eeca5b892ae4f3db7a4019cdb3bc99a" crc="1bc5f8aa" />
     <rom name="Penguin Migrants (World) (v1.2) (Aftermarket) (Unl).gb" size="32768" sha1="fa94f4d06eae2c49bbf1a654a8f658783dc6c28c" crc="866ac302" />
   </game>
+  <game name="01 - Games/Penguin Wars">
+    <rom name="King of the Zoo (Europe).gb" size="65536" sha1="683fcb45cf98f8d84c221ffb180b06bf81c1cf74" crc="d2d648c4" />
+    <rom name="Penguin Wars (USA).gb" size="65536" sha1="2c00f5678d55dcb865b596fcb1dbecd2c9213988" crc="eecff7f3" />
+    <rom name="Penguin-kun Wars VS. (Japan).gb" size="65536" sha1="f19e870e95c03288b019ef6bac3966bf74dd48fb" crc="c169606d" />
+  </game>
   <game name="01 - Games/Penta Dragon">
     <rom name="Penta Dragon (Japan).gb" size="262144" sha1="fd75d43258e79f14d104fb4756e219141882c837" crc="1e2efaee" />
   </game>
@@ -3904,10 +3911,6 @@
   <game name="01 - Games/Perfect Blend">
     <rom name="Perfect Blend (World) (v0.9) (Aftermarket) (Unl).gb" size="262144" sha1="09b0691f6823c54f1515dd3b66f135ac45a7dbc3" crc="9b4bacaa" />
     <rom name="Perfect Blend (World) (v0.9) (Bugfix) (Aftermarket) (Unl).gb" size="262144" sha1="a25dfc43408080ac116479fa55c9e7320e5cc82a" crc="1e8b2a29" />
-  </game>
-  <game name="01 - Games/Turn and Burn - The F-14 Dogfight Simulator">
-    <rom name="Phantom Air Mission (Europe).gb" size="131072" sha1="2a270597d7b814a1c8819a5698ab922200569206" crc="8aced4a6" />
-    <rom name="Turn and Burn - The F-14 Dogfight Simulator (USA).gb" size="131072" sha1="28bf175c8b3990f97039062c22d80bc7a524f060" crc="91394bd8" />
   </game>
   <game name="01 - Games/Phantom Pain">
     <rom name="Phantom Pain (World) (v3.0) (Aftermarket) (Unl).gb" size="1048576" sha1="1d5e8dbdbf371e0036da3d6b336ebd4e690191bc" crc="a7555ee8" />
@@ -4008,6 +4011,9 @@
   </game>
   <game name="01 - Games/Pocket Love">
     <rom name="Pocket Love (Japan) (SGB Enhanced).gb" size="524288" sha1="69f08aa97b5b72e99c826c810fdaebd766c2b416" crc="d570a9df" />
+  </game>
+  <game name="01 - Games/Pocket Love/~Translations">
+    <rom name="Pocket Love (Japan) (SGB Enhanced) [T-En by jeffzzq v1.1].gb" size="1048576" sha1="e7d35adda143f8eb1041f21639ee5d3e137c5f98" crc="2d556a3d" />
   </game>
   <game name="01 - Games/Pocket Mahjong">
     <rom name="Pocket Mahjong (Japan).gb" size="131072" sha1="f559e999a9957d5804eab7a250cdcfef1708e7f7" crc="90f026d4" />
@@ -4132,10 +4138,6 @@
   <game name="01 - Games/Ponta to Hinako no Chindouchuu - Yuujou Hen">
     <rom name="Ponta to Hinako no Chindouchuu - Yuujou Hen (Japan).gb" size="65536" sha1="83110ce7b82117069c9f147219fc2efbd1cdd103" crc="058b3dab" />
   </game>
-  <game name="01 - Games/Cool Ball">
-    <rom name="Cool Ball (USA).gb" size="32768" sha1="f1932d4a3f063c5395e8558a63c64e5840789ce6" crc="e045b886" />
-    <rom name="Pop Up (Europe).gb" size="32768" sha1="80094c524c8c9dd01d1402692837b4bc9701350f" crc="7f545b40" />
-  </game>
   <game name="01 - Games/Pop'n TwinBee">
     <rom name="Pop'n TwinBee (Europe).gb" size="131072" sha1="0206230b55c15a8c18fbb85f852967e44b33a0a4" crc="d07db274" />
     <rom name="TwinBee da!! (Japan).gb" size="131072" sha1="8f1c54d2116118ba085b384a01ea0c410ad2deac" crc="017fd6f5" />
@@ -4220,23 +4222,6 @@
   </game>
   <game name="01 - Games/Pro Mahjong Kiwame GB">
     <rom name="Pro Mahjong Kiwame GB (Japan) (SGB Enhanced).gb" size="131072" sha1="dc6b304ac4e9b679272f843411ba964b438a69b6" crc="6f5b6748" />
-  </game>
-  <game name="01 - Games/Contra - The Alien Wars">
-    <rom name="Contra - The Alien Wars (USA) (SGB Enhanced).gb" size="131072" sha1="2e23477eb8738d7fb45e13b02f054422222c9c4f" crc="f1c81eb0" />
-    <rom name="Contra Spirits (Japan) (SGB Enhanced).gb" size="131072" sha1="72213c5d8af05cad5f17a42566f7383066612eee" crc="7fc22df5" />
-    <rom name="Probotector 2 (Europe) (SGB Enhanced).gb" size="131072" sha1="d3eafed6727afd14bd30ffc31e2d3e4ee6cfc52e" crc="b5090e43" />
-  </game>
-  <game name="01 - Games/Contra - The Alien Wars/~Prototypes and Betas">
-    <rom name="Probotector 2 (Europe) (Beta) (SGB Enhanced).gb" size="131072" sha1="8f060253ea228c43d2992458dbf904a0b0d7b01e" crc="7d60c005" />
-  </game>
-  <game name="01 - Games/Operation C">
-    <rom name="Contra (Japan) (En).gb" size="131072" sha1="c8b34b5aba3d448e357b59cdf106ee9b134713db" crc="cde6de15" />
-    <rom name="Contra (World) (Contra Anniversary Collection).gb" size="131072" sha1="6fea1350ac04f418095cca5f157a9c770a0505bc" crc="cc67a046" />
-    <rom name="Konami GB Collection Vol.1 (Japan) (SGB Enhanced).gb" size="524288" sha1="dfb86b1b2db29a7086d60dc143374ef27b130580" crc="992cd78f" />
-    <rom name="Operation C (USA).gb" size="131072" sha1="1dc3e1c62e62f77ac633408b544ac1d02b3761eb" crc="2ebbc1ae" />
-    <rom name="Operation C (World) (Contra Anniversary Collection).gb" size="131072" sha1="bd528f1b20051502e2b4418845e0c6698e1c5b4b" crc="a7a5d9c2" />
-    <rom name="Probotector (Europe).gb" size="131072" sha1="45482a44ce0cdfa33fc58a8a8afe2d7284dfa498" crc="c9acc4f4" />
-    <rom name="Probotector (World) (Contra Anniversary Collection).gb" size="131072" sha1="bc58585f8a1b2e27712ae5d44e3d851f4535a53f" crc="1c03c0ee" />
   </game>
   <game name="01 - Games/Prophecy - The Viking Child">
     <rom name="Prophecy - The Viking Child (Europe) (En,Fr,De,Es,It).gb" size="262144" sha1="dded3db8437ba2342599e9dbde3aa20ce83e15ca" crc="590f5fb1" />
@@ -4369,6 +4354,14 @@
   </game>
   <game name="01 - Games/Ray-Thunder">
     <rom name="Ray-Thunder (Japan).gb" size="131072" sha1="e250e681b26835ff60b5ef0d9ce4513d8caf59e5" crc="a00a9468" />
+  </game>
+  <game name="01 - Games/Real Ghostbusters, The">
+    <rom name="Garfield Labyrinth (Europe).gb" size="131072" sha1="87913e557dfb98c5f2a0f42ea074c36eca57a4f7" crc="51b8626d" />
+    <rom name="Mickey Mouse IV - Mahou no Labyrinth (Japan) (En).gb" size="131072" sha1="d091d67890103ca97caf2c46d6bf4e2a85c92383" crc="0d30b3a1" />
+    <rom name="Real Ghostbusters, The (USA).gb" size="131072" sha1="f470bf48b02e95b7f2c0d82b5c676bd298ab6d52" crc="e1592b83" />
+  </game>
+  <game name="01 - Games/Real Ghostbusters, The/~Prototypes and Betas">
+    <rom name="Garfield Labyrinth (Europe) (Beta).gb" size="131072" sha1="c9170113c3370523cf5d13132ed3e2253a3f9dde" crc="06884616" />
   </game>
   <game name="01 - Games/Ren &amp; Stimpy Show, The - Space Cadet Adventures">
     <rom name="Ren &amp; Stimpy Show, The - Space Cadet Adventures (USA).gb" size="262144" sha1="da7634aa8e34be43d7dc89a572be2126795989af" crc="2085aad9" />
@@ -4600,11 +4593,6 @@
     <rom name="Kakomunja (Japan).gb" size="32768" sha1="560d174d34b32a35e302297d1667cf67c3d4e8b8" crc="bef1fe2b" />
     <rom name="Serpent (USA).gb" size="32768" sha1="3122b3c12c2580c3a81d70c5648f767bf3590aaf" crc="74d466d7" />
   </game>
-  <game name="01 - Games/Ninja Gaiden Shadow">
-    <rom name="Ninja Gaiden Shadow (USA).gb" size="131072" sha1="8aadd7dfb4add75d5ac5351658762e5f56e78c66" crc="d3741a3a" />
-    <rom name="Ninja Ryuuken Den - Matenrou Kessen (Japan).gb" size="131072" sha1="7200ac959877b4e4e423997d699a0e5c144f5b0b" crc="d2be3397" />
-    <rom name="Shadow Warriors (Europe).gb" size="131072" sha1="f19075aa787cce771077152f0d6c83527b9d7104" crc="bcc18e24" />
-  </game>
   <game name="01 - Games/Shanghai Pocket">
     <rom name="Shanghai Pocket (Japan) (SGB Enhanced).gb" size="262144" sha1="82fe97442aa625fd36cf865d82f78b07108ede7f" crc="6b8eff2c" />
   </game>
@@ -4786,14 +4774,6 @@
   <game name="01 - Games/Soccer Mania/~Prototypes and Betas">
     <rom name="Soccer Boy (Japan) (En) (Beta).gb" size="65536" sha1="22db7c6096f285222aefbfe413efa1d21de59731" crc="a46f98d1" />
   </game>
-  <game name="01 - Games/Elite Soccer">
-    <rom name="Elite Soccer (USA) (SGB Enhanced).gb" size="131072" sha1="4576881ea25e29ebba91c49c89f8e70e105fbc60" crc="f54158a6" />
-    <rom name="Soccer (Europe, Australia) (En,Fr,De) (SGB Enhanced).gb" size="131072" sha1="355fb7f220a0ba470011220282a59e707f168e1a" crc="c36b199b" />
-    <rom name="World Cup Striker (Japan) (En).gb" size="131072" sha1="9cf86669d784a724eeb3409df732ce84afd38942" crc="fdefa88d" />
-  </game>
-  <game name="01 - Games/Elite Soccer/~Prototypes and Betas">
-    <rom name="World Cup Striker (Europe) (En,Fr,De) (Possible Proto).gb" size="131072" sha1="4c976fc98a85089cfae7e7af7de6baef31e39f92" crc="40418964" />
-  </game>
   <game name="01 - Games/SolarStriker">
     <rom name="SolarStriker (World).gb" size="65536" sha1="a8d6acb026b0d0a8a2bcaea094951e915a3deb80" crc="11817103" />
   </game>
@@ -4881,12 +4861,6 @@
     <rom name="Commodore 16+4 Pack (World) (Digital) (Aftermarket) (Unl).gb" size="4194304" sha1="7d17953236671c29a427fd70f039afa4d1f117e8" crc="3a581e64" />
     <rom name="Spiky Harold (World) (Aftermarket) (Unl).gb" size="524288" sha1="b8f37a64524bde4c2b6e9a1938ed6e5c0a5aad7c" crc="2ac1b945" />
   </game>
-  <game name="01 - Games/World Circuit Series">
-    <rom name="F-1 Spirit (Japan).gb" size="131072" sha1="4f950151001c2c7e157bc407601d9a8eb9d2523c" crc="f9e08783" />
-    <rom name="Konami GB Collection Vol.1 (Japan) (SGB Enhanced).gb" size="524288" sha1="dfb86b1b2db29a7086d60dc143374ef27b130580" crc="992cd78f" />
-    <rom name="Spirit of F-1, The (Europe).gb" size="131072" sha1="a777c399bb4b8d3e55ee0e8b29890e20b859d5e4" crc="2b795480" />
-    <rom name="World Circuit Series (USA).gb" size="131072" sha1="9aa2b4330a2b8ffd117a871660f2526c4b2b4753" crc="77c3aa0b" />
-  </game>
   <game name="01 - Games/Spiritual Warfare">
     <rom name="Spiritual Warfare (USA) (Unl).gb" size="262144" sha1="6e6ae5dbd8ff8b8f41b8411ef119e96e4ecf763f" crc="f7a961ba" />
   </game>
@@ -4914,8 +4888,17 @@
   <game name="01 - Games/Sports Illustrated - Championship Football &amp; Baseball">
     <rom name="Sports Illustrated - Championship Football &amp; Baseball (USA).gb" size="524288" sha1="ab8272544d97b97d48420649070a927e6a0d2ac7" crc="235171c4" />
   </game>
+  <game name="01 - Games/Sports Illustrated - Golf Classic">
+    <rom name="Golf Classic (Europe) (SGB Enhanced).gb" size="262144" sha1="b7ffb77a5061c33b0bbe5b074c1526e46c5eb7c3" crc="a6dadb1e" />
+    <rom name="Sports Illustrated - Golf Classic (USA) (SGB Enhanced).gb" size="262144" sha1="39761cfedcfe4e5cf161f58a91f5fd364fc3ddb9" crc="87b306b4" />
+  </game>
   <game name="01 - Games/Sports Illustrated for Kids - The Ultimate Triple Dare!">
     <rom name="Sports Illustrated for Kids - The Ultimate Triple Dare! (USA).gb" size="262144" sha1="170a9b400e7db3270883dbb58704fc141053faa9" crc="f0d76d49" />
+  </game>
+  <game name="01 - Games/Spot - The Cool Adventure">
+    <rom name="McDonaldland (Europe).gb" size="131072" sha1="fd11d61f961a7e3c69e272ef19eb243b7df89833" crc="81de6c13" />
+    <rom name="Spot - Cool Adventure (Japan) (En).gb" size="131072" sha1="075512a3af4bc7c2da2d51d84df2d04c81b2a8ad" crc="552a53b9" />
+    <rom name="Spot - The Cool Adventure (USA).gb" size="131072" sha1="bcc923e6e73efe7e865625bb6ecf2ef08e380826" crc="76f67428" />
   </game>
   <game name="01 - Games/Spot - The Video Game">
     <rom name="Spot (Japan).gb" size="32768" sha1="a14cf8c28e8bcc573b7ed6543cb40d6b1467fa6b" crc="2ca58280" />
@@ -5537,6 +5520,10 @@
   <game name="01 - Games/Turn 'Em Off">
     <rom name="Turn 'Em Off (World) (Aftermarket) (Unl).gb" size="262144" sha1="65ae6f910b167d686d734533d43ac5a0bd0a3708" crc="526a4d25" />
   </game>
+  <game name="01 - Games/Turn and Burn - The F-14 Dogfight Simulator">
+    <rom name="Phantom Air Mission (Europe).gb" size="131072" sha1="2a270597d7b814a1c8819a5698ab922200569206" crc="8aced4a6" />
+    <rom name="Turn and Burn - The F-14 Dogfight Simulator (USA).gb" size="131072" sha1="28bf175c8b3990f97039062c22d80bc7a524f060" crc="91394bd8" />
+  </game>
   <game name="01 - Games/Turok - Battle of the Bionosaurs">
     <rom name="Turok - Battle of the Bionosaurs (Japan).gb" size="262144" sha1="332517218856313559c483c57256977e0ce07ad7" crc="c88e751d" />
     <rom name="Turok - Battle of the Bionosaurs (USA, Europe) (En,Fr,De,Es).gb" size="262144" sha1="8dcecc535909ef9d1b6dac658fa41ddcbb75c208" crc="518c2d2f" />
@@ -5566,6 +5553,14 @@
   <game name="01 - Games/Ultima - Runes of Virtue">
     <rom name="Ultima - Runes of Virtue (USA).gb" size="131072" sha1="8d911cbbc6bd1518a85282def7f01d3add16e596" crc="c44a0f1e" />
     <rom name="Ultima - Ushinawareta Runes (Japan).gb" size="131072" sha1="3a1d88736e13436cde15029dadd951b0b1c637e5" crc="d2f94181" />
+  </game>
+  <game name="01 - Games/Ultra Golf">
+    <rom name="Konami Golf (Europe).gb" size="131072" sha1="59d13714f8477db50cf164254480dd25959ecd23" crc="0fdc9fb1" />
+    <rom name="Konamic Golf (Japan) (En).gb" size="131072" sha1="78d014f8feb88cc8b509172c1a6fa48aa5eed67c" crc="c16d4db2" />
+    <rom name="Ultra Golf (USA).gb" size="131072" sha1="a20c0a995a91b20646564965705fad129474e9bf" crc="12de9bac" />
+  </game>
+  <game name="01 - Games/Ultra Golf/~Prototypes and Betas">
+    <rom name="Ultra Golf (USA) (Beta) (1991-11-20).gb" size="131072" sha1="b29e5da6f794a010d858f4398da85145f20d8c55" crc="d9ddb091" />
   </game>
   <game name="01 - Games/Ultraman Ball">
     <rom name="Ultraman Ball (Japan) (SGB Enhanced).gb" size="131072" sha1="3cdfcfb1a88d0cbfeb1c7b12751409faf69bba02" crc="468d1a2e" />
@@ -5798,6 +5793,12 @@
     <rom name="World Bowling (Japan) (En).gb" size="32768" sha1="c99595de26e63e65d61446dc0338256b9831601a" crc="47feadf2" />
     <rom name="World Bowling (USA).gb" size="32768" sha1="f579890b04b33965c009dd3b7300623691ae206a" crc="896e76a2" />
   </game>
+  <game name="01 - Games/World Circuit Series">
+    <rom name="F-1 Spirit (Japan).gb" size="131072" sha1="4f950151001c2c7e157bc407601d9a8eb9d2523c" crc="f9e08783" />
+    <rom name="Konami GB Collection Vol.1 (Japan) (SGB Enhanced).gb" size="524288" sha1="dfb86b1b2db29a7086d60dc143374ef27b130580" crc="992cd78f" />
+    <rom name="Spirit of F-1, The (Europe).gb" size="131072" sha1="a777c399bb4b8d3e55ee0e8b29890e20b859d5e4" crc="2b795480" />
+    <rom name="World Circuit Series (USA).gb" size="131072" sha1="9aa2b4330a2b8ffd117a871660f2526c4b2b4753" crc="77c3aa0b" />
+  </game>
   <game name="01 - Games/World Cup 98">
     <rom name="World Cup 98 (USA, Europe) (SGB Enhanced).gb" size="524288" sha1="f71a802596d2a56ee3e708ecac90735d42757e5b" crc="6a3272b1" />
   </game>
@@ -5871,6 +5872,11 @@
   <game name="01 - Games/Yoshi's Cookie">
     <rom name="Yoshi no Cookie (Japan).gb" size="131072" sha1="3b19c51b4e7e7275265b90e991faf6cf64a8085a" crc="a37255fe" />
     <rom name="Yoshi's Cookie (USA, Europe).gb" size="131072" sha1="233dcc94d86951ddf167aaa82ec9b94b87b29e2d" crc="75336712" />
+  </game>
+  <game name="01 - Games/Yoshi">
+    <rom name="Mario &amp; Yoshi (Europe).gb" size="65536" sha1="9bf642eabdb51625d1ef1ac470666ec8f5f10f77" crc="4627d88b" />
+    <rom name="Yoshi (USA).gb" size="65536" sha1="1b6e41c2270ce67e6fe15cc4977ef2debdd6e6ce" crc="f2f4bcca" />
+    <rom name="Yoshi no Tamago (Japan).gb" size="65536" sha1="5cb61dee0eb3f9d35775a607803d06c8cebcb842" crc="9b6fcc76" />
   </game>
   <game name="01 - Games/You Are a Skeleton &amp; That Is a Problem">
     <rom name="You Are a Skeleton &amp; That Is a Problem (World) (Aftermarket) (Unl).gb" size="524288" sha1="8e8248120652e22ebe59f7fa5be263e9f3d89b14" crc="b5a7d219" />
@@ -6004,11 +6010,11 @@
   <game name="02 - Software and Utilities/InfoGenius Productivity Pak - Frommer's Travel Guide">
     <rom name="InfoGenius Productivity Pak - Frommer's Travel Guide (USA).gb" size="262144" sha1="e4155270a59b0998b3eeffea779c33713eddf2e6" crc="40242e35" />
   </game>
-  <game name="02 - Software and Utilities/InfoGenius Productivity Pak - Spell Checker and Calculator">
-    <rom name="InfoGenius Productivity Pak - Spell Checker and Calculator (USA).gb" size="131072" sha1="654e6f36c1260afba14640cf25c05c31a4075eb6" crc="754496bb" />
-  </game>
   <game name="02 - Software and Utilities/InfoGenius Productivity Pak - Personal Organizer and Phone Book">
     <rom name="InfoGenius Productivity Pak - Personal Organizer and Phone Book (USA).gb" size="65536" sha1="9f65e16785e82fbddc27d811f051f60f4812fcb4" crc="ca436939" />
+  </game>
+  <game name="02 - Software and Utilities/InfoGenius Productivity Pak - Spell Checker and Calculator">
+    <rom name="InfoGenius Productivity Pak - Spell Checker and Calculator (USA).gb" size="131072" sha1="654e6f36c1260afba14640cf25c05c31a4075eb6" crc="754496bb" />
   </game>
   <game name="02 - Software and Utilities/Minolta 2085 Adj. Program">
     <rom name="Minolta 2085 Adj. Program (USA) (Unl).gb" size="32768" sha1="d0e586988108b7238bebcac055cb7c6982abf81c" crc="de660a82" />
@@ -6089,8 +6095,5 @@
   </game>
   <game name="02 - Software and Utilities/Unearthed OST">
     <rom name="Unearthed OST (World) (Album) (Aftermarket) (Unl).gb" size="262144" sha1="d602b612cee4b45b3d5b88a3f00d38bf8b6ad0c8" crc="4249e80c" />
-  </game>
-  <game name="01 - Games/Pocket Love/~Translations">
-    <rom name="Pocket Love (Japan) (SGB Enhanced) [T-En by jeffzzq v1.1].gb" size="1048576" sha1="e7d35adda143f8eb1041f21639ee5d3e137c5f98" crc="2d556a3d" />
   </game>
 </datafile>

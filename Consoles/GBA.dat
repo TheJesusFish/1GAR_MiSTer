@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>GBA</name>
-    <version>2026-10-23</version>
+    <version>2026-10-26</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/007 - Everything or Nothing">
@@ -55,11 +55,6 @@
   <game name="01 - Games/2 Games in 1 - Disney Princess + Lizzie McGuire">
     <rom name="2 Games in 1 - Disney Princesas + Lizzie McGuire (Spain).gba" size="16777216" sha1="0e55f66efcad4fe80b75942c1d42a86fb8cbcb74" crc="57f886b0" />
     <rom name="2 Games in 1 - Disney Princess + Lizzie McGuire (Europe).gba" size="16777216" sha1="5a5c56306cfce32fd04b330666272d2e9c88057f" crc="99c96067" />
-  </game>
-  <game name="01 - Games/2 Games in One! - Dr. Mario + Puzzle League">
-    <rom name="2 Games in 1 - Dr. Mario + Puzzle League (Europe) (En,Fr,De,Es,It).gba" size="8388608" sha1="df2918198ee3a5dd4a36b8cc28269e958de5e1ee" crc="fb7a7567" />
-    <rom name="2 Games in One! - Dr. Mario + Puzzle League (USA).gba" size="8388608" sha1="af6fdad72d3f4777338b77971f488c0f75b080c1" crc="4c2b7349" />
-    <rom name="Dr. Mario &amp; Panel de Pon (Japan).gba" size="8388608" sha1="fc4371a6e16116182c70eee6e8a1b53df0fc693c" crc="129bf78f" />
   </game>
   <game name="01 - Games/2 Games in 1 - Dragon Ball Z - The Legacy of Goku I &amp; II">
     <rom name="2 Games in 1 - Dragon Ball Z - The Legacy of Goku I &amp; II (USA).gba" size="16777216" sha1="f02d179accbeb9b68bcaef8720eb0ae426dde6ee" crc="ace78c4f" />
@@ -130,10 +125,6 @@
     <rom name="2 Games in 1 - Sonic Advance + Sonic Battle (Europe) (En,Ja,Fr,De,Es+En,Ja,Fr,De,Es,It).gba" size="33554432" sha1="2c22dd926f8064000f23c39787ea8579e022fcf8" crc="94cf5b2b" />
     <rom name="Double Pack - Sonic Battle &amp; Sonic Advance (Japan) (En,Ja,Fr,De,Es+En,Ja).gba" size="33554432" sha1="30c8dacde7d657082759df4f0235bcb3b44ac663" crc="31d712d3" />
   </game>
-  <game name="01 - Games/Combo Pack - Sonic Advance + Sonic Pinball Party">
-    <rom name="2 Games in 1 - Sonic Advance + Sonic Pinball Party (Europe) (En,Ja,Fr,De,Es+En,Ja,Fr,De,Es,It).gba" size="16777216" sha1="2872ddc6bf2ead9f08abec66836ff8cb5c9b0909" crc="1127dc09" />
-    <rom name="Combo Pack - Sonic Advance + Sonic Pinball Party (USA) (En,Ja,Fr,De,Es+En,Ja,Fr,De,Es,It).gba" size="16777216" sha1="92f137372ec92e23c8dd190d761461653b80ea41" crc="fbafb638" />
-  </game>
   <game name="01 - Games/2 Games in 1 - Sonic Battle + ChuChu Rocket!">
     <rom name="2 Games in 1 - Sonic Battle + ChuChu Rocket! (Europe) (En,Ja,Fr,De,Es,It+En,Ja,Fr,De,Es).gba" size="33554432" sha1="2d1aceea9e69454cec89acdd764887d584c06877" crc="2c57e588" />
   </game>
@@ -173,6 +164,11 @@
   </game>
   <game name="01 - Games/2 Games in 1! - Dragon Ball Z - Buu's Fury + Dragon Ball GT - Transformation">
     <rom name="2 Games in 1! - Dragon Ball Z - Buu's Fury + Dragon Ball GT - Transformation (USA).gba" size="16777216" sha1="3733adaff49866a8fe01e23526f4f52ca39cbf58" crc="280587f2" />
+  </game>
+  <game name="01 - Games/2 Games in One! - Dr. Mario + Puzzle League">
+    <rom name="2 Games in 1 - Dr. Mario + Puzzle League (Europe) (En,Fr,De,Es,It).gba" size="8388608" sha1="df2918198ee3a5dd4a36b8cc28269e958de5e1ee" crc="fb7a7567" />
+    <rom name="2 Games in One! - Dr. Mario + Puzzle League (USA).gba" size="8388608" sha1="af6fdad72d3f4777338b77971f488c0f75b080c1" crc="4c2b7349" />
+    <rom name="Dr. Mario &amp; Panel de Pon (Japan).gba" size="8388608" sha1="fc4371a6e16116182c70eee6e8a1b53df0fc693c" crc="129bf78f" />
   </game>
   <game name="01 - Games/2 Games in One! - Gauntlet + Rampart">
     <rom name="2 Games in One! - Gauntlet + Rampart (Europe) (En,Fr,De,Es,It).gba" size="4194304" sha1="ae327bebc9841c990b3f1d6f8f9f95003d8bf16e" crc="36717b52" />
@@ -320,16 +316,6 @@
   <game name="01 - Games/Action Man - Robot Atak">
     <rom name="Action Man - Robot Atak (Europe) (En,Fr,De,Es,It).gba" size="4194304" sha1="d74a7495013cd7db207b4b3825f70b2d213fc658" crc="d07214a2" />
   </game>
-  <game name="01 - Games/GameShark GBA">
-    <rom name="Action Replay GBX (Europe) (En,Fr,De,It) (Unl) (Alt).gba" size="262144" sha1="6f1f797c4f2c7751be8783adb159a27849c2e2b7" crc="45bb6f4e" />
-    <rom name="Action Replay GBX (Europe) (En,Fr,De,It) (Unl).gba" size="262144" sha1="3fc60fa1b564afcc6f70e3b8a106158e03bbb463" crc="18ce5322" />
-    <rom name="Action Replay GBX (Europe) (Unl).gba" size="262144" sha1="ee4815180741c99ba75de06a95aa7536d6264152" crc="5ad72359" />
-    <rom name="Action Replay GBX (France) (Unl).gba" size="262144" sha1="ceb078f364377d7bc7c607b2f01f4364b32ff952" crc="f1173773" />
-    <rom name="Action Replay GBX (Germany) (Unl).gba" size="262144" sha1="c7a76d5ff800a826116c3c66c437f72040fc8845" crc="d6260d4c" />
-    <rom name="Action Replay GBX (Italy) (Unl).gba" size="262144" sha1="c2429be391948e9e6e1db9c3a4073a57dfcf90ab" crc="7de61966" />
-    <rom name="GameShark GBA (USA) (Unl) (Alt).gba" size="262144" sha1="9ab35e211ac9cc4aa4ce594c073b44c630e46814" crc="9ad94c62" />
-    <rom name="GameShark GBA (USA) (Unl).gba" size="262144" sha1="02dc2e2ab31ad5111f3efad391f66945344f33e3" crc="d71dbca6" />
-  </game>
   <game name="01 - Games/Action Replay MAX">
     <rom name="Action Replay MAX (Europe) (Unl).gba" size="1048576" sha1="d91eae25091fc38382f751c922383cf0d756127b" crc="3fc75439" />
   </game>
@@ -413,6 +399,11 @@
   <game name="01 - Games/Agoria - Ode to Fate">
     <rom name="Agoria - Ode to Fate (World) (Unl).gba" size="2725504" sha1="cb0b83b85a290c223cd3249b37ae7207d3efde06" crc="67d3361f" />
   </game>
+  <game name="01 - Games/AirForce Delta Storm">
+    <rom name="AirForce Delta II (Japan) (En,Ja,Fr,De).gba" size="4194304" sha1="34ac6b1af9ab1e016db11f5ad28042757a68d1f4" crc="58a972df" />
+    <rom name="AirForce Delta Storm (USA) (En,Ja,Fr,De).gba" size="4194304" sha1="7bc53480a43ada2aad32d798ab00b6e761726728" crc="ebf757b8" />
+    <rom name="Deadly Skies (Europe) (En,Ja,Fr,De).gba" size="4194304" sha1="44cf348a7f6229d0063411f7efa9411dac2eb26c" crc="fe7c8402" />
+  </game>
   <game name="01 - Games/Airball">
     <rom name="Airball (World) (v1.3) (Unl).gba" size="1365740" sha1="50c772f91fa431b8b3d01133762015e127d4f816" crc="52dac8c6" />
   </game>
@@ -462,6 +453,11 @@
   <game name="01 - Games/Amazing Virtual Sea-Monkeys, The">
     <rom name="Amazing Virtual Sea-Monkeys, The (USA).gba" size="4194304" sha1="d596fe5c59b6639fc5e1840bcc90086bcb56f7d0" crc="3484f139" />
   </game>
+  <game name="01 - Games/American Bass Challenge">
+    <rom name="American Bass Challenge (USA).gba" size="4194304" sha1="1fc03cca393ddbc633d309aae95b42c89e4d0e96" crc="d76ad62d" />
+    <rom name="Super Black Bass Advance (Europe).gba" size="4194304" sha1="f29fa04bcd4c1a2bfd466d6046ac6eb86071b2fc" crc="91238ad1" />
+    <rom name="Super Black Bass Advance (Japan).gba" size="4194304" sha1="2d71d6d29729ac5d3302f1d14e2e774afe7a06a8" crc="67c4e470" />
+  </game>
   <game name="01 - Games/American Dragon - Jake Long - Rise of the Huntsclan">
     <rom name="American Dragon - Jake Long - Rise of the Huntsclan (USA, Europe) (En,Fr,De,Es,It).gba" size="8388608" sha1="4701c8d26cc608109bc01d0ee189ab1fb646ead8" crc="698377d2" />
   </game>
@@ -473,6 +469,11 @@
     <rom name="American Dragon - Jake Long - Rise of the Huntsclan (USA, Europe) (Beta 5).gba" size="8388608" sha1="7cb9a96ec864810d67935fc21db045433432563b" crc="8f9253bb" />
     <rom name="American Dragon - Jake Long - Rise of the Huntsclan (USA, Europe) (Beta 6).gba" size="4469328" sha1="9f1c6f855b66cf297cfc19393422b409563da3f2" crc="b96c5a0b" />
     <rom name="American Dragon - Jake Long - Rise of the Huntsclan (USA, Europe) (En,Fr,De,Es,It) (Beta 7).gba" size="7551852" sha1="0b922d09a8662d119eac9f4c39bede425a3a84ff" crc="bdcc074a" />
+  </game>
+  <game name="01 - Games/American Idol">
+    <rom name="American Idol (USA).gba" size="16777216" sha1="13236689db1e2236673ae59c2a8ff84340a8a8c2" crc="f053ffbf" />
+    <rom name="Deutschland Sucht den Superstar (Germany).gba" size="16777216" sha1="ce5253e82671569500af3d5df9d3131916fbe23d" crc="51f50f7d" />
+    <rom name="Pop Idol (Europe).gba" size="16777216" sha1="01fd660267705ed2a290734941b1305478df183f" crc="b9a7e60d" />
   </game>
   <game name="01 - Games/American Tail, An - Fievel's Gold Rush">
     <rom name="American Tail, An - Fievel's Gold Rush (Europe) (En,Fr,De,Es,It).gba" size="4194304" sha1="ab6e8646b352e54eaae2e00101ea7fd378af0e5e" crc="c8ea6d9e" />
@@ -697,6 +698,10 @@
   <game name="01 - Games/Baldur's Gate - Dark Alliance">
     <rom name="Baldur's Gate - Dark Alliance (Europe) (En,Fr,De,Es,It).gba" size="8388608" sha1="9d6b740e9224f1636ed6e5ba63c2bb5970b8249f" crc="494492dc" />
     <rom name="Baldur's Gate - Dark Alliance (USA).gba" size="8388608" sha1="c7c264ec85976f326b34bbd9f5e91ddc6eb29e17" crc="deedd7d9" />
+  </game>
+  <game name="01 - Games/Ballistic - Ecks vs. Sever">
+    <rom name="Ballistic - Ecks vs. Sever (USA).gba" size="8388608" sha1="d66a33c71466ffb6558ba6381156d14f73c8c6d8" crc="0477f153" />
+    <rom name="Ecks vs. Sever II - Ballistic (Europe) (En,Fr,De,Es,It).gba" size="8388608" sha1="f294d72470c4001c6ed66baeaa8745edfb011762" crc="83297d13" />
   </game>
   <game name="01 - Games/Banjo-Kazooie - Grunty's Revenge">
     <rom name="Banjo-Kazooie - Grunty's Revenge (Europe) (En,Fr,De).gba" size="8388608" sha1="f335fede72cd0273fcce925a20ca272ede08c15b" crc="fb4f38e2" />
@@ -1241,6 +1246,18 @@
     <rom name="Castlevania Double Pack (Europe) (En,Fr,De).gba" size="16777216" sha1="e7aea4480f02822904eef1d7b51c18f169881075" crc="ee495897" />
     <rom name="Castlevania Double Pack (USA).gba" size="16777216" sha1="1ba25e80cfbc3d667a0f5d4cbeb295580f586edb" crc="dbcecc7d" />
   </game>
+  <game name="01 - Games/Castlevania - Circle of the Moon">
+    <rom name="Akumajou Dracula - Circle of the Moon (China) (Unl).gba" size="8388608" sha1="a153afcbbd3f94dea4feedf0a11631e93223d3a6" crc="5925d9c9" />
+    <rom name="Akumajou Dracula - Circle of the Moon (Japan) (Castlevania Advance Collection).gba" size="8388608" sha1="0952d6265017fc7c905d0ce0982681922e3140d5" crc="1e60ec88" />
+    <rom name="Akumajou Dracula - Circle of the Moon (Japan) (Virtual Console).gba" size="8388608" sha1="7b50b0e5e533d461f5eae648246c442b56e91527" crc="2c56982d" />
+    <rom name="Akumajou Dracula - Circle of the Moon (Japan).gba" size="8388608" sha1="45070d7237f6c71306d83c1e7353f50205d9233e" crc="f3e41d73" />
+    <rom name="Castlevania (Europe) (Castlevania Advance Collection).gba" size="8388608" sha1="30a2fd3fe95a8a84b02da7ddbc8b2a90e0553d9b" crc="050e2164" />
+    <rom name="Castlevania (Europe) (Virtual Console).gba" size="8388608" sha1="b5fa3402a8fb86786f97d08f88b3cbc790bb5d6e" crc="dba05255" />
+    <rom name="Castlevania (Europe).gba" size="8388608" sha1="a127e0c62ce61cd72661a1af6f0bda18bcad26b3" crc="611535dc" />
+    <rom name="Castlevania - Circle of the Moon (USA) (Castlevania Advance Collection).gba" size="8388608" sha1="9483aa48b384ff3142c47fe81c13ca874a608eb0" crc="14c1ab7c" />
+    <rom name="Castlevania - Circle of the Moon (USA) (Virtual Console).gba" size="8388608" sha1="e055b4ab00e16ec39c9036ef85463c770d809c6c" crc="d5412e91" />
+    <rom name="Castlevania - Circle of the Moon (USA).gba" size="8388608" sha1="d661b01eb94186435723ac03344792c11c20c522" crc="1cc059a4" />
+  </game>
   <game name="01 - Games/Castlevania - Harmony of Dissonance">
     <rom name="Castlevania - Byakuya no Concerto (Japan) (Castlevania Advance Collection).gba" size="8388608" sha1="094ed1081bc7aa69ac2214718f54b7f99517cad8" crc="247eeb20" />
     <rom name="Castlevania - Byakuya no Concerto (Japan).gba" size="8388608" sha1="3aeb81ee60fa3e56a56ee069b0ce0d8bc34d9c4c" crc="379b3248" />
@@ -1254,23 +1271,6 @@
   <game name="01 - Games/Castlevania Double Pack">
     <rom name="Castlevania Double Pack (Europe) (En,Fr,De).gba" size="16777216" sha1="e7aea4480f02822904eef1d7b51c18f169881075" crc="ee495897" />
     <rom name="Castlevania Double Pack (USA).gba" size="16777216" sha1="1ba25e80cfbc3d667a0f5d4cbeb295580f586edb" crc="dbcecc7d" />
-  </game>
-  <game name="01 - Games/Castlevania - Circle of the Moon">
-    <rom name="Akumajou Dracula - Circle of the Moon (China) (Unl).gba" size="8388608" sha1="a153afcbbd3f94dea4feedf0a11631e93223d3a6" crc="5925d9c9" />
-    <rom name="Akumajou Dracula - Circle of the Moon (Japan) (Castlevania Advance Collection).gba" size="8388608" sha1="0952d6265017fc7c905d0ce0982681922e3140d5" crc="1e60ec88" />
-    <rom name="Akumajou Dracula - Circle of the Moon (Japan) (Virtual Console).gba" size="8388608" sha1="7b50b0e5e533d461f5eae648246c442b56e91527" crc="2c56982d" />
-    <rom name="Akumajou Dracula - Circle of the Moon (Japan).gba" size="8388608" sha1="45070d7237f6c71306d83c1e7353f50205d9233e" crc="f3e41d73" />
-    <rom name="Castlevania (Europe) (Castlevania Advance Collection).gba" size="8388608" sha1="30a2fd3fe95a8a84b02da7ddbc8b2a90e0553d9b" crc="050e2164" />
-    <rom name="Castlevania (Europe) (Virtual Console).gba" size="8388608" sha1="b5fa3402a8fb86786f97d08f88b3cbc790bb5d6e" crc="dba05255" />
-    <rom name="Castlevania (Europe).gba" size="8388608" sha1="a127e0c62ce61cd72661a1af6f0bda18bcad26b3" crc="611535dc" />
-    <rom name="Castlevania - Circle of the Moon (USA) (Castlevania Advance Collection).gba" size="8388608" sha1="9483aa48b384ff3142c47fe81c13ca874a608eb0" crc="14c1ab7c" />
-    <rom name="Castlevania - Circle of the Moon (USA) (Virtual Console).gba" size="8388608" sha1="e055b4ab00e16ec39c9036ef85463c770d809c6c" crc="d5412e91" />
-    <rom name="Castlevania - Circle of the Moon (USA).gba" size="8388608" sha1="d661b01eb94186435723ac03344792c11c20c522" crc="1cc059a4" />
-  </game>
-  <game name="01 - Games/Spirits &amp; Spells">
-    <rom name="Castleween (Europe) (En,Fr,De,Es,It).gba" size="4194304" sha1="bbda9c6708d8dd5a7ea6fbf6b7d128287de2bd82" crc="11a9b76e" />
-    <rom name="Mahou no Pumpkin - Ann to Greg no Daibouken (Japan).gba" size="4194304" sha1="a42d4104e0d0d8d9b2b2196d745237d640795215" crc="f9652b4d" />
-    <rom name="Spirits &amp; Spells (USA).gba" size="4194304" sha1="5b4764af4f7d0df24adf0df0ae486f33bd905dc7" crc="2fa6db95" />
   </game>
   <game name="01 - Games/Cat in the Hat, The">
     <rom name="Cat in the Hat, The (Europe) (En,Fr,De,Es,It).gba" size="4194304" sha1="a60339e9b4fdbcac73ed3b677ae17747bdb462ad" crc="a5dbe5ae" />
@@ -1393,6 +1393,11 @@
     <rom name="Classic NES Series - Bomberman (USA, Europe).gba" size="1048576" sha1="741eb2874c526cc014bf3e642b4ee37f18312735" crc="c9ebc17d" />
     <rom name="Famicom Mini 09 - Bomberman (Japan) (En).gba" size="1048576" sha1="3ee5eb19ac00660e1c83c449c6a5b2a22c9f73eb" crc="c1116e40" />
   </game>
+  <game name="01 - Games/Classic NES Series - Castlevania">
+    <rom name="Classic NES Series - Castlevania (USA).gba" size="1048576" sha1="47a60315ed4074a8c986723b95b3c90513d3b35c" crc="23e4082c" />
+    <rom name="Famicom Mini 29 - Akumajou Dracula (Japan).gba" size="1048576" sha1="1684686077712875ba9d785642bba21e8cb8f5ba" crc="11419d8b" />
+    <rom name="NES Classics - Castlevania (Europe).gba" size="1048576" sha1="8bc8740a681e4d365419dbcee73619fe4429d66e" crc="497e3279" />
+  </game>
   <game name="01 - Games/Classic NES Series - Donkey Kong">
     <rom name="Classic NES Series - Donkey Kong (USA, Europe).gba" size="1048576" sha1="8e3b203630f10c32aa7896afe9b7fbed7e1c8d30" crc="f53d8b56" />
     <rom name="Famicom Mini 02 - Donkey Kong (Japan) (En).gba" size="1048576" sha1="b5afc36a8203c2c485344819d069300ecafd9657" crc="071c3f2b" />
@@ -1444,6 +1449,12 @@
   <game name="01 - Games/Cocoto - Platform Jumper">
     <rom name="Cocoto - Platform Jumper (Europe) (En,Fr,De,Es,It).gba" size="4194304" sha1="bbaa323ee832ce35f171413034b154c540ead51d" crc="27411ef5" />
   </game>
+  <game name="01 - Games/CodeBreaker">
+    <rom name="CodeBreaker (USA) (Unl).gba" size="65536" sha1="1751d631c9955184a2cb55514e94d276c951231b" crc="f5b2f65e" />
+    <rom name="X-Terminator Advance (Japan) (Unl).gba" size="131072" sha1="b6b5febc259d215892a8920a0ca0a6a8067f9cfe" crc="d48d5587" />
+    <rom name="Xploder Advance (Europe) (Unl) (Alt).gba" size="131072" sha1="4f2252f61e80eb2a27646fd4bfb159da8ea70ca6" crc="4f3e7427" />
+    <rom name="Xploder Advance (Europe) (Unl).gba" size="131072" sha1="b7e7448152df42548a6d7a8a593543d439bbfd45" crc="ad71f6ff" />
+  </game>
   <game name="01 - Games/Codename - Kids Next Door - Operation S.O.D.A.">
     <rom name="Codename - Kids Next Door - Operation S.O.D.A. (USA).gba" size="8388608" sha1="bbd176cc9a5331fdfdb332ad037d869610e4b3fb" crc="420a81b7" />
   </game>
@@ -1458,6 +1469,7 @@
     <rom name="Colin McRae Rally 2.0 (USA) (En,Fr,De).gba" size="4194304" sha1="c29cb5e9843816369164a6f60486dc920a86bc6b" crc="a2e19014" />
   </game>
   <game name="01 - Games/Collie Defense">
+    <rom name="Collie Defense (World) (Aftermarket) (Unl).gba" size="4194304" sha1="dc6d78f7decf2a23c059f0fec11e68ada945c565" crc="0d5eefd0" />
     <rom name="Collie Defense (World) (Digital) (Aftermarket) (Unl).gba" size="2985468" sha1="52a17491d7c6b599a086022fa6e16c5cf346254c" crc="2559e4bf" />
   </game>
   <game name="01 - Games/Columns Crown">
@@ -1469,6 +1481,10 @@
   </game>
   <game name="01 - Games/Combat Choro Q - Advance Daisakusen">
     <rom name="Combat Choro Q - Advance Daisakusen (Japan).gba" size="4194304" sha1="05d33b870e881c3cc2b9b8c5ce403372637b4d00" crc="4e5bfa90" />
+  </game>
+  <game name="01 - Games/Combo Pack - Sonic Advance + Sonic Pinball Party">
+    <rom name="2 Games in 1 - Sonic Advance + Sonic Pinball Party (Europe) (En,Ja,Fr,De,Es+En,Ja,Fr,De,Es,It).gba" size="16777216" sha1="2872ddc6bf2ead9f08abec66836ff8cb5c9b0909" crc="1127dc09" />
+    <rom name="Combo Pack - Sonic Advance + Sonic Pinball Party (USA) (En,Ja,Fr,De,Es+En,Ja,Fr,De,Es,It).gba" size="16777216" sha1="92f137372ec92e23c8dd190d761461653b80ea41" crc="fbafb638" />
   </game>
   <game name="01 - Games/Comix Zone">
     <rom name="Comix Zone (Europe) (En,Fr,De,Es,It).gba" size="4194304" sha1="7369a1f1a0bf52aac8cda97d082095be08c65e72" crc="9f30002f" />
@@ -1515,6 +1531,12 @@
     <rom name="Crash Advance IV (USA) (Unl).gba" size="33554432" sha1="a122a0c7d2cf2cb58d12007a79f811044a9f3539" crc="4b67247c" />
     <rom name="Gu Huo Lang 4 (Taiwan) (Unl).gba" size="33554432" sha1="8c40ce7a06f741fb11aa717b7ce2f151279fa2e2" crc="1608f6db" />
   </game>
+  <game name="01 - Games/Crash Bandicoot - The Huge Adventure">
+    <rom name="Crash &amp; Spyro Superpack - Spyro - Season of Ice + Crash Bandicoot - The Huge Adventure (USA).gba" size="16777216" sha1="ce1b1184685e20a683ec93b79093a1c7c41b818e" crc="cdbe00e3" />
+    <rom name="Crash Bandicoot - The Huge Adventure (USA).gba" size="8388608" sha1="5a2651c78bb8a1d707e3c3af1f46fb64e2104198" crc="034d2d4b" />
+    <rom name="Crash Bandicoot Advance (Japan).gba" size="8388608" sha1="409814b6cca882f7f1cdbebba9503d77b6297eec" crc="64767b34" />
+    <rom name="Crash Bandicoot XS (Europe) (En,Fr,De,Es,It,Nl).gba" size="8388608" sha1="bdd061e1b5187c0528928ec0ddb6886b1de16970" crc="ccfd654f" />
+  </game>
   <game name="01 - Games/Crash Bandicoot 2 - N-Tranced">
     <rom name="Crash Bandicoot 2 - N-Tranced (Europe) (En,Fr,De,Es,It,Nl).gba" size="8388608" sha1="ee9234ca15ba2caa71fad7d6af71e27b2030ae0b" crc="0f1d06a0" />
     <rom name="Crash Bandicoot 2 - N-Tranced (USA).gba" size="8388608" sha1="972158859ea08aa5746ab2e0d4c81ac43728adff" crc="2e16184a" />
@@ -1527,12 +1549,6 @@
     <rom name="Crash Bandicoot Fusion (Europe) (En,Fr,De,Es,It).gba" size="16777216" sha1="e29cb4309d2e94974c34dcea42c8ab7e90134b55" crc="f24c8e77" />
     <rom name="Crash Bandicoot Purple - Ripto's Rampage (USA) (Rev 1).gba" size="16777216" sha1="b14da39b82d9c69f60deda179c073a14d07d5ce7" crc="3ddf07a1" />
     <rom name="Crash Bandicoot Purple - Ripto's Rampage (USA).gba" size="16777216" sha1="35d1c8c90890bf7ce66306e6c06a3676a723dcf3" crc="fc284e05" />
-  </game>
-  <game name="01 - Games/Crash Bandicoot - The Huge Adventure">
-    <rom name="Crash &amp; Spyro Superpack - Spyro - Season of Ice + Crash Bandicoot - The Huge Adventure (USA).gba" size="16777216" sha1="ce1b1184685e20a683ec93b79093a1c7c41b818e" crc="cdbe00e3" />
-    <rom name="Crash Bandicoot - The Huge Adventure (USA).gba" size="8388608" sha1="5a2651c78bb8a1d707e3c3af1f46fb64e2104198" crc="034d2d4b" />
-    <rom name="Crash Bandicoot Advance (Japan).gba" size="8388608" sha1="409814b6cca882f7f1cdbebba9503d77b6297eec" crc="64767b34" />
-    <rom name="Crash Bandicoot XS (Europe) (En,Fr,De,Es,It,Nl).gba" size="8388608" sha1="bdd061e1b5187c0528928ec0ddb6886b1de16970" crc="ccfd654f" />
   </game>
   <game name="01 - Games/Crash Nitro Kart">
     <rom name="Crash Bandicoot Bakusou! Nitro Cart (Japan).gba" size="8388608" sha1="9f80049a5c79894931651f47c634fee9f8cb62ad" crc="70f8291f" />
@@ -1714,21 +1730,16 @@
     <rom name="Dead to Rights (Europe) (En,Fr,De,Es,It).gba" size="8388608" sha1="0291aa7a98dfe24907d763ce860178cf3b9c6ebe" crc="2994de1d" />
     <rom name="Dead to Rights (USA).gba" size="8388608" sha1="2e6e240bb80597f081550eb5e0478e3443cd685c" crc="52c1826c" />
   </game>
-  <game name="01 - Games/AirForce Delta Storm">
-    <rom name="AirForce Delta II (Japan) (En,Ja,Fr,De).gba" size="4194304" sha1="34ac6b1af9ab1e016db11f5ad28042757a68d1f4" crc="58a972df" />
-    <rom name="AirForce Delta Storm (USA) (En,Ja,Fr,De).gba" size="4194304" sha1="7bc53480a43ada2aad32d798ab00b6e761726728" crc="ebf757b8" />
-    <rom name="Deadly Skies (Europe) (En,Ja,Fr,De).gba" size="4194304" sha1="44cf348a7f6229d0063411f7efa9411dac2eb26c" crc="fe7c8402" />
-  </game>
   <game name="01 - Games/Deal or No Deal">
     <rom name="Deal or No Deal (USA).gba" size="4194304" sha1="3691000350db3b36311439c5d9c9879ee756fea6" crc="b6c00edb" />
-  </game>
-  <game name="01 - Games/Defender">
-    <rom name="Defender (USA).gba" size="4194304" sha1="d9bc7d7a0500c7cf58ce4010071048a6c462b2de" crc="2e271c13" />
-    <rom name="Defender - For All Mankind (Europe) (En,Fr,De,Es,It).gba" size="4194304" sha1="4d45e4109aade339514fdd3ad826ce8cd4cfb5e7" crc="3b86fdc4" />
   </game>
   <game name="01 - Games/Defender of the Crown">
     <rom name="Defender of the Crown (Europe).gba" size="4194304" sha1="4e37071533e946efd4166efc409562cc21af83d2" crc="6968959a" />
     <rom name="Defender of the Crown (USA).gba" size="4194304" sha1="efbea6dfa027a578e4f9878768a82c9bd7f2c31c" crc="de6698fe" />
+  </game>
+  <game name="01 - Games/Defender">
+    <rom name="Defender (USA).gba" size="4194304" sha1="d9bc7d7a0500c7cf58ce4010071048a6c462b2de" crc="2e271c13" />
+    <rom name="Defender - For All Mankind (Europe) (En,Fr,De,Es,It).gba" size="4194304" sha1="4d45e4109aade339514fdd3ad826ce8cd4cfb5e7" crc="3b86fdc4" />
   </game>
   <game name="01 - Games/Deflektor">
     <rom name="Deflektor (World) (v1.1) (Unl).gba" size="386508" sha1="92682b2404be3b2fd48f96cad0c51f51d07c8159" crc="5ec91001" />
@@ -1877,11 +1888,6 @@
     <rom name="Disney Sports - Basketball (Japan).gba" size="16777216" sha1="eec333260cf38d0b9288a8f8cafd6d2db22c8ca6" crc="3911b4b6" />
     <rom name="Disney Sports - Basketball (USA).gba" size="16777216" sha1="8999364d93339017743ab280d22fda6c61be3f42" crc="80ec6cf0" />
   </game>
-  <game name="01 - Games/Disney Sports - Soccer">
-    <rom name="Disney Sports - Football (Soccer) (Europe) (En,Fr,De,Es,It).gba" size="16777216" sha1="5d0698e4f0735b730ea78975dd5b2049931b622a" crc="33f73199" />
-    <rom name="Disney Sports - Soccer (Japan).gba" size="16777216" sha1="c673503b5d0fccf72bac845888280d7202d0e84c" crc="680957e7" />
-    <rom name="Disney Sports - Soccer (USA).gba" size="16777216" sha1="637e62e9173daa1e8a022c60a995070079c6fe32" crc="2f1316d2" />
-  </game>
   <game name="01 - Games/Disney Sports - Football">
     <rom name="2 Disney Games - Disney Sports - Football + Disney Sports - Skateboarding (Europe) (En,Fr,De,Es,It).gba" size="33554432" sha1="04e81e2488e988810332eb215651ef7e57c95bf3" crc="c8cdb4ed" />
     <rom name="Disney Sports - American Football (Japan).gba" size="16777216" sha1="6ff7aba52a2728d19059a2b496928649f33bd73b" crc="b92e9057" />
@@ -1902,6 +1908,11 @@
     <rom name="Disney Sports - Snowboarding (Europe) (En,Fr,De,Es,It).gba" size="16777216" sha1="c7171637404a6ee61e77ac02e08ac08d2d443367" crc="77b7fcce" />
     <rom name="Disney Sports - Snowboarding (Japan).gba" size="16777216" sha1="3eee23c92b6b3e5428c450806b54f155ac0b126b" crc="bdc23a47" />
     <rom name="Disney Sports - Snowboarding (USA).gba" size="16777216" sha1="7e5ccf21f13e115a811dc19310390a9beacff07f" crc="4733693c" />
+  </game>
+  <game name="01 - Games/Disney Sports - Soccer">
+    <rom name="Disney Sports - Football (Soccer) (Europe) (En,Fr,De,Es,It).gba" size="16777216" sha1="5d0698e4f0735b730ea78975dd5b2049931b622a" crc="33f73199" />
+    <rom name="Disney Sports - Soccer (Japan).gba" size="16777216" sha1="c673503b5d0fccf72bac845888280d7202d0e84c" crc="680957e7" />
+    <rom name="Disney Sports - Soccer (USA).gba" size="16777216" sha1="637e62e9173daa1e8a022c60a995070079c6fe32" crc="2f1316d2" />
   </game>
   <game name="01 - Games/Disney's Game + TV Episode - Lizzie McGuire 2 - Lizzie Diaries">
     <rom name="Disney's Game + TV Episode - Lizzie McGuire 2 - Lizzie Diaries (USA) (En,Fr).gba" size="33554432" sha1="14a56541b7a4196600f7392269db67fc1bebbaff" crc="2706b300" />
@@ -2233,6 +2244,9 @@
     <rom name="Duke Nukem Advance (USA).gba" size="8388608" sha1="ef9d2c9910a95e456447ee7288ae5aa659b33ad2" crc="06570282" />
     <rom name="Duke Nukem Advance (World) (En,Fr,De,It) (Evercade).gba" size="8388608" sha1="926b6c74d408cb3ff37a5276ddc3be8e2512c0b3" crc="2b077058" />
   </game>
+  <game name="01 - Games/Dungeon Durban">
+    <rom name="Dungeon Durban (World) (v1.0.1) (Aftermarket) (Unl).gba" size="3377424" sha1="25d1f4978524c9cecda222e23bf3fdd8e295814d" crc="9c5d3395" />
+  </game>
   <game name="01 - Games/Dungeon Tactics Advance">
     <rom name="Dungeon Tactics Advance (World) (Aftermarket) (Unl).gba" size="8867571" sha1="3e5598cd920cdd6681b1b9ba86b1572ab3c2b05a" crc="c8385702" />
     <rom name="Dungeon Tactics Advance (World) (GBA Jam 2024) (Aftermarket) (Unl).gba" size="8866693" sha1="7d094d959a0752aacc30de7be1094f3cd76267fb" crc="b86cc21c" />
@@ -2318,10 +2332,6 @@
     <rom name="Ecks V Sever (Europe) (En,Fr,De,Es,It).gba" size="8388608" sha1="ca100b4a9b96207912b0e4eda068452a2d79613e" crc="af726026" />
     <rom name="Ecks vs Sever (USA) (En,Fr,De,Es,It).gba" size="8388608" sha1="cf1d42089bec9b6c9dac7c6dfb7cd28c0cca2b51" crc="86a861f1" />
   </game>
-  <game name="01 - Games/Ballistic - Ecks vs. Sever">
-    <rom name="Ballistic - Ecks vs. Sever (USA).gba" size="8388608" sha1="d66a33c71466ffb6558ba6381156d14f73c8c6d8" crc="0477f153" />
-    <rom name="Ecks vs. Sever II - Ballistic (Europe) (En,Fr,De,Es,It).gba" size="8388608" sha1="f294d72470c4001c6ed66baeaa8745edfb011762" crc="83297d13" />
-  </game>
   <game name="01 - Games/Ed, Edd n Eddy - Jawbreakers!">
     <rom name="Ed, Edd n Eddy - Jawbreakers! (Europe) (En,Fr,De,Es,It).gba" size="4194304" sha1="7c12385a5933260aae3b30206a09071f6203d406" crc="e7f6e42f" />
     <rom name="Ed, Edd n Eddy - Jawbreakers! (USA) (Rev 1).gba" size="4194304" sha1="3559337718fd907560b6bad384170cc0cb997099" crc="315a9114" />
@@ -2370,6 +2380,12 @@
   <game name="01 - Games/Elite AGB/~Prototypes and Betas">
     <rom name="Elite AGB (World) (Beta) (Aftermarket) (Unl).gba" size="327360" sha1="ce5a236608c629c99d4ec7b35e3ccaf211e6bb60" crc="f00c939f" />
   </game>
+  <game name="01 - Games/Elland - The Crystal Wars">
+    <rom name="Elland - The Crystal Wars (World) (Digital) (Aftermarket) (Unl).gba" size="4016344" sha1="67617136f205fa071d9fc239df09471e603c675c" crc="e3128bcb" />
+  </game>
+  <game name="01 - Games/Elland - The Crystal Wars/~Prototypes and Betas">
+    <rom name="Frank Herbert's Dune - Ornithopter Assault (Europe) (En,Fr,De,Es,It) (Proto).gba" size="4194304" sha1="1d317fb050f6d5b850f4b88b72f3420cb175edf3" crc="298d627b" />
+  </game>
   <game name="01 - Games/Enchanted - Once Upon Andalasia">
     <rom name="Enchanted - Once Upon Andalasia (USA) (En,Fr).gba" size="8388608" sha1="32d13e77a1fde9d28d95f867ee11b85df95d833e" crc="af23ffff" />
   </game>
@@ -2382,10 +2398,6 @@
   </game>
   <game name="01 - Games/Escape 2042 - The Truth Defenders">
     <rom name="Escape 2042 - The Truth Defenders (World) (En,Ja,Fr,Es) (Digital) (Aftermarket) (Unl).gba" size="16777216" sha1="53b9e366e5873f1ac71880f906fd9a43ebb86f6e" crc="d8dbb64c" />
-  </game>
-  <game name="01 - Games/Super Army War">
-    <rom name="Essence of War, The - Glory Days (Europe) (En,Fr,De,Es,It).gba" size="4194304" sha1="d7e72d3edfab366962741a8959985439cbb8541b" crc="84adb2c3" />
-    <rom name="Super Army War (USA).gba" size="4194304" sha1="2840446005baa66e8b224f756d07caa7de25a5dc" crc="baf484be" />
   </game>
   <game name="01 - Games/European Super League">
     <rom name="European Super League (Europe) (En,Fr,De,Es,It).gba" size="4194304" sha1="f505d1f50b8c0ba2c571c67702d00ad7ca4ecd3a" crc="748ad738" />
@@ -2771,12 +2783,6 @@
     <rom name="Foster's Home for Imaginary Friends (Europe).gba" size="4194304" sha1="0b60fdbd2991bbc7e7ff1933cc5947be3e69411d" crc="dee47a85" />
     <rom name="Foster's Home for Imaginary Friends (USA).gba" size="4194304" sha1="9dcfddf55a2a60db2946e52959d82cb53c63e7df" crc="d7c80592" />
   </game>
-  <game name="01 - Games/Elland - The Crystal Wars">
-    <rom name="Elland - The Crystal Wars (World) (Digital) (Aftermarket) (Unl).gba" size="4016344" sha1="67617136f205fa071d9fc239df09471e603c675c" crc="e3128bcb" />
-  </game>
-  <game name="01 - Games/Elland - The Crystal Wars/~Prototypes and Betas">
-    <rom name="Frank Herbert's Dune - Ornithopter Assault (Europe) (En,Fr,De,Es,It) (Proto).gba" size="4194304" sha1="1d317fb050f6d5b850f4b88b72f3420cb175edf3" crc="298d627b" />
-  </game>
   <game name="01 - Games/Franklin the Turtle">
     <rom name="Franklin the Turtle (Europe) (En,Fr,De,Es,It,Sv,No,Da,Fi) (Rev 2).gba" size="4194304" sha1="ce978dbda60ddbee77657a60cf2102722e645dcf" crc="a0952cd0" />
     <rom name="Franklin the Turtle (Europe) (En,Fr,De,It,Sv,No,Da,Fi) (Rev 1).gba" size="4194304" sha1="5211fb864a60461f7ae20c42e2bf60e08a9f96ba" crc="1a2f7ee6" />
@@ -2796,10 +2802,6 @@
   </game>
   <game name="01 - Games/Freekstyle/~Prototypes and Betas">
     <rom name="Freekstyle (Europe) (En,Fr,De,Es,It) (Beta).gba" size="8388608" sha1="3b6a77bd6ada98a777c9ece406aec0985f7645bd" crc="211dfd7f" />
-  </game>
-  <game name="01 - Games/Razor Freestyle Scooter">
-    <rom name="Freestyle Scooter (Europe).gba" size="4194304" sha1="43ce66e7c5e7892350af8e6c905559de007b9ff9" crc="0187988f" />
-    <rom name="Razor Freestyle Scooter (USA).gba" size="4194304" sha1="8b946e0727ce428e3e75c1b19e4e7749bcc19fe4" crc="ffe38431" />
   </game>
   <game name="01 - Games/Frogger Advance - The Great Quest">
     <rom name="Frogger Advance - The Great Quest (Europe) (En,Fr,De,Es,It).gba" size="8388608" sha1="776e2f4306a9561d2130e341764f27f7c16c5637" crc="8873bd29" />
@@ -2927,10 +2929,11 @@
   <game name="01 - Games/Gachinko Pro Yakyuu">
     <rom name="Gachinko Pro Yakyuu (Japan).gba" size="8388608" sha1="e3a4e08507b6dada3dac464888e8cb97dec3a33a" crc="81de0c16" />
   </game>
-  <game name="01 - Games/Shifting Gears - Road Trip">
-    <rom name="Choro Q Advance 2 (Japan).gba" size="4194304" sha1="ca76d5c2af1caf0b2562f922c99a0109586e9227" crc="f5ed5f14" />
-    <rom name="Gadget Racers (Europe) (En,Fr,De).gba" size="8388608" sha1="7a7cd2860c677aaf6d45814877727e0077c7707b" crc="d2bc5027" />
-    <rom name="Shifting Gears - Road Trip (USA).gba" size="4194304" sha1="9a332cec82dff9130248a2525d0151fae52dd258" crc="549bf1c5" />
+  <game name="01 - Games/Gadget Racers">
+    <rom name="Choro Q Advance (Japan) (Rev 1).gba" size="4194304" sha1="6fc128f6498801fdd5137c9cd3ad2c55335c12b9" crc="872bc075" />
+    <rom name="Choro Q Advance (Japan).gba" size="4194304" sha1="f7997151c77f5e78c72195a32d96b2354fe5267a" crc="93fe0e34" />
+    <rom name="Gadget Racers (USA).gba" size="4194304" sha1="bef8444d0730b61e55883cc3edf754f884f7df61" crc="95dd156a" />
+    <rom name="Penny Racers (Europe).gba" size="4194304" sha1="7c097634fadc6270873a4a5cf2eb0a8beb3c9e6e" crc="8fddd48b" />
   </game>
   <game name="01 - Games/Gakkou no Kaidan - Hyakuyoubako no Fuuin">
     <rom name="Gakkou no Kaidan - Hyakuyoubako no Fuuin (Japan).gba" size="8388608" sha1="f7e55c8a94eec49ef9eed39ac076688de2ee5a42" crc="5847a906" />
@@ -2966,6 +2969,9 @@
   </game>
   <game name="01 - Games/Galidor - Defenders of the Outer Dimension">
     <rom name="Galidor - Defenders of the Outer Dimension (USA) (En,Fr,De,Es,It,Nl,Sv,Da).gba" size="4194304" sha1="86cf0842e9fcbdfe6240be580e08ae44e0a07a47" crc="4d8f49f9" />
+  </game>
+  <game name="01 - Games/Gambit Advance">
+    <rom name="Gambit Advance (World) (v1.1) (Aftermarket) (Unl).gba" size="2077496" sha1="b7f4b329b2afdf86ff2069ffe97b06cb249e7c58" crc="f4942faa" />
   </game>
   <game name="01 - Games/Gambler Densetsu Tetsuya - Yomigaeru Densetsu">
     <rom name="Gambler Densetsu Tetsuya - Yomigaeru Densetsu (Japan).gba" size="8388608" sha1="bf4664ec225ed66e72e98393b9b6ec10b3cc9b10" crc="8a879018" />
@@ -3022,6 +3028,16 @@
   <game name="01 - Games/Game Boy Wars Advance 1+2">
     <rom name="Game Boy Wars Advance 1+2 (Japan) (Virtual Console).gba" size="16777216" sha1="d3c18e797fd748f9c6197ea7444f6ee4db5671e7" crc="f8d3b3c6" />
     <rom name="Game Boy Wars Advance 1+2 (Japan).gba" size="16777216" sha1="0e805762d02df41a7c1f840569d17efb2fb92b1c" crc="49ee1fdd" />
+  </game>
+  <game name="01 - Games/GameShark GBA">
+    <rom name="Action Replay GBX (Europe) (En,Fr,De,It) (Unl) (Alt).gba" size="262144" sha1="6f1f797c4f2c7751be8783adb159a27849c2e2b7" crc="45bb6f4e" />
+    <rom name="Action Replay GBX (Europe) (En,Fr,De,It) (Unl).gba" size="262144" sha1="3fc60fa1b564afcc6f70e3b8a106158e03bbb463" crc="18ce5322" />
+    <rom name="Action Replay GBX (Europe) (Unl).gba" size="262144" sha1="ee4815180741c99ba75de06a95aa7536d6264152" crc="5ad72359" />
+    <rom name="Action Replay GBX (France) (Unl).gba" size="262144" sha1="ceb078f364377d7bc7c607b2f01f4364b32ff952" crc="f1173773" />
+    <rom name="Action Replay GBX (Germany) (Unl).gba" size="262144" sha1="c7a76d5ff800a826116c3c66c437f72040fc8845" crc="d6260d4c" />
+    <rom name="Action Replay GBX (Italy) (Unl).gba" size="262144" sha1="c2429be391948e9e6e1db9c3a4073a57dfcf90ab" crc="7de61966" />
+    <rom name="GameShark GBA (USA) (Unl) (Alt).gba" size="262144" sha1="9ab35e211ac9cc4aa4ce594c073b44c630e46814" crc="9ad94c62" />
+    <rom name="GameShark GBA (USA) (Unl).gba" size="262144" sha1="02dc2e2ab31ad5111f3efad391f66945344f33e3" crc="d71dbca6" />
   </game>
   <game name="01 - Games/Games Explosion!">
     <rom name="Games Explosion! (USA).gba" size="4194304" sha1="f2d95cabf5cd75ee4ebcdf7b8ef669c6d8ede989" crc="68d63d5f" />
@@ -3879,6 +3895,11 @@
     <rom name="Killer 3D Pool (Europe) (En,Fr,De,Es,It).gba" size="4194304" sha1="a4e3107f0797d42ee8888488cf0f87af140b8652" crc="e6fda065" />
     <rom name="Killer 3D Pool (USA).gba" size="4194304" sha1="9e988cb32c8b56ee2c3521ce1800e82289048840" crc="1f12d048" />
   </game>
+  <game name="01 - Games/Kim Possible - Revenge of Monkey Fist">
+    <rom name="Kim Possible (Europe) (En,Fr,De,Es) (Rev 1).gba" size="8388608" sha1="1df47750be1b14faed828fae3719cd18d3bf47fb" crc="48428c2a" />
+    <rom name="Kim Possible (Europe) (En,Fr,De,Es).gba" size="8388608" sha1="d0b5ab22924481efccafd2ac10bab93cca4085d6" crc="0c35d0fc" />
+    <rom name="Kim Possible - Revenge of Monkey Fist (USA).gba" size="8388608" sha1="64ef958beae876d3a6c295d0351d671b6991774b" crc="1a56efbd" />
+  </game>
   <game name="01 - Games/Kim Possible 2 - Drakken's Demise">
     <rom name="Kim Possible (Japan).gba" size="8388608" sha1="298448c533d1733672e3cb1e6860e8443d38e643" crc="69843f73" />
     <rom name="Kim Possible 2 - Drakken's Demise (Europe) (En,Fr,De,Es).gba" size="8388608" sha1="eb4099911dbd28073c554f4d4fa35cbeed82bc6b" crc="71c505c8" />
@@ -3886,16 +3907,6 @@
   </game>
   <game name="01 - Games/Kim Possible 3 - Team Possible">
     <rom name="Kim Possible 3 - Team Possible (USA) (En,Fr).gba" size="8388608" sha1="47e99dcdbd97238778318dfd53421690e7acb48e" crc="fdec60ec" />
-  </game>
-  <game name="01 - Games/Kim Possible - Revenge of Monkey Fist">
-    <rom name="Kim Possible (Europe) (En,Fr,De,Es) (Rev 1).gba" size="8388608" sha1="1df47750be1b14faed828fae3719cd18d3bf47fb" crc="48428c2a" />
-    <rom name="Kim Possible (Europe) (En,Fr,De,Es).gba" size="8388608" sha1="d0b5ab22924481efccafd2ac10bab93cca4085d6" crc="0c35d0fc" />
-    <rom name="Kim Possible - Revenge of Monkey Fist (USA).gba" size="8388608" sha1="64ef958beae876d3a6c295d0351d671b6991774b" crc="1a56efbd" />
-  </game>
-  <game name="01 - Games/Kong - The 8th Wonder of the World">
-    <rom name="King Kong - The Official Game of the Movie (Europe) (En,Fr,De,Es,It,Nl).gba" size="8388608" sha1="c71426b1fa93206199ca4a3f4a1324186dd275ca" crc="37387b19" />
-    <rom name="King Kong - The Official Game of the Movie (Europe) (En,Sv,No,Da,Fi).gba" size="8388608" sha1="ecfb6409abb7ff429aadc65a6b953dbaef3d09d8" crc="439a92eb" />
-    <rom name="Kong - The 8th Wonder of the World (USA) (En,Fr,Es).gba" size="8388608" sha1="ea685cc54241309d8747e2a88c6ba2b8141a776e" crc="06079c42" />
   </game>
   <game name="01 - Games/King of Fighters EX 2, The - Howling Blood">
     <rom name="King of Fighters EX 2, The - Howling Blood (Europe).gba" size="8388608" sha1="38fec1391a0ff02f19c10cacf8e61414c640beba" crc="9e8baa87" />
@@ -4031,6 +4042,11 @@
   <game name="01 - Games/Kong - King of Atlantis">
     <rom name="Kong - King of Atlantis (Europe).gba" size="4194304" sha1="f235de9845182b1c28b98fe716f3332481fb1975" crc="9c12cd31" />
     <rom name="Kong - King of Atlantis (USA).gba" size="4194304" sha1="e490a1a0954d349f54c60e18c66c32977c6c6e30" crc="5e8b2644" />
+  </game>
+  <game name="01 - Games/Kong - The 8th Wonder of the World">
+    <rom name="King Kong - The Official Game of the Movie (Europe) (En,Fr,De,Es,It,Nl).gba" size="8388608" sha1="c71426b1fa93206199ca4a3f4a1324186dd275ca" crc="37387b19" />
+    <rom name="King Kong - The Official Game of the Movie (Europe) (En,Sv,No,Da,Fi).gba" size="8388608" sha1="ecfb6409abb7ff429aadc65a6b953dbaef3d09d8" crc="439a92eb" />
+    <rom name="Kong - The 8th Wonder of the World (USA) (En,Fr,Es).gba" size="8388608" sha1="ea685cc54241309d8747e2a88c6ba2b8141a776e" crc="06079c42" />
   </game>
   <game name="01 - Games/Kong - The Animated Series">
     <rom name="Kong - The Animated Series (Europe) (En,Fr,De,Es,It,Nl).gba" size="8388608" sha1="548e72482b45662a094ed7f3d2501ba506d5c490" crc="7a7b060f" />
@@ -4195,9 +4211,21 @@
     <rom name="Lemony Snicket's A Series of Unfortunate Events (Europe) (Fr,Es).gba" size="16777216" sha1="8fb149daf6bdda4195cc2307c08dc75d434ae8ac" crc="63e02a0d" />
     <rom name="Lemony Snicket's A Series of Unfortunate Events (USA, Europe).gba" size="16777216" sha1="f852812f37b3fb8fae36354e2213da3db4804c36" crc="72ba6b8c" />
   </game>
+  <game name="01 - Games/Let's Ride! - Dreamer">
+    <rom name="Let's Ride! - Dreamer (USA).gba" size="4194304" sha1="b8138baa3540aa5b122fb3901770ca98517f2411" crc="1d96366c" />
+    <rom name="Paard &amp; Pony - Paard in Galop (Netherlands) (En,Nl).gba" size="4194304" sha1="38ae3b180ad31e7fd0787f5b7fe983a4bacd6c03" crc="b6fc77f3" />
+    <rom name="Pferd &amp; Pony - Lass Uns Reiten 2 (Germany) (En,De).gba" size="4194304" sha1="32ec6383f46a3195be58abb82d8ff391b1634371" crc="6217469f" />
+    <rom name="Pippa Funnell 2 (Europe) (En,Fr).gba" size="4194304" sha1="b7fd71d22da6bdc16b8f780fc8d10587c3dff41a" crc="f3c274c2" />
+  </game>
   <game name="01 - Games/Let's Ride! - Friends Forever">
     <rom name="Let's Ride! - Friends Forever (USA).gba" size="8388608" sha1="703f325efccbab71e6aa16ac6d22dd9de3e0f9b6" crc="8bdd13ad" />
     <rom name="Pferd &amp; Pony - Best Friends - Mein Pferd (Germany) (En,De).gba" size="8388608" sha1="87332ff941902a413d3aa0a4e3951122ba111a96" crc="aa02cb0c" />
+  </game>
+  <game name="01 - Games/Let's Ride! - Sunshine Stables">
+    <rom name="Let's Ride! - Sunshine Stables (USA).gba" size="4194304" sha1="29fa6cff3df328e45925343b8c73c1db2c3e16c7" crc="684eb887" />
+    <rom name="Paard &amp; Pony - Mijn Manege (Netherlands) (En,Nl).gba" size="4194304" sha1="0c5261a97fe9555c5705d78be73402d4fa34ebf8" crc="1f2708d5" />
+    <rom name="Pferd &amp; Pony - Mein Pferdehof (Germany) (En,De).gba" size="4194304" sha1="51152c4ca5a2e8c8680db8f70501452c967d8320" crc="cc74b433" />
+    <rom name="Pippa Funnell - Stable Adventure (Europe) (En,Fr).gba" size="4194304" sha1="d48f95cb74d8097c143870cf3026b9426d15e4f8" crc="1c1846c2" />
   </game>
   <game name="01 - Games/Licca-chan no Oshare Nikki">
     <rom name="Licca-chan no Oshare Nikki (Japan).gba" size="8388608" sha1="ad6edc1452c1258f51b162809edf3aa473fd371c" crc="e9f62fe0" />
@@ -4247,14 +4275,14 @@
   <game name="01 - Games/Little Patissier - Cake no Oshiro">
     <rom name="Little Patissier - Cake no Oshiro (Japan).gba" size="8388608" sha1="8d121cfeb6c88a4cf2d34f8e9979811d60543d6d" crc="8fea41c4" />
   </game>
-  <game name="01 - Games/Lizzie McGuire 3 - Homecoming Havoc">
-    <rom name="Lizzie McGuire 3 - Homecoming Havoc (USA).gba" size="8388608" sha1="991f6fa3ea46f00b3a1e553ea89c4aafc4f2e8a6" crc="a2843980" />
-  </game>
   <game name="01 - Games/Lizzie McGuire - On the Go!">
     <rom name="2 Games in 1 - Disney Princesas + Lizzie McGuire (Spain).gba" size="16777216" sha1="0e55f66efcad4fe80b75942c1d42a86fb8cbcb74" crc="57f886b0" />
     <rom name="2 Games in 1 - Disney Princess + Lizzie McGuire (Europe).gba" size="16777216" sha1="5a5c56306cfce32fd04b330666272d2e9c88057f" crc="99c96067" />
     <rom name="Lizzie McGuire (Europe) (En,Fr,De,Es).gba" size="4194304" sha1="50786b17708d91c05ec3c3058a3a1106f524fae3" crc="7e9283f2" />
     <rom name="Lizzie McGuire - On the Go! (USA).gba" size="4194304" sha1="084add8893bae03836d33a1c7bdede5f12741663" crc="70ded768" />
+  </game>
+  <game name="01 - Games/Lizzie McGuire 3 - Homecoming Havoc">
+    <rom name="Lizzie McGuire 3 - Homecoming Havoc (USA).gba" size="8388608" sha1="991f6fa3ea46f00b3a1e553ea89c4aafc4f2e8a6" crc="a2843980" />
   </game>
   <game name="01 - Games/Lode Runner">
     <rom name="Lode Runner (Japan).gba" size="4194304" sha1="4a52758503a0b6fff2f42277686a6d0c2dbd07f8" crc="3e2cf3ff" />
@@ -4450,11 +4478,6 @@
     <rom name="Manga-ka Debut Monogatari - Akogare! Manga Ka Ikusei Game! (Japan) (Rev 1).gba" size="4194304" sha1="78c57d1062830074166da3192b01d0d0ae9afaeb" crc="f0c22c62" />
     <rom name="Manga-ka Debut Monogatari - Akogare! Manga Ka Ikusei Game! (Japan).gba" size="4194304" sha1="5f7c1b88b8c7caa57a0af81cd3ae74171abe50d1" crc="61a602d7" />
   </game>
-  <game name="01 - Games/Motocross Maniacs Advance">
-    <rom name="Maniac Racers Advance (Europe) (En,Fr,De,Es,It).gba" size="4194304" sha1="ec8ba8e51dd42c3267deab0f9ad1701c53d0e763" crc="2412c5eb" />
-    <rom name="Motocross Maniacs Advance (Japan).gba" size="4194304" sha1="3d50e9440674c3c2a584d85cbe57e422654bf876" crc="043a3554" />
-    <rom name="Motocross Maniacs Advance (USA) (En,Es).gba" size="4194304" sha1="990ba3a3e1660e7ddacfe21f03014d57d1e6d6a5" crc="0a0faef4" />
-  </game>
   <game name="01 - Games/Manic Miner">
     <rom name="Manic Miner (Europe) (En,Fr,De,Es,It).gba" size="8388608" sha1="c9f2af2bf740a42065c585798507d925543aa512" crc="138439f4" />
   </game>
@@ -4554,6 +4577,15 @@
     <rom name="Mario Party Advance (Japan).gba" size="8388608" sha1="f99eb117ff81995b22e19a34437938113e32c69a" crc="baa4a82b" />
     <rom name="Mario Party Advance (USA) (Virtual Console).gba" size="8388608" sha1="f23b5792d5ecfce966e83f7fcc7c330542da888d" crc="1d910a62" />
     <rom name="Mario Party Advance (USA).gba" size="8388608" sha1="fa917d74d592260c3d6142a969fcbd94156f956b" crc="f094a4cb" />
+  </game>
+  <game name="01 - Games/Mario Pinball Land">
+    <rom name="Mario Pinball Land (USA) (Kiosk, GameCube).gba" size="8388608" sha1="467b0632d20e6d23741a768bcdfd5a593770d255" crc="799a1e40" />
+    <rom name="Mario Pinball Land (USA) (Virtual Console).gba" size="8388608" sha1="60a3d35e0202a537ccf4284dd57db250d29fd379" crc="a0d418a4" />
+    <rom name="Mario Pinball Land (USA, Australia).gba" size="8388608" sha1="3fdcd3bb30d61b4dd6829dbdc1a0ac116618b87d" crc="70a6d2c1" />
+    <rom name="Super Mario Ball (Europe) (Virtual Console).gba" size="8388608" sha1="e3ee63bf92340a50085cb905e167c03f3c60b72a" crc="3b15e886" />
+    <rom name="Super Mario Ball (Europe).gba" size="8388608" sha1="d53fbc63e08c15bfdc045b5664fe24e8e2718469" crc="3b035681" />
+    <rom name="Super Mario Ball (Japan) (Virtual Console).gba" size="8388608" sha1="0c7f6d50787b93b59ff505b3d16712b60db63ce7" crc="cf9914ae" />
+    <rom name="Super Mario Ball (Japan).gba" size="8388608" sha1="3baa3735aed4cfc6c7c5a157e7ea0285ac40b1ef" crc="7eb4a336" />
   </game>
   <game name="01 - Games/Mario Tennis - Power Tour">
     <rom name="Mario Power Tennis (Europe) (En,Fr,De,Es,It) (Virtual Console).gba" size="16777216" sha1="24087080476ce04853455fd82f09c4d8c65604d1" crc="851a44cb" />
@@ -4701,12 +4733,6 @@
     <rom name="Rockman &amp; Forte (Japan) (Virtual Console).gba" size="8388608" sha1="4d73babb7ba636e6ea6f849b8d5653094a9fb7d3" crc="b4090702" />
     <rom name="Rockman &amp; Forte (Japan).gba" size="8388608" sha1="f8eb056745e8b58c1ef4bfef995c77a27aadc57a" crc="ce2b48c4" />
   </game>
-  <game name="01 - Games/Mega Man Zero">
-    <rom name="Mega Man Zero (USA) (Virtual Console).gba" size="8388608" sha1="7279705e24d32895dada7f5476f68bbc33dd643b" crc="9c77209c" />
-    <rom name="Mega Man Zero (USA, Europe).gba" size="8388608" sha1="193b14120119162518a73c70876f0b8bffdbd96e" crc="9707d2a1" />
-    <rom name="Rockman Zero (Japan) (Virtual Console).gba" size="8388608" sha1="f23c299ea127585d3b1198ca4efc10a2184b6a5b" crc="e85a6525" />
-    <rom name="Rockman Zero (Japan).gba" size="8388608" sha1="b07dfd200c49739d33598f6142157d659997e097" crc="ff2a67b1" />
-  </game>
   <game name="01 - Games/Mega Man - Battle Chip Challenge">
     <rom name="Mega Man - Battle Chip Challenge (USA) (Virtual Console).gba" size="8388608" sha1="e936db20e9cf923dc10c6c1dc14bc7ed6b220080" crc="59fc1ef6" />
     <rom name="Mega Man - Battle Chip Challenge (USA).gba" size="8388608" sha1="72309736f3820470c6f372d6a05ad1f16bc5a946" crc="26be44fd" />
@@ -4851,6 +4877,12 @@
     <rom name="Megaman Zero 4 (Europe).gba" size="16777216" sha1="8e13b9ee89a2ed665212daa401ba9331ad11bda9" crc="b7f022b9" />
     <rom name="Rockman Zero 4 (Japan) (Virtual Console).gba" size="16777216" sha1="cde35c11aa6a4200cfd5e5b886c27c4e751b5051" crc="41e7180e" />
     <rom name="Rockman Zero 4 (Japan).gba" size="16777216" sha1="dc554adcd18eb78132b4fb724a1c69779f75d114" crc="ece42d0e" />
+  </game>
+  <game name="01 - Games/Mega Man Zero">
+    <rom name="Mega Man Zero (USA) (Virtual Console).gba" size="8388608" sha1="7279705e24d32895dada7f5476f68bbc33dd643b" crc="9c77209c" />
+    <rom name="Mega Man Zero (USA, Europe).gba" size="8388608" sha1="193b14120119162518a73c70876f0b8bffdbd96e" crc="9707d2a1" />
+    <rom name="Rockman Zero (Japan) (Virtual Console).gba" size="8388608" sha1="f23c299ea127585d3b1198ca4efc10a2184b6a5b" crc="e85a6525" />
+    <rom name="Rockman Zero (Japan).gba" size="8388608" sha1="b07dfd200c49739d33598f6142157d659997e097" crc="ff2a67b1" />
   </game>
   <game name="01 - Games/Meitantei Conan - Akatsuki no Monument">
     <rom name="Meitantei Conan - Akatsuki no Monument (Japan).gba" size="8388608" sha1="d971b2fbbcb0f6cb378a226902fe44f8cfeb99eb" crc="c048b723" />
@@ -5192,6 +5224,11 @@
   <game name="01 - Games/Motocross Challenge/~Prototypes and Betas">
     <rom name="Motocross Challenge (USA) (Proto).gba" size="4194304" sha1="b778b784cca09b381f2948c260355bde0a84bc56" crc="e5a7de43" />
   </game>
+  <game name="01 - Games/Motocross Maniacs Advance">
+    <rom name="Maniac Racers Advance (Europe) (En,Fr,De,Es,It).gba" size="4194304" sha1="ec8ba8e51dd42c3267deab0f9ad1701c53d0e763" crc="2412c5eb" />
+    <rom name="Motocross Maniacs Advance (Japan).gba" size="4194304" sha1="3d50e9440674c3c2a584d85cbe57e422654bf876" crc="043a3554" />
+    <rom name="Motocross Maniacs Advance (USA) (En,Es).gba" size="4194304" sha1="990ba3a3e1660e7ddacfe21f03014d57d1e6d6a5" crc="0a0faef4" />
+  </game>
   <game name="01 - Games/Mouse Trap">
     <rom name="3 Game Pack! - Mouse Trap + Simon + Operation (USA).gba" size="4194304" sha1="10bed6b69f8984af49299885fda0575fce442a9c" crc="20287753" />
   </game>
@@ -5261,11 +5298,6 @@
   </game>
   <game name="01 - Games/NEONnoir">
     <rom name="NEONnoir (World) (Aftermarket) (Unl).gba" size="2793156" sha1="79ecb462336f0dbb85c517481abf5c414d82cc02" crc="34220044" />
-  </game>
-  <game name="01 - Games/Classic NES Series - Castlevania">
-    <rom name="Classic NES Series - Castlevania (USA).gba" size="1048576" sha1="47a60315ed4074a8c986723b95b3c90513d3b35c" crc="23e4082c" />
-    <rom name="Famicom Mini 29 - Akumajou Dracula (Japan).gba" size="1048576" sha1="1684686077712875ba9d785642bba21e8cb8f5ba" crc="11419d8b" />
-    <rom name="NES Classics - Castlevania (Europe).gba" size="1048576" sha1="8bc8740a681e4d365419dbcee73619fe4429d66e" crc="497e3279" />
   </game>
   <game name="01 - Games/NFL Blitz 2002">
     <rom name="NFL Blitz 2002 (USA).gba" size="4194304" sha1="590196c49eb4b33d933db60d58a1d0efd94b3f7b" crc="8c748dcb" />
@@ -5368,12 +5400,30 @@
   <game name="01 - Games/Next Generation Tennis">
     <rom name="Next Generation Tennis (Europe) (En,Fr,De,Es,It,Pt).gba" size="4194304" sha1="2102374344073807ab26f3804d77cc4fe29b3590" crc="5297693a" />
   </game>
+  <game name="01 - Games/Nicktoons - Attack of the Toybots">
+    <rom name="Nicktoons - Attack of the Toybots (USA).gba" size="4194304" sha1="1c33f64c2791b7766b23fae1272036b008bddc1a" crc="dda9a035" />
+    <rom name="SpongeBob and Friends - Attack of the Toybots (Europe) (En,De).gba" size="4194304" sha1="7d698125b0441638953a0e10057b6b29f779cb61" crc="f0b0f53c" />
+  </game>
+  <game name="01 - Games/Nicktoons - Battle for Volcano Island">
+    <rom name="Nicktoons - Battle for Volcano Island (USA).gba" size="4194304" sha1="aea4c43253d2a3d03c9d17224ebe2be49cbc95e0" crc="feafbd72" />
+    <rom name="SpongeBob SquarePants and Friends - Battle for Volcano Island (Europe) (En,Fr,De,Es,It,Nl).gba" size="4194304" sha1="7bd6de4d9f93dd531a7b4acf9be14d38cc73bc85" crc="033229a7" />
+  </game>
+  <game name="01 - Games/Nicktoons - Freeze Frame Frenzy">
+    <rom name="2 Games in 1 - SpongeBob SquarePants - Battle for Bikini Bottom + Nicktoons - Freeze Frame Frenzy (USA).gba" size="16777216" sha1="56026a6d7290e7c09c9e9ac7083e4505ac9d31e5" crc="5802cafd" />
+    <rom name="2 Games in 1 - The SpongeBob SquarePants Movie + SpongeBob SquarePants and Friends in Freeze Frame Frenzy (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,Nl).gba" size="16777216" sha1="0286e31772601f7c7420722e8fbf8a210d562a06" crc="a04cebfe" />
+    <rom name="Nicktoons - Freeze Frame Frenzy (USA).gba" size="4194304" sha1="a200cdaf66606bd724ce7073fd7990ea3fe6bcdd" crc="a8b6766e" />
+    <rom name="SpongeBob SquarePants and Friends in Freeze Frame Frenzy (Europe) (En,Fr,De,Es,Nl).gba" size="4194304" sha1="68e3393496e93704a9484e544aec87cdb81acb04" crc="fc339fc7" />
+  </game>
   <game name="01 - Games/Nicktoons Racing">
     <rom name="Nicktoons Racing (Europe) (En,Fr,De,Es,It).gba" size="4194304" sha1="55b145de1810a4a6a8b5716ef4c9e9333a93e3ba" crc="babccefd" />
     <rom name="Nicktoons Racing (USA).gba" size="4194304" sha1="ad53fdc15c3e68a4ada8f4d902bfd579c6313025" crc="50ab9bb6" />
   </game>
   <game name="01 - Games/Nicktoons Racing/~Prototypes and Betas">
     <rom name="Nicktoons Racing (USA) (Beta).gba" size="4194304" sha1="d553a265d1405bb073034e16ea97e1a2df899025" crc="4ed6e860" />
+  </game>
+  <game name="01 - Games/Nicktoons Unite!">
+    <rom name="Nicktoons Unite! (USA).gba" size="4194304" sha1="e5c1ec46087fdbdb5eca8b3ca98f83ed4bb36620" crc="75c35f7c" />
+    <rom name="SpongeBob SquarePants and Friends Unite! (Europe) (En,Fr,De,Es,Nl).gba" size="4194304" sha1="0b597ce175f42e8fabb64fc278bda50c4357edfa" crc="611cc620" />
   </game>
   <game name="01 - Games/Nihon Pro Mahjong Renmei Kounin - Tetsuman Advance - Menkyo Kaiden Series">
     <rom name="Nihon Pro Mahjong Renmei Kounin - Tetsuman Advance - Menkyo Kaiden Series (Japan).gba" size="4194304" sha1="fc6c75af338224759757ae4b884d516dbfc973ac" crc="085c1184" />
@@ -5581,12 +5631,6 @@
   <game name="01 - Games/Payday">
     <rom name="3 Game Pack! - The Game of Life + Payday + Yahtzee (USA).gba" size="4194304" sha1="167a454e4660629ed99b014c77bd3e4ae9eef294" crc="e6dc35a9" />
   </game>
-  <game name="01 - Games/Gadget Racers">
-    <rom name="Choro Q Advance (Japan) (Rev 1).gba" size="4194304" sha1="6fc128f6498801fdd5137c9cd3ad2c55335c12b9" crc="872bc075" />
-    <rom name="Choro Q Advance (Japan).gba" size="4194304" sha1="f7997151c77f5e78c72195a32d96b2354fe5267a" crc="93fe0e34" />
-    <rom name="Gadget Racers (USA).gba" size="4194304" sha1="bef8444d0730b61e55883cc3edf754f884f7df61" crc="95dd156a" />
-    <rom name="Penny Racers (Europe).gba" size="4194304" sha1="7c097634fadc6270873a4a5cf2eb0a8beb3c9e6e" crc="8fddd48b" />
-  </game>
   <game name="01 - Games/Perfection">
     <rom name="Three-in-One Pack - Connect Four + Perfection + Trouble (USA).gba" size="4194304" sha1="8348577753b79bfdad998c75c1fda0d6569f240e" crc="d482421e" />
   </game>
@@ -5689,18 +5733,6 @@
   </game>
   <game name="01 - Games/Pipe Spin">
     <rom name="Pipe Spin (World) (GBA Jam 2021) (Aftermarket) (Unl).gba" size="3126100" sha1="d4b4b99e644ca1d8202147a8c7ae0309a6f07e74" crc="09d723e2" />
-  </game>
-  <game name="01 - Games/Let's Ride! - Sunshine Stables">
-    <rom name="Let's Ride! - Sunshine Stables (USA).gba" size="4194304" sha1="29fa6cff3df328e45925343b8c73c1db2c3e16c7" crc="684eb887" />
-    <rom name="Paard &amp; Pony - Mijn Manege (Netherlands) (En,Nl).gba" size="4194304" sha1="0c5261a97fe9555c5705d78be73402d4fa34ebf8" crc="1f2708d5" />
-    <rom name="Pferd &amp; Pony - Mein Pferdehof (Germany) (En,De).gba" size="4194304" sha1="51152c4ca5a2e8c8680db8f70501452c967d8320" crc="cc74b433" />
-    <rom name="Pippa Funnell - Stable Adventure (Europe) (En,Fr).gba" size="4194304" sha1="d48f95cb74d8097c143870cf3026b9426d15e4f8" crc="1c1846c2" />
-  </game>
-  <game name="01 - Games/Let's Ride! - Dreamer">
-    <rom name="Let's Ride! - Dreamer (USA).gba" size="4194304" sha1="b8138baa3540aa5b122fb3901770ca98517f2411" crc="1d96366c" />
-    <rom name="Paard &amp; Pony - Paard in Galop (Netherlands) (En,Nl).gba" size="4194304" sha1="38ae3b180ad31e7fd0787f5b7fe983a4bacd6c03" crc="b6fc77f3" />
-    <rom name="Pferd &amp; Pony - Lass Uns Reiten 2 (Germany) (En,De).gba" size="4194304" sha1="32ec6383f46a3195be58abb82d8ff391b1634371" crc="6217469f" />
-    <rom name="Pippa Funnell 2 (Europe) (En,Fr).gba" size="4194304" sha1="b7fd71d22da6bdc16b8f780fc8d10587c3dff41a" crc="f3c274c2" />
   </game>
   <game name="01 - Games/Pirates of the Caribbean - Dead Man's Chest">
     <rom name="Pirates of the Caribbean - Dead Man's Chest (USA, Europe) (En,Fr,De,Es,It).gba" size="16777216" sha1="3a11c76edaad8fa0845b7da55e8ed26e26e09883" crc="d1a67be8" />
@@ -5904,11 +5936,6 @@
     <rom name="3 Games in One! - Yars' Revenge + Asteroids + Pong (Europe) (En,Fr,De,Es,It).gba" size="4194304" sha1="5bc5699e3b877fda022a3a798b46f515ff4f32e6" crc="f42b4e70" />
     <rom name="3 Games in One! - Yars' Revenge + Asteroids + Pong (USA).gba" size="4194304" sha1="b437e06d271115df5897ee68caf826bce87d3c2a" crc="dbd04637" />
   </game>
-  <game name="01 - Games/American Idol">
-    <rom name="American Idol (USA).gba" size="16777216" sha1="13236689db1e2236673ae59c2a8ff84340a8a8c2" crc="f053ffbf" />
-    <rom name="Deutschland Sucht den Superstar (Germany).gba" size="16777216" sha1="ce5253e82671569500af3d5df9d3131916fbe23d" crc="51f50f7d" />
-    <rom name="Pop Idol (Europe).gba" size="16777216" sha1="01fd660267705ed2a290734941b1305478df183f" crc="b9a7e60d" />
-  </game>
   <game name="01 - Games/Popeye - Rush for Spinach">
     <rom name="Popeye - Rush for Spinach (USA, Europe) (En,Fr,De,Es,It).gba" size="4194304" sha1="25ecba1d1d14f497dec7fdc67f6666bb83127077" crc="cffc52dd" />
   </game>
@@ -6023,17 +6050,8 @@
     <rom name="Princess Natasha - Student, Secret Agent, Princess (Europe) (En,Fr,De,Es,It).gba" size="4194304" sha1="82377408e6d621f8a224a6bb2016e8aa88009c8b" crc="e6567686" />
     <rom name="Princess Natasha - Student, Secret Agent, Princess (USA).gba" size="4194304" sha1="c8b9c073c06f2b8f7ab55a4ddf6a4eb8b4f93680" crc="b07cb7ba" />
   </game>
-  <game name="01 - Games/Ultimate Beach Soccer">
-    <rom name="Pro Beach Soccer (Europe) (En,Fr,De,Es,It,Pt).gba" size="4194304" sha1="635504fffd667670df858f76f38fdae7a797b835" crc="7623e41a" />
-    <rom name="Ultimate Beach Soccer (USA).gba" size="4194304" sha1="8d21a404042c2b3c5fd1f6f1b6a28c7c6ff72dd7" crc="5d4d88c5" />
-  </game>
   <game name="01 - Games/Pro Mahjong Tsuwamono GBA">
     <rom name="Pro Mahjong Tsuwamono GBA (Japan).gba" size="4194304" sha1="709071848abd706fd172381c27516c79f8eb796b" crc="e4d9ae55" />
-  </game>
-  <game name="01 - Games/WTA Tour Tennis">
-    <rom name="Pro Tennis WTA Tour (Europe).gba" size="4194304" sha1="9d901c2bb81c2546d09a743e336eb398f166bf0e" crc="f7171521" />
-    <rom name="WTA Tour Tennis (USA).gba" size="4194304" sha1="56b1d64f9baf83d8ec73e2857da62cd5b0bd9851" crc="7f8cb0af" />
-    <rom name="WTA Tour Tennis Pocket (Japan).gba" size="8388608" sha1="2de5495739c9d2057356e95cf84c514b55e41c31" crc="459daf35" />
   </game>
   <game name="01 - Games/Pro Yakyuu Team o Tsukurou! Advance">
     <rom name="Pro Yakyuu Team o Tsukurou! Advance (Japan).gba" size="8388608" sha1="bb5cfd9f3b5cf2f14ed4aaf37553eed87a301fc4" crc="a8a3aa8b" />
@@ -6098,6 +6116,9 @@
   <game name="01 - Games/R-Type III - The Third Lightning">
     <rom name="R-Type III - The Third Lightning (Europe) (En,Fr,De,Es,It).gba" size="4194304" sha1="7cc8d40c5244baa22b94dd382c5ae39f894daaab" crc="41bb7f8a" />
     <rom name="R-Type III - The Third Lightning (USA).gba" size="4194304" sha1="a69527bb63e76f72f2e5e471e171e24a3043e2d9" crc="ea863f4d" />
+  </game>
+  <game name="01 - Games/RALA sutura Advance">
+    <rom name="RALA sutura Advance (World) (Aftermarket) (Unl).gba" size="23048904" sha1="0c72330606ef8e541e4cbcbb009d9fd3c47b369e" crc="13f0e91f" />
   </game>
   <game name="01 - Games/Racing Fever">
     <rom name="Racing Fever (Europe) (En,De,Es,It).gba" size="4194304" sha1="9bb5c036bca8f0d2e06013cac7ea6148a4f7f512" crc="e40ec737" />
@@ -6172,6 +6193,10 @@
     <rom name="Leiman IV - Guangming Zhi Lv (Taiwan) (Unl).gba" size="33554432" sha1="90bb6a90fe3fcf57beb0bb6b69122860c532cf26" crc="d05c8414" />
     <rom name="Rayman IV (Russia) (Unl).gba" size="33554432" sha1="6a2840b0b15e23c0914a5d233183030f050a1148" crc="8ee6b303" />
     <rom name="Rayman IV (USA) (Unl).gba" size="33554432" sha1="0ef17374ee28f903127493bf47c14971aa6ed0b8" crc="d72c620f" />
+  </game>
+  <game name="01 - Games/Razor Freestyle Scooter">
+    <rom name="Freestyle Scooter (Europe).gba" size="4194304" sha1="43ce66e7c5e7892350af8e6c905559de007b9ff9" crc="0187988f" />
+    <rom name="Razor Freestyle Scooter (USA).gba" size="4194304" sha1="8b946e0727ce428e3e75c1b19e4e7749bcc19fe4" crc="ffe38431" />
   </game>
   <game name="01 - Games/Ready 2 Rumble Boxing - Round 2">
     <rom name="Ready 2 Rumble Boxing - Round 2 (Europe) (En,Fr,De).gba" size="4194304" sha1="57d06e405b281f68800b986bd9ff1257e4466939" crc="e418e962" />
@@ -6511,13 +6536,13 @@
     <rom name="Scorpion King, The - Sword of Osiris (Europe) (En,Fr,De,Es,It).gba" size="4194304" sha1="9a483e98d72b1d7d8579511cc9344e5d27bcee61" crc="d5410d32" />
     <rom name="Scorpion King, The - Sword of Osiris (USA).gba" size="4194304" sha1="2224c8080f48073e568d1b75eec32e18bc1f5a09" crc="6e0a8585" />
   </game>
-  <game name="01 - Games/Scrabble Junior">
-    <rom name="Three-in-One Pack - Sorry! + Aggravation + Scrabble Junior (USA).gba" size="4194304" sha1="cbc5bb55d4951e884e65ea2cab36957ee51aaadb" crc="111eb61a" />
-  </game>
   <game name="01 - Games/Scrabble Blast!">
     <rom name="Scrabble Blast! (USA).gba" size="4194304" sha1="b12aa409e69001694e523315a3e28d39fdaf94c5" crc="5d31a1f9" />
     <rom name="Scrabble Scramble! (Europe) (En,Fr,De,Es,It,Nl).gba" size="4194304" sha1="97040955445c32f0872bbcda18dcab8dc0a7c8c1" crc="e8eb2e3a" />
     <rom name="Scrabble Scramble! (Europe).gba" size="4194304" sha1="28846f9a21ddec18d7cda51b6491b80c7e904f68" crc="0ed5f375" />
+  </game>
+  <game name="01 - Games/Scrabble Junior">
+    <rom name="Three-in-One Pack - Sorry! + Aggravation + Scrabble Junior (USA).gba" size="4194304" sha1="cbc5bb55d4951e884e65ea2cab36957ee51aaadb" crc="111eb61a" />
   </game>
   <game name="01 - Games/Scrabble">
     <rom name="Scrabble (Europe) (En,Fr,De,Es).gba" size="8388608" sha1="bd982790fabda6c2cc24c890ceee123b4c0e8ae4" crc="c5c9b31b" />
@@ -6604,6 +6629,11 @@
   <game name="01 - Games/Sheep">
     <rom name="Hitsuji no Kimochi. (Japan).gba" size="4194304" sha1="10e3baa340a34f6276d892c66fa3ce4002d6e5e4" crc="d4eac9b1" />
     <rom name="Sheep (Europe) (En,Fr,De,Es,It).gba" size="4194304" sha1="cb200350b4dc01dcdb0a52af11286aaca15cd786" crc="75a92925" />
+  </game>
+  <game name="01 - Games/Shifting Gears - Road Trip">
+    <rom name="Choro Q Advance 2 (Japan).gba" size="4194304" sha1="ca76d5c2af1caf0b2562f922c99a0109586e9227" crc="f5ed5f14" />
+    <rom name="Gadget Racers (Europe) (En,Fr,De).gba" size="8388608" sha1="7a7cd2860c677aaf6d45814877727e0077c7707b" crc="d2bc5027" />
+    <rom name="Shifting Gears - Road Trip (USA).gba" size="4194304" sha1="9a332cec82dff9130248a2525d0151fae52dd258" crc="549bf1c5" />
   </game>
   <game name="01 - Games/Shikakui Atama o Maruku Suru. Advance - Kanji, Keisan">
     <rom name="Shikakui Atama o Maruku Suru. Advance - Kanji, Keisan (Japan).gba" size="4194304" sha1="ff674a429e8a76cab47accaf6ca579194866733f" crc="e0a452a8" />
@@ -6990,6 +7020,11 @@
   <game name="01 - Games/Spirit - Stallion of the Cimarron - Search for Homeland/~Prototypes and Betas">
     <rom name="Spirit - Der Wilde Mustang - Auf der Suche nach Homeland (Germany) (Beta).gba" size="4183576" sha1="53c4bb950d9b92918f26aeb7b0105604d0263ba1" crc="caaaefb6" />
   </game>
+  <game name="01 - Games/Spirits &amp; Spells">
+    <rom name="Castleween (Europe) (En,Fr,De,Es,It).gba" size="4194304" sha1="bbda9c6708d8dd5a7ea6fbf6b7d128287de2bd82" crc="11a9b76e" />
+    <rom name="Mahou no Pumpkin - Ann to Greg no Daibouken (Japan).gba" size="4194304" sha1="a42d4104e0d0d8d9b2b2196d745237d640795215" crc="f9652b4d" />
+    <rom name="Spirits &amp; Spells (USA).gba" size="4194304" sha1="5b4764af4f7d0df24adf0df0ae486f33bd905dc7" crc="2fa6db95" />
+  </game>
   <game name="01 - Games/SpongeBob SquarePants - Battle for Bikini Bottom">
     <rom name="2 Games in 1 - SpongeBob SquarePants - Battle for Bikini Bottom + Jimmy Neutron Boy Genius (Europe) (En,Fr,De+En,Fr,De,Es).gba" size="16777216" sha1="11caf32f79b1fc0b7cee039f02793760c56a63be" crc="4ba7f7cb" />
     <rom name="2 Games in 1 - SpongeBob SquarePants - Battle for Bikini Bottom + Nicktoons - Freeze Frame Frenzy (USA).gba" size="16777216" sha1="56026a6d7290e7c09c9e9ac7083e4505ac9d31e5" crc="5802cafd" />
@@ -7056,24 +7091,6 @@
     <rom name="SpongeBob SquarePants Movie, The (USA) (Beta 1).gba" size="6871418" sha1="68c7be5be01db6d428a4fe7c5b54ec58f6f793e4" crc="df3d16a1" />
     <rom name="SpongeBob SquarePants Movie, The (USA) (Beta 2).gba" size="8388608" sha1="3e7a5a0f62a7319d0ebf3d302377b08f3f4cdd8e" crc="e1068687" />
   </game>
-  <game name="01 - Games/Nicktoons - Battle for Volcano Island">
-    <rom name="Nicktoons - Battle for Volcano Island (USA).gba" size="4194304" sha1="aea4c43253d2a3d03c9d17224ebe2be49cbc95e0" crc="feafbd72" />
-    <rom name="SpongeBob SquarePants and Friends - Battle for Volcano Island (Europe) (En,Fr,De,Es,It,Nl).gba" size="4194304" sha1="7bd6de4d9f93dd531a7b4acf9be14d38cc73bc85" crc="033229a7" />
-  </game>
-  <game name="01 - Games/Nicktoons Unite!">
-    <rom name="Nicktoons Unite! (USA).gba" size="4194304" sha1="e5c1ec46087fdbdb5eca8b3ca98f83ed4bb36620" crc="75c35f7c" />
-    <rom name="SpongeBob SquarePants and Friends Unite! (Europe) (En,Fr,De,Es,Nl).gba" size="4194304" sha1="0b597ce175f42e8fabb64fc278bda50c4357edfa" crc="611cc620" />
-  </game>
-  <game name="01 - Games/Nicktoons - Freeze Frame Frenzy">
-    <rom name="2 Games in 1 - SpongeBob SquarePants - Battle for Bikini Bottom + Nicktoons - Freeze Frame Frenzy (USA).gba" size="16777216" sha1="56026a6d7290e7c09c9e9ac7083e4505ac9d31e5" crc="5802cafd" />
-    <rom name="2 Games in 1 - The SpongeBob SquarePants Movie + SpongeBob SquarePants and Friends in Freeze Frame Frenzy (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,Nl).gba" size="16777216" sha1="0286e31772601f7c7420722e8fbf8a210d562a06" crc="a04cebfe" />
-    <rom name="Nicktoons - Freeze Frame Frenzy (USA).gba" size="4194304" sha1="a200cdaf66606bd724ce7073fd7990ea3fe6bcdd" crc="a8b6766e" />
-    <rom name="SpongeBob SquarePants and Friends in Freeze Frame Frenzy (Europe) (En,Fr,De,Es,Nl).gba" size="4194304" sha1="68e3393496e93704a9484e544aec87cdb81acb04" crc="fc339fc7" />
-  </game>
-  <game name="01 - Games/Nicktoons - Attack of the Toybots">
-    <rom name="Nicktoons - Attack of the Toybots (USA).gba" size="4194304" sha1="1c33f64c2791b7766b23fae1272036b008bddc1a" crc="dda9a035" />
-    <rom name="SpongeBob and Friends - Attack of the Toybots (Europe) (En,De).gba" size="4194304" sha1="7d698125b0441638953a0e10057b6b29f779cb61" crc="f0b0f53c" />
-  </game>
   <game name="01 - Games/SpongeBob's Atlantis SquarePantis">
     <rom name="SpongeBob's Atlantis SquarePantis (USA).gba" size="4194304" sha1="24596f49fb46cf5e3624450f599df670acc72967" crc="190b1653" />
   </game>
@@ -7110,6 +7127,10 @@
   <game name="01 - Games/Spy Muppets - License to Croak">
     <rom name="Spy Muppets - License to Croak (USA) (En,Fr,De,Es,It,Nl).gba" size="8388608" sha1="c6971a3e9282df988b24e9af4ac0d42a9b59d0c6" crc="848f9d42" />
   </game>
+  <game name="01 - Games/Spyro - Attack of the Rhynocs">
+    <rom name="Spyro - Attack of the Rhynocs (USA).gba" size="8388608" sha1="286fe14e15bc34e3605186876878e655ef43294c" crc="13f10a1e" />
+    <rom name="Spyro Adventure (Europe) (En,Fr,De,Es,It,Nl).gba" size="8388608" sha1="0f4aa43d6e0ad5b5007a6114f679ee0fdf77793f" crc="1f62d660" />
+  </game>
   <game name="01 - Games/Spyro - Season of Ice">
     <rom name="Crash &amp; Spyro Superpack - Spyro - Season of Ice + Crash Bandicoot - The Huge Adventure (USA).gba" size="16777216" sha1="ce1b1184685e20a683ec93b79093a1c7c41b818e" crc="cdbe00e3" />
     <rom name="Spyro - Season of Ice (Europe) (En,Fr,De,Es,It).gba" size="8388608" sha1="854e788e5e1316b7d5cdf6b961d0969e5cd62119" crc="afd25827" />
@@ -7128,10 +7149,6 @@
   </game>
   <game name="01 - Games/Spyro 2 - Season of Flame/~Prototypes and Betas">
     <rom name="Spyro 2 - Season of Flame (Europe) (En,Fr,De,Es,It) (Beta).gba" size="8388608" sha1="64608522b649f54c1e7678fb54ffeb8246f0342f" crc="d05c86bb" />
-  </game>
-  <game name="01 - Games/Spyro - Attack of the Rhynocs">
-    <rom name="Spyro - Attack of the Rhynocs (USA).gba" size="8388608" sha1="286fe14e15bc34e3605186876878e655ef43294c" crc="13f10a1e" />
-    <rom name="Spyro Adventure (Europe) (En,Fr,De,Es,It,Nl).gba" size="8388608" sha1="0f4aa43d6e0ad5b5007a6114f679ee0fdf77793f" crc="1f62d660" />
   </game>
   <game name="01 - Games/Spyro Orange - The Cortex Conspiracy">
     <rom name="Crash &amp; Spyro Superpack - Spyro Orange - The Cortex Conspiracy + Crash Bandicoot Purple - Ripto's Rampage (USA).gba" size="33554432" sha1="a14854c2189516501a51d9e3fce7f10f3593fc9a" crc="9b76b90b" />
@@ -7260,10 +7277,9 @@
   <game name="01 - Games/Summon Night 3 - Swordcraft Story - The Stone of Beginnings/~Translations">
     <rom name="Summon Night 3 - Swordcraft Story - The Stone of Beginnings (Japan) [T-En by Swordcraft Story Translation Team v1.1.1.f] [n].gba" size="33554432" sha1="65885d763f77648ac733daac69de15bc1ccb0ea5" crc="1001f351" />
   </game>
-  <game name="01 - Games/American Bass Challenge">
-    <rom name="American Bass Challenge (USA).gba" size="4194304" sha1="1fc03cca393ddbc633d309aae95b42c89e4d0e96" crc="d76ad62d" />
-    <rom name="Super Black Bass Advance (Europe).gba" size="4194304" sha1="f29fa04bcd4c1a2bfd466d6046ac6eb86071b2fc" crc="91238ad1" />
-    <rom name="Super Black Bass Advance (Japan).gba" size="4194304" sha1="2d71d6d29729ac5d3302f1d14e2e774afe7a06a8" crc="67c4e470" />
+  <game name="01 - Games/Super Army War">
+    <rom name="Essence of War, The - Glory Days (Europe) (En,Fr,De,Es,It).gba" size="4194304" sha1="d7e72d3edfab366962741a8959985439cbb8541b" crc="84adb2c3" />
+    <rom name="Super Army War (USA).gba" size="4194304" sha1="2840446005baa66e8b224f756d07caa7de25a5dc" crc="baf484be" />
   </game>
   <game name="01 - Games/Super Breakout (Classic arcade port)">
     <rom name="3 Games in One! - Super Breakout + Millipede + Lunar Lander (Europe) (En,Fr,De,Es,It).gba" size="4194304" sha1="d3d6ec5c0817a0375c81167c70d92350996a21df" crc="b6ef1ed0" />
@@ -7363,15 +7379,6 @@
     <rom name="Chaoji Maliou 2 (China).gba" size="4194304" sha1="4fc77a2397086408554c50f9bf06327abe04066e" crc="14a87b75" />
     <rom name="Super Mario Advance (USA, Europe) (Virtual Console).gba" size="4194304" sha1="b646ce9765a5061aac9f1a52346a1f5e42b3d871" crc="5251f2bf" />
     <rom name="Super Mario Advance (USA, Europe).gba" size="4194304" sha1="f071d45d8f5cb05b48d7d2b804c6cb6a79ad96fb" crc="1e4c6d6a" />
-  </game>
-  <game name="01 - Games/Mario Pinball Land">
-    <rom name="Mario Pinball Land (USA) (Kiosk, GameCube).gba" size="8388608" sha1="467b0632d20e6d23741a768bcdfd5a593770d255" crc="799a1e40" />
-    <rom name="Mario Pinball Land (USA) (Virtual Console).gba" size="8388608" sha1="60a3d35e0202a537ccf4284dd57db250d29fd379" crc="a0d418a4" />
-    <rom name="Mario Pinball Land (USA, Australia).gba" size="8388608" sha1="3fdcd3bb30d61b4dd6829dbdc1a0ac116618b87d" crc="70a6d2c1" />
-    <rom name="Super Mario Ball (Europe) (Virtual Console).gba" size="8388608" sha1="e3ee63bf92340a50085cb905e167c03f3c60b72a" crc="3b15e886" />
-    <rom name="Super Mario Ball (Europe).gba" size="8388608" sha1="d53fbc63e08c15bfdc045b5664fe24e8e2718469" crc="3b035681" />
-    <rom name="Super Mario Ball (Japan) (Virtual Console).gba" size="8388608" sha1="0c7f6d50787b93b59ff505b3d16712b60db63ce7" crc="cf9914ae" />
-    <rom name="Super Mario Ball (Japan).gba" size="8388608" sha1="3baa3735aed4cfc6c7c5a157e7ea0285ac40b1ef" crc="7eb4a336" />
   </game>
   <game name="01 - Games/Super Monkey Ball Jr.">
     <rom name="Super Monkey Ball Jr. (Europe) (En,Fr,De,Es,It).gba" size="8388608" sha1="9c87fcf42a27644ae5bec273ac3afc3f672b4f94" crc="d75da09d" />
@@ -7489,12 +7496,6 @@
     <rom name="Sys Crusher (World) (GBA Jam 2024) (Aftermarket) (Unl).gba" size="2703116" sha1="000087e584bd1459b48926914748d69f16cc68f2" crc="daccd9a1" />
     <rom name="Sys Crusher (World) (v1.1) (Aftermarket) (Unl).gba" size="2703124" sha1="77d478862de631086507a6670e20985a5dcb01f3" crc="e83e5696" />
     <rom name="Sys Crusher (World) (v1.2) (Aftermarket) (Unl).gba" size="3416928" sha1="4bd27000d99845812a69fff9d32dd3c30ca3f289" crc="e9d9b245" />
-  </game>
-  <game name="01 - Games/Top Gear Rally">
-    <rom name="TG Rally (Europe).gba" size="4194304" sha1="051fd2b0d38d293583bf76a1dce7c4fa532f6ec5" crc="be67d878" />
-    <rom name="Top Gear Rally (Europe) (En,Fr,De,Es,It).gba" size="8388608" sha1="5168ed1b2030df98cd4645a05696e8c5441b5f6f" crc="86ad4007" />
-    <rom name="Top Gear Rally (Japan).gba" size="4194304" sha1="b80ec4cdb53da2297d234f4a9913df1cdf01a327" crc="c457c5db" />
-    <rom name="Top Gear Rally (USA).gba" size="4194304" sha1="9a6c5d013370e7b3545d5231cfaee12d0edc8a7d" crc="4dd90762" />
   </game>
   <game name="01 - Games/TMNT">
     <rom name="TMNT (USA) (En,Fr,Es).gba" size="8388608" sha1="6dae74b04cdfe25c4c4535c4553541c71a102357" crc="916db9d5" />
@@ -7816,6 +7817,12 @@
     <rom name="Top Gear GT Championship (USA).gba" size="4194304" sha1="b57938e9fd51efbd88febca6938b961fb7353366" crc="0a9c9968" />
     <rom name="Zen-Nihon GT Senshuken (Japan).gba" size="4194304" sha1="9e837491e9f9c94b937cd1f3e9b70ac9c2a20832" crc="d320a965" />
   </game>
+  <game name="01 - Games/Top Gear Rally">
+    <rom name="TG Rally (Europe).gba" size="4194304" sha1="051fd2b0d38d293583bf76a1dce7c4fa532f6ec5" crc="be67d878" />
+    <rom name="Top Gear Rally (Europe) (En,Fr,De,Es,It).gba" size="8388608" sha1="5168ed1b2030df98cd4645a05696e8c5441b5f6f" crc="86ad4007" />
+    <rom name="Top Gear Rally (Japan).gba" size="4194304" sha1="b80ec4cdb53da2297d234f4a9913df1cdf01a327" crc="c457c5db" />
+    <rom name="Top Gear Rally (USA).gba" size="4194304" sha1="9a6c5d013370e7b3545d5231cfaee12d0edc8a7d" crc="4dd90762" />
+  </game>
   <game name="01 - Games/Top Gun - Combat Zones">
     <rom name="Top Gun - Combat Zones (USA) (En,Fr,De,Es,It).gba" size="4194304" sha1="4f6ae177d236657a075e3366ed4f90c97b03f10d" crc="dfc88d3e" />
   </game>
@@ -7981,6 +7988,10 @@
   <game name="01 - Games/Ultimate Arcade Games">
     <rom name="Ultimate Arcade Games (USA).gba" size="4194304" sha1="74650c32d727c85d5e78c903949f6937ea9f3ee7" crc="264f7a95" />
   </game>
+  <game name="01 - Games/Ultimate Beach Soccer">
+    <rom name="Pro Beach Soccer (Europe) (En,Fr,De,Es,It,Pt).gba" size="4194304" sha1="635504fffd667670df858f76f38fdae7a797b835" crc="7623e41a" />
+    <rom name="Ultimate Beach Soccer (USA).gba" size="4194304" sha1="8d21a404042c2b3c5fd1f6f1b6a28c7c6ff72dd7" crc="5d4d88c5" />
+  </game>
   <game name="01 - Games/Ultimate Brain Games">
     <rom name="Ultimate Brain Games (USA, Europe).gba" size="4194304" sha1="a33672e32622e417c9ea93b381d18bd48a93c7e7" crc="b6c9f401" />
   </game>
@@ -8100,6 +8111,11 @@
   </game>
   <game name="01 - Games/W.i.t.c.h.">
     <rom name="W.i.t.c.h. (Europe) (En,Fr,De,Es,It).gba" size="8388608" sha1="dce3603206745f3d9288f35eab33cc0f890c3751" crc="ca4f6d5d" />
+  </game>
+  <game name="01 - Games/WTA Tour Tennis">
+    <rom name="Pro Tennis WTA Tour (Europe).gba" size="4194304" sha1="9d901c2bb81c2546d09a743e336eb398f166bf0e" crc="f7171521" />
+    <rom name="WTA Tour Tennis (USA).gba" size="4194304" sha1="56b1d64f9baf83d8ec73e2857da62cd5b0bd9851" crc="7f8cb0af" />
+    <rom name="WTA Tour Tennis Pocket (Japan).gba" size="8388608" sha1="2de5495739c9d2057356e95cf84c514b55e41c31" crc="459daf35" />
   </game>
   <game name="01 - Games/WWE - Road to WrestleMania X8">
     <rom name="WWE - Road to WrestleMania X8 (USA, Europe).gba" size="4194304" sha1="4f62c900e8dd223054114aa42d50fe3306807eef" crc="f1fb4fd1" />
@@ -8346,12 +8362,6 @@
   </game>
   <game name="01 - Games/Xeno Crisis">
     <rom name="Xeno Crisis (World) (En,Ja,Fr,De,Es,It,Nl,Pt) (Aftermarket) (Unl).gba" size="33554432" sha1="9bbdc81383d22770bf01a0fd174ff0febc6198c0" crc="9693aabd" />
-  </game>
-  <game name="01 - Games/CodeBreaker">
-    <rom name="CodeBreaker (USA) (Unl).gba" size="65536" sha1="1751d631c9955184a2cb55514e94d276c951231b" crc="f5b2f65e" />
-    <rom name="X-Terminator Advance (Japan) (Unl).gba" size="131072" sha1="b6b5febc259d215892a8920a0ca0a6a8067f9cfe" crc="d48d5587" />
-    <rom name="Xploder Advance (Europe) (Unl) (Alt).gba" size="131072" sha1="4f2252f61e80eb2a27646fd4bfb159da8ea70ca6" crc="4f3e7427" />
-    <rom name="Xploder Advance (Europe) (Unl).gba" size="131072" sha1="b7e7448152df42548a6d7a8a593543d439bbfd45" crc="ad71f6ff" />
   </game>
   <game name="01 - Games/Yahtzee">
     <rom name="3 Game Pack! - The Game of Life + Payday + Yahtzee (USA).gba" size="4194304" sha1="167a454e4660629ed99b014c77bd3e4ae9eef294" crc="e6dc35a9" />
@@ -8675,11 +8685,5 @@
     <rom name="Card e-Reader (Japan).gba" size="4194304" sha1="5cf045a083bf7c86a197a7f19caf7153f3e227f4" crc="a4ef4e95" />
     <rom name="Card e-Reader+ (Japan).gba" size="8388608" sha1="2af41785dd72c664e8a1c0f1e1ce0edcd105dd5e" crc="4139e7c3" />
     <rom name="e-Reader (USA).gba" size="8388608" sha1="4b7005e81ee9ffee333b3f6095c3611800b56588" crc="8b27cd67" />
-  </game>
-  <game name="01 - Games/Dungeon Durban">
-    <rom name="Dungeon Durban (World) (v1.0.1) (Aftermarket) (Unl).gba" size="3377424" sha1="25d1f4978524c9cecda222e23bf3fdd8e295814d" crc="9c5d3395" />
-  </game>
-  <game name="01 - Games/Gambit Advance">
-    <rom name="Gambit Advance (World) (v1.1) (Aftermarket) (Unl).gba" size="2077496" sha1="b7f4b329b2afdf86ff2069ffe97b06cb249e7c58" crc="f4942faa" />
   </game>
 </datafile>

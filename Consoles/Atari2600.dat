@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>Atari2600</name>
-    <version>2026-10-23</version>
+    <version>2026-10-26</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/3-D Genesis/~Prototypes and Betas">
@@ -116,6 +116,9 @@
     <rom name="Angry Video Game Nerd K.O. Boxing (World) (NTSC) (Aftermarket) (Unl).a26" size="32768" sha1="bbcac5c5b2384ab6aa83574e6b9486c4b60822d4" crc="53f02c00" />
     <rom name="Angry Video Game Nerd K.O. Boxing (World) (PAL 60hz) (Aftermarket) (Unl).a26" size="32768" sha1="f723b83145bd43e2fb4767e35bcb25958c8b2d03" crc="9a8505b6" />
   </game>
+  <game name="01 - Games/Angry Video Game Nerd, The">
+    <rom name="Angry Video Game Nerd, The (World) (NTSC) (Aftermarket) (Unl).bin" size="16384" sha1="ffc3eff7afc1051716159ddfaf2fe2bf149e5d49" crc="21696547" />
+  </game>
   <game name="01 - Games/Anguna 2600">
     <rom name="Anguna 2600 (World) (Aftermarket) (Unl).a26" size="16384" sha1="8bfbf3d404a15df315bf9c8bf0e5741ac1a42c96" crc="d18e91a1" />
   </game>
@@ -190,10 +193,6 @@
     <rom name="Barnstorming (Brazil) (En) (Unl).a26" size="4096" sha1="72f0bd35b49e4a35f6e51df6ec8ea579b5a673eb" crc="281736d6" />
     <rom name="Barnstorming (Europe).a26" size="4096" sha1="0e146b4081ae08d7a527bd0e7abd23bb1d42dffb" crc="f866dbf7" />
     <rom name="Barnstorming (USA).a26" size="4096" sha1="372663097b419ced64f44ef743fe8d0af4317f46" crc="4a005181" />
-  </game>
-  <game name="01 - Games/Z-Tack">
-    <rom name="Base Attack (Europe).a26" size="4096" sha1="4e2ccb0afe236a76193ad500bab57abb82632a5a" crc="81f1e5dd" />
-    <rom name="Z-Tack (USA).a26" size="4096" sha1="552e2bd37601da4961b0346353c93cce223e429e" crc="42a76f54" />
   </game>
   <game name="01 - Games/Basic Math">
     <rom name="Basic Math (Europe).a26" size="2048" sha1="ebdc9fc929a6ef47daea8ab539b769a244243a1a" crc="5456cdca" />
@@ -381,6 +380,9 @@
     <rom name="Carnival (Europe).a26" size="4096" sha1="0c7ba0272ac8684105daa28843875017644dcdf9" crc="fb7e75a1" />
     <rom name="Carnival (USA).a26" size="4096" sha1="e1acf7a845b56e4b3d18192a75a81c7afa6f341a" crc="7ac3c700" />
   </game>
+  <game name="01 - Games/Carrot Kingdom">
+    <rom name="Carrot Kingdom (World) (Rev B) (NTSC) (Aftermarket) (Unl).bin" size="32768" sha1="5988b25bc64f2c9791c85982acae546c3af29c37" crc="7f177e4c" />
+  </game>
   <game name="01 - Games/Casino">
     <rom name="Casino (Europe).a26" size="4096" sha1="0a7c41b4215f792e499d20ff86fd6da9c2648d17" crc="675c7f84" />
     <rom name="Casino ~ Poker Plus (USA).a26" size="4096" sha1="08598101e38756916613f37581ef1b61c719016f" crc="420b8248" />
@@ -552,11 +554,6 @@
   </game>
   <game name="01 - Games/Death Trap">
     <rom name="Death Trap (USA).a26" size="4096" sha1="5f710a1148740760b4ebcc42861a1f9c3384799e" crc="fdf79a60" />
-  </game>
-  <game name="01 - Games/Stargate">
-    <rom name="Defender II (USA) (Alt).a26" size="8192" sha1="d7b506b84f28e1b917a2978753d5a40eb197537a" crc="93217704" />
-    <rom name="Stargate (Europe).a26" size="8192" sha1="07920046ed55519797274117f2f8c8c7e530f623" crc="d3f6a968" />
-    <rom name="Stargate (USA).a26" size="8192" sha1="4f87be0ef16a1d0389226d1fbda9b4c16b06e13e" crc="cde3530e" />
   </game>
   <game name="01 - Games/Defender">
     <rom name="Defender (Europe).a26" size="4096" sha1="231f0a5441c4b910474f45d7dcf9802c90393649" crc="b1722fb0" />
@@ -730,6 +727,12 @@
   </game>
   <game name="01 - Games/Fire Fly">
     <rom name="Fire Fly (USA).a26" size="4096" sha1="df5420eb0f71e681e7222ede8e211a7601e7a327" crc="7a8e4ec7" />
+  </game>
+  <game name="01 - Games/Fire Spinner">
+    <rom name="Fire Spinner (USA).a26" size="4096" sha1="e30e6195642884954bc98df2e82c3e972db49a57" crc="f497456e" />
+  </game>
+  <game name="01 - Games/Fire Spinner/~Prototypes and Betas">
+    <rom name="Spinning Fireball (USA) (Proto).a26" size="4096" sha1="2b184acdf908328a1c134c918d16a68cc2e57f94" crc="fa40c6d3" />
   </game>
   <game name="01 - Games/Fireball">
     <rom name="Fireball (USA).a26" size="8448" sha1="9fa9ed2622d29636f175b8745892dde48a871fd1" crc="b32ae162" />
@@ -1429,13 +1432,21 @@
   <game name="01 - Games/Porky's">
     <rom name="Porky's (USA).a26" size="8192" sha1="70afc2cc870be546dc976fa0c6811f7e01ebc471" crc="add0b98a" />
   </game>
+  <game name="01 - Games/Portal 2600">
+    <rom name="Portal 2600 (World) (NTSC) (Aftermarket) (Unl).bin" size="4096" sha1="2be54553e1366541f6a621ee1e7e64981e28ee3c" crc="97a6c9ec" />
+  </game>
   <game name="01 - Games/Power Lords/~Prototypes and Betas">
     <rom name="Power Lords (USA) (Proto).a26" size="8192" sha1="a09d91f162d665ce8694d75f30f25de6b9e60abe" crc="6eb0d178" />
   </game>
   <game name="01 - Games/Pressure Cooker">
     <rom name="Pressure Cooker (USA).a26" size="8192" sha1="8b001373be485060f88182e9a7afcf55b4d07a57" crc="ccf597d8" />
   </game>
+  <game name="01 - Games/Princess Rescue">
+    <rom name="Princess Rescue (World) (NTSC) (Aftermarket) (Unl).bin" size="32768" sha1="58aa6bba1d0d26c1287135fc9237b684a984b6be" crc="560dac0c" />
+    <rom name="Princess Rescue (World) (PAL) (Aftermarket) (Unl).a26" size="32768" sha1="7380960df4cdce8d3d7318fb003f7bcfde173812" crc="85b8e00f" />
+  </game>
   <game name="01 - Games/Private Eye">
+    <rom name="Private Eye (Europe).a26" size="8192" sha1="24ab03a51bdd113a9845132476045b73532224dd" crc="7bdd9912" />
     <rom name="Private Eye (USA).a26" size="8192" sha1="1ea6bea907a6b5607c76f222730f812a99cd1015" crc="ea3bff1c" />
   </game>
   <game name="01 - Games/Pursuit of the Pink Panther/~Prototypes and Betas">
@@ -1505,6 +1516,9 @@
   </game>
   <game name="01 - Games/RealSports Baseball">
     <rom name="RealSports Baseball (USA, Europe) (En,Fr,De,Es,It).a26" size="8192" sha1="ace97b89b8b6ab947434dbfd263951c6c0b349ac" crc="3c5a1b5f" />
+  </game>
+  <game name="01 - Games/RealSports Basketball/~Hacks">
+    <rom name="RealSports Baseball (USA) (NTSC).a26" size="8192" sha1="e432a35470f87f05d37c58f2aa1536950adab19d" crc="f0deff2b" />
   </game>
   <game name="01 - Games/RealSports Basketball/~Prototypes and Betas">
     <rom name="RealSports Basketball (Europe) (Proto).a26" size="8192" sha1="bc2e6bdaa950bc06be040899dfeb9ad0938f4e98" crc="364feaa6" />
@@ -1607,16 +1621,16 @@
   <game name="01 - Games/Sea Battle">
     <rom name="Sea Battle (USA).a26" size="4096" sha1="cfcc4f11ace2a7408b8122dbf80ab8ec6b56af76" crc="83b4eb19" />
   </game>
+  <game name="01 - Games/Sea Hawk">
+    <rom name="Sea Hawk (USA).a26" size="4096" sha1="87cb2eb01f8e82fddb3a66e468fab68ae55778da" crc="5224dc7b" />
+    <rom name="Seahawk (Europe).a26" size="4096" sha1="b4ead7656696a983dec3192c71cc4d63e9a67825" crc="5d3c699e" />
+  </game>
   <game name="01 - Games/Sea Hunt">
     <rom name="Sea Hunt ~ Scuba Diver (USA).a26" size="4096" sha1="e5558ae30acc1fa5b4ffe782ae480622586a32ca" crc="f94a8aec" />
   </game>
   <game name="01 - Games/Sea Monster">
     <rom name="O Monstro Marinho (Europe).a26" size="4096" sha1="c2f43f35d95797c06a581654406256c72e422ba4" crc="3a1a392b" />
     <rom name="Sea Monster (USA).a26" size="4096" sha1="0fac0c8611fbe2803b2a95d0328260d1c03a4c8b" crc="d6490bf3" />
-  </game>
-  <game name="01 - Games/Sea Hawk">
-    <rom name="Sea Hawk (USA).a26" size="4096" sha1="87cb2eb01f8e82fddb3a66e468fab68ae55778da" crc="5224dc7b" />
-    <rom name="Seahawk (Europe).a26" size="4096" sha1="b4ead7656696a983dec3192c71cc4d63e9a67825" crc="5d3c699e" />
   </game>
   <game name="01 - Games/Seaquest">
     <rom name="Seaquest (USA).a26" size="4096" sha1="7324a1ebc695a477c8884718ffcad27732a98ab0" crc="8658e8d9" />
@@ -1711,8 +1725,8 @@
     <rom name="Smurf - Rescue in Gargamel's Castle (USA).a26" size="8192" sha1="530c7883fed4c5b9d78e35d48770b56e328999a3" crc="e0624a7f" />
   </game>
   <game name="01 - Games/Smurf">
-    <rom name="Smurf (Europe).a26" size="8192" sha1="fd8512452e69fd7627222f811e52fc54a92bf905" crc="28dbbbd5" />
     <rom name="Smurf (Europe) (Alt).a26" size="8192" sha1="35d1ad88594964f1f968e5786d5f8d04e7f6aea7" crc="70114c56" />
+    <rom name="Smurf (Europe).a26" size="8192" sha1="fd8512452e69fd7627222f811e52fc54a92bf905" crc="28dbbbd5" />
   </game>
   <game name="01 - Games/Smurfs Save the Day">
     <rom name="KVS1.WAV" size="3436329" sha1="b094c2c1fca81a0e531e0541f302346150ec4604" crc="ace0dfbc" />
@@ -1802,12 +1816,6 @@
     <rom name="Spike's Peak (Europe).a26" size="8192" sha1="6bf52bd85e251bed8aa8e04e2fd2f1bcc41ea986" crc="7ef3236a" />
     <rom name="Spike's Peak (USA).a26" size="8192" sha1="205241a12778829981e9281d9c6fa137f11e1376" crc="50efea8d" />
   </game>
-  <game name="01 - Games/Fire Spinner">
-    <rom name="Fire Spinner (USA).a26" size="4096" sha1="e30e6195642884954bc98df2e82c3e972db49a57" crc="f497456e" />
-  </game>
-  <game name="01 - Games/Fire Spinner/~Prototypes and Betas">
-    <rom name="Spinning Fireball (USA) (Proto).a26" size="4096" sha1="2b184acdf908328a1c134c918d16a68cc2e57f94" crc="fa40c6d3" />
-  </game>
   <game name="01 - Games/Spitfire Attack">
     <rom name="Spitfire Attack (USA).a26" size="4096" sha1="165de0ebca628eb1e9f564390c9eedfe289c7a1d" crc="093507d8" />
   </game>
@@ -1876,6 +1884,11 @@
   <game name="01 - Games/StarMaster">
     <rom name="StarMaster (USA).a26" size="4096" sha1="814876ed270114912363e4718a84123dee213b6f" crc="25248b4b" />
     <rom name="Starmaster - International Edition (Europe).a26" size="4096" sha1="1b15da84a0e50a91ededde6ff2ef4781d0eef481" crc="058c7dac" />
+  </game>
+  <game name="01 - Games/Stargate">
+    <rom name="Defender II (USA) (Alt).a26" size="8192" sha1="d7b506b84f28e1b917a2978753d5a40eb197537a" crc="93217704" />
+    <rom name="Stargate (Europe).a26" size="8192" sha1="07920046ed55519797274117f2f8c8c7e530f623" crc="d3f6a968" />
+    <rom name="Stargate (USA).a26" size="8192" sha1="4f87be0ef16a1d0389226d1fbda9b4c16b06e13e" crc="cde3530e" />
   </game>
   <game name="01 - Games/Stargunner">
     <rom name="Stargunner (USA).a26" size="4096" sha1="3359aa7a6a5fa25beaa3ae5868d0034d52de9882" crc="fca9c17b" />
@@ -2218,8 +2231,16 @@
     <rom name="Yars' Revenge (Europe).a26" size="4096" sha1="aaeb19d1e5b3164659b3f18cbf32f3db924e500c" crc="317f7d0c" />
     <rom name="Yars' Revenge (USA).a26" size="4096" sha1="e2cd8996c1cf929e29130690024d1ec23d3b0bde" crc="dfa1c825" />
   </game>
+  <game name="01 - Games/Z-Tack">
+    <rom name="Base Attack (Europe).a26" size="4096" sha1="4e2ccb0afe236a76193ad500bab57abb82632a5a" crc="81f1e5dd" />
+    <rom name="Z-Tack (USA).a26" size="4096" sha1="552e2bd37601da4961b0346353c93cce223e429e" crc="42a76f54" />
+  </game>
   <game name="01 - Games/Zaxxon">
     <rom name="Zaxxon (USA).a26" size="8192" sha1="58c2f6abc5599cd35c0e722f24bcc128ac8f9a30" crc="265aa87f" />
+  </game>
+  <game name="01 - Games/Zippy the Porcupine">
+    <rom name="Zippy the Porcupine (World) (v2.0) (NTSC) (Aftermarket) (Unl).bin" size="65536" sha1="cbe88e316b471a6476f284df8634d5b646b4bdc5" crc="d57d3189" />
+    <rom name="Zippy the Porcupine (World) (v2.0) (PAL) (Aftermarket) (Unl).bin" size="65536" sha1="e9885f1b0f20dbd56cab9c0b3a18d2d432d5c3d5" crc="ed346394" />
   </game>
   <game name="01 - Games/Zoo Fun">
     <rom name="Zoo Fun (USA).a26" size="4096" sha1="feb6bd37e5d722bd080433587972b980afff5fa5" crc="c1da05f6" />
@@ -2255,25 +2276,5 @@
   <game name="02 - Software and Utilities/synthcart">
     <rom name="synthcart (Europe) (PAL) (Aftermarket) (Unl).a26" size="8192" sha1="c4c19c5e0d8b6fcf1aeafa0bd3c88ef3f834c59b" crc="c80ec2f8" />
     <rom name="synthcart (USA) (NTSC) (Aftermarket) (Unl).a26" size="8192" sha1="c24256c1d51246281a400fb03fc4ca465bd092dd" crc="5ddd1eba" />
-  </game>
-  <game name="01 - Games/Angry Video Game Nerd, The">
-    <rom name="Angry Video Game Nerd, The (World) (NTSC) (Aftermarket) (Unl).bin" size="16384" sha1="ffc3eff7afc1051716159ddfaf2fe2bf149e5d49" crc="21696547" />
-  </game>
-  <game name="01 - Games/Carrot Kingdom">
-    <rom name="Carrot Kingdom (World) (Rev B) (NTSC) (Aftermarket) (Unl).bin" size="32768" sha1="5988b25bc64f2c9791c85982acae546c3af29c37" crc="7f177e4c" />
-  </game>
-  <game name="01 - Games/Portal 2600">
-    <rom name="Portal 2600 (World) (NTSC) (Aftermarket) (Unl).bin" size="4096" sha1="2be54553e1366541f6a621ee1e7e64981e28ee3c" crc="97a6c9ec" />
-  </game>
-  <game name="01 - Games/Princess Rescue">
-    <rom name="Princess Rescue (World) (NTSC) (Aftermarket) (Unl).bin" size="32768" sha1="58aa6bba1d0d26c1287135fc9237b684a984b6be" crc="560dac0c" />
-    <rom name="Princess Rescue (World) (PAL) (Aftermarket) (Unl).a26" size="32768" sha1="7380960df4cdce8d3d7318fb003f7bcfde173812" crc="85b8e00f" />
-  </game>
-  <game name="01 - Games/Zippy the Porcupine">
-    <rom name="Zippy the Porcupine (World) (v2.0) (NTSC) (Aftermarket) (Unl).bin" size="65536" sha1="cbe88e316b471a6476f284df8634d5b646b4bdc5" crc="d57d3189" />
-    <rom name="Zippy the Porcupine (World) (v2.0) (PAL) (Aftermarket) (Unl).bin" size="65536" sha1="e9885f1b0f20dbd56cab9c0b3a18d2d432d5c3d5" crc="ed346394" />
-  </game>
-  <game name="01 - Games/RealSports Basketball/~Hacks">
-    <rom name="RealSports Baseball (USA) (NTSC).a26" size="8192" sha1="e432a35470f87f05d37c58f2aa1536950adab19d" crc="f0deff2b" />
   </game>
 </datafile>

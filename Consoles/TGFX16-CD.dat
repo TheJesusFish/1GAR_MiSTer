@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>TGFX16-CD</name>
-    <version>2026-10-23</version>
+    <version>2026-10-25</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/1552 Tenka Tairan/1552 Tenka Tairan (Japan)">
@@ -16588,5 +16588,8 @@
     <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 10).bin" size="4619328" sha1="01976c196e34018c68199469e3dc653f46b17bfc" crc="56129108" />
     <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 11).bin" size="160159440" sha1="6399edad6941b0f54c8fabdb5f881331ae19b379" crc="f930b68a" />
     <rom name="J. B. Harold Series #1 - Murder Club (Japan).cue" size="1378" sha1="17ec94a83b91125cfb33c2c73a291e141d05193f" crc="078708ac" />
+  </game>
+  <game name="01 - Games/Saber Rider and the Star Sheriffs/~Prototypes and Betas/Saber Rider and the Star Sheriffs (2026-10-11)">
+    <rom name="Saber Rider and the Star Sheriffs (2026-10-11).chd" size="132570803" sha1="d1bf7d57b2e72b8549d892c8dc2557042b495663" crc="500124ac" />
   </game>
 </datafile>
