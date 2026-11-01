@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>GBA</name>
-    <version>2026-10-26</version>
+    <version>2026-11-01</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/007 - Everything or Nothing">
@@ -1858,7 +1858,7 @@
     <rom name="Discrete Orange (World) (Aftermarket) (Unl).gba" size="1936132" sha1="c0b61d210e53ef57de9a813bc11b869c64de3ab6" crc="e3128528" />
   </game>
   <game name="01 - Games/Disney Cart">
-    <rom name="Disney Cart (USA) (Unl) [b].gba" size="33554432" sha1="5342700c4719411da422b002c0089ca753179c45" crc="bd6c8b22" />
+    <rom name="Disney Cart (USA) (Unl).gba" size="33554432" sha1="0a24e6e903779c5e512ed7eab5256b5bfe59c06b" crc="5dc17eee" />
   </game>
   <game name="01 - Games/Disney Princess - Royal Adventure">
     <rom name="Disney Princess - Royal Adventure (Europe) (En,Fr,De).gba" size="8388608" sha1="a143cd7260ac39235a4cf223b9f76d9998f8b7c4" crc="92c695cc" />

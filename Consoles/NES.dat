@@ -2,1289 +2,1289 @@
 <datafile>
   <header>
     <name>NES</name>
-    <version>2026-10-26</version>
+    <version>2026-11-01</version>
     <romvault forcepacking="fileonly" />
   </header>
-  <game name="01 - FDS Games/19 - Neunzehn/~Translations">
+  <game name="01 - Games (FDS)/19 - Neunzehn/~Translations">
     <rom name="19 - Neunzehn (Japan) [T-En by MrRichard999 v1.0] [Regular NES Font].fds" size="131000" sha1="e1b75d821993bcc9f6c5eb1cf93d2e373e8d68d3" crc="ba79cbc3" />
     <rom name="19 - Neunzehn (Japan) [T-En by MrRichard999 v1.0].fds" size="131000" sha1="5e359c2bd3644b3b14a1e1668cbefb07c4fdce47" crc="da11432a" />
   </game>
-  <game name="01 - FDS Games/Adian no Tsue">
+  <game name="01 - Games (FDS)/Adian no Tsue">
     <rom name="Adian no Tsue (Japan).fds" size="131000" sha1="1db213b613d6706b5e97ea0f5aad9bd804793a96" crc="dcc7a8d6" />
   </game>
-  <game name="01 - FDS Games/Adian no Tsue/~Prototypes and Betas">
+  <game name="01 - Games (FDS)/Adian no Tsue/~Prototypes and Betas">
     <rom name="Adian no Tsue (Japan) (Beta) (1986-10-29).fds" size="131000" sha1="c6ab5061e01b9ba3a20ad72310049c75a7dd11c3" crc="e342932f" />
   </game>
-  <game name="01 - FDS Games/Adventure of Link, The - The Legend of Zelda 2/~Translations">
+  <game name="01 - Games (FDS)/Adventure of Link, The - The Legend of Zelda 2/~Translations">
     <rom name="Adventure of Link, The - The Legend of Zelda 2 (Japan) (Rev 1) [T-En by Columbo v2.33] [Add by Masaru v1.0] [n].fds" size="131000" sha1="91a07e93696b1d28e685e352707396abb84eaac1" crc="37470c85" />
   </game>
-  <game name="01 - FDS Games/Ai Senshi Nicol">
+  <game name="01 - Games (FDS)/Ai Senshi Nicol">
     <rom name="Ai Senshi Nicol (Japan).fds" size="131000" sha1="506e72b65670e1d149751d166836beaf5c261c5e" crc="3fbdbe79" />
   </game>
-  <game name="01 - FDS Games/Ai Senshi Nicol/~Translations">
+  <game name="01 - Games (FDS)/Ai Senshi Nicol/~Translations">
     <rom name="Warrior of Love - Nicol (Japan) [T-En by BlackPaladin v1.0] [n].fds" size="131000" sha1="635bb0cee082a9e169bd1316c344f269476e0759" crc="a2322a37" />
   </game>
-  <game name="01 - FDS Games/Air Fortress/~Prototypes and Betas">
+  <game name="01 - Games (FDS)/Air Fortress/~Prototypes and Betas">
     <rom name="Air Fortress (Japan) (Proto) (1986-10-20).fds" size="131000" sha1="a43d7b1b536cd4b156c3bb0b0a6ed15b756688ec" crc="4928d322" />
   </game>
-  <game name="01 - FDS Games/Aki to Tsukasa no Fushigi no Kabe">
+  <game name="01 - Games (FDS)/Aki to Tsukasa no Fushigi no Kabe">
     <rom name="Aki to Tsukasa no Fushigi no Kabe (Japan) (Unl).fds" size="131000" sha1="35e204ad24d21818d3f014b728bfc7cc288f39c5" crc="672b7f6c" />
   </game>
-  <game name="01 - FDS Games/Akuu Senki Raijin">
+  <game name="01 - Games (FDS)/Akuu Senki Raijin">
     <rom name="Akuu Senki Raijin (Japan) (Disk Writer).fds" size="131000" sha1="f43863b8b24a21455151f957a0e99ef48ab711f8" crc="e188393f" />
     <rom name="Akuu Senki Raijin (Japan) (Disk Writer).qd" size="131072" sha1="121af8bc209bf95f63f9f0dca215aa30e58ae6b4" crc="dcdf799c" />
   </game>
-  <game name="01 - FDS Games/Akuu Senki Raijin/~Prototypes and Betas">
+  <game name="01 - Games (FDS)/Akuu Senki Raijin/~Prototypes and Betas">
     <rom name="Akuu Senki Raijin (Japan) (Beta) (1987-06-10).fds" size="131000" sha1="59057d1fb26f792b57aaec61dca4b12768443345" crc="ce97ddd2" />
   </game>
-  <game name="01 - FDS Games/Aliens - Alien 2/~Prototypes and Betas">
+  <game name="01 - Games (FDS)/Aliens - Alien 2/~Prototypes and Betas">
     <rom name="Aliens - Alien 2 (Japan) (Proto) (1986-12-15).fds" size="131000" sha1="e80992b0e3e2ec05dbd34b3d97ae39ee59244ca4" crc="2b779ee3" />
   </game>
-  <game name="01 - FDS Games/All Night Nippon Super Mario Bros.">
+  <game name="01 - Games (FDS)/All Night Nippon Super Mario Bros.">
     <rom name="All Night Nippon Super Mario Bros. (Japan) (En) (Promo).fds" size="65500" sha1="f30bdd3c556604d7eaa6d0f4864d5566e519b5d4" crc="43e7fe95" />
   </game>
-  <game name="01 - FDS Games/All Night Nippon Super Mario Bros./~Translations">
+  <game name="01 - Games (FDS)/All Night Nippon Super Mario Bros./~Translations">
     <rom name="All Night Nippon Super Mario Brothers (Japan) (Promotion Card) [T-En by Psyklax v1.0].fds" size="65500" sha1="1de607dfb7f6e01afaf6d32d0e76e6af2f177977" crc="6b94f122" />
   </game>
-  <game name="01 - FDS Games/Apple Town Monogatari - Little Computer People">
+  <game name="01 - Games (FDS)/Apple Town Monogatari - Little Computer People">
     <rom name="Apple Town Monogatari - Little Computer People (Japan).fds" size="131000" sha1="c6b15e0fe1887f60d31e95d72d9c8e19a3c6fef1" crc="1967673e" />
   </game>
-  <game name="01 - FDS Games/Apple Town Monogatari - Little Computer People/~Translations">
+  <game name="01 - Games (FDS)/Apple Town Monogatari - Little Computer People/~Translations">
     <rom name="Apple Town Story - Little Computer People (Japan) [T-En by BlackPaladin v1.0] [n].fds" size="131000" sha1="a4caa926886620d24bd77f972bf4c625207a1787" crc="4a72fdd0" />
   </game>
-  <game name="01 - FDS Games/Armana no Kiseki">
+  <game name="01 - Games (FDS)/Armana no Kiseki">
     <rom name="Armana no Kiseki (Japan).fds" size="131000" sha1="93d8d3b4b74fe087cc31b75aee2607ecc7a1d2dd" crc="ec6d5de3" />
   </game>
-  <game name="01 - FDS Games/Aspic - Majaou no Noroi">
+  <game name="01 - Games (FDS)/Aspic - Majaou no Noroi">
     <rom name="Aspic - Majaou no Noroi (Japan).fds" size="131000" sha1="befb31b3ffbbe26993de0dd8f15443dbd69f5d15" crc="1999addb" />
   </game>
-  <game name="01 - FDS Games/Aspic - Majaou no Noroi/~Translations">
+  <game name="01 - Games (FDS)/Aspic - Majaou no Noroi/~Translations">
     <rom name="Aspic - Curse of the Snakelord (Japan) [T-En by BlackPaladin v1.0] [n].fds" size="131000" sha1="49a4776feba47aa76e433ee26adaff96c6dee82f" crc="0420a52c" />
   </game>
-  <game name="01 - FDS Games/Backgammon">
+  <game name="01 - Games (FDS)/Backgammon">
     <rom name="Backgammon (Japan).fds" size="65500" sha1="30aaf523960f6c31305cfc950a5a002e1ee45421" crc="4d62de66" />
   </game>
-  <game name="01 - FDS Games/Bakutoushi Patton-kun">
+  <game name="01 - Games (FDS)/Bakutoushi Patton-kun">
     <rom name="Bakutoushi Patton-kun (Japan).fds" size="131000" sha1="f6724cd414a094c6fc5603bc0d3d1f4f89a304d2" crc="617942a4" />
     <rom name="Bakutoushi Patton-kun (Japan).qd" size="131072" sha1="03e54461fcde5f05ed16b4866c5ba0bd8bc28a09" crc="7ede359e" />
   </game>
-  <game name="01 - FDS Games/Balloon Fight/~Prototypes and Betas">
+  <game name="01 - Games (FDS)/Balloon Fight/~Prototypes and Betas">
     <rom name="Balloon Fight (Japan) (En) (Proto).fds" size="65500" sha1="ad714f59ae654c3b83ebc578d0ac3647e72f5b0b" crc="2724ba9a" />
   </game>
-  <game name="01 - FDS Games/Baseball">
+  <game name="01 - Games (FDS)/Baseball">
     <rom name="Baseball (Japan).fds" size="65500" sha1="443e74ebb6feeca4bc9d7c3edba2d7de019764b6" crc="23bd2653" />
   </game>
-  <game name="01 - FDS Games/Battle Battle League/~Prototypes and Betas">
+  <game name="01 - Games (FDS)/Battle Battle League/~Prototypes and Betas">
     <rom name="Battle Battle League (Japan) (Proto) (Disk 1).fds" size="131000" sha1="e951c85962e7499e0bcafae82774e489c1ca9942" crc="d578702f" />
     <rom name="Battle Battle League (Japan) (Proto) (Disk 1).qd" size="131072" sha1="f0451d476da047d908f4617e03ca5f4080c9ca33" crc="88234bdd" />
     <rom name="Battle Battle League (Japan) (Proto) (Disk 2).fds" size="131000" sha1="e9ab7f7026a5cab536a3874f1a9a6566407326be" crc="47531c2d" />
     <rom name="Battle Battle League (Japan) (Proto) (Disk 2).qd" size="131072" sha1="9fc3315d63503a330ac1d9dd98901074a6bd5a90" crc="34c3a29a" />
   </game>
-  <game name="01 - FDS Games/Battle Battle League/~Translations">
+  <game name="01 - Games (FDS)/Battle Battle League/~Translations">
     <rom name="Battle Battle League (Japan) (Proto) (Disk 1) [T-En by Letterbomb v1.0].fds" size="131000" sha1="f0951a6a8d2d4bd21015bc40c224c4a2236ad0e0" crc="8c3107c1" />
     <rom name="Battle Battle League (Japan) (Proto) (Disk 2) [T-En by Letterbomb v1.0].fds" size="131000" sha1="64575ce4ff61d80dcd7b7501a5d2576f943661ea" crc="2f311af0" />
     <rom name="Battle Battle League (Japan) (Proto) [T-En by Letterbomb v1.0] [merged].fds" size="262000" sha1="c541af932f3261cbb276a16ac943dc42138b889e" crc="9c5c25a6" />
   </game>
-  <game name="01 - FDS Games/Big Challenge! Dogfight Spirit">
+  <game name="01 - Games (FDS)/Big Challenge! Dogfight Spirit">
     <rom name="Big Challenge! Dogfight Spirit (Japan).fds" size="131000" sha1="91edbb216a7a8b3ad8aba15229530670d1ad774d" crc="4e92b68e" />
   </game>
-  <game name="01 - FDS Games/Big Challenge! Go! Go! Bowling">
+  <game name="01 - Games (FDS)/Big Challenge! Go! Go! Bowling">
     <rom name="Big Challenge! Go! Go! Bowling (Japan).fds" size="131000" sha1="c0c93462e460423ba85a7eda9638bacaaf7a62fb" crc="a1ce4038" />
   </game>
-  <game name="01 - FDS Games/Big Challenge! Gun Fighter">
+  <game name="01 - Games (FDS)/Big Challenge! Gun Fighter">
     <rom name="Big Challenge! Gun Fighter (Japan).fds" size="131000" sha1="63b51007f60be5e789127a9e4a4505c1de3e64b3" crc="d9836fb3" />
   </game>
-  <game name="01 - FDS Games/Big Challenge! Juudou Senshuken">
+  <game name="01 - Games (FDS)/Big Challenge! Juudou Senshuken">
     <rom name="Big Challenge! Juudou Senshuken (Japan).fds" size="131000" sha1="9293c072d53f1c52175627a1848afc8613713fbf" crc="16c8cdd5" />
   </game>
-  <game name="01 - FDS Games/Bio Miracle Bokutte Upa">
+  <game name="01 - Games (FDS)/Bio Miracle Bokutte Upa">
     <rom name="Bio Miracle Bokutte Upa (Japan) (3DS Virtual Console).fds" size="131000" sha1="e566544472e817e070394b4e4f3c4934f55802c4" crc="e6801342" />
     <rom name="Bio Miracle Bokutte Upa (Japan) (Wii and Wii U Virtual Console).fds" size="131000" sha1="6843008d71003589b49db45d8193e19ef65855c2" crc="494cc75e" />
     <rom name="Bio Miracle Bokutte Upa (Japan).fds" size="131000" sha1="58db028d52c3a538c92881eafbc1c154e02f9241" crc="c57b947f" />
   </game>
-  <game name="01 - FDS Games/Bishoujo Alien Battle">
+  <game name="01 - Games (FDS)/Bishoujo Alien Battle">
     <rom name="Bishoujo Alien Battle (Japan) (Unl) (Alt) [b].fds" size="131000" sha1="1799935c39f169f57f9550ef0b5bfd419197e664" crc="bd94735e" />
     <rom name="Bishoujo Alien Battle (Japan) (Unl).fds" size="131000" sha1="659adff45a5b19930a74fed0d9b366b62de982b0" crc="e89fed10" />
   </game>
-  <game name="01 - FDS Games/Bishoujo Control">
+  <game name="01 - Games (FDS)/Bishoujo Control">
     <rom name="Bishoujo Control (Japan) (Unl).fds" size="131000" sha1="0a40eb7d5f516a2298826e933f8a4d581b09223c" crc="058330fe" />
   </game>
-  <game name="01 - FDS Games/Bishoujo Hanafuda Club Vol.1 - Oichokabu Hen">
+  <game name="01 - Games (FDS)/Bishoujo Hanafuda Club Vol.1 - Oichokabu Hen">
     <rom name="Bishoujo Hanafuda Club Vol.1 - Oichokabu Hen (Japan) (Unl).fds" size="131000" sha1="2e471b96a93f84a051816bca7ad9db7682d62d6c" crc="798bea42" />
   </game>
-  <game name="01 - FDS Games/Bishoujo Hanafuda Club Vol.2 - Koikoi Bakappana Hen">
+  <game name="01 - Games (FDS)/Bishoujo Hanafuda Club Vol.2 - Koikoi Bakappana Hen">
     <rom name="Bishoujo Hanafuda Club Vol.2 - Koikoi Bakappana Hen (Japan) (Unl).fds" size="131000" sha1="11fa7a7344630fd5dec4b66a870944a5cffd930e" crc="478f36d6" />
   </game>
-  <game name="01 - FDS Games/Bishoujo Kachinuki Renju - Gomoku Narabe">
+  <game name="01 - Games (FDS)/Bishoujo Kachinuki Renju - Gomoku Narabe">
     <rom name="Bishoujo Kachinuki Renju - Gomoku Narabe (Japan) (Unl).fds" size="131000" sha1="f6a58d5e5b01f4e7541933b38c1d8431bee45fc7" crc="ff06eb11" />
   </game>
-  <game name="01 - FDS Games/Bishoujo Mahjong Club">
+  <game name="01 - Games (FDS)/Bishoujo Mahjong Club">
     <rom name="Bishoujo Mahjong Club (Japan) (Unl).fds" size="131000" sha1="b740922df5d72c75b11275d42d2cb3b0e74acd2b" crc="deaef7e0" />
   </game>
-  <game name="01 - FDS Games/Bishoujo Sexy Derby">
+  <game name="01 - Games (FDS)/Bishoujo Sexy Derby">
     <rom name="Bishoujo Sexy Derby (Japan) (Unl).fds" size="131000" sha1="25645aad45483c2caab1db8d6950b4874416ce1c" crc="beb6dd2a" />
   </game>
-  <game name="01 - FDS Games/Bishoujo Sexy Puzzle">
+  <game name="01 - Games (FDS)/Bishoujo Sexy Puzzle">
     <rom name="Bishoujo Sexy Puzzle (Japan) (Unl).fds" size="131000" sha1="9154835f8fefd9dba570dbd05791579c08c41200" crc="6b0f343e" />
   </game>
-  <game name="01 - FDS Games/Bishoujo Sexy Slot">
+  <game name="01 - Games (FDS)/Bishoujo Sexy Slot">
     <rom name="Bishoujo Sexy Slot (Japan) (Unl).fds" size="131000" sha1="65d2df2996bcf13b8a7fe601e8a816e8ee9d637a" crc="bc15b7f1" />
   </game>
-  <game name="01 - FDS Games/Bishoujo Shashinkan - Moving School">
+  <game name="01 - Games (FDS)/Bishoujo Shashinkan - Moving School">
     <rom name="Bishoujo Shashinkan - Moving School (Japan) (Unl).fds" size="131000" sha1="15333df7c64152af4296418c64be103ef2f5b859" crc="8e0bba37" />
   </game>
-  <game name="01 - FDS Games/Bishoujo Shashinkan - Studio Cut">
+  <game name="01 - Games (FDS)/Bishoujo Shashinkan - Studio Cut">
     <rom name="Bishoujo Shashinkan - Studio Cut (Japan) (Unl).fds" size="131000" sha1="8596f2e33d820855d0c2010d7042a56bf5128e24" crc="d761a49c" />
   </game>
-  <game name="01 - FDS Games/Bodycon Quest I - Girls Exposed/~Translations">
+  <game name="01 - Games (FDS)/Bodycon Quest I - Girls Exposed/~Translations">
     <rom name="Bodycon Quest I - Girls Exposed (Japan) (Unl) [T-En by DvD Translations Rev A] [n].fds" size="262000" sha1="858ae606254437451f08fcd84b44d5e00f81cb12" crc="8ed2fb01" />
   </game>
-  <game name="01 - FDS Games/Bodyconquest I - Abakareshi Musumetachi">
+  <game name="01 - Games (FDS)/Bodyconquest I - Abakareshi Musumetachi">
     <rom name="Bodyconquest I - Abakareshi Musumetachi (Japan) (Disk 1) (Unl).fds" size="131000" sha1="e75644e590a38487d39dd7b811f4eb6893d8a01a" crc="6e59ec4f" />
     <rom name="Bodyconquest I - Abakareshi Musumetachi (Japan) (Disk 2) (Unl).fds" size="131000" sha1="e076f0f4e1a7255c39c50e75c4a4f204fa5d50f8" crc="dd80ea36" />
   </game>
-  <game name="01 - FDS Games/Bomberman">
+  <game name="01 - Games (FDS)/Bomberman">
     <rom name="Bomberman (Japan) (Disk Writer).fds" size="65500" sha1="73eb98e8911773d2f193b7cbf15462272152376b" crc="b84c2259" />
   </game>
-  <game name="01 - FDS Games/Boxxle - Warehouse Evening of Tears Special/~Translations">
+  <game name="01 - Games (FDS)/Boxxle - Warehouse Evening of Tears Special/~Translations">
     <rom name="Boxxle - Warehouse Evening of Tears Special (Japan) [T-En by KingMike's Translations v1.0] [n].fds" size="131000" sha1="3d4cc713daca7f1ec33477b305bda56439818604" crc="58b27294" />
   </game>
-  <game name="01 - FDS Games/Breeder">
+  <game name="01 - Games (FDS)/Breeder">
     <rom name="Breeder (Japan).fds" size="131000" sha1="a764c7d5215e557d44f778d844ab2274f80d0c61" crc="f8fc6d6e" />
   </game>
-  <game name="01 - FDS Games/Breeder/~Translations">
+  <game name="01 - Games (FDS)/Breeder/~Translations">
     <rom name="Breeder (Japan) [T-En by Psyklax v1.0].fds" size="131000" sha1="a4e010d887b9f261502b92b22697ee6c4d23ae71" crc="59c0f45f" />
   </game>
-  <game name="01 - FDS Games/Bubble Bobble">
+  <game name="01 - Games (FDS)/Bubble Bobble">
     <rom name="Bubble Bobble (Japan) (3DS Virtual Console).fds" size="131000" sha1="e8c787dab4a947a8c1826a458c378fa97c351d27" crc="e48f3ea6" />
     <rom name="Bubble Bobble (Japan) (Wii and Wii U Virtual Console).fds" size="131000" sha1="72396fcdb53a05eeead09565827c614048ec3fcc" crc="1cfc87ec" />
     <rom name="Bubble Bobble (Japan).fds" size="131000" sha1="a28d16fdf8472ce311a0b5f0454b5da874ad86af" crc="8c8d153e" />
   </game>
-  <game name="01 - FDS Games/BurgerTime">
+  <game name="01 - Games (FDS)/BurgerTime">
     <rom name="BurgerTime (Japan) (Disk Writer).fds" size="65500" sha1="9610cd5b20d0cb0d0611c49c76d89a8d8ce27927" crc="b3d3d6e5" />
   </game>
-  <game name="01 - FDS Games/Casino de Pink">
+  <game name="01 - Games (FDS)/Casino de Pink">
     <rom name="Casino de Pink (Japan) (Unl) [b].fds" size="131000" sha1="0708f9987d4c0d33da6ddca58e61e77f6e6aa7af" crc="d3e3fd42" />
   </game>
-  <game name="01 - FDS Games/Castlevania">
+  <game name="01 - Games (FDS)/Castlevania">
     <rom name="Akumajou Dracula (Japan) (Rev 1).fds" size="131000" sha1="3f32767a51c43d3472459240b7cc230dc6a11fd5" crc="9661e6a4" />
     <rom name="Akumajou Dracula (Japan) (Rev 2) (Disk Writer).fds" size="131000" sha1="14366a2aba5905896418d8b7fe05f4229489a980" crc="7448fb40" />
     <rom name="Akumajou Dracula (Japan) (Rev 2) (Wii and Wii U Virtual Console).fds" size="131000" sha1="a81ae854db8de25e3f404187894c2a1d50a5b132" crc="fc72b953" />
     <rom name="Akumajou Dracula (Japan).fds" size="131000" sha1="85977c0dfbbbf4362fb714f663a653f2dd8fc753" crc="90e99457" />
   </game>
-  <game name="01 - FDS Games/Chitei Tairiku Ordola">
+  <game name="01 - Games (FDS)/Chitei Tairiku Ordola">
     <rom name="Chitei Tairiku Ordola (Japan).fds" size="131000" sha1="aa922b8dcd56a43d9e14ce07e6c37f54a482db08" crc="9671ce0c" />
   </game>
-  <game name="01 - FDS Games/Cleopatra no Mahou">
+  <game name="01 - Games (FDS)/Cleopatra no Mahou">
     <rom name="Cleopatra no Mahou (Japan).fds" size="131000" sha1="d797a6b9af372a15203fb5158b19d01b44edec52" crc="fdeaa3d8" />
   </game>
-  <game name="01 - FDS Games/Clu Clu Land">
+  <game name="01 - Games (FDS)/Clu Clu Land">
     <rom name="Clu Clu Land (Japan) (En) (Disk Writer).fds" size="65500" sha1="dc1b3e6c0db8d1ad94c619c310f47a28b7adf884" crc="85e771b9" />
     <rom name="Clu Clu Land (Japan) (En) (GameCube, Virtual Console).fds" size="65500" sha1="b7a73df77da83d60b6a64918fcacbabbc0da72f1" crc="406edd8d" />
   </game>
-  <game name="01 - FDS Games/Cocona World">
+  <game name="01 - Games (FDS)/Cocona World">
     <rom name="Cocona World (Japan).fds" size="131000" sha1="927485cdae98fd20d18d36a28b11de7d951ddbe3" crc="c198ab00" />
   </game>
-  <game name="01 - FDS Games/Cocona World/~Translations">
+  <game name="01 - Games (FDS)/Cocona World/~Translations">
     <rom name="Cocona World (Japan) [T-En by InvisibleUp v1.0].fds" size="131000" sha1="d4f19f892800e7ade2a799a7c6d8d717362ad156" crc="b7563f90" />
   </game>
-  <game name="01 - FDS Games/Comic Sakka Series Touma Senki #1 - Mashoujo Gakuen Evil">
+  <game name="01 - Games (FDS)/Comic Sakka Series Touma Senki #1 - Mashoujo Gakuen Evil">
     <rom name="Comic Sakka Series Touma Senki #1 - Mashoujo Gakuen Evil (Japan) (Unl).fds" size="131000" sha1="ca5c531e47cc419a2e4f95402e49478ec2118cae" crc="6f298c83" />
   </game>
-  <game name="01 - FDS Games/Comic Sakka Series Touma Senki #2 - Mermaid no Gyakushuu">
+  <game name="01 - Games (FDS)/Comic Sakka Series Touma Senki #2 - Mermaid no Gyakushuu">
     <rom name="Comic Sakka Series Touma Senki #2 - Mermaid no Gyakushuu (Japan) (Unl).fds" size="131000" sha1="85519b50d21773b3c8431247816230d9ed3c26e8" crc="6532906e" />
   </game>
-  <game name="01 - FDS Games/Comic Sakka Series Touma Senki #3 - Ryuujin Sensei Kikiippatsu">
+  <game name="01 - Games (FDS)/Comic Sakka Series Touma Senki #3 - Ryuujin Sensei Kikiippatsu">
     <rom name="Comic Sakka Series Touma Senki #3 - Ryuujin Sensei Kikiippatsu (Japan) (Unl).fds" size="131000" sha1="a58be9b5fb84b78a3e0506335b176f0a0e01d17e" crc="6880b1f3" />
   </game>
-  <game name="01 - FDS Games/Comic Sakka Series Touma Senki #4 - Tenkuu Ryuumaou Fukkatsu">
+  <game name="01 - Games (FDS)/Comic Sakka Series Touma Senki #4 - Tenkuu Ryuumaou Fukkatsu">
     <rom name="Comic Sakka Series Touma Senki #4 - Tenkuu Ryuumaou Fukkatsu (Japan) (Unl).fds" size="131000" sha1="2939203e6514635c5250f1d52db9b5c9d1e038e8" crc="eddb3816" />
   </game>
-  <game name="01 - FDS Games/Comic Sakka Series Touma Senki #5 - Youjuu Rudo no Chousen">
+  <game name="01 - Games (FDS)/Comic Sakka Series Touma Senki #5 - Youjuu Rudo no Chousen">
     <rom name="Comic Sakka Series Touma Senki #5 - Youjuu Rudo no Chousen (Japan) (Unl).fds" size="131000" sha1="ba9d070cbb7835b272933e6ae4c89ac6d7223745" crc="a3bd4e0b" />
   </game>
-  <game name="01 - FDS Games/Crystal Dragon/~Translations">
+  <game name="01 - Games (FDS)/Crystal Dragon/~Translations">
     <rom name="Crystal Dragon (Japan) [T-En by Mute v1.0] [n].fds" size="131000" sha1="e748b12c37a67c125626389df9bf9401fc3e20d8" crc="c61607b2" />
   </game>
-  <game name="01 - FDS Games/Cursed Treasure of Cleopatra, The/~Translations">
+  <game name="01 - Games (FDS)/Cursed Treasure of Cleopatra, The/~Translations">
     <rom name="Cursed Treasure of Cleopatra, The (Japan) [T-En by DvD Translations Rev A] [n].fds" size="131000" sha1="b20b78dfb2b1ad00cc25d5ff9a80a53d5488c0b4" crc="f4fb9b71" />
   </game>
-  <game name="01 - FDS Games/Dandy - Zeuon no Fukkatsu">
+  <game name="01 - Games (FDS)/Dandy - Zeuon no Fukkatsu">
     <rom name="Dandy - Zeuon no Fukkatsu (Japan).fds" size="131000" sha1="51062cc3e4806b1b94662acea969ef49c7c8ffed" crc="f027228e" />
   </game>
-  <game name="01 - FDS Games/Dandy - Zeuon no Fukkatsu/~Translations">
+  <game name="01 - Games (FDS)/Dandy - Zeuon no Fukkatsu/~Translations">
     <rom name="Dandy - The Resurrection of Zeuon (Japan) [T-En by Stardust Crusaders v1.00] [n].fds" size="131000" sha1="f082947863e0292aa62e32d48c80fcca508a03cf" crc="76eaa739" />
     <rom name="Dandy - Zeuon no Fukkatsu (Japan) [T-En by Super Roboprotector v1.2].fds" size="131000" sha1="ab1fc174782bbdeca951ae877bfa65567247a5bb" crc="ee9bdc93" />
   </game>
-  <game name="01 - FDS Games/Date de Blackjack">
+  <game name="01 - Games (FDS)/Date de Blackjack">
     <rom name="Date de Blackjack (Japan) (Unl).fds" size="131000" sha1="f98c76de0483f85b92cec11ab1c106529a93fe51" crc="ad361f32" />
   </game>
-  <game name="01 - FDS Games/Dead Zone">
+  <game name="01 - Games (FDS)/Dead Zone">
     <rom name="Dead Zone (Japan).fds" size="131000" sha1="89d1484fd5e2f6569c7cb73451acf3418e0fad23" crc="de673254" />
   </game>
-  <game name="01 - FDS Games/Dead Zone/~Prototypes and Betas">
+  <game name="01 - Games (FDS)/Dead Zone/~Prototypes and Betas">
     <rom name="Dead Zone (Japan) (Beta) (1986-10-06).fds" size="131000" sha1="127329162d1e55d5273ace359f3de9f28af18a92" crc="9b91f0f8" />
   </game>
-  <game name="01 - FDS Games/Dead Zone/~Translations">
+  <game name="01 - Games (FDS)/Dead Zone/~Translations">
     <rom name="Dead Zone (Japan) [T-En by Stardust Crusaders v1.00].fds" size="131000" sha1="70a1278a22e084759c33dfd2b85268d1ed96f87d" crc="1bf2409a" />
   </game>
-  <game name="01 - FDS Games/Deep Dungeon - The Heretic War/~Translations">
+  <game name="01 - Games (FDS)/Deep Dungeon - The Heretic War/~Translations">
     <rom name="Deep Dungeon - The Heretic War (Japan) [T-En by KingMike's Translations v1.0] [n].fds" size="131000" sha1="89cc532908417143c63521f232d7890b14f7dc5b" crc="99671024" />
   </game>
-  <game name="01 - FDS Games/Deep Dungeon II - The Hero's Crest/~Translations">
+  <game name="01 - Games (FDS)/Deep Dungeon II - The Hero's Crest/~Translations">
     <rom name="Deep Dungeon II - The Hero's Crest (Japan) [T-En by KingMike's Translations v1.0] [HP Unfix] [n].fds" size="131000" sha1="1ede1b1e94c4b330f73746bb790a5e492cbe23b4" crc="2bd6b851" />
     <rom name="Deep Dungeon II - The Hero's Crest (Japan) [T-En by KingMike's Translations v1.0] [n].fds" size="131000" sha1="77fb4d5c510c7b3b0b7d7b0fd6c954999a71810c" crc="d4eca4d4" />
   </game>
-  <game name="01 - FDS Games/Demonic Castle Dracula/~Translations">
+  <game name="01 - Games (FDS)/Demonic Castle Dracula/~Translations">
     <rom name="Demonic Castle Dracula (Japan) (Rev 2) (Disk Writer) [T-En by DvD Translations Rev A] [n].fds" size="131000" sha1="9148573fd578333b5e674e3dffd31ca95e65b661" crc="47b0fddd" />
   </game>
-  <game name="01 - FDS Games/Dig Dug II">
+  <game name="01 - Games (FDS)/Dig Dug II">
     <rom name="Dig Dug II (Japan) (Disk Writer).fds" size="65500" sha1="0b5f3e7238bf7dbab94e7932f1f913fd4670c92a" crc="283d67ab" />
   </game>
-  <game name="01 - FDS Games/Dig Dug">
+  <game name="01 - Games (FDS)/Dig Dug">
     <rom name="Dig Dug (Japan) (Disk Writer).fds" size="65500" sha1="364549540cb096d667488b5a9a853dbea1ed562a" crc="45d45f7f" />
   </game>
-  <game name="01 - FDS Games/Dirty Pair - Project Eden">
+  <game name="01 - Games (FDS)/Dirty Pair - Project Eden">
     <rom name="Dirty Pair - Project Eden (Japan) (Rev 1) (Disk Writer).fds" size="131000" sha1="711370b62338bd063aba8594bafe813eaecd65c8" crc="700627b9" />
     <rom name="Dirty Pair - Project Eden (Japan).fds" size="131000" sha1="8710825437166a6c20687a9ca2d86eba5b28b26c" crc="5f0a149b" />
   </game>
-  <game name="01 - FDS Games/Dirty Pair - Project Eden/~Translations">
+  <game name="01 - Games (FDS)/Dirty Pair - Project Eden/~Translations">
     <rom name="Dirty Pair - Project Eden (Japan) [T-En by Stardust Crusaders v1.01].fds" size="131000" sha1="5b01f5dcd7145a5367d68eeaaf0d9dd7540fe0a5" crc="d7d3d8a8" />
   </game>
-  <game name="01 - FDS Games/Disk Hacker - Version 1.3">
+  <game name="01 - Games (FDS)/Disk Hacker - Version 1.3">
     <rom name="Disk Hacker - Version 1.0 (Japan) (Unl).fds" size="65500" sha1="3003fdd68f0980d9c0013614a9c0a1a7c72818e4" crc="853a611f" />
     <rom name="Disk Hacker - Version 1.2 (Japan) (Unl).fds" size="65500" sha1="836985f616ab11bb36c5f836cd99d8cecd986d01" crc="35039547" />
     <rom name="Disk Hacker - Version 1.3 (Japan) (Unl).fds" size="65500" sha1="c7119140c4c34b8d99dd701115fa885125e206e1" crc="9c3790d3" />
   </game>
-  <game name="01 - FDS Games/Disk Hacker II - Copy Plus 3">
+  <game name="01 - Games (FDS)/Disk Hacker II - Copy Plus 3">
     <rom name="Disk Hacker II - Copy Plus 3 (Japan) (Unl).fds" size="65500" sha1="adf1141e2ee673ed96bd8dc2834437d406760405" crc="0dd82733" />
   </game>
-  <game name="01 - FDS Games/Disk Keeper">
+  <game name="01 - Games (FDS)/Disk Keeper">
     <rom name="Disk Keeper (Japan) (Unl).fds" size="65500" sha1="a5b0425bc543a690032ac8dea9ff794bde9b75ab" crc="9f87b85b" />
   </game>
-  <game name="01 - FDS Games/Donkey Kong Jr.">
+  <game name="01 - Games (FDS)/Donkey Kong Jr.">
     <rom name="Donkey Kong Jr. (Japan) (Disk Writer).fds" size="65500" sha1="efe78e0b68a1287b945290b24e6caabe5612a2e1" crc="90e16269" />
   </game>
-  <game name="01 - FDS Games/Donkey Kong">
+  <game name="01 - Games (FDS)/Donkey Kong">
     <rom name="Donkey Kong (Japan) (Disk Writer).fds" size="65500" sha1="e12212a43b728b614d8f574ec006b6ab94a7fe10" crc="1ddb8ef7" />
   </game>
-  <game name="01 - FDS Games/Doremikko">
+  <game name="01 - Games (FDS)/Doremikko">
     <rom name="Doremikko (Japan).fds" size="131000" sha1="69e5dad9021f47807565571a4f27d7bf527c404e" crc="bee7a47b" />
   </game>
-  <game name="01 - FDS Games/Dot E Creator Contest">
+  <game name="01 - Games (FDS)/Dot E Creator Contest">
     <rom name="Dot E Creator Contest (Japan).fds" size="131000" sha1="33e96c640ee5980bfd9c3caad1fc969e0ad990bc" crc="46b16b01" />
   </game>
-  <game name="01 - FDS Games/Dr. Chaos - Jigoku no Tobira">
+  <game name="01 - Games (FDS)/Dr. Chaos - Jigoku no Tobira">
     <rom name="Dr. Chaos - Jigoku no Tobira (Japan).fds" size="131000" sha1="8f7a14369d99af1ae861bc5e8eaab25427c2e107" crc="7954bd8f" />
   </game>
-  <game name="01 - FDS Games/Dracula II - Noroi no Fuuin">
+  <game name="01 - Games (FDS)/Dracula II - Noroi no Fuuin">
     <rom name="Dracula II - Noroi no Fuuin (Japan) (Virtual Console).fds" size="131000" sha1="2a7a6d31af642203b3c8aefc048c7c975c80b7f3" crc="f451269f" />
     <rom name="Dracula II - Noroi no Fuuin (Japan).fds" size="131000" sha1="82be8e77c41c2e9d0675dac8f20d6bf85c7f8f19" crc="3a0bb17b" />
   </game>
-  <game name="01 - FDS Games/Dracula II - Noroi no Fuuin/~Translations">
+  <game name="01 - Games (FDS)/Dracula II - Noroi no Fuuin/~Translations">
     <rom name="Dracula II - The Cursed Seal (Japan) [T-En by BlackPaladin v1.0a] [n].fds" size="131000" sha1="f260077df3613bf08b9685d8eaec0ba5627002dc" crc="6cc6feb3" />
   </game>
-  <game name="01 - FDS Games/Druid - Kyoufu no Tobira">
+  <game name="01 - Games (FDS)/Druid - Kyoufu no Tobira">
     <rom name="Druid - Kyoufu no Tobira (Japan).fds" size="131000" sha1="7b0c175a94d11db939565ad0b40dd29d6a129a5d" crc="69139e45" />
     <rom name="Druid - Kyoufu no Tobira (Japan).qd" size="131072" sha1="ac28c2f63f9f55cc6ab8c79144ed3c6bcea0a96f" crc="aa32272d" />
   </game>
-  <game name="01 - FDS Games/Druid - Kyoufu no Tobira/~Prototypes and Betas">
+  <game name="01 - Games (FDS)/Druid - Kyoufu no Tobira/~Prototypes and Betas">
     <rom name="Druid - Kyoufu no Tobira (Japan) (Beta) (1987-12-24).fds" size="131000" sha1="26c60d7181d4b107ce6fd33fc74607423b0511ef" crc="47ff9438" />
   </game>
-  <game name="01 - FDS Games/Druid - Kyoufu no Tobira/~Translations">
+  <game name="01 - Games (FDS)/Druid - Kyoufu no Tobira/~Translations">
     <rom name="Druid - The Gate of Fear (Japan) [T-En by BlackPaladin v1.1] [n].fds" size="131000" sha1="9612c47889f21db7ccae8b1c5eb2bb45ea3fa2e2" crc="85bd20ba" />
   </game>
-  <game name="01 - FDS Games/Egger Land - Souzou e no Tabidachi">
+  <game name="01 - Games (FDS)/Egger Land - Souzou e no Tabidachi">
     <rom name="Egger Land - Souzou e no Tabidachi (Japan) (Disk Writer).fds" size="131000" sha1="e6c3c80e7dd9f173ee3013de99a2eb4b9b03f301" crc="94de6ccb" />
     <rom name="Egger Land - Souzou e no Tabidachi (Japan) (Disk Writer).qd" size="131072" sha1="26ad2473436b3ac27edf1d0768ed4070c4396f7c" crc="19856665" />
   </game>
-  <game name="01 - FDS Games/Egger Land - Souzou e no Tabidachi/~Prototypes and Betas">
+  <game name="01 - Games (FDS)/Egger Land - Souzou e no Tabidachi/~Prototypes and Betas">
     <rom name="Egger Land - Souzou e no Tabidachi (Japan) (Beta) (1987-11-11).fds" size="131000" sha1="260f824c95772bbe4cb60702ad53a71cf4e11d3a" crc="5c50b9fc" />
   </game>
-  <game name="01 - FDS Games/Egger Land - Souzou e no Tabidachi/~Translations">
+  <game name="01 - Games (FDS)/Egger Land - Souzou e no Tabidachi/~Translations">
     <rom name="Eggerland - A Creative Journey (Japan) (Disk Writer) [T-En by BlackPaladin v1.0] [n].fds" size="131000" sha1="66e64222a327b9576050a2135df94c71db64e3bd" crc="0737a435" />
   </game>
-  <game name="01 - FDS Games/Egger Land">
+  <game name="01 - Games (FDS)/Egger Land">
     <rom name="Egger Land (Japan).fds" size="131000" sha1="8b84aa9a42046bda2f6b2d16eb1803f41b0e6437" crc="34688660" />
   </game>
-  <game name="01 - FDS Games/Egger Land/~Prototypes and Betas">
+  <game name="01 - Games (FDS)/Egger Land/~Prototypes and Betas">
     <rom name="Egger Land (Japan) (Rev 1) (Possible Proto).fds" size="131000" sha1="d29a85fecac83065a9d4dc60c78729b5db406f11" crc="cf2a8bf8" />
   </game>
-  <game name="01 - FDS Games/Egger Land/~Translations">
+  <game name="01 - Games (FDS)/Egger Land/~Translations">
     <rom name="Egger Land (Japan) [T-En by Necrosaro v1.0].fds" size="131000" sha1="ba4136eb35d37cdef0e95f705f131e5fcc125794" crc="605c82ae" />
     <rom name="Egger Land (Japan) [T-En by Simone D. Alemanno v1.0].fds" size="131000" sha1="aaa5e3f16c62ccfc4a120dec8b711e028902c90e" crc="71b53ca4" />
   </game>
-  <game name="01 - FDS Games/Electrician">
+  <game name="01 - Games (FDS)/Electrician">
     <rom name="Electrician (Japan).fds" size="131000" sha1="da2027ea081a5abed68a92f5af5f9ad9d474c7aa" crc="2ca83dfb" />
   </game>
-  <game name="01 - FDS Games/Electrician/~Translations">
+  <game name="01 - Games (FDS)/Electrician/~Translations">
     <rom name="Electrician (Japan) [T-En by KingMike's Translations v1.0].fds" size="131000" sha1="fb5fc2f1196b372bd38ff09da8945da5b55dc40a" crc="fa3ac03a" />
   </game>
-  <game name="01 - FDS Games/Emi-chan no Moero Yakyuuken!">
+  <game name="01 - Games (FDS)/Emi-chan no Moero Yakyuuken!">
     <rom name="Emi-chan no Moero Yakyuuken! (Japan) (Unl).fds" size="131000" sha1="c317500c50955daba14ec8cb71246d1fb9b1cb8f" crc="13b688b4" />
   </game>
-  <game name="01 - FDS Games/Emi-chan no Moero Yakyuuken!/~Translations">
+  <game name="01 - Games (FDS)/Emi-chan no Moero Yakyuuken!/~Translations">
     <rom name="Emi-chan no Moero Yakyuuken! (Japan) (Unl) [T-En by Laxidman &amp; Spinner 8 and friends v0.99].fds" size="131000" sha1="49596a25151fa6d8661833809d8eaaad2418645f" crc="62307b21" />
   </game>
-  <game name="01 - FDS Games/Esper Dream">
+  <game name="01 - Games (FDS)/Esper Dream">
     <rom name="Esper Dream (Japan) (Rev 1) (3DS Virtual Console).fds" size="131000" sha1="5c99eb99f77ed111fb1062512552c822c5017fde" crc="edaf1a42" />
     <rom name="Esper Dream (Japan) (Rev 1) (Disk Writer).fds" size="131000" sha1="4dddce65694344da9f83c9b85d6524da0958962c" crc="7aecf9d8" />
     <rom name="Esper Dream (Japan) (Rev 1) (Wii and Wii U Virtual Console).fds" size="131000" sha1="bb477227cbdc52b14a505d6c5db0ab52d221fb26" crc="b954c11a" />
     <rom name="Esper Dream (Japan).fds" size="131000" sha1="2c4855362b38bea5f1543038356e96fae5625af6" crc="e33c8305" />
   </game>
-  <game name="01 - FDS Games/Esper Dream/~Translations">
+  <game name="01 - Games (FDS)/Esper Dream/~Translations">
     <rom name="Esper Dream (Japan) (Rev 1) [T-En by Mute v1].fds" size="131000" sha1="075c727e983ec6d9b9d7593edfc1f916719f8483" crc="51d8c9f1" />
   </game>
-  <game name="01 - FDS Games/Exciting Baseball">
+  <game name="01 - Games (FDS)/Exciting Baseball">
     <rom name="Exciting Baseball (Japan).fds" size="131000" sha1="8da3756936ca7b63e18028f0a82edc6f4096af18" crc="f63c93bd" />
   </game>
-  <game name="01 - FDS Games/Exciting Basket">
+  <game name="01 - Games (FDS)/Exciting Basket">
     <rom name="Exciting Basket (Japan).fds" size="131000" sha1="2bb87ccf77c37f5bc15d07bbe62e2ed347ca3007" crc="96b5dcae" />
   </game>
-  <game name="01 - FDS Games/Exciting Billiard">
+  <game name="01 - Games (FDS)/Exciting Billiard">
     <rom name="Exciting Billiard (Japan).fds" size="131000" sha1="a3318f4d47a5a1ef7c82e9907eabcd389f006813" crc="d6e57884" />
   </game>
-  <game name="01 - FDS Games/Exciting Soccer - Konami Cup">
+  <game name="01 - Games (FDS)/Exciting Soccer - Konami Cup">
     <rom name="Exciting Soccer - Konami Cup (Japan).fds" size="131000" sha1="d86409054bd3e90db3e47c5201af544c1390a5b9" crc="d6c838fe" />
   </game>
-  <game name="01 - FDS Games/FMC Disk Card Checker Ver 1.3">
+  <game name="01 - Games (FDS)/FMC Disk Card Checker Ver 1.3">
     <rom name="FMC Disk Card Checker Ver 1.3 (Japan) (Rev 2) (Developer Card).fds" size="131000" sha1="fc3baff1945d1379d0f453ff31e040eefa578cd6" crc="57cb559e" />
   </game>
-  <game name="01 - FDS Games/Fairy Pinball - Yousei Tachi no Pinball">
+  <game name="01 - Games (FDS)/Fairy Pinball - Yousei Tachi no Pinball">
     <rom name="Fairy Pinball - Yousei Tachi no Pinball (Japan) (Unl) (Alt) [b].fds" size="131000" sha1="b4d61daa6ed97805423d443458c7f8905786dc74" crc="8d561754" />
     <rom name="Fairy Pinball - Yousei Tachi no Pinball (Japan) (Unl).fds" size="131000" sha1="58e84c1bc6cfebf6e548e65f055c6b70e1fe9579" crc="ac7ed005" />
   </game>
-  <game name="01 - FDS Games/Fairytale">
+  <game name="01 - Games (FDS)/Fairytale">
     <rom name="Fairytale (Japan).fds" size="131000" sha1="3b20c3a9b0311461918f22ef19aa277fc813f7db" crc="a92bc067" />
   </game>
-  <game name="01 - FDS Games/Falsion">
+  <game name="01 - Games (FDS)/Falsion">
     <rom name="Falsion (Japan).fds" size="131000" sha1="b81fe9f10fb19aff6e5303e7b0445e4399811791" crc="5442c889" />
   </game>
-  <game name="01 - FDS Games/Famicom Grand Prix - F1 Race">
+  <game name="01 - Games (FDS)/Famicom Grand Prix - F1 Race">
     <rom name="Famicom Grand Prix - F1 Race (Japan) (DV 1) (Disk Writer).fds" size="131000" sha1="90e035c85b823c405d38cd9bb06e848285e1349b" crc="81fada11" />
     <rom name="Famicom Grand Prix - F1 Race (Japan).fds" size="131000" sha1="533322263a0c90e7113176f01afc116cce0a6854" crc="0ce9573b" />
   </game>
-  <game name="01 - FDS Games/Famicom Grand Prix - F1 Race/~Translations">
+  <game name="01 - Games (FDS)/Famicom Grand Prix - F1 Race/~Translations">
     <rom name="Famicom Grand Prix - F1 Race (Japan) [T-En by AgentOrange &amp; MrRichard999 v1.0].fds" size="131000" sha1="9f8796b1e81b36bb7b2c87760246380962b85d15" crc="116a2d81" />
   </game>
-  <game name="01 - FDS Games/Famicom Grand Prix II - 3D Hot Rally">
+  <game name="01 - Games (FDS)/Famicom Grand Prix II - 3D Hot Rally">
     <rom name="Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 5) (Famicom 3D System).fds" size="131000" sha1="8d5aa7cb21471dd4b1d4ce1b2db810bdcf1cef8e" crc="a0f93b27" />
     <rom name="Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 7) (Famicom 3D System).fds" size="131000" sha1="3dcf131aea852d6acefe8798c91c2b9df25970ba" crc="a6a25143" />
     <rom name="Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 8) (Disk Writer) (Famicom 3D System).fds" size="131000" sha1="7ed5efd72d5783b2046a54bb9aa9d3edfaa0f17b" crc="0b2c84e9" />
   </game>
-  <game name="01 - FDS Games/Famicom Grand Prix II - 3D Hot Rally/~Translations">
+  <game name="01 - Games (FDS)/Famicom Grand Prix II - 3D Hot Rally/~Translations">
     <rom name="Famicom Grand Prix II - 3D Hot Rally (Japan) [T-En by AgentOrange &amp; MrRichard999 v1.0].fds" size="131000" sha1="b74f48067d4999c3daa3d814b2be5be53098a65a" crc="2c82ad13" />
   </game>
-  <game name="01 - FDS Games/Famicom Mukashibanashi - Shin Onigashima - Kouhen">
+  <game name="01 - Games (FDS)/Famicom Mukashibanashi - Shin Onigashima - Kouhen">
     <rom name="Famicom Mukashibanashi - Shin Onigashima - Kouhen (Japan) (Virtual Console).fds" size="131000" sha1="5b3730027d93c8dc7a2788a61f59183fadb07011" crc="7af926ab" />
     <rom name="Famicom Mukashibanashi - Shin Onigashima - Kouhen (Japan).fds" size="131000" sha1="ca3a0fe11973e91d5930c341c2763e20753eef09" crc="29de8c55" />
   </game>
-  <game name="01 - FDS Games/Famicom Mukashibanashi - Shin Onigashima - Zenpen">
+  <game name="01 - Games (FDS)/Famicom Mukashibanashi - Shin Onigashima - Zenpen">
     <rom name="Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 1).fds" size="131000" sha1="1b22d8f2da23ab9fd5aa4f8fff0e3735972651e1" crc="72ad3e23" />
     <rom name="Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 2, 3) (Disk Writer).fds" size="131000" sha1="2d47856c27208be90626e988af77d74fe5bc2c59" crc="5bd86b7b" />
     <rom name="Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 3) (3DS Virtual Console).fds" size="131000" sha1="b8caf3b70b6381e641bf2a6b5b46b6cd6a26f0a2" crc="4233bdf3" />
     <rom name="Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 3) (Wii and Wii U Virtual Console).fds" size="131000" sha1="d3d0ffe6b41733bb8c85f706b557a20fd06d7ec4" crc="5742bd49" />
   </game>
-  <game name="01 - FDS Games/Famicom Mukashibanashi - Yuuyuuki - Kouhen">
+  <game name="01 - Games (FDS)/Famicom Mukashibanashi - Yuuyuuki - Kouhen">
     <rom name="Famicom Mukashibanashi - Yuuyuuki - Kouhen (Japan).fds" size="131000" sha1="6addf99e16232e5e757949c0937da3b044bff3da" crc="9cfd349b" />
   </game>
-  <game name="01 - FDS Games/Famicom Mukashibanashi - Yuuyuuki - Zenpen">
+  <game name="01 - Games (FDS)/Famicom Mukashibanashi - Yuuyuuki - Zenpen">
     <rom name="Famicom Mukashibanashi - Yuuyuuki - Zenpen (Japan).fds" size="131000" sha1="e201ad823a05aa2e7249c04233e1d4a82deb9bb2" crc="cb8cf11c" />
   </game>
-  <game name="01 - FDS Games/Famicom Tantei Club - Kieta Koukeisha - Kouhen">
+  <game name="01 - Games (FDS)/Famicom Tantei Club - Kieta Koukeisha - Kouhen">
     <rom name="Famicom Tantei Club - Kieta Koukeisha - Kouhen (Japan) (3DS Virtual Console).fds" size="131000" sha1="15d4990871c5382a309d4f10e7ee9264e970bd42" crc="61360da0" />
     <rom name="Famicom Tantei Club - Kieta Koukeisha - Kouhen (Japan).fds" size="131000" sha1="57b678989bc6c1a2e90bd7c6944de4c161169781" crc="37de7bd4" />
   </game>
-  <game name="01 - FDS Games/Famicom Tantei Club - Kieta Koukeisha - Zenpen">
+  <game name="01 - Games (FDS)/Famicom Tantei Club - Kieta Koukeisha - Zenpen">
     <rom name="Famicom Tantei Club - Kieta Koukeisha - Zenpen (Japan) (DV 1, 3).fds" size="131000" sha1="2145eefc46b35317e1de8f254154716d5ea68fab" crc="1bf5f454" />
     <rom name="Famicom Tantei Club - Kieta Koukeisha - Zenpen (Japan) (DV 3) (3DS Virtual Console).fds" size="131000" sha1="daff108ee6420e6f429fb0780febeed216f989af" crc="4d092907" />
     <rom name="Famicom Tantei Club - Kieta Koukeisha - Zenpen (Japan) (DV 3) (Wii and Wii U Virtual Console).fds" size="131000" sha1="4c6e9446655b4fbbd23015707bfbda80f643c032" crc="6dbf2ffc" />
   </game>
-  <game name="01 - FDS Games/Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Kouhen">
+  <game name="01 - Games (FDS)/Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Kouhen">
     <rom name="Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Kouhen (Japan) (DV 3, 4).fds" size="131000" sha1="3f9cc0920e65b283190d88b6f3bf5d60d23533ed" crc="ef5fc6b8" />
     <rom name="Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Kouhen (Japan) (DV 4) (3DS Virtual Console).fds" size="131000" sha1="77f28f1d83025cee786e95f9620b6bd80f98f6ad" crc="91bc6638" />
   </game>
-  <game name="01 - FDS Games/Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen">
+  <game name="01 - Games (FDS)/Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen">
     <rom name="Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan) (3DS Virtual Console).fds" size="131000" sha1="652401db810427be2fc25004d70b8387f9e9574f" crc="26e56b6b" />
     <rom name="Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan) (Wii Virtual Console).fds" size="131000" sha1="80a652befe3a56401a3a940730299e5dba1615f0" crc="0c697954" />
     <rom name="Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan).fds" size="131000" sha1="2ab438c93074649f8b6529d58c08b6d2478089bf" crc="fe908a02" />
   </game>
-  <game name="01 - FDS Games/Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen/~Prototypes and Betas">
+  <game name="01 - Games (FDS)/Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen/~Prototypes and Betas">
     <rom name="Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan) (Beta).fds" size="131000" sha1="cbaa3a70b77e6a33a36bc3e6dedb07f6edf1d001" crc="e233b15a" />
   </game>
-  <game name="01 - FDS Games/Family Composer">
+  <game name="01 - Games (FDS)/Family Composer">
     <rom name="Family Composer (Japan) (Disk Writer).fds" size="131000" sha1="e15a395393090b433cb2edcb0cc3bf4d876a8e08" crc="01e451b9" />
   </game>
-  <game name="01 - FDS Games/Family Composer/~Prototypes and Betas">
+  <game name="01 - Games (FDS)/Family Composer/~Prototypes and Betas">
     <rom name="Family Composer (Japan) (Rev 1) (Possible Proto).fds" size="131000" sha1="b1d0b50e37491ec268225d8207597b4ceaec4ce9" crc="fddbc00d" />
   </game>
-  <game name="01 - FDS Games/Family Composer/~Translations">
+  <game name="01 - Games (FDS)/Family Composer/~Translations">
     <rom name="Family Composer (Japan) (Disk Writer) [T-En by BlackPaladin v1.01].fds" size="131000" sha1="23c7533a946f380d8c798e34a81bf87fea1be4ed" crc="45e9510d" />
     <rom name="Family Composer (Japan) (Disk Writer) [T-En by Pontus v1.0].fds" size="131000" sha1="3ea88bd8c08f2996b43c87f983567bb7a780c370" crc="1c835775" />
   </game>
-  <game name="01 - FDS Games/Famimaga Disk Vol. 1 - Hong Kong">
+  <game name="01 - Games (FDS)/Famimaga Disk Vol. 1 - Hong Kong">
     <rom name="Famimaga Disk Vol. 1 - Hong Kong (Japan).fds" size="65500" sha1="b401fe92c86a0496a3f7247ba8738b69be120114" crc="31c155d8" />
   </game>
-  <game name="01 - FDS Games/Famimaga Disk Vol. 2 - Panic Space">
+  <game name="01 - Games (FDS)/Famimaga Disk Vol. 2 - Panic Space">
     <rom name="Famimaga Disk Vol. 2 - Panic Space (Japan) (Disk Writer).fds" size="131000" sha1="fb1bb7cd9194f457eb40ba7638d720833fb5786b" crc="a2ebbb2f" />
   </game>
-  <game name="01 - FDS Games/Famimaga Disk Vol. 3 - All 1">
+  <game name="01 - Games (FDS)/Famimaga Disk Vol. 3 - All 1">
     <rom name="Famimaga Disk Vol. 3 - All 1 (Japan) (Disk Writer).fds" size="65500" sha1="db3459dc067e2c6ce5d8a39d288804cb0d2f9c79" crc="645b4c48" />
   </game>
-  <game name="01 - FDS Games/Famimaga Disk Vol. 4 - Clocks">
+  <game name="01 - Games (FDS)/Famimaga Disk Vol. 4 - Clocks">
     <rom name="Famimaga Disk Vol. 4 - Clocks (Japan) (Disk Writer).fds" size="65500" sha1="7669cbc31fa9360588d997790acb835e1bc07014" crc="135831c4" />
   </game>
-  <game name="01 - FDS Games/Famimaga Disk Vol. 5 - Puyo Puyo">
+  <game name="01 - Games (FDS)/Famimaga Disk Vol. 5 - Puyo Puyo">
     <rom name="Famimaga Disk Vol. 5 - Puyo Puyo (Japan) (Disk Writer).fds" size="131000" sha1="b1cc1db5235381f1a33af7c42dded562be8f9c46" crc="58d3a655" />
   </game>
-  <game name="01 - FDS Games/Famimaga Disk Vol. 6 - Janken Disk Jou">
+  <game name="01 - Games (FDS)/Famimaga Disk Vol. 6 - Janken Disk Jou">
     <rom name="Famimaga Disk Vol. 6 - Janken Disk Jou (Japan) (Disk Writer).fds" size="131000" sha1="a10379f7f02f97a90d6b165b09b8795a65105189" crc="958201d8" />
   </game>
-  <game name="01 - FDS Games/Fire Bam">
+  <game name="01 - Games (FDS)/Fire Bam">
     <rom name="Fire Bam (Japan).fds" size="131000" sha1="de4a306d2d4f7afffed64644aa1568959d1a959d" crc="744cd2f8" />
     <rom name="Fire Bam (Japan).qd" size="131072" sha1="c77549da0801aadc9cedd9e929b7ed9ef65e8072" crc="f7aa2492" />
   </game>
-  <game name="01 - FDS Games/Fire Rock">
+  <game name="01 - Games (FDS)/Fire Rock">
     <rom name="Fire Rock (Japan).fds" size="131000" sha1="8fbc2ea7dd9fe79ef25511815dc0a154c4591c4b" crc="33b5b551" />
   </game>
-  <game name="01 - FDS Games/Fruits Mahjong 1">
+  <game name="01 - Games (FDS)/Fruits Mahjong 1">
     <rom name="Fruits Mahjong 1 - Disk 1 - Mahjong Game Hontai (Japan) (Unl).fds" size="131000" sha1="53524e738860cec039de3c3769a98dd8481b93e4" crc="722eca6d" />
     <rom name="Fruits Mahjong 1 - Disk 2 - Dai H Taikai (Japan) (Unl).fds" size="131000" sha1="0d8eb9a88826e7096897e7970a950a8814f9cc4a" crc="f4300462" />
   </game>
-  <game name="01 - FDS Games/Fruits Mahjong 2">
+  <game name="01 - Games (FDS)/Fruits Mahjong 2">
     <rom name="Fruits Mahjong 2 - Disk 1 - Tokimeki Gals (Japan) (Unl).fds" size="131000" sha1="fb030cac9556c74d872c4676daf79393af0c1cd3" crc="d065dfcf" />
     <rom name="Fruits Mahjong 2 - Disk 2 - Yonin to Dai H Taikai (Japan) (Unl).fds" size="131000" sha1="414dcceb652ae4d32545eb3cd74be3ddcd19f31b" crc="eff1b027" />
   </game>
-  <game name="01 - FDS Games/Fruits Mahjong 3">
+  <game name="01 - Games (FDS)/Fruits Mahjong 3">
     <rom name="Fruits Mahjong 3 - Disk 1 - Yonin no Tenshi Tachi (Japan) (Unl).fds" size="131000" sha1="a202465cc38cc297a7cabe549008c3d90ddfc9ca" crc="1f0e3cbc" />
     <rom name="Fruits Mahjong 3 - Disk 2 - Tottemo H na Gogo (Japan) (Unl).fds" size="131000" sha1="c09a21c865c69d41b27ac83c5ddccfd1da23c739" crc="7d853eec" />
   </game>
-  <game name="01 - FDS Games/Fruits Mahjong 4">
+  <game name="01 - Games (FDS)/Fruits Mahjong 4">
     <rom name="Fruits Mahjong 4 - Disk 1 - Bishoujo Connection (Japan) (Unl).fds" size="131000" sha1="4f24adbe3d1f8c2c0ff6889f51d2e134c4c1cd66" crc="f5de88b1" />
     <rom name="Fruits Mahjong 4 - Disk 2 - Daitan H na Hirusagari (Japan) (Unl).fds" size="131000" sha1="b78c6b3b2504515edaed1e5de675bc0ee50f0b3b" crc="4a42467d" />
   </game>
-  <game name="01 - FDS Games/Fuuun Shourin Ken - Ankoku no Maou">
+  <game name="01 - Games (FDS)/Fuuun Shourin Ken - Ankoku no Maou">
     <rom name="Fuuun Shourin Ken - Ankoku no Maou (Japan) (Famicom 3D System).fds" size="131000" sha1="9d360e98d4cb6ada219354c7915a4d7db1459838" crc="3c5f6468" />
   </game>
-  <game name="01 - FDS Games/Fuuun Shourin Ken">
+  <game name="01 - Games (FDS)/Fuuun Shourin Ken">
     <rom name="Fuuun Shourin Ken (Japan).fds" size="131000" sha1="b59dbf8fdf64e03ec508c40fc8cb59670a6dbf53" crc="620e0d98" />
   </game>
-  <game name="01 - FDS Games/Galaga">
+  <game name="01 - Games (FDS)/Galaga">
     <rom name="Galaga (Japan) (Disk Writer).fds" size="65500" sha1="f9cd6ed88f26ca5d850ce6ca00c921b32bea0847" crc="ab413401" />
   </game>
-  <game name="01 - FDS Games/Galaxian">
+  <game name="01 - Games (FDS)/Galaxian">
     <rom name="Galaxian (Japan) (Disk Writer).fds" size="65500" sha1="834d8a00362f0fc36a8fc3ac77f59598e69f2b5f" crc="ba4b6fa8" />
   </game>
-  <game name="01 - FDS Games/Gall Force - Eternal Story">
+  <game name="01 - Games (FDS)/Gall Force - Eternal Story">
     <rom name="Gall Force - Eternal Story (Japan).fds" size="131000" sha1="0964dd056041fe82e7f6ac66d7593034629a3032" crc="2cf62aa9" />
   </game>
-  <game name="01 - FDS Games/Gall Force - Eternal Story/~Translations">
+  <game name="01 - Games (FDS)/Gall Force - Eternal Story/~Translations">
     <rom name="Gall Force - Eternal Story (Japan) [T-En by Gil Galad v1.0].fds" size="131000" sha1="db8efe8be6d336f473cee829f59c7edd7d58dd2a" crc="d66e007f" />
   </game>
-  <game name="01 - FDS Games/Game no Tatsujin - Money Wars">
+  <game name="01 - Games (FDS)/Game no Tatsujin - Money Wars">
     <rom name="Game no Tatsujin - Money Wars (Japan) (Unl).fds" size="131000" sha1="4248b8fb6c2039bbe3b10945b637e23051f27d75" crc="da1e66c9" />
   </game>
-  <game name="01 - FDS Games/German Tanteidan MarinGumi - Maruhi Jigomar Sousa File">
+  <game name="01 - Games (FDS)/German Tanteidan MarinGumi - Maruhi Jigomar Sousa File">
     <rom name="German Tanteidan MarinGumi - Maruhi Jigomar Sousa File (Japan).fds" size="131000" sha1="a1c01c819aebf49b37288559b49d33a7de5842e7" crc="b1fda4ec" />
   </game>
-  <game name="01 - FDS Games/Ghost Manor/~Translations">
+  <game name="01 - Games (FDS)/Ghost Manor/~Translations">
     <rom name="Ghost Manor (Japan) [T-En by KingMike's Translations v1.0] [n].fds" size="131000" sha1="b8fa3b21e0959e6d409a01bf023127492bec1225" crc="546589ab" />
   </game>
-  <game name="01 - FDS Games/Ginga Denshou - Galaxy Odyssey">
+  <game name="01 - Games (FDS)/Ginga Denshou - Galaxy Odyssey">
     <rom name="Ginga Denshou - Galaxy Odyssey (Japan).fds" size="131000" sha1="a69c12b4ea58eea91088ccc88517e651d4bdc4b9" crc="631d9fa8" />
   </game>
-  <game name="01 - FDS Games/Ginga Denshou - Galaxy Odyssey/~Prototypes and Betas">
+  <game name="01 - Games (FDS)/Ginga Denshou - Galaxy Odyssey/~Prototypes and Betas">
     <rom name="Ginga Denshou - Galaxy Odyssey (Japan) (Rev 1) (Possible Proto).fds" size="131000" sha1="b19cf285a3f8d41033d62d9a6deb9d41f95a8e26" crc="960d68b0" />
   </game>
-  <game name="01 - FDS Games/Ginga Denshou - Galaxy Odyssey/~Translations">
+  <game name="01 - Games (FDS)/Ginga Denshou - Galaxy Odyssey/~Translations">
     <rom name="Ginga Denshou - Galaxy Odyssey (Japan) [T-En by Chris M. Covell v1.0].fds" size="131000" sha1="3abb511b815169f054cc425f9822fd95ec1e0312" crc="f9534dda" />
   </game>
-  <game name="01 - FDS Games/Gokuraku Yuugi - Game Tengoku">
+  <game name="01 - Games (FDS)/Gokuraku Yuugi - Game Tengoku">
     <rom name="Gokuraku Yuugi - Game Tengoku (Japan).fds" size="131000" sha1="b88f958ddbb1ae3932d86fd112349e802241fb93" crc="42fc78ae" />
   </game>
-  <game name="01 - FDS Games/Gokuraku Yuugi - Game Tengoku/~Translations">
+  <game name="01 - Games (FDS)/Gokuraku Yuugi - Game Tengoku/~Translations">
     <rom name="Playtime Paradise (Japan) [T-En by BlackPaladin v1.0] [n].fds" size="131000" sha1="a2d8fbab8c896842d5a8bf74bc395217525388a5" crc="59ad90ad" />
   </game>
-  <game name="01 - FDS Games/Golf - Japan Course">
+  <game name="01 - Games (FDS)/Golf - Japan Course">
     <rom name="Golf - Japan Course (Japan) (DV 2).fds" size="131000" sha1="532214dacbac874deb1c944f894c450feeffd2eb" crc="fd5b83a1" />
     <rom name="Golf - Japan Course (Japan) (Prize Card).fds" size="131000" sha1="31eb8b7e7c867e8dd3996633ab703ca318220519" crc="c1bd72f2" />
     <rom name="Golf - Japan Course (Japan) (Prize Card).qd" size="131072" sha1="d6807d5a2ded98b9ed7e4ef38b434fddef146eaf" crc="0af11b6b" />
     <rom name="Golf - Japan Course (Japan).fds" size="131000" sha1="81f0ff0cc9bd47195e5acc1ee4fc95ed1dda7596" crc="f49129f6" />
   </game>
-  <game name="01 - FDS Games/Golf - US Course">
+  <game name="01 - Games (FDS)/Golf - US Course">
     <rom name="Golf - Special Course (Japan) (Prize Card).fds" size="131000" sha1="f9df95725822161784598064f50bef3ea639967d" crc="528da81f" />
     <rom name="Golf - US Course (Japan) (DV 1).fds" size="131000" sha1="d5a29613806ffd6c8fae1d81050ea015c4476906" crc="b1879efd" />
     <rom name="Golf - US Course (Japan) (DV 2) (Disk Writer).fds" size="131000" sha1="ba9acb65d9d009c08c0fdf521646fa84ebb4c69a" crc="be6a0596" />
     <rom name="Golf - US Course (Japan).fds" size="131000" sha1="7fe5d5b21bbe6a15ce0a8d327fe4d6eec87c184d" crc="bdeac502" />
   </game>
-  <game name="01 - FDS Games/Golf, The - Bishoujo Classic">
+  <game name="01 - Games (FDS)/Golf, The - Bishoujo Classic">
     <rom name="Golf, The - Bishoujo Classic (Japan) (Unl).fds" size="131000" sha1="3a7407abef761d8103aa4c3816460f4790599e30" crc="6781c413" />
   </game>
-  <game name="01 - FDS Games/Golf">
+  <game name="01 - Games (FDS)/Golf">
     <rom name="Golf (Japan) (Rev 1).fds" size="65500" sha1="8e84f5cc553d9bb07480bc5f92cb42e2a031eaed" crc="a9451981" />
     <rom name="Golf (Japan).fds" size="65500" sha1="cdd113f54ce2e98e449c5c1848cf1a6f1745bbfc" crc="9ab768f5" />
   </game>
-  <game name="01 - FDS Games/Golf/~Prototypes and Betas">
+  <game name="01 - Games (FDS)/Golf/~Prototypes and Betas">
     <rom name="Golf (Japan) (Rev 2) (Possible Proto).fds" size="65500" sha1="95ec0d893417045dfc73042cb37841418e37a24d" crc="04bbd0fc" />
   </game>
-  <game name="01 - FDS Games/Gomoku Narabe/~Prototypes and Betas">
+  <game name="01 - Games (FDS)/Gomoku Narabe/~Prototypes and Betas">
     <rom name="Gomoku Narabe (Japan) (Proto).fds" size="65500" sha1="c2a4a53878a016f08b8cdc78e63179a68f43156d" crc="d080f23a" />
   </game>
-  <game name="01 - FDS Games/Goonies">
+  <game name="01 - Games (FDS)/Goonies">
     <rom name="Goonies (Japan) (Disk Writer).fds" size="65500" sha1="e12e6b521a68c8cf402714d84f6e5e8acc7df30a" crc="5ba05c82" />
   </game>
-  <game name="01 - FDS Games/Graphic Editor Hokusai - Ver 1.2">
+  <game name="01 - Games (FDS)/Graphic Editor Hokusai - Ver 1.2">
     <rom name="Graphic Editor Hokusai - Ver 1.2 (Japan) (Unl).fds" size="65500" sha1="81fc6d52b21b714f3a4445deb46a1e563bb64258" crc="1d234703" />
   </game>
-  <game name="01 - FDS Games/Green Beret">
+  <game name="01 - Games (FDS)/Green Beret">
     <rom name="Green Beret (Japan).fds" size="131000" sha1="bc83a2a26cdfc4cab97954371ae5c75f36f44993" crc="d0916bb6" />
   </game>
-  <game name="01 - FDS Games/Gun.Smoke">
+  <game name="01 - Games (FDS)/Gun.Smoke">
     <rom name="Gun.Smoke (Japan).fds" size="131000" sha1="e1d6d057c7551bc0e74b342a797c2733d4b861b1" crc="c6d3968a" />
   </game>
-  <game name="01 - FDS Games/Gun.Smoke/~Translations">
+  <game name="01 - Games (FDS)/Gun.Smoke/~Translations">
     <rom name="Gun.Smoke (Japan) [T-En by AstralVoodoo v1.0].fds" size="131000" sha1="b4eaea5d74bade0b9758ff9c4f0e36e03cf839d9" crc="91b03028" />
   </game>
-  <game name="01 - FDS Games/Gyruss">
+  <game name="01 - Games (FDS)/Gyruss">
     <rom name="Gyruss (Japan).fds" size="131000" sha1="7cac3f8a1963be84aa20888996922f0599797ebd" crc="bfc78f7d" />
   </game>
-  <game name="01 - FDS Games/Gyruss/~Prototypes and Betas">
+  <game name="01 - Games (FDS)/Gyruss/~Prototypes and Betas">
     <rom name="Gyruss (Japan) (Beta) (1988-10-03).fds" size="131000" sha1="283a4aaa3445b959db14e1cfa20e4f086c50c3d9" crc="73b64ffe" />
   </game>
-  <game name="01 - FDS Games/Gyruss/~Translations">
+  <game name="01 - Games (FDS)/Gyruss/~Translations">
     <rom name="Gyruss (Japan) [T-En by Stardust Crusaders v1.01].fds" size="131000" sha1="2bc38fae171d3a278e84853c3253355fea7d0bd2" crc="fc58faf6" />
   </game>
-  <game name="01 - FDS Games/Halley Wars">
+  <game name="01 - Games (FDS)/Halley Wars">
     <rom name="Halley Wars (Japan).fds" size="131000" sha1="c63334b4dc7dd3ef1141100953b9b1079355e505" crc="4de34546" />
   </game>
-  <game name="01 - FDS Games/Hao-kun no Fushigi na Tabi">
+  <game name="01 - Games (FDS)/Hao-kun no Fushigi na Tabi">
     <rom name="Hao-kun no Fushigi na Tabi (Japan).fds" size="131000" sha1="28fc0a9b9bea9bd9b189c8512cd55c90bc276e18" crc="fd6bf87c" />
   </game>
-  <game name="01 - FDS Games/Hayama Reiko no Date de Blackjack">
+  <game name="01 - Games (FDS)/Hayama Reiko no Date de Blackjack">
     <rom name="Hayama Reiko no Date de Blackjack (Japan) (Unl).fds" size="131000" sha1="24267a7ba5a8698b74318acd0308d5820eda8b6d" crc="e918a01a" />
   </game>
-  <game name="01 - FDS Games/Hikaru Genji - Roller Panic">
+  <game name="01 - Games (FDS)/Hikaru Genji - Roller Panic">
     <rom name="Hikaru Genji - Roller Panic (Japan).fds" size="131000" sha1="c0b7550965c8084f097ad3c0a90a5ff3fd8b46a1" crc="58cf45f3" />
   </game>
-  <game name="01 - FDS Games/I Am a Teacher - Super Mario no Sweater">
+  <game name="01 - Games (FDS)/I Am a Teacher - Super Mario no Sweater">
     <rom name="I Am a Teacher - Super Mario no Sweater (Japan).fds" size="131000" sha1="5b814fc2483c4ece6b4877dd452889b9e250d5d3" crc="bb51c5d0" />
   </game>
-  <game name="01 - FDS Games/I Am a Teacher - Teami no Kiso">
+  <game name="01 - Games (FDS)/I Am a Teacher - Teami no Kiso">
     <rom name="I Am a Teacher - Teami no Kiso (Japan).fds" size="131000" sha1="f2a35c2e5c5699d6c7bd74de5454f1c9fd9c22bd" crc="c54d80bf" />
   </game>
-  <game name="01 - FDS Games/Ice Climber">
+  <game name="01 - Games (FDS)/Ice Climber">
     <rom name="Ice Climber (Japan) (En) (Disk Writer).fds" size="65500" sha1="7a599be966e9918f826aac5e13473e822f34b89c" crc="036a80dd" />
   </game>
-  <game name="01 - FDS Games/Ice Hockey">
+  <game name="01 - Games (FDS)/Ice Hockey">
     <rom name="Ice Hockey (Japan).fds" size="65500" sha1="55b801c3bf3dd86697f5ff858151ea1c5d3eee8b" crc="189fa707" />
   </game>
-  <game name="01 - FDS Games/Idol Hotline - Nakayama Miho no Tokimeki High School">
+  <game name="01 - Games (FDS)/Idol Hotline - Nakayama Miho no Tokimeki High School">
     <rom name="Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 10).fds" size="131000" sha1="dfb1931c10c8d8ee42bb807d8305ef9311c78e4d" crc="9c9616b8" />
     <rom name="Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 11) (Disk Writer).fds" size="131000" sha1="584398b941ea1b070f3ba6e8148abec1d4f06af1" crc="525c5bb1" />
     <rom name="Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 13) (Disk Writer).fds" size="131000" sha1="9f0a3179ff7ac29b2a9b125c596384f7c8d7d812" crc="ed26ab9f" />
     <rom name="Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 4).fds" size="131000" sha1="95a764d66f6a6a032a45d67aaf0a39589b06a361" crc="10266cdd" />
     <rom name="Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 6).fds" size="131000" sha1="48b3c14a3150537281d031007032cdab726b56da" crc="abddec53" />
   </game>
-  <game name="01 - FDS Games/Idol Hotline - Nakayama Miho no Tokimeki High School/~Translations">
+  <game name="01 - Games (FDS)/Idol Hotline - Nakayama Miho no Tokimeki High School/~Translations">
     <rom name="Idol Hotline - Miho Nakayama's Tokimeki High School (Japan) [T-En by FCandChill &amp; Filler &amp; TheMajinZenki &amp; Graphicus v1.0] [n].fds" size="131000" sha1="14d8ba1ed4deed5a753542c431e1dd607e0cc0c8" crc="772a6bcc" />
   </game>
-  <game name="01 - FDS Games/Igo - Kyuu Roban Taikyoku">
+  <game name="01 - Games (FDS)/Igo - Kyuu Roban Taikyoku">
     <rom name="Igo - Kyuu Roban Taikyoku (Japan).fds" size="131000" sha1="bab72b9c0fc46550213f0d6ea37ed8673200ff28" crc="2e1e75ae" />
   </game>
-  <game name="01 - FDS Games/Ishidou">
+  <game name="01 - Games (FDS)/Ishidou">
     <rom name="Ishidou (Japan) (Disk Writer).fds" size="131000" sha1="f3d5e79a2ec8c984bab18741cc902c3bed9f912d" crc="0c54a19e" />
   </game>
-  <game name="01 - FDS Games/Ishidou/~Translations">
+  <game name="01 - Games (FDS)/Ishidou/~Translations">
     <rom name="Ishidou (Japan) (Disk Writer) [T-En by Django v1.0].fds" size="131000" sha1="4a796ff7b7c2370efc7a31caec6d2249d292c849" crc="ebfcf648" />
   </game>
-  <game name="01 - FDS Games/Jackal">
+  <game name="01 - Games (FDS)/Jackal">
     <rom name="Final Command - Akai Yousai (Japan).fds" size="131000" sha1="c8a2ee105571d0dcc3099f9a96db93f41b31bf5a" crc="08028e43" />
   </game>
-  <game name="01 - FDS Games/Jackal/~Translations">
+  <game name="01 - Games (FDS)/Jackal/~Translations">
     <rom name="Final Command - The Red Fortress (Japan) [T-En by BlackPaladin v1.0] [n].fds" size="131000" sha1="6aa7bf0637ebee3a08bb1e93cfa7b43f710079c3" crc="20ee28fe" />
   </game>
-  <game name="01 - FDS Games/Jikai Shounen Met Mag">
+  <game name="01 - Games (FDS)/Jikai Shounen Met Mag">
     <rom name="Jikai Shounen Met Mag (Japan).fds" size="131000" sha1="ed161fd575fede0279567f6d524f39a48ddd2dc2" crc="a25a1001" />
   </game>
-  <game name="01 - FDS Games/Jikai Shounen Met Mag/~Translations">
+  <game name="01 - Games (FDS)/Jikai Shounen Met Mag/~Translations">
     <rom name="Magnetic Boy Met Mag (Japan) [T-En by BlackPaladin v1.0] [n].fds" size="131000" sha1="2e43a65b76fc99369d80029f66772484d95e6977" crc="4f86e411" />
   </game>
-  <game name="01 - FDS Games/Jingorou">
+  <game name="01 - Games (FDS)/Jingorou">
     <rom name="Jingorou (Japan) (Unl).fds" size="65500" sha1="6230486bb3653b5b3936671695d955b9a5c78bf4" crc="72a0bd81" />
   </game>
-  <game name="01 - FDS Games/Kaettekita Mario Bros.">
+  <game name="01 - Games (FDS)/Kaettekita Mario Bros.">
     <rom name="Kaettekita Mario Bros. (Japan) (Disk Writer).fds" size="131000" sha1="ae5941b4262d92e9c3254a86269a6fd56189a129" crc="4d5bfd77" />
   </game>
-  <game name="01 - FDS Games/Kalin no Tsurugi">
+  <game name="01 - Games (FDS)/Kalin no Tsurugi">
     <rom name="Kalin no Tsurugi (Japan).fds" size="131000" sha1="b28a440ab0cf315a21b9b039f7fc0acd79f8da30" crc="30a753be" />
   </game>
-  <game name="01 - FDS Games/Kamen Rider Black - Taiketsu Shadow Moon">
+  <game name="01 - Games (FDS)/Kamen Rider Black - Taiketsu Shadow Moon">
     <rom name="Kamen Rider Black - Taiketsu Shadow Moon (Japan).fds" size="131000" sha1="bfe8b644fab411216614381649f0bc84f8cccb46" crc="566c6ddf" />
   </game>
-  <game name="01 - FDS Games/Kamen Rider Black - Taiketsu Shadow Moon/~Translations">
+  <game name="01 - Games (FDS)/Kamen Rider Black - Taiketsu Shadow Moon/~Translations">
     <rom name="Kamen Rider Black - The Shadow Moon Showdown (Japan) [T-En by BlackPaladin v1.0] [n].fds" size="131000" sha1="fcf56942c1d2ba7d23c84792582f70c613a016c5" crc="0ab021fa" />
   </game>
-  <game name="01 - FDS Games/Karate Champ">
+  <game name="01 - Games (FDS)/Karate Champ">
     <rom name="Karate Champ (Japan).fds" size="131000" sha1="6481d88145639ef0e2b827c3b94f6454facfb017" crc="dfd06601" />
   </game>
-  <game name="01 - FDS Games/Kattobi! Douji">
+  <game name="01 - Games (FDS)/Kattobi! Douji">
     <rom name="Kattobi! Douji (Japan).fds" size="131000" sha1="cd8338b2adce9579a1876950ac1a2f275764efb3" crc="8a54ce0b" />
   </game>
-  <game name="01 - FDS Games/Kick Challenger - Air Foot - Yasai no Kuni no Ashi Senshi">
+  <game name="01 - Games (FDS)/Kick Challenger - Air Foot - Yasai no Kuni no Ashi Senshi">
     <rom name="Kick Challenger - Air Foot - Yasai no Kuni no Ashi Senshi (Japan).fds" size="131000" sha1="73d42c954cb1b87c03d9d3ad47f983e00fcf5379" crc="78a12d0a" />
   </game>
-  <game name="01 - FDS Games/Kick and Run">
+  <game name="01 - Games (FDS)/Kick and Run">
     <rom name="Kick and Run (Japan).fds" size="131000" sha1="7f6f70759391b10936d295c36b2a56f10d9bbac6" crc="e3d0dcfc" />
   </game>
-  <game name="01 - FDS Games/Kid Icarus">
+  <game name="01 - Games (FDS)/Kid Icarus">
     <rom name="Hikari Shinwa - Palthena no Kagami (Japan) (Rev 1) (Virtual Console).fds" size="131000" sha1="42e38020df7176e20d0bb90c2b3cf33291bbde31" crc="b88d9bc2" />
     <rom name="Hikari Shinwa - Palthena no Kagami (Japan) (Rev 1).fds" size="131000" sha1="bd9c5b936338be350dd20ba3b6d25730429750c6" crc="e7e6e77a" />
     <rom name="Hikari Shinwa - Palthena no Kagami (Japan).fds" size="131000" sha1="3c3e9ada001961221013f2117d7c05350609ed18" crc="76217563" />
   </game>
-  <game name="01 - FDS Games/Kid Icarus/~Translations">
+  <game name="01 - Games (FDS)/Kid Icarus/~Translations">
     <rom name="Myth of Light, The - Palutena's Mirror (Japan) (Rev 1) [T-En by BlackPaladin v1.0] [n].fds" size="131000" sha1="8faf292b7f0f840e4860d5bf398a44aefb700270" crc="78a03745" />
   </game>
-  <game name="01 - FDS Games/Kieta Princess">
+  <game name="01 - Games (FDS)/Kieta Princess">
     <rom name="Kieta Princess (Japan).fds" size="131000" sha1="38148d65001c9784b7ce6b59348e1bf9ddc3fff1" crc="60d55cea" />
   </game>
-  <game name="01 - FDS Games/Kiki Kaikai - Dotou Hen">
+  <game name="01 - Games (FDS)/Kiki Kaikai - Dotou Hen">
     <rom name="Kiki Kaikai - Dotou Hen (Japan) (Rev 1) (Disk Writer).fds" size="131000" sha1="72eece33428159b71951573efbd5aab7f9490235" crc="007aa4fd" />
     <rom name="Kiki Kaikai - Dotou Hen (Japan).fds" size="131000" sha1="b7b98dbc286366c9b024d93ab77fd599aa6b9e00" crc="35838a29" />
   </game>
-  <game name="01 - FDS Games/Kiki Kaikai - Dotou Hen/~Translations">
+  <game name="01 - Games (FDS)/Kiki Kaikai - Dotou Hen/~Translations">
     <rom name="Mysterious Ghost World - The Turbulent Chapters (Japan) (Rev 1) (Disk Writer) [T-En by BlackPaladin v1.0] [n].fds" size="131000" sha1="06862e62293be27a9a97f11feb0d12582743309a" crc="61d3af7e" />
   </game>
-  <game name="01 - FDS Games/Kind Gal's">
+  <game name="01 - Games (FDS)/Kind Gal's">
     <rom name="Kind Gal's (Japan) (Disk 1) (Unl).fds" size="131000" sha1="27ab3fb36247a45857d8c9669febb8167a6fa12a" crc="66686b06" />
     <rom name="Kind Gal's (Japan) (Disk 2) (Unl).fds" size="131000" sha1="86e6c7f634155ff4321b68582f1f642feae95bc0" crc="65c5aaec" />
   </game>
-  <game name="01 - FDS Games/Kinnikuman - Kinnikusei Oui Soudatsusen">
+  <game name="01 - Games (FDS)/Kinnikuman - Kinnikusei Oui Soudatsusen">
     <rom name="Kinnikuman - Kinnikusei Oui Soudatsusen (Japan) (Rev 1) (Disk Writer).fds" size="131000" sha1="c05052aa34ade9b7b2f869cc582d0ea623947876" crc="39e05966" />
     <rom name="Kinnikuman - Kinnikusei Oui Soudatsusen (Japan).fds" size="131000" sha1="f4cfb1565857464856305ff96c55ea6c233e03eb" crc="03d8cdb1" />
   </game>
-  <game name="01 - FDS Games/Knight Lore - Majou no Ookami Otoko">
+  <game name="01 - Games (FDS)/Knight Lore - Majou no Ookami Otoko">
     <rom name="Knight Lore - Majou no Ookami Otoko (Japan).fds" size="131000" sha1="f672554a637497098368f7e7397174574e6e6628" crc="70e55476" />
   </game>
-  <game name="01 - FDS Games/Knight Lore - Majou no Ookami Otoko/~Translations">
+  <game name="01 - Games (FDS)/Knight Lore - Majou no Ookami Otoko/~Translations">
     <rom name="Knight Lore - Majou no Ookami Otoko (Japan) [T-En by Psyklax v1.0].fds" size="131000" sha1="df1739149b0df7932ce43fa679f2930d66758c7c" crc="37e66c25" />
   </game>
-  <game name="01 - FDS Games/Knight Move">
+  <game name="01 - Games (FDS)/Knight Move">
     <rom name="Knight Move (Japan) (Rev 1) (Disk Writer).fds" size="65500" sha1="ac81cecd0c99cb7657681ad11d530c673941b59f" crc="6d365e2f" />
     <rom name="Knight Move (Japan).fds" size="65500" sha1="ca24c31db670cdff703677fce28f0a810b2d3350" crc="fd6ef8d7" />
   </game>
-  <game name="01 - FDS Games/Knight Move/~Translations">
+  <game name="01 - Games (FDS)/Knight Move/~Translations">
     <rom name="Knight Move (Japan) [T-En by PentarouZero v1.0].fds" size="65500" sha1="0bacf79a62c803c4a2d293a2342a14a4b02c6937" crc="474b83c4" />
   </game>
-  <game name="01 - FDS Games/Kobayashi Hitomi Shocking Tennis">
+  <game name="01 - Games (FDS)/Kobayashi Hitomi Shocking Tennis">
     <rom name="Kobayashi Hitomi Shocking Tennis (Japan) (Unl).fds" size="131000" sha1="7389da745b2b2261c6708bbcb5f8a5700012f969" crc="187ec24c" />
   </game>
-  <game name="01 - FDS Games/Kobayashi Hitomi no Hold Up">
+  <game name="01 - Games (FDS)/Kobayashi Hitomi no Hold Up">
     <rom name="Kobayashi Hitomi no Hold Up (Japan) (Unl).fds" size="131000" sha1="f5ad91e7ebf49e72aaaf4b44c63d9fa9142aa327" crc="8a286b73" />
   </game>
-  <game name="01 - FDS Games/Konamic Ice Hockey">
+  <game name="01 - Games (FDS)/Konamic Ice Hockey">
     <rom name="Konamic Ice Hockey (Japan).fds" size="131000" sha1="7128d8bb30d6dcbbee41fd5c8d97e080836bbd9d" crc="fef5125f" />
   </game>
-  <game name="01 - FDS Games/Konamic Tennis">
+  <game name="01 - Games (FDS)/Konamic Tennis">
     <rom name="Konamic Tennis (Japan).fds" size="131000" sha1="f6dbfd739456dddc6a21148100c912974b8c9e23" crc="edbaee55" />
   </game>
-  <game name="01 - FDS Games/Konamic Tennis/~Prototypes and Betas">
+  <game name="01 - Games (FDS)/Konamic Tennis/~Prototypes and Betas">
     <rom name="Konamic Tennis (Japan) (Beta) (1986-10-22).fds" size="131000" sha1="62faa6d7500a0b4cb241ddba76854d901756b43d" crc="694f064c" />
   </game>
-  <game name="01 - FDS Games/Koneko Monogatari - The Adventures of Chatran">
+  <game name="01 - Games (FDS)/Koneko Monogatari - The Adventures of Chatran">
     <rom name="Koneko Monogatari - The Adventures of Chatran (Japan).fds" size="131000" sha1="572279ce975e9bf6114bc6e919e1820316022090" crc="53a7a482" />
   </game>
-  <game name="01 - FDS Games/Koneko Monogatari - The Adventures of Chatran/~Prototypes and Betas">
+  <game name="01 - Games (FDS)/Koneko Monogatari - The Adventures of Chatran/~Prototypes and Betas">
     <rom name="Koneko Monogatari - The Adventures of Chatran (Japan) (Sample) (1986-07-03).fds" size="131000" sha1="f94f3385dacf10bde040494742657bf44e764eb3" crc="3438794b" />
   </game>
-  <game name="01 - FDS Games/Koneko Monogatari - The Adventures of Chatran/~Translations">
+  <game name="01 - Games (FDS)/Koneko Monogatari - The Adventures of Chatran/~Translations">
     <rom name="Adventures of Milo and Otis, The (Japan) [T-En by BlackPaladin v1.0] [corrected] [n].fds" size="131000" sha1="64cfb0a239b1fdf7c02194427bcb43c121df85e0" crc="59b77157" />
     <rom name="Adventures of Milo and Otis, The (Japan) [T-En by BlackPaladin v1.0] [n].fds" size="131000" sha1="ff9c55743aeb721324b862d5b47d4505979b2f34" crc="4800f239" />
     <rom name="Kitten's Tale, A - The Adventures of Chatran (Japan) [T-En by BlackPaladin v1.0] [corrected] [n].fds" size="131000" sha1="76a6a712717063c1ce8e63455a3ed04435edd399" crc="b1ea8f4c" />
     <rom name="Kitten's Tale, A - The Adventures of Chatran (Japan) [T-En by BlackPaladin v1.0] [n].fds" size="131000" sha1="62c3170187ca2928f94ab51c0f9cac5b12dd3c31" crc="a05d0c22" />
   </game>
-  <game name="01 - FDS Games/Kosodate Gokko">
+  <game name="01 - Games (FDS)/Kosodate Gokko">
     <rom name="Kosodate Gokko (Japan) (Unl).fds" size="65500" sha1="93e34356a6fa262f1117402926e9a82a78cee1d6" crc="2aef8cc2" />
   </game>
-  <game name="01 - FDS Games/Legend of Zelda, The">
+  <game name="01 - Games (FDS)/Legend of Zelda, The">
     <rom name="Zelda no Densetsu - The Hyrule Fantasy (Japan) (Collector's Edition).fds" size="131000" sha1="eb72c80fef3f55395ad3fc9a0f845935593cfd61" crc="b64b1456" />
     <rom name="Zelda no Densetsu - The Hyrule Fantasy (Japan) (GameCube).fds" size="131000" sha1="391a14143328f45ae7cdd0e38fe3d39082c9f786" crc="3f9e421c" />
     <rom name="Zelda no Densetsu - The Hyrule Fantasy (Japan) (Rev 1).fds" size="131000" sha1="1429fbe3e62059994b6ff7c5e5e2a330831faf63" crc="8f2202bf" />
     <rom name="Zelda no Densetsu - The Hyrule Fantasy (Japan) (Virtual Console).fds" size="131000" sha1="21d7a4fa72c8d78319797eef812dff23bab08a43" crc="0fb00a60" />
     <rom name="Zelda no Densetsu - The Hyrule Fantasy (Japan).fds" size="131000" sha1="135ac9cbdf3983aa77d7581b26d685d02615d36a" crc="1f22ccb1" />
   </game>
-  <game name="01 - FDS Games/Legend of Zelda, The/~Prototypes and Betas">
+  <game name="01 - Games (FDS)/Legend of Zelda, The/~Prototypes and Betas">
     <rom name="Zelda no Densetsu - The Hyrule Fantasy (Japan) (Beta) (1985-12-28).fds" size="131000" sha1="2c3ff158c3716abb66677d149b3e1d23993c1bfe" crc="2f222391" />
   </game>
-  <game name="01 - FDS Games/Legend of Zelda, The/~Translations">
+  <game name="01 - Games (FDS)/Legend of Zelda, The/~Translations">
     <rom name="Legend of Zelda, The (Japan) (Rev 1) [T-En by Jordiway73 v1.1] [n].fds" size="131000" sha1="2c752034baaa16c0e54225c477cba31c17b19b28" crc="5e8e7511" />
   </game>
-  <game name="01 - FDS Games/Lipstick #1 - Lolita Hen">
+  <game name="01 - Games (FDS)/Lipstick #1 - Lolita Hen">
     <rom name="Lipstick #1 - Lolita Hen (Japan) (Unl).fds" size="131000" sha1="ba10e1c5b1b0ac6e69b14a1f729180e57138774b" crc="25f0a30f" />
   </game>
-  <game name="01 - FDS Games/Lipstick #2 - Joshi Gakusei Hen">
+  <game name="01 - Games (FDS)/Lipstick #2 - Joshi Gakusei Hen">
     <rom name="Lipstick #2 - Joshi Gakusei Hen (Japan) (Unl).fds" size="131000" sha1="ba2f17dfaa36b69ac0a8a6610c59b07b5686424a" crc="784ee9c5" />
   </game>
-  <game name="01 - FDS Games/Lipstick #3 - OL Hen">
+  <game name="01 - Games (FDS)/Lipstick #3 - OL Hen">
     <rom name="Lipstick #3 - OL Hen (Japan) (Unl).fds" size="131000" sha1="02b4664f89a4a59dbd0a1a1e7b2f59282d4a78ba" crc="416315ec" />
   </game>
-  <game name="01 - FDS Games/Lipstick #4 - Hakui no Tenshi Hen">
+  <game name="01 - Games (FDS)/Lipstick #4 - Hakui no Tenshi Hen">
     <rom name="Lipstick #4 - Hakui no Tenshi Hen (Japan) (Unl).fds" size="131000" sha1="fb1be79d4585f6292ed963382ac359092c8913de" crc="3c636ce0" />
   </game>
-  <game name="01 - FDS Games/Lipstick #5 - Stewardess Hen">
+  <game name="01 - Games (FDS)/Lipstick #5 - Stewardess Hen">
     <rom name="Lipstick #5 - Stewardess Hen (Japan) (Unl).fds" size="131000" sha1="f71a1105a86116ce8f56e716d25674bd1633cb02" crc="30472b1e" />
   </game>
-  <game name="01 - FDS Games/Lutter">
+  <game name="01 - Games (FDS)/Lutter">
     <rom name="Lutter (Japan) (Disk Writer).fds" size="131000" sha1="18c20782f7225a2f47cd170a8134eef9b4d5aa44" crc="89ef45dd" />
   </game>
-  <game name="01 - FDS Games/Lutter/~Translations">
+  <game name="01 - Games (FDS)/Lutter/~Translations">
     <rom name="Lutter (Japan) (Disk Writer) [T-En by Mute v1.0].fds" size="131000" sha1="10c4547b5af6ba0055e31262a92db40389c22002" crc="23d325e5" />
   </game>
-  <game name="01 - FDS Games/Madou Senki - Deep Dungeon">
+  <game name="01 - Games (FDS)/Madou Senki - Deep Dungeon">
     <rom name="Madou Senki - Deep Dungeon (Japan) (Rev 1).fds" size="131000" sha1="8cb17eaac59ba242a1c9d800598ed90caac59f07" crc="f70173fb" />
     <rom name="Madou Senki - Deep Dungeon (Japan).fds" size="131000" sha1="ab207b80754ad078fa7ceb22d22f831898126d79" crc="56f522d8" />
   </game>
-  <game name="01 - FDS Games/Maerchen Veil">
+  <game name="01 - Games (FDS)/Maerchen Veil">
     <rom name="Maerchen Veil (Japan).fds" size="131000" sha1="c82eaf16ba4e9c271549c3c1cc95382fe3140933" crc="973cf165" />
   </game>
-  <game name="01 - FDS Games/Maerchen Veil/~Translations">
+  <game name="01 - Games (FDS)/Maerchen Veil/~Translations">
     <rom name="Maerchen Veil (Japan) [T-En by BlackPaladin v1.0].fds" size="131000" sha1="4905cbf4c25ddbec5de23a3249b8eb4a55218b8a" crc="51ec9018" />
   </game>
-  <game name="01 - FDS Games/Magma Project - Hacker">
+  <game name="01 - Games (FDS)/Magma Project - Hacker">
     <rom name="Magma Project - Hacker (Japan).fds" size="131000" sha1="09bbb12620dac98f7745ab5f03a0325603056f46" crc="1cee986e" />
   </game>
-  <game name="01 - FDS Games/Mahjong Goraku - Bishoujo Meijinsen">
+  <game name="01 - Games (FDS)/Mahjong Goraku - Bishoujo Meijinsen">
     <rom name="Mahjong Goraku - Bishoujo Meijinsen (Japan) (Unl).fds" size="131000" sha1="069aa363c6cde5adea3ede5c56f487c83ed88d64" crc="19ae50dd" />
   </game>
-  <game name="01 - FDS Games/Mahjong Kazoku">
+  <game name="01 - Games (FDS)/Mahjong Kazoku">
     <rom name="Mahjong Kazoku (Japan).fds" size="131000" sha1="2e33b32e83470cd8b30c304005ce2994bc9cb5b0" crc="0160bb59" />
   </game>
-  <game name="01 - FDS Games/Mahjong">
+  <game name="01 - Games (FDS)/Mahjong">
     <rom name="Mahjong (Japan).fds" size="65500" sha1="615659bfea21919e11608031e8fe818a9e02d1e0" crc="9a8a4dbf" />
   </game>
-  <game name="01 - FDS Games/Mahjong/~Translations">
+  <game name="01 - Games (FDS)/Mahjong/~Translations">
     <rom name="Mahjong (Japan) [T-En by Psyklax v1.0] [Arabic Numerals].fds" size="65500" sha1="99374a6bee4156fd05ac845200be0cd7182776d6" crc="d504aba7" />
     <rom name="Mahjong (Japan) [T-En by Psyklax v1.0].fds" size="65500" sha1="cd0a0213deb043dcd5d0f22bfccfb73a578d00a4" crc="b97ee79d" />
   </game>
-  <game name="01 - FDS Games/Matou no Houkai - The Hero of Babel">
+  <game name="01 - Games (FDS)/Matou no Houkai - The Hero of Babel">
     <rom name="Matou no Houkai - The Hero of Babel (Japan).fds" size="131000" sha1="56f691b138792b69561b591315afb23594191f23" crc="ac0615f9" />
   </game>
-  <game name="01 - FDS Games/Meikyuu Jiin Dababa">
+  <game name="01 - Games (FDS)/Meikyuu Jiin Dababa">
     <rom name="Meikyuu Jiin Dababa (Japan).fds" size="131000" sha1="a8be405f8cd5a0e2313f6a47af86601c25e00c0c" crc="8b54d368" />
   </game>
-  <game name="01 - FDS Games/Meikyuu Jiin Dababa/~Translations">
+  <game name="01 - Games (FDS)/Meikyuu Jiin Dababa/~Translations">
     <rom name="Temple Labyrinth Dababa (Japan) [T-En by FlashPV v1.0] [n].fds" size="131000" sha1="7b07d031d8979a7dd26a2e682b1967df6681e90f" crc="4d13e6b7" />
   </game>
-  <game name="01 - FDS Games/Metroid">
+  <game name="01 - Games (FDS)/Metroid">
     <rom name="Metroid (Japan) (Rev 1).fds" size="131000" sha1="6c0f92d3fb532d689fdbb72472b1470afb54383f" crc="9c8045df" />
     <rom name="Metroid (Japan) (Rev 2).fds" size="131000" sha1="d902169f4db2a5127d808cca8539c3ca924f4039" crc="1ad64b0f" />
     <rom name="Metroid (Japan) (Rev 3) (3DS Virtual Console).fds" size="131000" sha1="76779ce9c1c25966016f6da5b59906c91e357966" crc="f45a0636" />
     <rom name="Metroid (Japan) (Rev 3) (Wii and Wii U Virtual Console).fds" size="131000" sha1="7ce90fdfcf841f346c8d55dd988e219a8ba30c00" crc="6aa1e4a2" />
     <rom name="Metroid (Japan) (Rev 3).fds" size="131000" sha1="741e51b01c3d9d814ae9acdd4d1ab6d8c34ef446" crc="5e4f013d" />
   </game>
-  <game name="01 - FDS Games/Metroid/~Translations">
+  <game name="01 - Games (FDS)/Metroid/~Translations">
     <rom name="Metroid (Japan) (Rev 2) [T-En by AlanMidas cant.hack] [Add by Jordiway73 v1.1].fds" size="131000" sha1="90ca0c1eb49a9b0ed31e4c73c0725a2f39061d90" crc="2711adba" />
     <rom name="Metroid (Japan) (Rev 2) [T-En by AlanMidas cant.hack].fds" size="131000" sha1="76a8c06c2499bcf9207bd01fd798fcc64cc09fc6" crc="17a82f66" />
   </game>
-  <game name="01 - FDS Games/Michael English Daibouken">
+  <game name="01 - Games (FDS)/Michael English Daibouken">
     <rom name="Michael English Daibouken (Japan).fds" size="131000" sha1="d67d02d9946f00bf139fcbe2d9d04420857bfd76" crc="d446fd96" />
   </game>
-  <game name="01 - FDS Games/Michael English Daibouken/~Prototypes and Betas">
+  <game name="01 - Games (FDS)/Michael English Daibouken/~Prototypes and Betas">
     <rom name="Michael English Daibouken (Japan) (Sample) (1987-03-25).fds" size="131000" sha1="be1d4e1fb457695875476ccacbcdcac4480872fb" crc="e1bf6b02" />
   </game>
-  <game name="01 - FDS Games/Miracle of Almana, The/~Translations">
+  <game name="01 - Games (FDS)/Miracle of Almana, The/~Translations">
     <rom name="Miracle of Almana, The (Japan) [T-En by DvD Translations Rev A] [n].fds" size="131000" sha1="ce4b7b328bdfb4913a0031225100cba82e1c0754" crc="8b61e398" />
   </game>
-  <game name="01 - FDS Games/Moero TwinBee - Cinnamon Hakase wo Sukue!">
+  <game name="01 - Games (FDS)/Moero TwinBee - Cinnamon Hakase wo Sukue!">
     <rom name="Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan) (Rev 1).fds" size="131000" sha1="184d6c5ea348a6054a1920f3ad4580cb87e97258" crc="bdf795d5" />
     <rom name="Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan).fds" size="131000" sha1="990eaf24fe62b6e64ee4ec62740f253d3b46928d" crc="05afbd03" />
   </game>
-  <game name="01 - FDS Games/Moero TwinBee - Cinnamon Hakase wo Sukue!/~Translations">
+  <game name="01 - Games (FDS)/Moero TwinBee - Cinnamon Hakase wo Sukue!/~Translations">
     <rom name="Burnin' Twinbee - Rescue Dr. Cinnamon! (Japan) (Rev 1) [T-En by BlackPaladin v1.0] [n].fds" size="131000" sha1="2b86955effe0e615e584d2823c6e89fabc4b7e9e" crc="61736386" />
   </game>
-  <game name="01 - FDS Games/Money Game, The/~Prototypes and Betas">
+  <game name="01 - Games (FDS)/Money Game, The/~Prototypes and Betas">
     <rom name="Money Game, The (Japan) (Proto).fds" size="131000" sha1="a6b417b39f897acc4bcd662090cfd1100102f6f1" crc="6f81a8da" />
   </game>
-  <game name="01 - FDS Games/Monitor Puzzle Kineko, The - Kinetic Connection II">
+  <game name="01 - Games (FDS)/Monitor Puzzle Kineko, The - Kinetic Connection II">
     <rom name="Monitor Puzzle Kineko, The - Kinetic Connection II (Japan) (Disk Writer).fds" size="131000" sha1="17ca3e392cf6b5396848cb7dbb95a7ea8a4fb772" crc="dced2708" />
   </game>
-  <game name="01 - FDS Games/Monitor Puzzle Kineko, The - Kinetic Connection">
+  <game name="01 - Games (FDS)/Monitor Puzzle Kineko, The - Kinetic Connection">
     <rom name="Monitor Puzzle Kineko, The - Kinetic Connection (Japan).fds" size="131000" sha1="1a565cf2c53646e3a9bb4783a7942b9315fc02f5" crc="a8516d48" />
   </game>
-  <game name="01 - FDS Games/Monitor Puzzle Kineko, The - Kinetic Connection/~Prototypes and Betas">
+  <game name="01 - Games (FDS)/Monitor Puzzle Kineko, The - Kinetic Connection/~Prototypes and Betas">
     <rom name="Monitor Puzzle Kineko, The - Kinetic Connection (Japan) (Rev 1) (Possible Proto).fds" size="131000" sha1="28f20b6f85cacb4e55b8b6903c0fe966f0218d5d" crc="c51fafb7" />
   </game>
-  <game name="01 - FDS Games/Monty on the Run - Monty no Doki Doki Dai Dassou">
+  <game name="01 - Games (FDS)/Monty on the Run - Monty no Doki Doki Dai Dassou">
     <rom name="Monty on the Run - Monty no Doki Doki Dai Dassou (Japan).fds" size="131000" sha1="78f19927b50a769b4a3bcca3793f5087211c451d" crc="211cc78c" />
   </game>
-  <game name="01 - FDS Games/Monty on the Run - Monty no Doki Doki Dai Dassou/~Translations">
+  <game name="01 - Games (FDS)/Monty on the Run - Monty no Doki Doki Dai Dassou/~Translations">
     <rom name="Monty on the Run - Monty no Doki Doki Dai Dassou (Japan) [T-En by Stardust Crusaders v1.00].fds" size="131000" sha1="aa06b171c1efc95189c60978f3fcf6801de9c999" crc="abaae342" />
   </game>
-  <game name="01 - FDS Games/Moonball Magic">
+  <game name="01 - Games (FDS)/Moonball Magic">
     <rom name="Moonball Magic (Japan) (Disk Writer).fds" size="131000" sha1="4eaf7a1116199ca2b510f4265ccdef20cd51dd45" crc="aad5bee4" />
   </game>
-  <game name="01 - FDS Games/Mysterious Murasame Castle, The/~Translations">
+  <game name="01 - Games (FDS)/Mysterious Murasame Castle, The/~Translations">
     <rom name="Mysterious Murasame Castle, The (Japan) [T-En by Spinner 8 and friends v1.1] [n].fds" size="131000" sha1="a7b612f1943da2d1c4e2eb9328e5825d18563ab5" crc="5da99951" />
   </game>
-  <game name="01 - FDS Games/NESert Golfing">
+  <game name="01 - Games (FDS)/NESert Golfing">
     <rom name="NESert Golfing (World) (Aftermarket) (Unl).fds" size="65500" sha1="2bcf3d9836e390d28371823f4cbcbca09cdb7677" crc="912cd8f8" />
     <rom name="NESert Golfing (World) (v1.1) (Aftermarket) (Unl).fds" size="65500" sha1="d84cc8a87a9f078318385632fe91f8b0d36add19" crc="e9e99977" />
   </game>
-  <game name="01 - FDS Games/Namida no Soukoban Special">
+  <game name="01 - Games (FDS)/Namida no Soukoban Special">
     <rom name="Namida no Soukoban Special (Japan).fds" size="131000" sha1="57ee44b79875980363942288d552a63b22d34412" crc="0c5b12d6" />
   </game>
-  <game name="01 - FDS Games/Nankin no Adventure">
+  <game name="01 - Games (FDS)/Nankin no Adventure">
     <rom name="Nankin no Adventure (Japan) (Disk Writer).fds" size="131000" sha1="cf4f3b1f9f206c6bcba25e6350340e5244b055dd" crc="12892375" />
   </game>
-  <game name="01 - FDS Games/Nazo no Kabe - Block Kuzushi">
+  <game name="01 - Games (FDS)/Nazo no Kabe - Block Kuzushi">
     <rom name="Nazo no Kabe - Block Kuzushi (Japan).fds" size="131000" sha1="2e22b4fb1663960dcb3003147d21f31d8a7f8ef6" crc="09292f11" />
   </game>
-  <game name="01 - FDS Games/Nazo no Murasamejou">
+  <game name="01 - Games (FDS)/Nazo no Murasamejou">
     <rom name="Nazo no Murasamejou (Japan) (GameCube).fds" size="131000" sha1="c2822590c892823d41a4f11da8103930efaa2b98" crc="de74418b" />
     <rom name="Nazo no Murasamejou (Japan) (Wii and Wii U Virtual Console).fds" size="131000" sha1="8b1c5d6c99e02fa6c194e1cb4144a39d57d12193" crc="6d054479" />
     <rom name="Nazo no Murasamejou (Japan).fds" size="131000" sha1="3102abcab2bec46f63e88461f73539b94aa73cbd" crc="9a523757" />
     <rom name="Nazo no Murasamejou (World) (Ja) (3DS Virtual Console).fds" size="131000" sha1="c650d0bef18014426ac0bddd80659feaedd5c4e6" crc="1df004f6" />
   </game>
-  <game name="01 - FDS Games/Nazoler Land - Dainigou">
+  <game name="01 - Games (FDS)/Nazoler Land - Dainigou">
     <rom name="Nazoler Land - Dainigou (Japan).fds" size="131000" sha1="fbd15be09527dd6857902c92a2b1163d9a12b599" crc="19deace2" />
   </game>
-  <game name="01 - FDS Games/Nazoler Land - Daisangou">
+  <game name="01 - Games (FDS)/Nazoler Land - Daisangou">
     <rom name="Nazoler Land - Daisangou (Japan).fds" size="131000" sha1="5c2f812f07a0f5150bba3ff5acfcb525d4ec66d4" crc="872cd3cf" />
   </game>
-  <game name="01 - FDS Games/Nazoler Land - Soukangou">
+  <game name="01 - Games (FDS)/Nazoler Land - Soukangou">
     <rom name="Nazoler Land - Soukangou (Japan).fds" size="131000" sha1="2a4fe533b0dfeda1e939344282f92a7ad9bf75cc" crc="b42fd111" />
   </game>
-  <game name="01 - FDS Games/Nazoler Land Special!! - Quiz Ou wo Sagase">
+  <game name="01 - Games (FDS)/Nazoler Land Special!! - Quiz Ou wo Sagase">
     <rom name="Nazoler Land Special!! - Quiz Ou wo Sagase (Japan).fds" size="131000" sha1="03156138d89492f269f1f9cacd8f52f01d93c2b3" crc="f449fc6c" />
   </game>
-  <game name="01 - FDS Games/Neunzehn - 19">
+  <game name="01 - Games (FDS)/Neunzehn - 19">
     <rom name="Neunzehn - 19 (Japan).fds" size="131000" sha1="b31c759efd870f189acccd8b18e8928c2b070519" crc="47b3babd" />
   </game>
-  <game name="01 - FDS Games/Nomura no Famicom Trade/~Prototypes and Betas">
+  <game name="01 - Games (FDS)/Nomura no Famicom Trade/~Prototypes and Betas">
     <rom name="Nomura no Famicom Trade (Japan) (Proto) (FTAJ).fds" size="65500" sha1="6869a312bc7c2a8d768db1fcec63a71436d66538" crc="9e8ce7a8" />
     <rom name="Nomura no Famicom Trade (Japan) (Proto) (FTBJ).fds" size="65500" sha1="d32c336dcfdd976af1b58cbfce7303663ae09f28" crc="a8033d2f" />
     <rom name="Nomura no Famicom Trade (Japan) (Proto) (FTEJ).fds" size="65500" sha1="9b155e6e6e44ff76174396e9360d18998dba0b5d" crc="4d10b4f8" />
   </game>
-  <game name="01 - FDS Games/Omoikkiri Tanteidan HaadoGumi - Matenrou no Chousenjou">
+  <game name="01 - Games (FDS)/Omoikkiri Tanteidan HaadoGumi - Matenrou no Chousenjou">
     <rom name="Omoikkiri Tanteidan HaadoGumi - Matenrou no Chousenjou (Japan).fds" size="131000" sha1="b3cbcfd3ce6fa546e927be45f4fe1900fe38b9aa" crc="cbca97f5" />
   </game>
-  <game name="01 - FDS Games/Othello">
+  <game name="01 - Games (FDS)/Othello">
     <rom name="Othello (Japan) (DV 2).fds" size="65500" sha1="bdd5e27203860d84d34fd5f126c5bbc2b8ec709f" crc="39709bf6" />
     <rom name="Othello (Japan) (DV 3, 5) (Disk Writer).fds" size="65500" sha1="daef0ac9c429228f25a99c041361f238cd09e080" crc="7e901e0b" />
   </game>
-  <game name="01 - FDS Games/Otocky">
+  <game name="01 - Games (FDS)/Otocky">
     <rom name="Otocky (Japan).fds" size="131000" sha1="049a440e692caadf8fe25668bb17e55a105b1093" crc="673b4713" />
   </game>
-  <game name="01 - FDS Games/Otocky/~Prototypes and Betas">
+  <game name="01 - Games (FDS)/Otocky/~Prototypes and Betas">
     <rom name="Otocky (Japan) (Beta) (1986-04-15).fds" size="131000" sha1="2a20b122a720c12364eb3789492ae6f619981d97" crc="0cf97f84" />
   </game>
-  <game name="01 - FDS Games/Pac-Man">
+  <game name="01 - Games (FDS)/Pac-Man">
     <rom name="Pac-Man (Japan) (Disk Writer).fds" size="65500" sha1="1a0ac3f4c3d089f60f277831cf667b9fdfff2b5b" crc="cdf3ca4b" />
   </game>
-  <game name="01 - FDS Games/Pachicom">
+  <game name="01 - Games (FDS)/Pachicom">
     <rom name="Pachicom (Japan) (Disk Writer).fds" size="65500" sha1="e75ecb9f623d12f5af79cdb9c9215268a22e443a" crc="b1686472" />
   </game>
-  <game name="01 - FDS Games/Pachinko Grand Prix">
+  <game name="01 - Games (FDS)/Pachinko Grand Prix">
     <rom name="Pachinko Grand Prix (Japan).fds" size="131000" sha1="8a97d3423a50388b2727e78666e9ba9d701ba094" crc="1c185588" />
   </game>
-  <game name="01 - FDS Games/Patlabor - The Mobile Police - Dai 2 Shoutai Shutsudou Seyo!/~Translations">
+  <game name="01 - Games (FDS)/Patlabor - The Mobile Police - Dai 2 Shoutai Shutsudou Seyo!/~Translations">
     <rom name="Patlabor - The Mobile Police - Dai 2 Shoutai Shutsudou Seyo! (Japan) [T-En by Vice Translations v1.0].fds" size="131000" sha1="867bb2201566f0037933091c5113a87e21e64494" crc="2d1de98a" />
   </game>
-  <game name="01 - FDS Games/Patlabor - The Mobile Police - Daini Shoutai Shutsudou seyo!">
+  <game name="01 - Games (FDS)/Patlabor - The Mobile Police - Daini Shoutai Shutsudou seyo!">
     <rom name="Patlabor - The Mobile Police - Daini Shoutai Shutsudou seyo! (Japan) (Disk Writer).fds" size="131000" sha1="298f8ddb3d054663c613ceef3131f38f3a0cd67a" crc="ef1b1895" />
   </game>
-  <game name="01 - FDS Games/Pinball">
+  <game name="01 - Games (FDS)/Pinball">
     <rom name="Pinball (Japan) (Disk Writer).fds" size="65500" sha1="57c7b8df378d39fa2e37ac3aa5755f9bf7799bb6" crc="18e50ad4" />
   </game>
-  <game name="01 - FDS Games/Pretty Girl's Sexy Derby/~Translations">
+  <game name="01 - Games (FDS)/Pretty Girl's Sexy Derby/~Translations">
     <rom name="Pretty Girl's Sexy Derby (Japan) (Unl) [T-En by Spinner 8 and friends v1.31] [n].fds" size="131000" sha1="5320faea8ddb8b7d772d5967976e90c70095dd95" crc="b93c47d3" />
   </game>
-  <game name="01 - FDS Games/Pro Golfer Saru - Kage no Tournament">
+  <game name="01 - Games (FDS)/Pro Golfer Saru - Kage no Tournament">
     <rom name="Pro Golfer Saru - Kage no Tournament (Japan).fds" size="131000" sha1="badade6842bc124208fd971ccfaec86c6f0cfb6a" crc="76966a72" />
   </game>
-  <game name="01 - FDS Games/Pro Wres">
+  <game name="01 - Games (FDS)/Pro Wres">
     <rom name="Pro Wres (Japan) (En).fds" size="65500" sha1="1ce6b58ec4ee95856012478687b6038279772b42" crc="d6ce8ac6" />
   </game>
-  <game name="01 - FDS Games/Professional Mahjong Gokuu">
+  <game name="01 - Games (FDS)/Professional Mahjong Gokuu">
     <rom name="Professional Mahjong Gokuu (Japan).fds" size="131000" sha1="7ffc06f7b54c68732298f87c9b22a5154de1e681" crc="38a67d37" />
     <rom name="Professional Mahjong Gokuu (Japan).qd" size="131072" sha1="a8d997f9036ae59e4c85b65807552ae2a8f5e662" crc="5c7a14a7" />
   </game>
-  <game name="01 - FDS Games/Pulsar no Hikari - Space Wars Simulation">
+  <game name="01 - Games (FDS)/Pulsar no Hikari - Space Wars Simulation">
     <rom name="Pulsar no Hikari - Space Wars Simulation (Japan).fds" size="131000" sha1="029cca5d0dfc5dbf7969e4b7810147fbc8b19929" crc="08344d4b" />
   </game>
-  <game name="01 - FDS Games/Putt Putt Golf">
+  <game name="01 - Games (FDS)/Putt Putt Golf">
     <rom name="Putt Putt Golf (Japan).fds" size="131000" sha1="d2e55f03b358dd6536ab750835a4773550a7a013" crc="98195a6a" />
   </game>
-  <game name="01 - FDS Games/Puzzle Boys">
+  <game name="01 - Games (FDS)/Puzzle Boys">
     <rom name="Puzzle Boys (Japan) (Disk Writer).fds" size="131000" sha1="cdadfb996fa81f6ff83d3eb8904431dc2a01500b" crc="78f31548" />
   </game>
-  <game name="01 - FDS Games/Puzzle Boys/~Translations">
+  <game name="01 - Games (FDS)/Puzzle Boys/~Translations">
     <rom name="Puzzle Boys (Japan) (Disk Writer) [T-En by DvD Translations Rev A].fds" size="131000" sha1="b0fe8d3acd2ccc145a5b6d254631076c6e5c5f0d" crc="fa03eba9" />
   </game>
-  <game name="01 - FDS Games/Quick Hunter - Parameter Disk Vol.1">
+  <game name="01 - Games (FDS)/Quick Hunter - Parameter Disk Vol.1">
     <rom name="Quick Hunter - Parameter Disk Vol.1 (Japan) (Unl).fds" size="65500" sha1="b080ef79bb7930de1de3016860f5656b24e61b8f" crc="20cc5678" />
   </game>
-  <game name="01 - FDS Games/Quick Hunter">
+  <game name="01 - Games (FDS)/Quick Hunter">
     <rom name="Quick Hunter (Japan) (Unl).fds" size="65500" sha1="d637d958f185c40b2746ef1968449c85eab08a68" crc="3056129d" />
   </game>
-  <game name="01 - FDS Games/Radical Bomber!! Jirai-kun">
+  <game name="01 - Games (FDS)/Radical Bomber!! Jirai-kun">
     <rom name="Radical Bomber!! Jirai-kun (Japan) (Disk Writer).fds" size="131000" sha1="a896836cff997341f767f9f6f72d205809d82356" crc="9bdeda19" />
     <rom name="Radical Bomber!! Jirai-kun (Japan) (Disk Writer).qd" size="131072" sha1="dcf374f4a774072832a1080e2306b0540b3bc552" crc="65709d3a" />
   </game>
-  <game name="01 - FDS Games/Reflect World">
+  <game name="01 - Games (FDS)/Reflect World">
     <rom name="Reflect World (Japan).fds" size="131000" sha1="3fe868c8f17644da61e495ead3fdfa759fdd482c" crc="816e45d0" />
   </game>
-  <game name="01 - FDS Games/Relics - Ankoku Yousai">
+  <game name="01 - Games (FDS)/Relics - Ankoku Yousai">
     <rom name="Relics - Ankoku Yousai (Japan) (Project EGG).fds" size="131000" sha1="eb508feab933a563a98223e1591292f180a8fce2" crc="30b4fa8b" />
     <rom name="Relics - Ankoku Yousai (Japan).fds" size="131000" sha1="6bff8cfd463b1eb91aec5bb427c60a84a4db34a8" crc="5de87797" />
   </game>
-  <game name="01 - FDS Games/Relics - Ankoku Yousai/~Translations">
+  <game name="01 - Games (FDS)/Relics - Ankoku Yousai/~Translations">
     <rom name="Relics - The Dark Fortress (Japan) [T-En by BlackPaladin v1.0] [n].fds" size="131000" sha1="2f9473e6a5b49a1c9c690a926a23018be802aac2" crc="389a10ad" />
   </game>
-  <game name="01 - FDS Games/Replicart">
+  <game name="01 - Games (FDS)/Replicart">
     <rom name="Replicart (Japan).fds" size="131000" sha1="2fc98ed1b982c672f0ce9b0d8e04fb0a6781d97e" crc="c374c9ed" />
   </game>
-  <game name="01 - FDS Games/Return of Mario Bros/~Translations">
+  <game name="01 - Games (FDS)/Return of Mario Bros/~Translations">
     <rom name="Return of Mario Bros. (Japan) (Disk Writer) [T-En by FCandchill &amp; Her-Saki v1.0] [n].fds" size="131000" sha1="2ba7c1e0cad9452beb113f97f272ca5d69c14311" crc="c3c31d57" />
   </game>
-  <game name="01 - FDS Games/Return of the Mario Bros., The/~Translations">
+  <game name="01 - Games (FDS)/Return of the Mario Bros., The/~Translations">
     <rom name="Return of the Mario Bros., The (Japan) (Disk Writer) [T-En by MrRichard999 v0.98] [n].fds" size="131000" sha1="dea6c9748e4d26c5167f1aa40f00904db5ff8147" crc="098eb1e8" />
   </game>
-  <game name="01 - FDS Games/Risa no Yousei Densetsu">
+  <game name="01 - Games (FDS)/Risa no Yousei Densetsu">
     <rom name="Risa no Yousei Densetsu (Japan).fds" size="131000" sha1="0560cdeefae79ded6ec8cc8b334becabdda47768" crc="d7943621" />
   </game>
-  <game name="01 - FDS Games/Roger Rabbit">
+  <game name="01 - Games (FDS)/Roger Rabbit">
     <rom name="Roger Rabbit (Japan).fds" size="131000" sha1="b0d1728126e410832b38bfe9fec9eca1c20d60fb" crc="a7783dc0" />
   </game>
-  <game name="01 - FDS Games/SD Gundam World - Gachapon Senshi - Scramble Wars - Map Collection">
+  <game name="01 - Games (FDS)/SD Gundam World - Gachapon Senshi - Scramble Wars - Map Collection">
     <rom name="SD Gundam World - Gachapon Senshi - Scramble Wars - Map Collection (Japan) (Disk Writer).fds" size="131000" sha1="034cae978b1dd4490a6fe63f782b8f731b78bbd5" crc="98f12376" />
   </game>
-  <game name="01 - FDS Games/SD Gundam World - Gachapon Senshi - Scramble Wars">
+  <game name="01 - Games (FDS)/SD Gundam World - Gachapon Senshi - Scramble Wars">
     <rom name="SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Disk Writer).fds" size="131000" sha1="9aac46473395875562ee7ae207850e5b552cae18" crc="189f7a6b" />
     <rom name="SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Rev 1) (3DS Virtual Console).fds" size="131000" sha1="75ded78092e98ef28ffc039ca1b2b6156174b8ed" crc="f24355af" />
     <rom name="SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Rev 1) (Wii Virtual Console).fds" size="131000" sha1="a1ff40f20792ab07e09f49e2b70a6478d5b5d703" crc="286fbaeb" />
     <rom name="SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Rev 1).fds" size="131000" sha1="3776c600ab4c67b8ea96da73c96bf69e11f08fac" crc="43f70704" />
     <rom name="SD Gundam World - Gachapon Senshi - Scramble Wars (Japan).fds" size="131000" sha1="5e79ba3383c3b72e053f4bbebfa839bedb43b76d" crc="d5f14605" />
   </game>
-  <game name="01 - FDS Games/SD Gundam World - Gachapon Senshi - Scramble Wars/~Translations">
+  <game name="01 - Games (FDS)/SD Gundam World - Gachapon Senshi - Scramble Wars/~Translations">
     <rom name="SD Gundam - Gachapon Soldier - Scramble Wars [T-En by MrRichard999 v1.01] [n].fds" size="131000" sha1="49e451094792efba2cc6651ce129ac1962331815" crc="ac33fda2" />
   </game>
-  <game name="01 - FDS Games/Sailor Fuku Bishoujo Zukan Vol. 1">
+  <game name="01 - Games (FDS)/Sailor Fuku Bishoujo Zukan Vol. 1">
     <rom name="Sailor Fuku Bishoujo Zukan Vol. 1 (Japan) (Unl).fds" size="131000" sha1="187d16eec3150f6a0062690b39138c5a5204fb71" crc="a6b85a58" />
   </game>
-  <game name="01 - FDS Games/Sailor Fuku Bishoujo Zukan Vol. 2">
+  <game name="01 - Games (FDS)/Sailor Fuku Bishoujo Zukan Vol. 2">
     <rom name="Sailor Fuku Bishoujo Zukan Vol. 2 (Japan) (Unl).fds" size="131000" sha1="bee90e52a3b4a50bbc4b2a423dff86a581b54cba" crc="5ff683af" />
   </game>
-  <game name="01 - FDS Games/Sailor Fuku Bishoujo Zukan Vol. 3">
+  <game name="01 - Games (FDS)/Sailor Fuku Bishoujo Zukan Vol. 3">
     <rom name="Sailor Fuku Bishoujo Zukan Vol. 3 (Japan) (Unl).fds" size="131000" sha1="ebaa942596296722e663b897405b3d39630fe357" crc="da347669" />
   </game>
-  <game name="01 - FDS Games/Sailor Fuku Bishoujo Zukan Vol. 4">
+  <game name="01 - Games (FDS)/Sailor Fuku Bishoujo Zukan Vol. 4">
     <rom name="Sailor Fuku Bishoujo Zukan Vol. 4 (Japan) (Unl).fds" size="131000" sha1="708c62d029fbadd55650b7c0b0e8d408b1fbbe3d" crc="a887bc15" />
   </game>
-  <game name="01 - FDS Games/Sailor Fuku Bishoujo Zukan Vol. 5">
+  <game name="01 - Games (FDS)/Sailor Fuku Bishoujo Zukan Vol. 5">
     <rom name="Sailor Fuku Bishoujo Zukan Vol. 5 (Japan) (Unl).fds" size="131000" sha1="397524fce303c741abc8e8b1cbe16049c2354322" crc="c09721a9" />
   </game>
-  <game name="01 - FDS Games/Sailor Fuku Bishoujo Zukan Vol. 6">
+  <game name="01 - Games (FDS)/Sailor Fuku Bishoujo Zukan Vol. 6">
     <rom name="Sailor Fuku Bishoujo Zukan Vol. 6 (Japan) (Unl).fds" size="131000" sha1="1444a412b85a748da47df7fb00fef83eef159cf0" crc="69b6afed" />
   </game>
-  <game name="01 - FDS Games/Samurai Sword">
+  <game name="01 - Games (FDS)/Samurai Sword">
     <rom name="Samurai Sword (Japan).fds" size="131000" sha1="80cf0a44aed8545942d9e4f61bcf2c9fe60b1a44" crc="da2d8561" />
   </game>
-  <game name="01 - FDS Games/Samurai Sword/~Translations">
+  <game name="01 - Games (FDS)/Samurai Sword/~Translations">
     <rom name="Samurai Sword (Japan) [T-En by Mute v1.0].fds" size="131000" sha1="2303eae83922eac4bee59057160d35a57a8b3830" crc="c350746a" />
   </game>
-  <game name="01 - FDS Games/Santa Claus no Takarabako">
+  <game name="01 - Games (FDS)/Santa Claus no Takarabako">
     <rom name="Santa Claus no Takarabako (Japan).fds" size="131000" sha1="163b500a0d4d616926270277d79138a3ecd646a7" crc="645b2ec7" />
   </game>
-  <game name="01 - FDS Games/Santa Claus no Takarabako/~Translations">
+  <game name="01 - Games (FDS)/Santa Claus no Takarabako/~Translations">
     <rom name="Santa Claus's Toybox (Japan) [T-En by Gil Galad v1.01] [n].fds" size="131000" sha1="2ff6bec2ff51f1a94d56a8b9434493da64272b47" crc="d58bb23a" />
   </game>
-  <game name="01 - FDS Games/Section-Z">
+  <game name="01 - Games (FDS)/Section-Z">
     <rom name="Section-Z (Japan).fds" size="131000" sha1="ad890993e617150854a07d56c7c7c70607643a33" crc="0bcb926f" />
   </game>
-  <game name="01 - FDS Games/Seiken Psycho Calibur/~Translations">
+  <game name="01 - Games (FDS)/Seiken Psycho Calibur/~Translations">
     <rom name="Seiken Psycho Calibur (Japan) [T-En by The Spoony Bard v1.0] [n].fds" size="131000" sha1="16c3bed4e57bfac2d9c8014d4101cd18a94a6bde" crc="1ec1552b" />
   </game>
-  <game name="01 - FDS Games/Seiken Psychocalibur - Majuu no Mori Densetsu">
+  <game name="01 - Games (FDS)/Seiken Psychocalibur - Majuu no Mori Densetsu">
     <rom name="Seiken Psychocalibur - Majuu no Mori Densetsu (Japan).fds" size="131000" sha1="ff53778f5df3015fa7b01012241620c678b7502f" crc="5cac8ba1" />
   </game>
-  <game name="01 - FDS Games/Sexy Invaders">
+  <game name="01 - Games (FDS)/Sexy Invaders">
     <rom name="Sexy Invaders (Japan) (Unl).fds" size="131000" sha1="f5948681a77ba264842fff4e30272147f1e15711" crc="413e49da" />
   </game>
-  <game name="01 - FDS Games/Sexy Yakyuuken Adventure II - Gal's Dungeon Part II">
+  <game name="01 - Games (FDS)/Sexy Yakyuuken Adventure II - Gal's Dungeon Part II">
     <rom name="Sexy Yakyuuken Adventure II - Gal's Dungeon Part II (Japan) (Unl).fds" size="131000" sha1="075a18d541632e36a0980d8bf6e436a5bd0fe1f8" crc="faa53b67" />
   </game>
-  <game name="01 - FDS Games/Shanghai II/~Prototypes and Betas">
+  <game name="01 - Games (FDS)/Shanghai II/~Prototypes and Betas">
     <rom name="Shanghai II (Japan) (Proto) (Dragon Layout).fds" size="65500" sha1="ac34f61676e151ef2e1879cbab254a8222c23601" crc="4eaaea69" />
     <rom name="Shanghai II (Japan) (Proto) (Scorpion Layout).fds" size="65500" sha1="ff1ae30461496ab4ac448f9100b228e8d68ac929" crc="4e10423e" />
   </game>
-  <game name="01 - FDS Games/Shanghai/~Prototypes and Betas">
+  <game name="01 - Games (FDS)/Shanghai/~Prototypes and Betas">
     <rom name="Shanghai (Japan) (Proto) (1986-10-16).fds" size="65500" sha1="e8c62d21b815818156d734abd852d1e69a6e0530" crc="b1ed9311" />
   </game>
-  <game name="01 - FDS Games/Silviana - Ai Ippai no Little Angel">
+  <game name="01 - Games (FDS)/Silviana - Ai Ippai no Little Angel">
     <rom name="Silviana - Ai Ippai no Little Angel (Japan).fds" size="131000" sha1="46a777b0a245a02f1257f4619387af9dbd52693a" crc="09f95cb9" />
   </game>
-  <game name="01 - FDS Games/Silviana - Ai Ippai no Little Angel/~Translations">
+  <game name="01 - Games (FDS)/Silviana - Ai Ippai no Little Angel/~Translations">
     <rom name="Silviana - Ai Ippai no Little Angel (Japan) [T-En by Mute v1.0].fds" size="131000" sha1="039e978262187a84b6250744288be16053f0d559" crc="c5b1bff7" />
   </game>
-  <game name="01 - FDS Games/Smash Ping Pong">
+  <game name="01 - Games (FDS)/Smash Ping Pong">
     <rom name="Smash Ping Pong (Japan).fds" size="65500" sha1="b3ffc3723f3d3bc1af9e8180145483c332f409e0" crc="b235b657" />
   </game>
-  <game name="01 - FDS Games/Soccer">
+  <game name="01 - Games (FDS)/Soccer">
     <rom name="Soccer (Japan) (En).fds" size="65500" sha1="cca20a3a0fec86b9295d61aef093741f3e248839" crc="638b6903" />
   </game>
-  <game name="01 - FDS Games/Solomon no Kagi">
+  <game name="01 - Games (FDS)/Solomon no Kagi">
     <rom name="Solomon no Kagi (Japan) (Disk Writer).fds" size="65500" sha1="b06bff43fcceeeb789be73c96960e6947eeaf75f" crc="9c2e3999" />
   </game>
-  <game name="01 - FDS Games/Souseiki Fammy - ROM-QD for 256K+64K">
+  <game name="01 - Games (FDS)/Souseiki Fammy - ROM-QD for 256K+64K">
     <rom name="Souseiki Fammy - ROM-QD for 256K+64K (Japan) (Unl).fds" size="131000" sha1="072f8a25e5d5309fbcb005a5e79efe43fb033e80" crc="837a5d11" />
   </game>
-  <game name="01 - FDS Games/Suishou no Dragon">
+  <game name="01 - Games (FDS)/Suishou no Dragon">
     <rom name="Suishou no Dragon (Japan).fds" size="131000" sha1="cd9f19a0721099601197c99b732cfe052ddf0543" crc="6b56808b" />
   </game>
-  <game name="01 - FDS Games/Sunsoft Dev Disk Lot - 'D167B23' no. 1">
+  <game name="01 - Games (FDS)/Sunsoft Dev Disk Lot - 'D167B23' no. 1">
     <rom name="Sunsoft Dev Disk Lot - 'D167B23' no. 1 (Japan).fds" size="131000" sha1="ef31b6426ffa2222c3108cf50b6c63d3f56dbb09" crc="8ad85107" />
   </game>
-  <game name="01 - FDS Games/Sunsoft Dev Disk Lot - 'D167B23' no. 2">
+  <game name="01 - Games (FDS)/Sunsoft Dev Disk Lot - 'D167B23' no. 2">
     <rom name="Sunsoft Dev Disk Lot - 'D167B23' no. 2 (Japan).fds" size="131000" sha1="a08348ca7218b3e3e14c02cb1d855ac22825561b" crc="2815d134" />
   </game>
-  <game name="01 - FDS Games/Sunsoft Dev Disk Lot - 'D167B23' no. 3">
+  <game name="01 - Games (FDS)/Sunsoft Dev Disk Lot - 'D167B23' no. 3">
     <rom name="Sunsoft Dev Disk Lot - 'D167B23' no. 3 (Japan).fds" size="131000" sha1="437bca97647d212afb880a073259ae8e6678fa94" crc="7054af28" />
   </game>
-  <game name="01 - FDS Games/Sunsoft Dev Disk Lot - 'D167B23' no. 4">
+  <game name="01 - Games (FDS)/Sunsoft Dev Disk Lot - 'D167B23' no. 4">
     <rom name="Sunsoft Dev Disk Lot - 'D167B23' no. 4 (Japan).fds" size="131000" sha1="74ac71afee7365fcdd4f14dd9839f4b1495794ee" crc="4a650886" />
   </game>
-  <game name="01 - FDS Games/Sunsoft Dev Disk Lot - 'D167B23' no. 5">
+  <game name="01 - Games (FDS)/Sunsoft Dev Disk Lot - 'D167B23' no. 5">
     <rom name="Sunsoft Dev Disk Lot - 'D167B23' no. 5 (Japan).fds" size="131000" sha1="d67d7593805bad0603e60461a3a4c3694c11952d" crc="7590f76c" />
   </game>
-  <game name="01 - FDS Games/Sunsoft Dev Disk Lot - 'D167B23' no. 6">
+  <game name="01 - Games (FDS)/Sunsoft Dev Disk Lot - 'D167B23' no. 6">
     <rom name="Sunsoft Dev Disk Lot - 'D167B23' no. 6 (Japan).fds" size="131000" sha1="59dbb875429dce023f0664951fb00306cb003184" crc="547de15e" />
   </game>
-  <game name="01 - FDS Games/Sunsoft Dev Disk Lot - 'E180L05' no. 1">
+  <game name="01 - Games (FDS)/Sunsoft Dev Disk Lot - 'E180L05' no. 1">
     <rom name="Sunsoft Dev Disk Lot - 'E180L05' no. 1 (Japan).fds" size="131000" sha1="e655499d48f6959b01943cb57d75ee4f92f4d9dd" crc="9810a7d0" />
   </game>
-  <game name="01 - FDS Games/Sunsoft Dev Disk Lot - 'E180L05' no. 2 and no. 3">
+  <game name="01 - Games (FDS)/Sunsoft Dev Disk Lot - 'E180L05' no. 2 and no. 3">
     <rom name="Sunsoft Dev Disk Lot - 'E180L05' no. 2 and no. 3 (Japan).fds" size="131000" sha1="595c6a860df3f596ff14517cc57e02a34ee445cf" crc="238d88e4" />
   </game>
-  <game name="01 - FDS Games/Sunsoft Dev Disk Lot - 'E180L05' no. 4">
+  <game name="01 - Games (FDS)/Sunsoft Dev Disk Lot - 'E180L05' no. 4">
     <rom name="Sunsoft Dev Disk Lot - 'E180L05' no. 4 (Japan).fds" size="131000" sha1="24e7d78c1b4396d666994312938288f605104d92" crc="7828517a" />
   </game>
-  <game name="01 - FDS Games/Sunsoft Dev Disk Lot - 'F087D22'">
+  <game name="01 - Games (FDS)/Sunsoft Dev Disk Lot - 'F087D22'">
     <rom name="Sunsoft Dev Disk Lot - 'F087D22' (Japan).fds" size="131000" sha1="1b7f45471d22b4eba0d46796f159e11dc17cdf49" crc="a4fe33bf" />
   </game>
-  <game name="01 - FDS Games/Sunsoft Dev Disk Lot - 'F266F13'">
+  <game name="01 - Games (FDS)/Sunsoft Dev Disk Lot - 'F266F13'">
     <rom name="Sunsoft Dev Disk Lot - 'F266F13' (Japan).fds" size="131000" sha1="41f329078ae613728eaa444c2a6fc984faf20df5" crc="91bff1e3" />
   </game>
-  <game name="01 - FDS Games/Sunsoft Dev Disk Lot - 'G188D21N' no. 1">
+  <game name="01 - Games (FDS)/Sunsoft Dev Disk Lot - 'G188D21N' no. 1">
     <rom name="Sunsoft Dev Disk Lot - 'G188D21N' no. 1 (Japan).fds" size="131000" sha1="09e90627a8e2a4586fc1cfb6f4e3ffd607ae2d32" crc="2f0d5d42" />
   </game>
-  <game name="01 - FDS Games/Sunsoft Dev Disk Lot - 'G188D21N' no. 2">
+  <game name="01 - Games (FDS)/Sunsoft Dev Disk Lot - 'G188D21N' no. 2">
     <rom name="Sunsoft Dev Disk Lot - 'G188D21N' no. 2 (Japan).fds" size="131000" sha1="bd3f6b7176f0378cca0c6905b58aff3b831a4db0" crc="4ff0793d" />
   </game>
-  <game name="01 - FDS Games/Sunsoft Dev Disk Lot - 'G188D21N' no. 3">
+  <game name="01 - Games (FDS)/Sunsoft Dev Disk Lot - 'G188D21N' no. 3">
     <rom name="Sunsoft Dev Disk Lot - 'G188D21N' no. 3 (Japan).fds" size="131000" sha1="7c0beb1a009a56d56f1b27432f44a067716d2941" crc="3fea310e" />
   </game>
-  <game name="01 - FDS Games/Sunsoft Dev Disk Lot - 'J226I22' no. 1">
+  <game name="01 - Games (FDS)/Sunsoft Dev Disk Lot - 'J226I22' no. 1">
     <rom name="Sunsoft Dev Disk Lot - 'J226I22' no. 1 (Japan).fds" size="131000" sha1="7c77f7ae83daf3de9602bffccc7f42224018b0bd" crc="45d4a8a7" />
   </game>
-  <game name="01 - FDS Games/Sunsoft Dev Disk Lot - 'J226I22' no. 3">
+  <game name="01 - Games (FDS)/Sunsoft Dev Disk Lot - 'J226I22' no. 3">
     <rom name="Sunsoft Dev Disk Lot - 'J226I22' no. 3 (Japan).fds" size="131000" sha1="d4af81b804b4b7ecfc05293d414d64686e16c70c" crc="2dffcf5e" />
   </game>
-  <game name="01 - FDS Games/Sunsoft Dev Disk Lot - 'K057G06'">
+  <game name="01 - Games (FDS)/Sunsoft Dev Disk Lot - 'K057G06'">
     <rom name="Sunsoft Dev Disk Lot - 'K057G06' (Japan).fds" size="131000" sha1="c3358ee809bf5def0344ab7dc3837aea6dbabf66" crc="0858aa6b" />
   </game>
-  <game name="01 - FDS Games/Super Boy Allan">
+  <game name="01 - Games (FDS)/Super Boy Allan">
     <rom name="Super Boy Allan (Japan).fds" size="131000" sha1="1c02088a34444cb45093527e840806e9f15de9c2" crc="72f6194b" />
   </game>
-  <game name="01 - FDS Games/Super Lode Runner II">
+  <game name="01 - Games (FDS)/Super Lode Runner II">
     <rom name="Super Lode Runner II (Japan) (Disk Writer).fds" size="131000" sha1="567fb5457815bea1596369c4f1579b9aa26a38db" crc="042c902b" />
   </game>
-  <game name="01 - FDS Games/Super Lode Runner">
+  <game name="01 - Games (FDS)/Super Lode Runner">
     <rom name="Super Lode Runner (Japan).fds" size="131000" sha1="223963573327f8e189a20a689d0ddf6070645345" crc="c5a7e32c" />
   </game>
-  <game name="01 - FDS Games/Super Mario Bros. 2">
+  <game name="01 - Games (FDS)/Super Mario Bros. 2">
     <rom name="Super Mario Bros. 2 (Japan) (En) (DV 2).fds" size="65500" sha1="08927227b6ff67f42e759505d176cd924931bd14" crc="5c419ee8" />
     <rom name="Super Mario Bros. 2 (Japan) (En) (Game &amp; Watch - Super Mario Bros.).fds" size="65500" sha1="cb9fb99b7731ed05b81d4b6bae06e0fbf8d21fa8" crc="42b63ca5" />
     <rom name="Super Mario Bros. 2 (Japan) (En).fds" size="65500" sha1="20e50128742162ee47561db9e82b2836399c880c" crc="f04cd4cd" />
     <rom name="Super Mario Bros. 2 (World) (GameCube, Wii and Wii U Virtual Console).fds" size="65500" sha1="b2dbc55efcae77abad6207b802c0a76d7a47ed0d" crc="5d08dd11" />
   </game>
-  <game name="01 - FDS Games/Super Mario Bros.">
+  <game name="01 - Games (FDS)/Super Mario Bros.">
     <rom name="Super Mario Bros. (Japan) (En).fds" size="65500" sha1="383ad8e3890a95de9595f0a6087648f51177da13" crc="e0890cf2" />
   </game>
-  <game name="01 - FDS Games/Sword of Kalin, The/~Translations">
+  <game name="01 - Games (FDS)/Sword of Kalin, The/~Translations">
     <rom name="Sword of Kalin, The (Japan) [T-En by KingMike's Translations v1.0] [n].fds" size="131000" sha1="9e7059ff3b10a5156b06e29a5c49aaaa5518c498" crc="7825c974" />
   </game>
-  <game name="01 - FDS Games/Tama &amp; Friends - Sanchoume Daibouken">
+  <game name="01 - Games (FDS)/Tama &amp; Friends - Sanchoume Daibouken">
     <rom name="Tama &amp; Friends - Sanchoume Daibouken (Japan).fds" size="131000" sha1="ce1535766986ffc83bda6481f8b3110405bf0f0f" crc="37ce763b" />
   </game>
-  <game name="01 - FDS Games/Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi - Shinban Tsumeshougi - Tsugi no Itte">
+  <game name="01 - Games (FDS)/Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi - Shinban Tsumeshougi - Tsugi no Itte">
     <rom name="Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi - Shinban Tsumeshougi - Tsugi no Itte (Japan) (Disk Writer).fds" size="65500" sha1="e33f06627cc4fe9f1477fc5ad66e6d27c9e1dbe2" crc="94ed2d89" />
   </game>
-  <game name="01 - FDS Games/Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi">
+  <game name="01 - Games (FDS)/Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi">
     <rom name="Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi (Japan).fds" size="131000" sha1="3cfff39aaa5e4192ca40c747c8004abc80a7204a" crc="6cad684c" />
   </game>
-  <game name="01 - FDS Games/Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi/~Prototypes and Betas">
+  <game name="01 - Games (FDS)/Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi/~Prototypes and Betas">
     <rom name="Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi (Japan) (Beta) (1987-11-13).fds" size="131000" sha1="4efa88a859a0e60cb53c4d722a090abe6247562c" crc="fc14d862" />
   </game>
-  <game name="01 - FDS Games/Tantei Jinguuji Saburou - Kiken na Futari - Kouhen">
+  <game name="01 - Games (FDS)/Tantei Jinguuji Saburou - Kiken na Futari - Kouhen">
     <rom name="Tantei Jinguuji Saburou - Kiken na Futari - Kouhen (Japan) (Virtual Console).fds" size="131000" sha1="ca38ed325f0b15a3a40e02106d09d48ab10186ef" crc="c139f698" />
     <rom name="Tantei Jinguuji Saburou - Kiken na Futari - Kouhen (Japan).fds" size="131000" sha1="658456aca84ac406b512033defcd2c71d56d0661" crc="fb9e5e31" />
     <rom name="Tantei Jinguuji Saburou - Kiken na Futari - Kouhen (Japan).qd" size="131072" sha1="f2b14c7d9631f5db5f4e73e79a126274dec7d9d0" crc="fc0c6c97" />
   </game>
-  <game name="01 - FDS Games/Tantei Jinguuji Saburou - Kiken na Futari - Zenpen">
+  <game name="01 - Games (FDS)/Tantei Jinguuji Saburou - Kiken na Futari - Zenpen">
     <rom name="Tantei Jinguuji Saburou - Kiken na Futari - Zenpen (Japan) (Virtual Console).fds" size="131000" sha1="a1aee4e7c40d68914d5098a91db3f0d5556ce16a" crc="9ac78f51" />
     <rom name="Tantei Jinguuji Saburou - Kiken na Futari - Zenpen (Japan).fds" size="131000" sha1="ffa76f47530b53d92d93b307c585aecb960d9cf3" crc="05376233" />
   </game>
-  <game name="01 - FDS Games/Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken">
+  <game name="01 - Games (FDS)/Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken">
     <rom name="Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan) (Rev 1) (Disk Writer).fds" size="131000" sha1="f7709e6f6b40430fb1b2f6d0e51222639284d215" crc="6ea9af07" />
     <rom name="Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan) (Rev 1) (Virtual Console).fds" size="131000" sha1="bda6e858719b38a4c21f09f4f4c08d4c462522f4" crc="c4be81e1" />
     <rom name="Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan).fds" size="131000" sha1="4d9ba804201fa35c3d5a509095f5e0176b5f2ba8" crc="5855ae09" />
   </game>
-  <game name="01 - FDS Games/Tarot Uranai">
+  <game name="01 - Games (FDS)/Tarot Uranai">
     <rom name="Tarot Uranai (Japan).fds" size="131000" sha1="cceb98544716c861aafe58bfc582709a4962129f" crc="8db1881a" />
   </game>
-  <game name="01 - FDS Games/Tennis">
+  <game name="01 - Games (FDS)/Tennis">
     <rom name="Tennis (Japan).fds" size="65500" sha1="ac08d53ab452db6f4deccb6ec02f3f9c77b37fe3" crc="e45ba8b2" />
   </game>
-  <game name="01 - FDS Games/Tenshitachi no Houkago">
+  <game name="01 - Games (FDS)/Tenshitachi no Houkago">
     <rom name="Tenshitachi no Houkago (Japan) (Disk 1) (Unl).fds" size="131000" sha1="2db649717e5880029c50e229a03486177da73129" crc="0082d965" />
     <rom name="Tenshitachi no Houkago (Japan) (Disk 2) (Unl).fds" size="131000" sha1="1bbf3a29636c08429efcc6b18d106421dfd0e3c6" crc="1d47c48f" />
   </game>
-  <game name="01 - FDS Games/Time Twist - On the Outskirts of History - Part 1/~Translations">
+  <game name="01 - Games (FDS)/Time Twist - On the Outskirts of History - Part 1/~Translations">
     <rom name="Time Twist - On the Outskirts of History - Part 1 (Japan) [T-En by starlight_world v1.0] [n].fds" size="131000" sha1="b3f360cf96a8cb75ff44250fc5a335425365559d" crc="262f20ae" />
   </game>
-  <game name="01 - FDS Games/Time Twist - On the Outskirts of History - Part 2/~Translations">
+  <game name="01 - Games (FDS)/Time Twist - On the Outskirts of History - Part 2/~Translations">
     <rom name="Time Twist - On the Outskirts of History - Part 2 (Japan) [T-En by starlight_world v1.0] [n].fds" size="131000" sha1="ebaf479453fb8b49fa2e568bb296a74d0e9782f7" crc="c3e4242b" />
   </game>
-  <game name="01 - FDS Games/Time Twist - On the Outskirts of History/~Translations">
+  <game name="01 - Games (FDS)/Time Twist - On the Outskirts of History/~Translations">
     <rom name="Time Twist - On the Outskirts of History (Japan) [T-En by starlight_world v1.0] [n].fds" size="262000" sha1="65bb24b08b35554cf58e04073f6254ef6f0a0f58" crc="beb1eac8" />
   </game>
-  <game name="01 - FDS Games/Time Twist - Rekishi no Katasumi de... - Kouhen">
+  <game name="01 - Games (FDS)/Time Twist - Rekishi no Katasumi de... - Kouhen">
     <rom name="Time Twist - Rekishi no Katasumi de... - Kouhen (Japan).fds" size="131000" sha1="e0747e6ba6111fad733c832e6ca7c0172f4c056e" crc="a7d51bfa" />
   </game>
-  <game name="01 - FDS Games/Time Twist - Rekishi no Katasumi de... - Zenpen">
+  <game name="01 - Games (FDS)/Time Twist - Rekishi no Katasumi de... - Zenpen">
     <rom name="Time Twist - Rekishi no Katasumi de... - Zenpen (Japan).fds" size="131000" sha1="bbfa10026698e01c5dcda7e7f2f86c34c2e2b7b8" crc="63f06a01" />
   </game>
-  <game name="01 - FDS Games/Time Twist - Rekishi no Katasumi de/~Translations">
+  <game name="01 - Games (FDS)/Time Twist - Rekishi no Katasumi de/~Translations">
     <rom name="Time Twist - Rekishi no Katasumi de... (Japan) [T-En by Terran v1.0] [7 lines a screen] [b].fds" size="262000" sha1="47bf940aac788109477c7ce31e13b6f108165eb3" crc="df683d00" />
     <rom name="Time Twist - Rekishi no Katasumi de... (Japan) [T-En by Terran v1.0] [b].fds" size="262000" sha1="f7214672e34e4c3fd169eccaaa0fce775aa8071c" crc="b4a3ab3a" />
   </game>
-  <game name="01 - FDS Games/Titanic Mystery - Ao no Senritsu">
+  <game name="01 - Games (FDS)/Titanic Mystery - Ao no Senritsu">
     <rom name="Titanic Mystery - Ao no Senritsu (Japan).fds" size="131000" sha1="716786692cf9cba9c5b02745025d648237571c43" crc="fb36075c" />
   </game>
-  <game name="01 - FDS Games/Titanic Mystery - Ao no Senritsu/~Translations">
+  <game name="01 - Games (FDS)/Titanic Mystery - Ao no Senritsu/~Translations">
     <rom name="Titanic Mystery - Rumblings from the Blue (Japan) [T-En by BlackPaladin v1.0] [n].fds" size="131000" sha1="1206d6a853d4399c22cb1a9ab6e48c600871e0e1" crc="dab26a4e" />
   </game>
-  <game name="01 - FDS Games/Tobidase Daisakusen">
+  <game name="01 - Games (FDS)/Tobidase Daisakusen">
     <rom name="Tobidase Daisakusen (Japan) (Famicom 3D System).fds" size="131000" sha1="26cd51c5598677734bb936e82114564d9a7269e7" crc="caa25a7f" />
   </game>
-  <game name="01 - FDS Games/Tobidase Daisakusen/~Translations">
+  <game name="01 - Games (FDS)/Tobidase Daisakusen/~Translations">
     <rom name="Operation - Jump Out (Japan) (Famicom 3D System) [T-En by BlackPaladin v1.0] [n].fds" size="131000" sha1="69f589871945156735a4f1746c38d69912c652f6" crc="938ab0af" />
   </game>
-  <game name="01 - FDS Games/Tonkachi Editor">
+  <game name="01 - Games (FDS)/Tonkachi Editor">
     <rom name="Tonkachi Editor (Japan) (Unl).fds" size="65500" sha1="3f8594bdc787944835ce73692d5529ba1230ef7f" crc="bea8b9a2" />
   </game>
-  <game name="01 - FDS Games/Tooyama no Kinsan Space Chou - Mr. Gold">
+  <game name="01 - Games (FDS)/Tooyama no Kinsan Space Chou - Mr. Gold">
     <rom name="Tooyama no Kinsan Space Chou - Mr. Gold (Japan).fds" size="131000" sha1="33947802dd0620bab95f093f162545cbe30e612f" crc="8ee50dae" />
   </game>
-  <game name="01 - FDS Games/Topple Zip">
+  <game name="01 - Games (FDS)/Topple Zip">
     <rom name="Topple Zip (Japan) (Project EGG).fds" size="131000" sha1="065c0137021b5097ada7c347ef50857d777720bd" crc="a461bf9b" />
     <rom name="Topple Zip (Japan).fds" size="131000" sha1="e53cbc375b9f32cb5682af8aafbfb594f47a4dd1" crc="84591d73" />
   </game>
-  <game name="01 - FDS Games/Transformers - The Headmasters">
+  <game name="01 - Games (FDS)/Transformers - The Headmasters">
     <rom name="Transformers - The Headmasters (Japan).fds" size="131000" sha1="f9b7f47bd85fddd18bd20f21c1af65039518fce4" crc="a6d5e984" />
   </game>
-  <game name="01 - FDS Games/Transformers - The Headmasters/~Translations">
+  <game name="01 - Games (FDS)/Transformers - The Headmasters/~Translations">
     <rom name="Transformers - The Headmasters (Japan) [T-En by BlackPaladin v1.0].fds" size="131000" sha1="5888a475b80167124b43e549d106a57536e135d5" crc="e3165537" />
   </game>
-  <game name="01 - FDS Games/TwinBee">
+  <game name="01 - Games (FDS)/TwinBee">
     <rom name="TwinBee (Japan) (En) (Disk Writer).fds" size="65500" sha1="96a8147ab43e4460d2e9b4893eb2902d23edadf0" crc="4a5480e1" />
   </game>
-  <game name="01 - FDS Games/Ultraman - Kaijuu Teikoku no Gyakushuu">
+  <game name="01 - Games (FDS)/Ultraman - Kaijuu Teikoku no Gyakushuu">
     <rom name="Ultraman - Kaijuu Teikoku no Gyakushuu (Japan) (Disk Writer).fds" size="131000" sha1="1c9e86b169562c4945cafc11b0a3f27f9ddd2944" crc="9a2f16cf" />
     <rom name="Ultraman - Kaijuu Teikoku no Gyakushuu (Japan).fds" size="131000" sha1="120580cb6025c68b27dda91607ea8d9c7e3b9e6b" crc="cc64ba9b" />
   </game>
-  <game name="01 - FDS Games/Ultraman - Kaijuu Teikoku no Gyakushuu/~Translations">
+  <game name="01 - Games (FDS)/Ultraman - Kaijuu Teikoku no Gyakushuu/~Translations">
     <rom name="Ultraman - Wrath of the Kaiju Empire (Japan) (Disk Writer) [T-En by BlackPaladin v1.0] [n].fds" size="131000" sha1="fc62b5880561b213392fab7ad6051758a5fdb0ba" crc="a16eb874" />
     <rom name="Ultraman - Wrath of the Kaiju Empire (Japan) [T-En by BlackPaladin v1.0] [n].fds" size="131000" sha1="bd42652b91aab5a2386d48759ce773819cea4eed" crc="9b9f0120" />
   </game>
-  <game name="01 - FDS Games/Ultraman 2 - Shutsugeki Katokutai">
+  <game name="01 - Games (FDS)/Ultraman 2 - Shutsugeki Katokutai">
     <rom name="Ultraman 2 - Shutsugeki Katokutai (Japan).fds" size="131000" sha1="6d1b890d3ae55541c7cef6bf1df31a39fbb398b0" crc="8f7f0352" />
   </game>
-  <game name="01 - FDS Games/Ultraman 2 - Shutsugeki Katokutai/~Translations">
+  <game name="01 - Games (FDS)/Ultraman 2 - Shutsugeki Katokutai/~Translations">
     <rom name="Ultraman 2 - Sally Forth, Science Patrol (Japan) [T-En by BlackPaladin v1.0] [n].fds" size="131000" sha1="4be787d5fa993332fd3ced570319defb1402f77c" crc="12d4da55" />
   </game>
-  <game name="01 - FDS Games/Ultraman Club - Chikyuu Dakkan Sakusen">
+  <game name="01 - Games (FDS)/Ultraman Club - Chikyuu Dakkan Sakusen">
     <rom name="Ultraman Club - Chikyuu Dakkan Sakusen (Japan) (Rev 1).fds" size="131000" sha1="e804a5f841f79261f6950354db039399b418ae15" crc="74c0cd54" />
     <rom name="Ultraman Club - Chikyuu Dakkan Sakusen (Japan).fds" size="131000" sha1="6156a65aad9406dad4feef916225dea5d3aa1a46" crc="ad5183db" />
   </game>
-  <game name="01 - FDS Games/Ultraman Club - Chikyuu Dakkan Sakusen/~Translations">
+  <game name="01 - Games (FDS)/Ultraman Club - Chikyuu Dakkan Sakusen/~Translations">
     <rom name="Ultraman Club (Japan) (Rev 1) [T-En by BlackPaladin v1.0] [n].fds" size="131000" sha1="dcd7ac791579e5e78ff6e6e25b1d8ab7e77962d8" crc="283e4c37" />
   </game>
-  <game name="01 - FDS Games/Volleyball">
+  <game name="01 - Games (FDS)/Volleyball">
     <rom name="Volleyball (Japan).fds" size="65500" sha1="fb2d7fe3866765ec34249a2853a592bd0dc2217d" crc="f2040d16" />
   </game>
-  <game name="01 - FDS Games/Vs. Excitebike">
+  <game name="01 - Games (FDS)/Vs. Excitebike">
     <rom name="Vs. Excitebike (Japan) (En).fds" size="131000" sha1="010f6dc860b0bae80e55c199b3206e95ec14e31f" crc="febe1841" />
     <rom name="Vs. Excitebike (Japan, USA) (En) (Virtual Console).fds" size="131000" sha1="080e960bc9c11dd0da378776ea776b456348bc6a" crc="a1a824bf" />
   </game>
-  <game name="01 - FDS Games/Wakusei Aton Gaiden">
+  <game name="01 - Games (FDS)/Wakusei Aton Gaiden">
     <rom name="Wakusei Aton Gaiden (Japan) (National Tax Agency Demo).fds" size="131000" sha1="9ad5c840382bf073dfedd66875b65cbdd47b455c" crc="74f0c830" />
   </game>
-  <game name="01 - FDS Games/Wardner no Mori">
+  <game name="01 - Games (FDS)/Wardner no Mori">
     <rom name="Wardner no Mori (Japan).fds" size="131000" sha1="a100bc4047cdd1d041c800489de7a275a7e97b02" crc="26c78381" />
   </game>
-  <game name="01 - FDS Games/Winter Games">
+  <game name="01 - Games (FDS)/Winter Games">
     <rom name="Winter Games (Japan).fds" size="131000" sha1="e731294194baaee54468087e29b7a87150feea10" crc="4bf6e7bc" />
   </game>
-  <game name="01 - FDS Games/Wrecking Crew">
+  <game name="01 - Games (FDS)/Wrecking Crew">
     <rom name="Wrecking Crew (Japan) (Disk Writer).fds" size="65500" sha1="8847d38111952c56b399f54fd622fcc395bf1752" crc="68b88428" />
   </game>
-  <game name="01 - FDS Games/Xevious">
+  <game name="01 - Games (FDS)/Xevious">
     <rom name="Xevious (Japan) (Disk Writer).fds" size="65500" sha1="004554ebf64cae5674a11e7cb6fcbb7596779fda" crc="50b8e0a1" />
   </game>
-  <game name="01 - FDS Games/Yakyuuken Part II - Gal's Dungeon">
+  <game name="01 - Games (FDS)/Yakyuuken Part II - Gal's Dungeon">
     <rom name="Yakyuuken Part II - Gal's Dungeon (Japan) (Unl).fds" size="131000" sha1="441f4055517c8cce2c2a5048672044911c5579a2" crc="616b9385" />
   </game>
-  <game name="01 - FDS Games/Yakyuuken Part II - Gal's Dungeon/~Translations">
+  <game name="01 - Games (FDS)/Yakyuuken Part II - Gal's Dungeon/~Translations">
     <rom name="Yakyuuken Part II - Gal's Dungeon (Japan) (Unl) [T-En by Spinner 8 and friends v1.0].fds" size="131000" sha1="ada86c1f387c23d640d45bafa8f07ab6c2e98712" crc="609bc9c3" />
   </game>
-  <game name="01 - FDS Games/Youkai Yashiki">
+  <game name="01 - Games (FDS)/Youkai Yashiki">
     <rom name="Youkai Yashiki (Japan).fds" size="131000" sha1="00370bbd71d2c488dba788312f9cc0f23b626681" crc="335efcc9" />
   </game>
-  <game name="01 - FDS Games/Yume Koujou - Doki Doki Panic">
+  <game name="01 - Games (FDS)/Yume Koujou - Doki Doki Panic">
     <rom name="Yume Koujou - Doki Doki Panic (Japan) (DV 1).fds" size="131000" sha1="6f227b22c1fff3b8dd9cb20ed6dfa3e4cffb91c8" crc="4d44fc43" />
     <rom name="Yume Koujou - Doki Doki Panic (Japan) (DV 2).fds" size="131000" sha1="138c6821ce826efd26c04c015ca6a1463ce21d87" crc="4096f677" />
   </game>
-  <game name="01 - FDS Games/Yume Koujou - Doki Doki Panic/~Pirate">
+  <game name="01 - Games (FDS)/Yume Koujou - Doki Doki Panic/~Pirate">
     <rom name="Super Yume Kojo (Japan) (Pirate).fds" size="131000" sha1="d6eb6f50ef52fc5b193c8fddde0cddb9b5dc0dbf" crc="d899dc5e" />
   </game>
-  <game name="01 - FDS Games/Yume Koujou - Doki Doki Panic/~Translations">
+  <game name="01 - Games (FDS)/Yume Koujou - Doki Doki Panic/~Translations">
     <rom name="Dream World - Doki Doki Panic! (Japan) [T-En by Vice Translations v1.1] [n].fds" size="131000" sha1="a5fd61e12d17218df1a06f3e15f27cb513f6b7f8" crc="d9e2f346" />
   </game>
-  <game name="01 - FDS Games/Yuu Maze">
+  <game name="01 - Games (FDS)/Yuu Maze">
     <rom name="Yuu Maze (Japan).fds" size="131000" sha1="9ee5ce6176ea859ee56ca80518f0cfc40da791e0" crc="7db80e2b" />
   </game>
-  <game name="01 - FDS Games/Yuushi no Monshou - Deep Dungeon">
+  <game name="01 - Games (FDS)/Yuushi no Monshou - Deep Dungeon">
     <rom name="Yuushi no Monshou - Deep Dungeon (Japan) (Rev 1) (Disk Writer).fds" size="131000" sha1="c19d3adddc08e79644305f5d08384018f059e6da" crc="4c5e542b" />
     <rom name="Yuushi no Monshou - Deep Dungeon (Japan).fds" size="131000" sha1="fd41decd8b9fb5da5d38dd6fec316fc3958eba11" crc="bfcc8051" />
   </game>
-  <game name="01 - FDS Games/Zanac (AI)">
+  <game name="01 - Games (FDS)/Zanac (AI)">
     <rom name="Zanac (AI) (Japan) (Project EGG).fds" size="65516" sha1="fbdb20149c17eaea37650fee8246b5334e59d730" crc="349b244b" />
     <rom name="Zanac (AI) (Japan).fds" size="65500" sha1="4409175d876a28bcb8afa857d7e97453df20a8b4" crc="2d90879b" />
   </game>
-  <game name="01 - FDS Games/Zatsugaku Olympic Quiz - Watanabe Wataru Hen">
+  <game name="01 - Games (FDS)/Zatsugaku Olympic Quiz - Watanabe Wataru Hen">
     <rom name="Zatsugaku Olympic Quiz - Watanabe Wataru Hen (Japan) (Unl).fds" size="131000" sha1="ce7dcb159ec014cbbcfdbf8a76a8288c7aff04b0" crc="a646f79e" />
   </game>
-  <game name="01 - FDS Games/Zatsugaku Olympic Quiz Part II">
+  <game name="01 - Games (FDS)/Zatsugaku Olympic Quiz Part II">
     <rom name="Zatsugaku Olympic Quiz Part II (Japan) (Unl).fds" size="131000" sha1="89771a0409372da56b7df65b246e6686518da42d" crc="d69a4d87" />
   </game>
-  <game name="01 - FDS Games/Zelda II - The Adventure of Link">
+  <game name="01 - Games (FDS)/Zelda II - The Adventure of Link">
     <rom name="Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1) (Collector's Edition).fds" size="131000" sha1="f4b5f7594be7625f568bfcb1650288c977a07051" crc="d9d60599" />
     <rom name="Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1) (Wii and Wii U Virtual Console).fds" size="131000" sha1="afda1be5c8a24872318bfe32c8dd2ca794e6f460" crc="5f1d39cb" />
     <rom name="Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1).fds" size="131000" sha1="9d29fd1e38993ae67564262434b775e0a7da1de2" crc="3024cad5" />
     <rom name="Link no Bouken - The Legend of Zelda 2 (Japan).fds" size="131000" sha1="f5f72ffe9b222c2c3e0d38809ba7263cd0a03e16" crc="0c3ebc28" />
   </game>
-  <game name="01 - FDS Games/Zelda II - The Adventure of Link/~Translations">
+  <game name="01 - Games (FDS)/Zelda II - The Adventure of Link/~Translations">
     <rom name="Legend of Zelda 2, The - The Adventure of Link (Japan) (Rev 1) [T-En by Columbo v2.33]  [Add by Masaru v1.1] [n].fds" size="131000" sha1="5c47d3663ae05812add3300b18a527a4b3825326" crc="1515d4ae" />
     <rom name="Zelda II - The Adventure of Link (Japan) (Rev 1) [T-En by Columbo v2.33] [n].fds" size="131000" sha1="cef65267509a198c1e40f478a3f00c9216d51ae7" crc="359d3f2b" />
   </game>
@@ -2085,6 +2085,9 @@
   </game>
   <game name="01 - Games/Amagon/~Prototypes and Betas">
     <rom name="Totsuzen! Macchoman (Japan) (Beta).nes" size="131088" sha1="e42aa19e442078a819bdc78352b14d578c64780c" crc="5f1303f3" />
+  </game>
+  <game name="01 - Games/Amber's Super Adventure">
+    <rom name="Amber's Super Adventure (World) (v1.1) (Aftermarket) (Unl).nes" size="524304" sha1="7c5c344f9571eb02a121039eba2254af5f9a1927" crc="c6993834" />
   </game>
   <game name="01 - Games/Ambushed">
     <rom name="Ambushed (World) (Aftermarket) (Unl).nes" size="16400" sha1="ddfb29a7eda6a7af46fba903835f28c05277617a" crc="a1e485b9" />
@@ -2937,6 +2940,9 @@
   <game name="01 - Games/Berry - Blue Dog">
     <rom name="Berry - Blue Dog (World) (Aftermarket) (Unl).nes" size="524304" sha1="516c504e2fb6dca9c1964efbbcb3e744d9420812" crc="685009b0" />
   </game>
+  <game name="01 - Games/Berry Blue Dog Adventure">
+    <rom name="Berry Blue Dog Adventure (World) (Aftermarket) (Unl).nes" size="524304" sha1="00f1e9cd74bf37dff20a6201fad8d89e8c00b09e" crc="f3638087" />
+  </game>
   <game name="01 - Games/Berzerk">
     <rom name="Berzerk (World) (Aftermarket) (Unl).nes" size="65552" sha1="8738447e798996914947d3bae7ed3754902aa817" crc="620de12b" />
     <rom name="Berzerk (World) (NES Mini Version) (Aftermarket) (Unl).nes" size="65552" sha1="5e4cc6c7180824f695b63119ebc71059aa43e507" crc="82d25981" />
@@ -3371,6 +3377,9 @@
   </game>
   <game name="01 - Games/Brave Fighter of the Sun - Fighbird/~Translations">
     <rom name="Brave Fighter of the Sun - Fighbird (Japan) [T-En by Zynk Oxhyde v1.2] [n].nes" size="262160" sha1="a6c2d231887e1eb3eac22ca9d448eb31ccdc7977" crc="cedb4c28" />
+  </game>
+  <game name="01 - Games/Brax and the Mansion/~Prototypes and Betas">
+    <rom name="Brax and the Mansion (World) (Proto) (Aftermarket) (Unl).nes" size="524304" sha1="a9c853389ef2b1257196dae901a5412c309136bb" crc="c7593b3f" />
   </game>
   <game name="01 - Games/Break Time - The National Pool Tour">
     <rom name="Break Time - The National Pool Tour (USA).nes" size="163856" sha1="26771cfe092ea57003a23a4d089d21eed9417687" crc="766e6093" />
@@ -4633,6 +4642,7 @@
   </game>
   <game name="01 - Games/Cursed Crown">
     <rom name="Cursed Crown (World) (v1.02) (Aftermarket) (Unl).nes" size="131088" sha1="4e0bf50191428954649428b2d4957e0fabbe3570" crc="ac88e44c" />
+    <rom name="Cursed Crown (World) (v2.0) (Aftermarket) (Unl).nes" size="131088" sha1="d07ae4bcb118ada1950d0dfd4540c08f641b3b65" crc="c0500049" />
   </game>
   <game name="01 - Games/Cursed Crown/~Prototypes and Betas">
     <rom name="Cursed Crown (World) (Beta) (Aftermarket) (Unl).nes" size="131088" sha1="49d81c84018aff34bade4a15edca32e04f1134bf" crc="db6c9a42" />
@@ -7773,6 +7783,9 @@
     <rom name="Haunted - Halloween '86 (World) (v1.1) (Remastered Onslaught Edition) (Aftermarket) (Unl).nes" size="524304" sha1="392490ad6b117682ad41ed7d088b3f32050acf77" crc="94f92f7c" />
     <rom name="Haunted - Halloween '86 (World) (v1.1) (Remastered Onslaught Edition) (Switch) (Aftermarket) (Unl).nes" size="524304" sha1="0ecf4390795b398ac9344d11fad7758fd1341d49" crc="0ab6e89f" />
   </game>
+  <game name="01 - Games/Haunted - Halloween '87 - Year of the Witch">
+    <rom name="Haunted - Halloween '87 - Year of the Witch (World) (Aftermarket) (Unl).nes" size="524304" sha1="5dfe81a0437672b2588eeb136b739aa91f96be78" crc="a18824fc" />
+  </game>
   <game name="01 - Games/Haunted Hills of Wentworth (Action 52)">
     <rom name="Action 52 (USA) (Rev A) (Unl).nes" size="2097168" sha1="bf89b88329469c3721796a2533042f3c1eade91a" crc="b373644c" />
     <rom name="Action 52 (USA) (Rev B) (Unl).nes" size="2097168" sha1="0b5da363f74c7d3753fcd4891e9041a892287842" crc="26e5db70" />
@@ -10005,6 +10018,9 @@
   <game name="01 - Games/Mafat Conspiracy, The">
     <rom name="Golgo 13 - Dainishou - Icarus no Nazo (Japan).nes" size="262160" sha1="d49aded258d2ec4a5da2686d875aa34e0b1092ef" crc="9c6aa86d" />
     <rom name="Mafat Conspiracy, The (USA).nes" size="262160" sha1="ca876534254328fd1082d31bd90be523fb84ce1e" crc="31bddeec" />
+  </game>
+  <game name="01 - Games/MagePoint 2 - Mr. Eren's Revenge">
+    <rom name="MagePoint 2 - Mr. Eren's Revenge (World) (Aftermarket) (Unl).nes" size="524304" sha1="51d7f464890fd7cb15e55e61d51ef6dc9d1c3d8d" crc="e6224893" />
   </game>
   <game name="01 - Games/MagePoint Quest">
     <rom name="MagePoint Quest (World) (Aftermarket) (Unl).nes" size="524304" sha1="ee93c9af172ef7cc9e65b29b486b78d6a04ffc19" crc="bcfb3346" />
@@ -15289,6 +15305,9 @@
     <rom name="Sunman (Europe) (Proto).nes" size="262160" sha1="a05330f8d81b57aca6800df7d0b8ee58d6f2fbe5" crc="7e0a81cf" />
     <rom name="Superman (USA) (Proto) (Sunsoft).nes" size="262160" sha1="435a124841355da5092b0f160b4ce3f85ac0bdac" crc="fc4e1a5a" />
   </game>
+  <game name="01 - Games/Sunset Land">
+    <rom name="Sunset Land (World) (Aftermarket) (Unl).nes" size="524304" sha1="39340e920bbdd7c3a7f90b0fd6ca0cfe5e02809c" crc="66c97ea1" />
+  </game>
   <game name="01 - Games/Super 2-in-1 - Soccer Game + Crazy Dance">
     <rom name="Super 2-in-1 - Soccer Game + Crazy Dance (Hong Kong) (En) (Aftermarket) (Unl).nes" size="524304" sha1="1143ee919163e512c6a060f0cdf8dde8559dc286" crc="97b433c9" />
   </game>
@@ -15904,6 +15923,9 @@
     <rom name="Tank (Asia) (En) (Extract) (Unl).nes" size="40976" sha1="d9a957abb2f0dda76844d5bdeb346eac595da4c3" crc="1d19de8b" />
     <rom name="Tank (Taiwan) (En) (Unl).nes" size="40976" sha1="d476aeca38bf43bce325233a617177ace321250f" crc="5a170584" />
     <rom name="Tanque (Spain) (En) (Unl).nes" size="40976" sha1="11a7209c1f09888ac6221f87d398bcb45de46a69" crc="59c56ae1" />
+  </game>
+  <game name="01 - Games/Tanker">
+    <rom name="Tanker (World) (Aftermarket) (Unl).nes" size="40976" sha1="96e12c70dfa4a1288cdf330428f71c6663c7379c" crc="8263b3b6" />
   </game>
   <game name="01 - Games/Tantei Jinguuji Saburou - Toki no Sugiyuku Mama ni">
     <rom name="Tantei Jinguuji Saburou - Toki no Sugiyuku Mama ni (Japan).nes" size="131088" sha1="2b6e71ff53425778d5893aefa1478db94c41afa3" crc="84af7bc2" />
@@ -17195,6 +17217,9 @@
     <rom name="Waddles the Duck (World) (v1.3) (Aftermarket) (Unl).nes" size="65552" sha1="ccf87875229746a9b857ee97d6a4dc577b35942f" crc="b39f6350" />
     <rom name="Waddles the Duck (World) (v1.4) (Aftermarket) (Unl).nes" size="65552" sha1="09ed4a0e8cd3d0e73f0f144094aed563721b79bd" crc="9bd9be29" />
     <rom name="Waddles the Duck (World) (v1.5) (Aftermarket) (Unl).nes" size="65552" sha1="8bfbb9a429d47205edc2edc089c33f89804dcf1c" crc="54af07d2" />
+  </game>
+  <game name="01 - Games/Waffle Man">
+    <rom name="Waffle Man (World) (Aftermarket) (Unl).nes" size="40976" sha1="a4a62b776a8b8c2b627c6ebbfe70a468a578f0d7" crc="0d3beda6" />
   </game>
   <game name="01 - Games/Wagyan Land 2">
     <rom name="Wagyan Land 2 (Japan) (Virtual Console).nes" size="393232" sha1="02d6031e972bdfa4995368e108f22138364f54d1" crc="bf033836" />

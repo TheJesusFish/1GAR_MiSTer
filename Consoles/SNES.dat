@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>SNES</name>
-    <version>2026-10-26</version>
+    <version>2026-11-01</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/'96 Zenkoku Koukou Soccer Senshuken">
@@ -3271,6 +3271,9 @@
   </game>
   <game name="01 - Games/Daisenryaku Expert">
     <rom name="Daisenryaku Expert (Japan).sfc" size="1048576" sha1="32c473e8f732273d4192fbabbea6d8ce981f3341" crc="164771b5" />
+  </game>
+  <game name="01 - Games/Dangerous Dave">
+    <rom name="Dangerous Dave (USA) (v0.1) (Aftermarket) (Unl).sfc" size="1048576" sha1="c0ad62eb0d86d8a8a83067c577c9cc29be825638" crc="11333e54" />
   </game>
   <game name="01 - Games/Darius Force">
     <rom name="Darius Force (Japan) (En) (3-15).bs" size="1048576" sha1="d4a9ae0add675868c3468c35a14026bab4cd793c" crc="2c7e4397" />
@@ -16671,6 +16674,12 @@
     <rom name="Sunset Riders (USA) (MSU1)-99.pcm" size="4333024" sha1="1fa91ab10bdbe541bc1536b8942c0390985354e9" crc="a1e10b2d" />
     <rom name="Sunset Riders (USA) (MSU1).msu" size="0" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" crc="00000000" />
     <rom name="Sunset Riders (USA) (MSU1).sfc" size="1572864" sha1="e6fc4fa2c85df3de9c77719e9ec808929d490aae" crc="2dd49143" />
+  </game>
+  <game name="01 - Games/Supaplex">
+    <rom name="Supaplex (World) (v0.1) (Aftermarket) (Unl).sfc" size="4194304" sha1="36fabb1bee2f30ec2214a198a6741a43bb2a7dee" crc="1abfa83e" />
+    <rom name="Supaplex (World) (v0.2) (Aftermarket) (Unl).sfc" size="4194304" sha1="7e7907efdd58c3fccac6f0aefbc4563b32b2e25c" crc="146e59dc" />
+    <rom name="Supaplex (World) (v0.3) (Aftermarket) (Unl).sfc" size="4194304" sha1="42254db2a1836df16ee2510b7733f10b4756d06e" crc="8e68ed72" />
+    <rom name="Supaplex (World) (v0.4) (Aftermarket) (Unl).sfc" size="4194304" sha1="13058ca832f9e9e10b691b57e302708e2f617be4" crc="53ac956d" />
   </game>
   <game name="01 - Games/Supapoon DX">
     <rom name="Supapoon DX (Japan).sfc" size="1048576" sha1="c7a03fd692c144e781dc5a179e448b2e7b07df3c" crc="be52c486" />

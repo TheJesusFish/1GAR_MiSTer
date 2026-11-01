@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>GBC</name>
-    <version>2026-10-26</version>
+    <version>2026-11-01</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/007 - The World Is Not Enough">
@@ -481,6 +481,9 @@
   </game>
   <game name="01 - Games/Berks">
     <rom name="Berks (World) (Aftermarket) (Unl).gbc" size="262144" sha1="8b4c282cf973cdd9926a69ae1d8fcbaf79f8552b" crc="10ded9ab" />
+  </game>
+  <game name="01 - Games/Berserk">
+    <rom name="Berserk (World) (Aftermarket) (Pirate).gbc" size="262144" sha1="570cee877f43e07559f442089188d503e5de9de2" crc="0af0d5c9" />
   </game>
   <game name="01 - Games/Beyblade - Fighting Tournament">
     <rom name="Beyblade - Fighting Tournament (Japan).gbc" size="2097152" sha1="aca5562c6747bc2f127ada53f853b099ed6e12cd" crc="1ec9db95" />
@@ -1019,14 +1022,32 @@
   <game name="01 - Games/Cubix - Robots for Everyone - Race 'n Robots">
     <rom name="Cubix - Robots for Everyone - Race 'n Robots (USA) (En,Fr,De,Es,It).gbc" size="1048576" sha1="d62b85c664e0a42c84e56b939a201fe90d05a360" crc="9f883b0f" />
   </game>
+  <game name="01 - Games/Cuthbert Anthology">
+    <rom name="Cuthbert Anthology (World) (Aftermarket) (Unl).gbc" size="1048576" sha1="93197fe75a603034d8f2d0eba6da5b69722f609f" crc="21dfaa38" />
+  </game>
   <game name="01 - Games/Cuthbert Enters the Tombs of Doom">
+    <rom name="Cuthbert Anthology (World) (Aftermarket) (Unl).gbc" size="1048576" sha1="93197fe75a603034d8f2d0eba6da5b69722f609f" crc="21dfaa38" />
     <rom name="Cuthbert Enters the Tombs of Doom (World) (Aftermarket) (Unl).gbc" size="524288" sha1="2e7d760cd0836599bbc4222c66dddb4643183f07" crc="149a2951" />
   </game>
+  <game name="01 - Games/Cuthbert Goes Digging">
+    <rom name="Cuthbert Anthology (World) (Aftermarket) (Unl).gbc" size="1048576" sha1="93197fe75a603034d8f2d0eba6da5b69722f609f" crc="21dfaa38" />
+  </game>
+  <game name="01 - Games/Cuthbert Goes Walkabout">
+    <rom name="Cuthbert Anthology (World) (Aftermarket) (Unl).gbc" size="1048576" sha1="93197fe75a603034d8f2d0eba6da5b69722f609f" crc="21dfaa38" />
+  </game>
+  <game name="01 - Games/Cuthbert and the Golden Chalice">
+    <rom name="Cuthbert Anthology (World) (Aftermarket) (Unl).gbc" size="1048576" sha1="93197fe75a603034d8f2d0eba6da5b69722f609f" crc="21dfaa38" />
+  </game>
   <game name="01 - Games/Cuthbert in Space">
+    <rom name="Cuthbert Anthology (World) (Aftermarket) (Unl).gbc" size="1048576" sha1="93197fe75a603034d8f2d0eba6da5b69722f609f" crc="21dfaa38" />
     <rom name="Cuthbert in Space (World) (Aftermarket) (Unl).gbc" size="262144" sha1="6818167c491863cb19c2308c177203e38e0338d9" crc="c64000f3" />
   </game>
   <game name="01 - Games/Cuthbert in the Cooler">
+    <rom name="Cuthbert Anthology (World) (Aftermarket) (Unl).gbc" size="1048576" sha1="93197fe75a603034d8f2d0eba6da5b69722f609f" crc="21dfaa38" />
     <rom name="Cuthbert in the Cooler (World) (Aftermarket) (Unl).gbc" size="262144" sha1="d6fb35f3bdd44429f88c10551692e1adf14356ab" crc="30204c4e" />
+  </game>
+  <game name="01 - Games/Cuthbert in the Mines">
+    <rom name="Cuthbert Anthology (World) (Aftermarket) (Unl).gbc" size="1048576" sha1="93197fe75a603034d8f2d0eba6da5b69722f609f" crc="21dfaa38" />
   </game>
   <game name="01 - Games/CyberTiger">
     <rom name="CyberTiger (USA, Europe).gbc" size="1048576" sha1="3eb14447bd2a349be16eb6e51066c65a51b35e69" crc="e470cafa" />
@@ -1738,6 +1759,7 @@
     <rom name="Firemen (World) (Aftermarket) (Unl).gbc" size="262144" sha1="84c68614334578f866cfa929df736377f04f5d04" crc="7299401f" />
   </game>
   <game name="01 - Games/First Contact Protocol">
+    <rom name="First Contact Protocol (World) (Digital) (Aftermarket) (Unl).gbc" size="2097152" sha1="e6d206d460a1c9ef76e59064f58b29283bbe8506" crc="7980e6e4" />
     <rom name="First Contact Protocol (World) (ModRetro Chromatic) (Aftermarket) (Unl).gbc" size="2097152" sha1="ec3c47bb37c8189ca78bf7adf43fee5c1f44d16a" crc="e77be766" />
   </game>
   <game name="01 - Games/Fish Files, The">
@@ -2081,6 +2103,7 @@
   </game>
   <game name="01 - Games/GbBBS95">
     <rom name="GbBBS95 (World) (v1.4.6) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl).gbc" size="2097152" sha1="f0220ec7edf172bd0cb14578b8c825ffe942ba4d" crc="7b9457ce" />
+    <rom name="GbBBS95 (World) (v1.4.7) (Deluxe Edition) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl).gbc" size="2097152" sha1="335be24d3300c6fdc0527c79cd16280570401026" crc="eaaaf2d5" />
     <rom name="GbBBS95 (World) (v1.4.7) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl).gbc" size="2097152" sha1="b62e2be09807350e21cdde858e33d8db0826a6b0" crc="18a91bf4" />
   </game>
   <game name="01 - Games/Gedou Jian Shen - Soul Falchion">
@@ -2252,6 +2275,7 @@
     <rom name="Green Knight, The (World) (v3.0) (Aftermarket) (Unl).gbc" size="1048576" sha1="95715f95c995a0f40c7253d93de113c5b8917bd6" crc="59c82df3" />
     <rom name="Green Knight, The (World) (v3.3.3) (Aftermarket) (Unl).gbc" size="1048576" sha1="b5df1e65fed036e5849c8a751e13f5ae84232906" crc="08df9a2e" />
     <rom name="Green Knight, The (World) (v3.4) (Aftermarket) (Unl).gbc" size="1048576" sha1="012b5721a52f9b71dc8a8db6558f950c9a1eec8e" crc="cfed97af" />
+    <rom name="Green Knight, The (World) (v4.0) (Aftermarket) (Unl).gbc" size="1048576" sha1="9bf0c9eb14c5409c197fc87dd4793716facda8ce" crc="5997de9d" />
   </game>
   <game name="01 - Games/Gremlins - Unleashed">
     <rom name="Gremlins - Unleashed (Europe) (En,Fr,De,Es,It,Pt).gbc" size="1048576" sha1="d18e30a434262f7bf46a8db2e5f62ce19b7ecfaa" crc="053bc315" />
@@ -2598,6 +2622,7 @@
   </game>
   <game name="01 - Games/In the Dark 2">
     <rom name="In the Dark 2 (World) (v1.1) (ModRetro Chromatic) (Aftermarket) (Unl).gbc" size="4194304" sha1="34e0b8c080c4b1b515889a26656fc525a5fe7aa3" crc="6712cd6d" />
+    <rom name="In the Dark 2 (World) (v1.2) (ModRetro Chromatic) (Aftermarket) (Unl).gbc" size="4194304" sha1="89ad3861c6b20fabb7b8b6175af17c10f091fead" crc="f84e1611" />
     <rom name="In the Dark 2 (World) (v1.4) (ModRetro Chromatic) (Aftermarket) (Unl).gbc" size="4194304" sha1="4d285d45945f4d8b5aba6d7be1200120c75d58e4" crc="f7f2eb56" />
     <rom name="In the Dark 2 (World) (v1.5) (Aftermarket) (Unl).gbc" size="4194304" sha1="08fa3dbf62ffd328c75d390b29971fdfab0702f5" crc="2750fe8e" />
   </game>
@@ -2917,6 +2942,9 @@
   </game>
   <game name="01 - Games/Kindaichi Shounen no Jikenbo - 10 Nenme no Shoutaijou">
     <rom name="Kindaichi Shounen no Jikenbo - 10 Nenme no Shoutaijou (Japan) (SGB Enhanced) (GB Compatible).gbc" size="2097152" sha1="468ea148eb15eac3b771a2520e0b5248ea5085a1" crc="de52ffdc" />
+  </game>
+  <game name="01 - Games/King Cuthbert">
+    <rom name="Cuthbert Anthology (World) (Aftermarket) (Unl).gbc" size="1048576" sha1="93197fe75a603034d8f2d0eba6da5b69722f609f" crc="21dfaa38" />
   </game>
   <game name="01 - Games/King of Fighters R2">
     <rom name="Gedou Zhizun 2003 (Taiwan) (Unl).gbc" size="1048576" sha1="f43c4055f69a1ff6b325494b5b34c8043914cd9d" crc="f7630d88" />
@@ -5463,6 +5491,7 @@
   </game>
   <game name="01 - Games/Snout">
     <rom name="Snout (World) (Aftermarket) (Unl).gbc" size="1048576" sha1="6f3993fb68accb4da8503d4f23d3f37dfd332236" crc="70ea870b" />
+    <rom name="Snout (World) (v02) (Aftermarket) (Unl).gbc" size="1048576" sha1="d1810fd8a253ef0db5cc87dda42a0a3be88e6077" crc="bcecdec4" />
   </game>
   <game name="01 - Games/Snow White and the Seven Dwarfs">
     <rom name="Snow White and the Seven Dwarfs (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).gbc" size="1048576" sha1="bcb5f2141bdfa0bd055e7e94301cf0aff00971a0" crc="c9c68471" />
