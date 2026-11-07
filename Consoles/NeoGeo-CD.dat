@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>NeoGeo-CD</name>
-    <version>2026-10-23</version>
+    <version>2026-11-07</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/2020 Super Baseball/2020 Super Baseball (Japan) (En,Ja)">
@@ -500,6 +500,45 @@
     <rom name="Breakers (Japan) (En,Ja) (Track 31).bin" size="2862384" sha1="b01ef4b711cd32a48f76e3c7fa73e0d38f64f9e3" crc="84f33b7f" />
     <rom name="Breakers (Japan) (En,Ja) (Track 32).bin" size="2857680" sha1="45c05e6e7263a5713779e6dad82f10059fd1e08e" crc="4fef1dd0" />
     <rom name="Breakers (Japan) (En,Ja).cue" size="3790" sha1="470a09d3ea06c31deb642491e21f739720de911a" crc="89b57c53" />
+  </game>
+  <game name="01 - Games/Breakers/Breakers (USA) (En,Ja) (Polymega Collection) (v1.1)">
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 01).bin" size="25415712" sha1="362d954b78a3e6c4fd56ea20913bcfe009209514" crc="ea61f50b" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 02).bin" size="7260624" sha1="6304aea18a0771998f36fc538aba1e1a32206739" crc="8577df65" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 03).bin" size="35569296" sha1="9858634c5157912c9efb06366760d7176cbeb632" crc="5c753655" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 04).bin" size="35562240" sha1="92f2ed8771d05ef04cce63e01756742eef1ec93c" crc="cd02a0fa" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 05).bin" size="2947056" sha1="de4f7aa3d2f828f51d6d139b60386fe6f5a3d376" crc="79afcdeb" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 06).bin" size="2860032" sha1="b3988d3b7390ff67ae523d2735aec224eda69ab4" crc="65a5f075" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 07).bin" size="4410000" sha1="6896778f63ddb29499cfe000f25e3067f8b0ac76" crc="816dbba1" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 08).bin" size="2944704" sha1="622015df2909d02068ad38733074f518f9c88430" crc="84fbeb24" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 09).bin" size="35574000" sha1="d2ec9a9fd57b3397035268bd47c3f93cfa00da59" crc="e50279dd" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 10).bin" size="35559888" sha1="800885866d99babd7dfe910572b83030bcec2cd6" crc="a2f572a4" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 11).bin" size="35595168" sha1="f66067fb7ca0b168f45b6f040cf95866566f1210" crc="c7a7a647" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 12).bin" size="35569296" sha1="44db94323fa300a1d885899fbaee3ce065cdab0e" crc="6dc4c478" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 13).bin" size="35562240" sha1="20a224e2f25726d3cd9f0591a8528a82a7806fe6" crc="93c020bc" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 14).bin" size="35569296" sha1="c368817bc892f47fe831274e32247baba050630d" crc="58e38429" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 15).bin" size="35564592" sha1="17ee554392b652c0883374a3e5baf9dcff762464" crc="d959e8f5" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 16).bin" size="35571648" sha1="0e8bb90cca950f6c46f3a91452bff93f0b71c083" crc="9a678c39" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 17).bin" size="35569296" sha1="08f4cdf630884d3727f3956e07395871f95c04da" crc="17856763" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 18).bin" size="37051056" sha1="ade486d36b05339ad9c1af71e3289333070e8cf8" crc="478b691a" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 19).bin" size="14114352" sha1="8b14f4dd037c84f81029efdadf258c589eb496be" crc="c17bb8e3" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 20).bin" size="2674224" sha1="23034fc0da3673a081dd8d6cc85b192ff76b83f9" crc="29d0b522" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 21).bin" size="2860032" sha1="27ff46d2d89cc0c4618c761985783706566a3cac" crc="cede36ba" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 22).bin" size="2860032" sha1="993085ec2d6c6cc62e45bf3b60165f07542b94f1" crc="d4a11802" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 23).bin" size="2862384" sha1="77c17d966123e07099a1606a1982be60200813c4" crc="eaa7858d" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 24).bin" size="2857680" sha1="76f74bf369574da29a8803867f0ef730745036a0" crc="25bd0e61" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 25).bin" size="2860032" sha1="af3007b43fee0b1d41bc3e90d68f6af000cb9702" crc="f1d37f22" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 26).bin" size="2860032" sha1="56f5008efea1ca35328b5cd81289e52feabcbf5e" crc="dd203875" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 27).bin" size="2860032" sha1="875b83187875a27f06aa21c628abb43ab01b78f1" crc="0fab2d82" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 28).bin" size="2860032" sha1="1099f6a653412b90f340d9d57f09d71365b0e668" crc="98817639" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 29).bin" size="2862384" sha1="e25fd6af5a0a521f75767c12fd6479bcc6651a00" crc="211ce850" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 30).bin" size="2860032" sha1="c07668fd6a497492814d59794dd3135e6fae2f77" crc="aa07ea8f" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 31).bin" size="2862384" sha1="54a95cc2af84fd013c584c443564e61c86cdda7c" crc="2694870e" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1) (Track 32).bin" size="2857680" sha1="5191c53bb9be091a5decbdf943b94428947e6a64" crc="d962475a" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection) (v1.1).cue" size="4677" sha1="bb3ab6f99105c3adae01e01357dbd8d58ae6596f" crc="b2060d5e" />
+  </game>
+  <game name="01 - Games/Breakers/Breakers (USA) (En,Ja) (Polymega Collection)">
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection).bin" size="25768512" sha1="efcd18c19137d7359a6c3c944ebf3959bd6215ca" crc="56e51752" />
+    <rom name="Breakers (USA) (En,Ja) (Polymega Collection).cue" size="110" sha1="6836678a5f5ffeb99ca288120c378900028723e0" crc="e7e051d6" />
   </game>
   <game name="01 - Games/Burning Fight/Burning Fight (Japan) (En,Ja)">
     <rom name="Burning Fight (Japan) (En,Ja) (Track 01).bin" size="8521296" sha1="05ab7f35a0c71213ee3073b80257d86484b3722e" crc="2d2fcd1e" />
@@ -3537,9 +3576,5 @@
   <game name="02 - Software and Utilities/240p Test Suite/240p Test Suite (v1.0)">
     <rom name="240pTestSuite.chd" size="1234521" sha1="99acb28909c7dd8712c4cf6e9ebb2a6aa645c01e" crc="1a894827" />
     <rom name="README.TXT" size="5388" sha1="1522ad963f2d92717f79a04553e5698b387f7b1c" crc="4e68d11b" />
-  </game>
-  <game name="01 - Games/Breakers/Breakers (USA) (En,Ja) (Polymega Collection)">
-    <rom name="Breakers (USA) (En,Ja) (Polymega Collection).cue" size="110" sha1="6836678a5f5ffeb99ca288120c378900028723e0" crc="e7e051d6" />
-    <rom name="Breakers (USA) (En,Ja) (Polymega Collection).bin" size="25768512" sha1="efcd18c19137d7359a6c3c944ebf3959bd6215ca" crc="56e51752" />
   </game>
 </datafile>

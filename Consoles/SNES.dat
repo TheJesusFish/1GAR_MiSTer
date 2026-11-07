@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>SNES</name>
-    <version>2026-11-01</version>
+    <version>2026-11-07</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/'96 Zenkoku Koukou Soccer Senshuken">
@@ -245,6 +245,8 @@
   </game>
   <game name="01 - Games/Aero the Acro-Bat 2">
     <rom name="Aero the Acro-Bat 2 (Europe).sfc" size="2097152" sha1="1597e2cfdfdb0ab4671c4f3549208a5b11d52a8a" crc="242b8181" />
+    <rom name="Aero the Acro-Bat 2 (Japan) (Switch).sfc" size="2621440" sha1="b9c09a615a2babdf848e58a54094f5e70ef80a06" crc="f37c17c1" />
+    <rom name="Aero the Acro-Bat 2 (USA) (Switch).sfc" size="2097152" sha1="1c97b49d362b37cffdb8a2492cb33faa44986b6d" crc="3ff9743b" />
     <rom name="Aero the Acro-Bat 2 (USA).sfc" size="2097152" sha1="2ddbff8f227024806ca456c0ffe96def2713a9aa" crc="8c05ed51" />
   </game>
   <game name="01 - Games/Aero the Acro-Bat 2/~Hacks">
@@ -22605,7 +22607,9 @@
   <game name="01 - Games/Zero the Kamikaze Squirrel">
     <rom name="Zero the Kamikaze Squirrel (Europe) (Rev 1).sfc" size="2097152" sha1="c00bbb06db50f7d1a9f15a2de1b44b20d2d34abd" crc="f4830329" />
     <rom name="Zero the Kamikaze Squirrel (Europe).sfc" size="2097152" sha1="5339b9f100f51cfe64ca71173f7722cdb0077d5d" crc="64d7b231" />
+    <rom name="Zero the Kamikaze Squirrel (Japan) (Switch).sfc" size="2621440" sha1="8ff6599318955ff923d49a0c5e9a19c1f787065f" crc="c4eaf011" />
     <rom name="Zero the Kamikaze Squirrel (USA) (Limited Run Games).sfc" size="2097152" sha1="b01c1558aac43775b2dbe980775218ead36bc7a2" crc="c98fb63a" />
+    <rom name="Zero the Kamikaze Squirrel (USA) (Switch).sfc" size="2097152" sha1="164032cbb3b191b47c9a5e2d230bb9dc2093f903" crc="9d4f7958" />
     <rom name="Zero the Kamikaze Squirrel (USA).sfc" size="2097152" sha1="622edfe3a7b2c65724c2d78fb3d692775cd1fde1" crc="5397d5bc" />
     <rom name="Zero the Kamikaze Squirrel (World) (Evercade).sfc" size="2097152" sha1="d867aa98dbf62aa0a700b7ff4c1027ce3e44507d" crc="72398230" />
   </game>

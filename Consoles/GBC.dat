@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>GBC</name>
-    <version>2026-11-01</version>
+    <version>2026-11-07</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/007 - The World Is Not Enough">
@@ -321,10 +321,10 @@
     <rom name="Austin Powers - Welcome to My Underground Lair! (USA).gbc" size="4194304" sha1="69b5106a124bde38184875c0dd08de437360bc14" crc="aba42b78" />
   </game>
   <game name="01 - Games/Austin Powers Episode III/~Prototypes and Betas">
-    <rom name="Austin Powers Episode III (Europe) (En,Fr,De,Es,It) (Proto).gbc" size="2097152" sha1="b409782cc478104c41668360b63f8589f7677e2a" crc="0903ed53" />
+    <rom name="Austin Powers Episode III - Yeah Baby, Yeah! (Europe) (En,Fr,De,Es,It) (Proto).gbc" size="2097152" sha1="b409782cc478104c41668360b63f8589f7677e2a" crc="0903ed53" />
   </game>
   <game name="01 - Games/Austin Powers Episode IV/~Prototypes and Betas">
-    <rom name="Austin Powers Episode IV (Europe) (En,Fr,De,Es,It) (Proto).gbc" size="2097152" sha1="937df6944709732d8d372ad5f629a665ffd12eac" crc="f038cda7" />
+    <rom name="Austin Powers Episode IV - Why Make Millions... (Europe) (En,Fr,De,Es,It) (Proto).gbc" size="2097152" sha1="937df6944709732d8d372ad5f629a665ffd12eac" crc="f038cda7" />
   </game>
   <game name="01 - Games/Auto Zone">
     <rom name="Auto Zone (World) (Aftermarket) (Unl).gbc" size="524288" sha1="83a37fb5c5d82e0ff06bb22b63761af996e4ad61" crc="2a86d386" />
@@ -2458,6 +2458,9 @@
   <game name="01 - Games/Hat Boy">
     <rom name="Hat Boy (World) (GB Compatible) (Aftermarket) (Unl).gbc" size="262144" sha1="7265cad6c8e253d3cf6d1f0dcb218316f10ca091" crc="81d24d61" />
   </game>
+  <game name="01 - Games/Hatsune Miku Bomb Squad!">
+    <rom name="Hatsune Miku Bomb Squad! (World) (v1.3) (Aftermarket) (Unl).gbc" size="524288" sha1="4592070930a50e7f21ec10ecf0ef3d2365aec9a7" crc="b5465484" />
+  </game>
   <game name="01 - Games/Haunted">
     <rom name="Haunted (World) (GB Compatible) (Aftermarket) (Unl).gbc" size="131072" sha1="f245b8e21716a400769488b852f15d276f3549a6" crc="4b3670bd" />
   </game>
@@ -3770,7 +3773,7 @@
     <rom name="Mojie Chuanshuo (Taiwan) (Unl).gbc" size="524288" sha1="109e4ba61b04afe15cc5a5ee994f56405938cee3" crc="7aa7eea5" />
   </game>
   <game name="01 - Games/Mommy">
-    <rom name="Mommy (World) (GB Compatible) (Aftermarket) (Unl).gbc" size="1048576" sha1="3bc152e2899d54d6c400e2e0a114e0aa67a56a69" crc="5d644d24" />
+    <rom name="Mommy (World) (Aftermarket) (Unl).gbc" size="1048576" sha1="3bc152e2899d54d6c400e2e0a114e0aa67a56a69" crc="5d644d24" />
   </game>
   <game name="01 - Games/Momotarou Densetsu 1-2">
     <rom name="Momotarou Densetsu 1-2 (Japan).gbc" size="2097152" sha1="acffa3417c85be574aa28432e29e1d40f28a565b" crc="da7fb08f" />
@@ -5413,6 +5416,10 @@
   <game name="01 - Games/Shutokou Racing, The">
     <rom name="Shutokou Racing, The (Japan) (SGB Enhanced) (GB Compatible).gbc" size="131072" sha1="0f29818190ea9ce8c242b648ba64d50cc5408e5a" crc="36e781cd" />
   </game>
+  <game name="01 - Games/Signalis - Shortwave Transmission">
+    <rom name="Signalis - Shortwave Transmission (World) (v251003-1) (Aftermarket) (Unl).gbc" size="2097152" sha1="e738f60bb7113271f4f50cd93284a386e21e3984" crc="b170eb2d" />
+    <rom name="Signalis - Shortwave Transmission (World) (v260331) (Aftermarket) (Unl).gbc" size="4194304" sha1="78fdc67516336ddcc399eadee1d6f46bf093ac5b" crc="65d1acd9" />
+  </game>
   <game name="01 - Games/Silent Hill 2 - 20th Anniversary Demake/~Prototypes and Betas">
     <rom name="Silent Hill 2 - 20th Anniversary Demake (World) (2021-04-16) (Proto) (GB Compatible) (Aftermarket) (Unl).gbc" size="131072" sha1="966e2d79ab4930039c3d6c43fdbb8cdc068ba347" crc="5370b1bf" />
     <rom name="Silent Hill 2 - 20th Anniversary Demake (World) (2021-08-24) (Proto) (GB Compatible) (Aftermarket) (Unl).gbc" size="2097152" sha1="c34e744b9120e3a1b2b054d3708e4ab594726c5a" crc="16f34bcc" />
@@ -6533,6 +6540,9 @@
   <game name="01 - Games/Wicked Plague/~Prototypes and Betas">
     <rom name="Wicked Plague (World) (v0.1.1) (Proto) (Aftermarket) (Unl).gbc" size="524288" sha1="2279270c9a0d28934c5b5efda9c047ab27ffccb8" crc="4029708f" />
     <rom name="Wicked Plague (World) (v0.1.2) (Proto) (Aftermarket) (Unl).gbc" size="524288" sha1="dee4f074029352efb3e6683e0c31c9350bdb8199" crc="80e43cec" />
+  </game>
+  <game name="01 - Games/Wicked Wiles">
+    <rom name="Wicked Wiles (World) (Aftermarket) (Unl).gbc" size="1048576" sha1="f8244382392e3ae85a2723f196df3c885afd5d52" crc="d342e28a" />
   </game>
   <game name="01 - Games/Wild Thornberrys, The - Rambler">
     <rom name="Wild Thornberrys, The - Rambler (USA).gbc" size="1048576" sha1="0e806f0e6c1a41e764683850a3c15a80ac7fc9a5" crc="0e1465cb" />

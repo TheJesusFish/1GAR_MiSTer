@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>N64</name>
-    <version>2026-11-01</version>
+    <version>2026-11-07</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games (64DD)/Dezaemon DD/~Prototypes and Betas">
@@ -672,7 +672,7 @@
     <rom name="Excitebike 64 (USA).z64" size="16777216" sha1="a847dd011e98204ad198cadeb6c80dda10d9a40e" crc="fc459192" />
   </game>
   <game name="01 - Games/Extreme-G - Turbo Fusion">
-    <rom name="Extreme-G - Turbo Fusion (World) (Aftermarket) (Unl).z64" size="67108864" sha1="1f5673ae8f8257a62d9a0f5e7115bb0bb577f955" crc="859267b3" />
+    <rom name="Extreme-G - Turbo Fusion (World) (ModRetro) (Aftermarket) (Unl).z64" size="67108864" sha1="1f5673ae8f8257a62d9a0f5e7115bb0bb577f955" crc="859267b3" />
   </game>
   <game name="01 - Games/Extreme-G XG2">
     <rom name="Extreme-G XG2 (Europe) (En,Fr,De,Es,It).z64" size="12582912" sha1="ca6db450d29a6cc0d4a6fbb3468a1ed725cef51e" crc="1a57f416" />
@@ -1089,7 +1089,7 @@
     <rom name="Jumping Fox (World) (Aftermarket) (Unl).z64" size="1052672" sha1="636c1beddb3dd30f6ff3bf65257f210279766ec0" crc="86fd0fd2" />
   </game>
   <game name="01 - Games/Kaminari no Gotoku - Choukousoku Igo/~Prototypes and Betas">
-    <rom name="Kaminari no Gotoku - Choukousoku Igo (Japan) (Proto).z64" size="16777216" sha1="28cd9cce375a37c120944121a4874a6acdb468a5" crc="daf9b36f" />
+    <rom name="Ikazuchi no Gotoku - Choukousoku Igo (Japan) (Proto).z64" size="16777216" sha1="28cd9cce375a37c120944121a4874a6acdb468a5" crc="daf9b36f" />
   </game>
   <game name="01 - Games/Ken Griffey Jr.'s Slugfest">
     <rom name="Ken Griffey Jr.'s Slugfest (USA).z64" size="16777216" sha1="ec33cd4d44bba163f89e435c2aefbf7313d8cece" crc="12d8f3e9" />
@@ -2530,7 +2530,7 @@
     <rom name="Xeno Crisis (World) (En,Ja,Fr,De,Es,It,Nl,Pt) (ModRetro) (Aftermarket) (Unl).z64" size="67108864" sha1="7386599b631dcf5d7649b2c69297286af2e53188" crc="b4a65dcd" />
   </game>
   <game name="01 - Games/Xibalba 64">
-    <rom name="Xibalba 64 (World) (Aftermarket) (Unl).z64" size="67108864" sha1="f4bc1f1bcae5fed17e399c36a6a22406cb9b2c86" crc="1c401551" />
+    <rom name="Xibalba 64 (World) (ModRetro) (Aftermarket) (Unl).z64" size="67108864" sha1="f4bc1f1bcae5fed17e399c36a6a22406cb9b2c86" crc="1c401551" />
   </game>
   <game name="01 - Games/Xplorer 64">
     <rom name="Xplorer 64 (Germany) (v1.067) (Unl).bin" size="262144" sha1="3a13b42074c2b6948f55f22d3e4fe44fbf2cde6a" crc="656acdf5" />

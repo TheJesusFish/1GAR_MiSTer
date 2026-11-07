@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>Gameboy</name>
-    <version>2026-10-26</version>
+    <version>2026-11-07</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/10-Pin Bowling/~Prototypes and Betas">
@@ -249,6 +249,9 @@
     <rom name="Art School Pocket (World) (En) (Aftermarket) (Unl).gb" size="1048576" sha1="c482cfc6ec40b1f33c4ba48ecdc45fef4730b653" crc="b4eab528" />
     <rom name="Art School Pocket (World) (Es) (Aftermarket) (Unl).gb" size="1048576" sha1="c8a75895c87b11f9493f629c19c54d0c607505bd" crc="240067df" />
     <rom name="Art School Pocket (World) (Fr) (Aftermarket) (Unl).gb" size="1048576" sha1="73ecffaee185eb2caf1db385d04b863676c777fb" crc="49a5b74d" />
+  </game>
+  <game name="01 - Games/Ask Her Out">
+    <rom name="Ask Her Out (World) (Aftermarket) (Unl).gb" size="262144" sha1="99f8ef3ec3418a22599f8de53f7ed4db6958fb6a" crc="d14b9f39" />
   </game>
   <game name="01 - Games/Asmik-kun World 2">
     <rom name="Asmik-kun World 2 (Japan).gb" size="131072" sha1="4c738153a5c9f861117cc23cfedf2c37672e1097" crc="caae6b11" />
@@ -1499,6 +1502,12 @@
   <game name="01 - Games/Elite Soccer/~Prototypes and Betas">
     <rom name="World Cup Striker (Europe) (En,Fr,De) (Possible Proto).gb" size="131072" sha1="4c976fc98a85089cfae7e7af7de6baef31e39f92" crc="40418964" />
   </game>
+  <game name="01 - Games/Elle's Gone">
+    <rom name="Elle's Gone (World) (Aftermarket) (Unl).gb" size="262144" sha1="a984f66700252dedacd5e6e46e559d4cc7241fcb" crc="ce2057ac" />
+  </game>
+  <game name="01 - Games/Entity/~Prototypes and Betas">
+    <rom name="Entity (World) (Beta) (Aftermarket) (Unl).gb" size="524288" sha1="a8f867e4f301443be444aade9e48f3c72c40e7ae" crc="9d82a4c4" />
+  </game>
   <game name="01 - Games/Escape 2042 - The Truth Defenders">
     <rom name="Escape 2042 - Les Defenseurs de la Verite (World) (Fr) (Aftermarket) (Unl).gb" size="32768" sha1="822566bcf93bc37f19b7318eb803ec4cf581f9ef" crc="40fd22c4" />
     <rom name="Escape 2042 - The Truth Defenders (World) (En) (Aftermarket) (Unl).gb" size="32768" sha1="2ee8f2e0c95a978b38312b32dcd9f2a2caa4d711" crc="eea3eb29" />
@@ -2249,6 +2258,9 @@
   </game>
   <game name="01 - Games/Hon Shougi">
     <rom name="Hon Shougi (Japan) (SGB Enhanced).gb" size="65536" sha1="3f49109296b4dc0006b4e8e68133992f5ca2b843" crc="6c407eed" />
+  </game>
+  <game name="01 - Games/Hong Kong '97">
+    <rom name="Hong Kong '97 (World) (2022 Update) (Aftermarket) (Unl).gb" size="262144" sha1="8d12129b5982b22f33d1dea351dd96ad0cd10122" crc="97abfaa0" />
   </game>
   <game name="01 - Games/Hong Kong">
     <rom name="Hong Kong (Japan).gb" size="32768" sha1="d8dd3e1baa95d8bb0a4e6b4e97ea64b8ec34331a" crc="5ad83d68" />
@@ -3306,9 +3318,6 @@
     <rom name="Moguranya (Japan) (SGB Enhanced).gb" size="524288" sha1="16b6355019e4e0eb8871d6cb16aabb971ab1b62a" crc="82fca204" />
     <rom name="Mole Mania (USA, Europe) (SGB Enhanced).gb" size="524288" sha1="37085973519d61e17797693b23016493da56a462" crc="2c36c74c" />
   </game>
-  <game name="01 - Games/Mommy">
-    <rom name="Mommy (World) (Aftermarket) (Unl).gb" size="1048576" sha1="3bc152e2899d54d6c400e2e0a114e0aa67a56a69" crc="5d644d24" />
-  </game>
   <game name="01 - Games/Momoiro Zousan/~Prototypes and Betas">
     <rom name="Momoiro Zousan (Japan) (Proto).gb" size="131072" sha1="c45afe1556f5ff53bff26848cf1fedff8f728adf" crc="312c48a5" />
   </game>
@@ -3446,6 +3455,9 @@
   </game>
   <game name="01 - Games/My Husband is a WITCH">
     <rom name="My Husband is a WITCH (World) (v1.1) (Aftermarket) (Unl).gb" size="262144" sha1="3b45dc8b655b688832a6b217c5cbc93a7a9f70cd" crc="68801328" />
+  </game>
+  <game name="01 - Games/My Pet Avocado">
+    <rom name="My Pet Avocado (World) (Aftermarket) (Unl).gb" size="262144" sha1="3779083c34474818859dce1f5207426392aa0f24" crc="efdeffe7" />
   </game>
   <game name="01 - Games/My World">
     <rom name="My World (World) (Aftermarket) (Unl).gb" size="131072" sha1="ae29a721e6d1894e2faf736384737da7676e4fbc" crc="530b2edd" />
@@ -5229,6 +5241,7 @@
     <rom name="Tavern Farkle (World) (Aftermarket) (Unl).gb" size="524288" sha1="56aabceebd3764064a0acbdd4f7a21a2c9b17c30" crc="f2967e16" />
     <rom name="Tavern Farkle (World) (v1.01) (Aftermarket) (Unl).gb" size="524288" sha1="6a46516145588520c48c1609910e8c390f2de32a" crc="b660e6b8" />
     <rom name="Tavern Farkle (World) (v1.10) (Aftermarket) (Unl).gb" size="524288" sha1="fe0b3e08696b829f08a4758a611766d131c413e9" crc="b5739a74" />
+    <rom name="Tavern Farkle (World) (v1.23) (Aftermarket) (Unl).gb" size="1048576" sha1="63ad4dc82c0c37054d8b0cd848d3f2e5d507b713" crc="41b7fa7f" />
   </game>
   <game name="01 - Games/Taz-Mania 2">
     <rom name="Taz-Mania (Europe).gb" size="131072" sha1="c184e8e11ef2388c60b69d445a46fc22a11d175e" crc="0860b667" />

@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>Atari2600</name>
-    <version>2026-11-01</version>
+    <version>2026-11-07</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/3-D Genesis/~Prototypes and Betas">
@@ -1907,6 +1907,7 @@
     <rom name="Strahlen der Teufelsvogel (Germany).a26" size="4096" sha1="af7cc065a40b214770bf597c7da85de9d37eb341" crc="02cfe4a3" />
   </game>
   <game name="01 - Games/Strategy X">
+    <rom name="Landungskommando (Germany).a26" size="4096" sha1="f08f89b54455a68a5bc161ec781a5ca0a8ddbdd3" crc="5ee1f4dd" />
     <rom name="Strategy X (USA).a26" size="4096" sha1="9d6decda6e8ab263f7380ff662c814b8cb8caf34" crc="2af91a81" />
   </game>
   <game name="01 - Games/Strawberry Shortcake - Musical Match-Ups">

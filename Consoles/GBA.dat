@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>GBA</name>
-    <version>2026-11-01</version>
+    <version>2026-11-07</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/007 - Everything or Nothing">
@@ -5839,6 +5839,9 @@
     <rom name="Pokemon - Version Rouge Feu (France).gba" size="16777216" sha1="fc663907256f06a3a09e2d6b967bc9af4919f111" crc="5dc668f6" />
     <rom name="Pokemon - Versione Rosso Fuoco (Italy).gba" size="16777216" sha1="66a9d415205321376b4318534c0dce5f69d28362" crc="73a72167" />
   </game>
+  <game name="01 - Games/Pokemon - FireRed Version/~Pirate">
+    <rom name="Pokemon - Fire Red (USA) (Pirate).gba" size="33554432" sha1="0ee15789877ee39d0ffcba1e123564c36cccee3b" crc="bb9e889f" />
+  </game>
   <game name="01 - Games/Pokemon - LeafGreen Version">
     <rom name="Pocket Monsters - LeafGreen (Japan) (Rev 1).gba" size="16777216" sha1="de9d5a844f9bfb63a4448cccd4a2d186ecf455c3" crc="8da4601a" />
     <rom name="Pocket Monsters - LeafGreen (Japan).gba" size="16777216" sha1="5946f1b59e8d71cc61249661464d864185c92a5f" crc="0a48556b" />
@@ -8084,6 +8087,9 @@
   </game>
   <game name="01 - Games/V.I.P./~Prototypes and Betas">
     <rom name="V.I.P. (Europe) (Beta).gba" size="1835120" sha1="27f3b873240f08f523a50b9c85a70ccd15e8e1fa" crc="756d4eda" />
+  </game>
+  <game name="01 - Games/Va-11 Hall-A">
+    <rom name="Va-11 Hall-A (World) (v0.1.2) (Aftermarket) (Unl).gba" size="702108" sha1="af37a9659b4a6971970f0e88bff9ddfdd2d7ba61" crc="0dc26980" />
   </game>
   <game name="01 - Games/Van Helsing">
     <rom name="Van Helsing (Europe) (En,Fr,De,Es,It).gba" size="4194304" sha1="3fff7ad8d60e2cee1c75272f62d0deda138b133d" crc="9e8748c9" />

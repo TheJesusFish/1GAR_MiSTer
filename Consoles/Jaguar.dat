@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>Jaguar</name>
-    <version>2026-11-01</version>
+    <version>2026-11-07</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games (CD)/Alice's Mom's Rescue!/Alice's Mom's Rescue! (Europe) (En,Fr,De,Es,It) (Unl)">
@@ -81,8 +81,14 @@
   <game name="01 - Games (CD)/JagMIND (Ocean Depths)/Ocean Depths (Germany) (Unl)">
     <rom name="Ocean Depths (Germany) (Unl).cdi" size="46012171" sha1="c9dbdca72475cbb385f9f904eb73b057b94045f9" crc="d90e17a6" />
   </game>
+  <game name="01 - Games (CD)/JagMIND - Bomb Squad/JagMind - Bomb Squad (Germany) (Unl)">
+    <rom name="JagMind - Bomb Squad (Germany) (Unl).cdi" size="45889297" sha1="4f5dad0c50c6132705ea7a6718956b585b219b05" crc="ad47dff3" />
+  </game>
   <game name="01 - Games (CD)/Klax/Klax (USA) (Unl)">
     <rom name="Klax (USA) (Unl).cdi" size="16334065" sha1="eed70fa09285997b5ffed52f37fa057475d924cf" crc="f40b2397" />
+  </game>
+  <game name="01 - Games (CD)/Lost Treasures/Lost Treasures (Germany) (Unl)">
+    <rom name="Lost Treasures (Germany) (Unl).cdi" size="39731593" sha1="aecc683cba3c7347967ebf3d093689c419546a0f" crc="058c0bcb" />
   </game>
   <game name="01 - Games (CD)/Myst/Myst (USA)">
     <rom name="Myst (USA).cdi" size="560063353" sha1="d70f422939440e9ccfe0b51995b7370043de7b0b" crc="a45b73c6" />

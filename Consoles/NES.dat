@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>NES</name>
-    <version>2026-11-01</version>
+    <version>2026-11-07</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games (FDS)/19 - Neunzehn/~Translations">
@@ -5403,8 +5403,8 @@
     <rom name="Dragon Ball - Revival of the Dark Lord (Japan) [T-En by Stardust Crusaders v1.0] [n].nes" size="393232" sha1="22e61e8b5bb5b2e43f5d83145affe0a099b64b13" crc="50108ad4" />
   </game>
   <game name="01 - Games/Dragon Ball 3 - Gokuu Den">
-    <rom name="Dragon Ball 3 - Gokuu Den (Japan) (Rev 1).nes" size="393232" sha1="cbec2dfc44ec97928048bce33055fae11314e9f4" crc="ed45ce26" />
-    <rom name="Dragon Ball 3 - Gokuu Den (Japan).nes" size="393232" sha1="6baf54dce8714fee91c767d6ce6592067b03c27e" crc="3cea8fd5" />
+    <rom name="Dragon Ball 3 - Gokuu Den (Japan) (Rev 1).nes" size="393232" sha1="6baf54dce8714fee91c767d6ce6592067b03c27e" crc="3cea8fd5" />
+    <rom name="Dragon Ball 3 - Gokuu Den (Japan).nes" size="393232" sha1="cbec2dfc44ec97928048bce33055fae11314e9f4" crc="ed45ce26" />
   </game>
   <game name="01 - Games/Dragon Ball 3 - Gokuu Den/~Translations">
     <rom name="Dragon Ball 3 - Gokuu Den (Japan) [T-En by Dodgy Translations v0.15] [i].nes" size="393232" sha1="68731b38e9f6c0e887dae4e6ac64c058dc4d1570" crc="d1c3cf4a" />

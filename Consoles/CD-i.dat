@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>CD-i</name>
-    <version>2026-10-16</version>
+    <version>2026-11-07</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/3rd Degree/3rd Degree (USA)">
@@ -1604,6 +1604,10 @@
   <game name="01 - Games/Nobelia/Nobelia (USA, Europe) (Unl)">
     <rom name="Nobelia (USA, Europe) (Unl).bin" size="58035600" sha1="154ec94e6cfce386e22151454fa3196138710f5b" crc="df2eb03c" />
     <rom name="Nobelia (USA, Europe) (Unl).cue" size="91" sha1="0cd3a50a7413139c2a97d8390bbf8fbf86eec7bf" crc="0a130af9" />
+  </game>
+  <game name="01 - Games/Nobelia/Nobelia (World) (v101) (Unl)">
+    <rom name="Nobelia (World) (v101) (Unl).bin" size="58035600" sha1="75645cf3258498911903e9ead7c3c94ffb9528e0" crc="35b34410" />
+    <rom name="Nobelia (World) (v101) (Unl).cue" size="94" sha1="eac56766525c4ec87a86caece3a54b9c4625a21d" crc="46318737" />
   </game>
   <game name="01 - Games/Number Factory, The/Number Factory, The (Europe)">
     <rom name="Number Factory, The (Europe).bin" size="282769200" sha1="1477987cc681182b1e71434156ee094775d2ab24" crc="ce1673c0" />
