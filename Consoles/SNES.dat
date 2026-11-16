@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>SNES</name>
-    <version>2026-11-07</version>
+    <version>2026-11-15</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/'96 Zenkoku Koukou Soccer Senshuken">
@@ -1942,8 +1942,8 @@
     <rom name="Bubsy in Claws Encounters of the Furred Kind (USA) (MSU1).sfc" size="2621440" sha1="958036a9089c99b27a5fb8d2cb01fb81325e95bc" crc="68326a5d" />
   </game>
   <game name="01 - Games/Bubsy in - Claws Encounters of the Furred Kind/~Prototypes and Betas">
-    <rom name="Bubsy in Claws Encounters of the Furred Kind (USA) (Beta 1).sfc" size="2097152" sha1="ffd0d78ce7e7489cb8a3870d64662e8f51debabd" crc="49da572f" />
-    <rom name="Bubsy in Claws Encounters of the Furred Kind (USA) (Beta 2).sfc" size="2097152" sha1="6354cc73672d6c8ada94218c873d10844f616465" crc="3f3a7180" />
+    <rom name="Bubsy in - Claws Encounters of the Furred Kind (USA) (Beta 1).sfc" size="2097152" sha1="ffd0d78ce7e7489cb8a3870d64662e8f51debabd" crc="49da572f" />
+    <rom name="Bubsy in - Claws Encounters of the Furred Kind (USA) (Beta 2).sfc" size="2097152" sha1="6354cc73672d6c8ada94218c873d10844f616465" crc="3f3a7180" />
   </game>
   <game name="01 - Games/Bucket">
     <rom name="Bucket (World) (Aftermarket) (Unl).sfc" size="262144" sha1="69ec7a07f896bb67988999d26b351a75dbd02e92" crc="b7ae6b77" />

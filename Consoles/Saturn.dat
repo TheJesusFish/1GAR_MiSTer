@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>Saturn</name>
-    <version>2026-10-23</version>
+    <version>2026-11-15</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/2Tax Gold/2Tax Gold (Japan)">
@@ -17197,6 +17197,13 @@
     <rom name="Nightruth - Explanation of the Paranormal - Nightruth Voice Selection - Radio Drama-hen (Japan) (2M) (Track 4).bin" size="22623888" sha1="683779427626ebb1721946436167551fe5a2aedf" crc="8bea44c3" />
     <rom name="Nightruth - Explanation of the Paranormal - Nightruth Voice Selection - Radio Drama-hen (Japan) (2M).cue" size="786" sha1="5a55c6e5bc0d9f2f6b1754b06c495a6c03c1887f" crc="4d5a3b81" />
   </game>
+  <game name="01 - Games/Nightruth - Explanation of the Paranormal 01 - Yami no Tobira/Nightruth - Explanation of the Paranormal #01 - Yami no Tobira (Japan) (2M)">
+    <rom name="Nightruth - Explanation of the Paranormal #01 - Yami no Tobira (Japan) (2M) (Track 1).bin" size="306634944" sha1="52fb1a08d5e2f38cc6c78eff211377dfe2dbe59f" crc="29f9d01d" />
+    <rom name="Nightruth - Explanation of the Paranormal #01 - Yami no Tobira (Japan) (2M) (Track 2).bin" size="1764000" sha1="0d118d27cd9828e2b8224530d3a9711803377629" crc="14e3e448" />
+    <rom name="Nightruth - Explanation of the Paranormal #01 - Yami no Tobira (Japan) (2M) (Track 3).bin" size="23468256" sha1="a7bf739e6089b2059b94c0113686e035fbc0da3f" crc="d06d5f2b" />
+    <rom name="Nightruth - Explanation of the Paranormal #01 - Yami no Tobira (Japan) (2M) (Track 4).bin" size="45419472" sha1="c804f98c232cf586176989d97e8396d7d0f5ac81" crc="1417d4ca" />
+    <rom name="Nightruth - Explanation of the Paranormal #01 - Yami no Tobira (Japan) (2M).cue" size="681" sha1="d9350b2075c90189d5eb9ad24b61dc28c1a0ebd9" crc="c27bcc80" />
+  </game>
   <game name="01 - Games/Nightruth - Explanation of the Paranormal 01 - Yami no Tobira/Nightruth - Explanation of the Paranormal - Making of Nightruth II - Voice Selection (Japan)">
     <rom name="Nightruth - Explanation of the Paranormal - Making of Nightruth II - Voice Selection (Japan) (Track 1).bin" size="46670736" sha1="1eab88191aa1c122d12b6d3d507c9cdbf0831cf3" crc="212b14d7" />
     <rom name="Nightruth - Explanation of the Paranormal - Making of Nightruth II - Voice Selection (Japan) (Track 2).bin" size="279554016" sha1="643e380ae44d198de758ea36d12c0c8279a904d1" crc="bfeae8bc" />
@@ -24641,6 +24648,22 @@
     <rom name="Street Fighter Zero 3 (Japan) (Track 2).bin" size="3880800" sha1="eb8a96c9bd1358cc8606e099bad61762df07790a" crc="9f0c72a9" />
     <rom name="Street Fighter Zero 3 (Japan).cue" size="228" sha1="8136b0909951c3eb952ec846ae2b6005604c9c10" crc="be9fb0ad" />
   </game>
+  <game name="01 - Games/Street Fighter Zero 3/~Translations/Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n] [Japanese Names] [Unlocked Characters]">
+    <rom name="Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n] [Japanese Names] [Unlocked Characters].chd" size="460551680" sha1="d398c67234f8b7e5144fe5af7adcb0b6ad1b1247" crc="38a1dd5e" />
+    <rom name="Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n].txt" size="5007" sha1="4418c434db8e41b6f50c52f06fc588715ce6eaa2" crc="50851a93" />
+  </game>
+  <game name="01 - Games/Street Fighter Zero 3/~Translations/Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n] [Japanese Names]">
+    <rom name="Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n] [Japanese Names].chd" size="460551483" sha1="87a5370000f9c1785db574c32cade9c076b32905" crc="83f1793e" />
+    <rom name="Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n].txt" size="5007" sha1="4418c434db8e41b6f50c52f06fc588715ce6eaa2" crc="50851a93" />
+  </game>
+  <game name="01 - Games/Street Fighter Zero 3/~Translations/Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n] [Western Names] [Unlocked Characters]">
+    <rom name="Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n] [Western Names] [Unlocked Characters].chd" size="460557614" sha1="6c0d995d1f1b9346b6882d4cf52ab5123097afe4" crc="edc7cf94" />
+    <rom name="Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n].txt" size="5007" sha1="4418c434db8e41b6f50c52f06fc588715ce6eaa2" crc="50851a93" />
+  </game>
+  <game name="01 - Games/Street Fighter Zero 3/~Translations/Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n] [Western Names]">
+    <rom name="Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n] [Western Names].chd" size="460557415" sha1="7f6096e70a399c7f9df7b1119b4ddf7c9af47f5d" crc="37960fa0" />
+    <rom name="Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n].txt" size="5007" sha1="4418c434db8e41b6f50c52f06fc588715ce6eaa2" crc="50851a93" />
+  </game>
   <game name="01 - Games/Street Racer/Street Racer (Europe)">
     <rom name="Street Racer (Europe) (Track 01).bin" size="28296912" sha1="61fa96a84c756b627f275151873dbe582b47ab4c" crc="47145896" />
     <rom name="Street Racer (Europe) (Track 02).bin" size="36611232" sha1="bebd2886ebaffe77b20efa9177fc14cc9ccfa381" crc="78568986" />
@@ -24930,35 +24953,35 @@
     <rom name="Super Real Mahjong PVI (Japan) (Track 13).bin" size="17985744" sha1="61fe2b4d8274e8864443840eab784bba771c644f" crc="d92bf99a" />
     <rom name="Super Real Mahjong PVI (Japan).cue" size="1630" sha1="e7a4c432434c57fd8c0f9c0ab7890cd319b49cd8" crc="60e070fa" />
   </game>
-  <game name="01 - Games/Super Robot Taisen F - Kanketsu-hen/Super Robot Taisen F - Kanketsu-hen (Japan) (2M, 3M)">
-    <rom name="Super Robot Taisen F - Kanketsu-hen (Japan) (2M, 3M) (Track 1).bin" size="180603024" sha1="98b6138dbde6462b611bd9aa3923d707ab81faca" crc="a9f3ee19" />
-    <rom name="Super Robot Taisen F - Kanketsu-hen (Japan) (2M, 3M) (Track 2).bin" size="335919696" sha1="15a5b8e980f0958381e1a32c6b11743f6b87ab06" crc="23aee29c" />
-    <rom name="Super Robot Taisen F - Kanketsu-hen (Japan) (2M, 3M) (Track 3).bin" size="3880800" sha1="15ab7a36abc46cb3d7e319239d6282ab9994f2c1" crc="b1707ecb" />
-    <rom name="Super Robot Taisen F - Kanketsu-hen (Japan) (2M, 3M).cue" size="448" sha1="771c778d008437dfb4cbab4f01f0736f637c54a5" crc="f63267b8" />
+  <game name="01 - Games/Super Robot Taisen F - Kanketsuhen/Super Robot Taisen F - Kanketsuhen (Japan) (2M, 3M)">
+    <rom name="Super Robot Taisen F - Kanketsuhen (Japan) (2M, 3M) (Track 1).bin" size="180603024" sha1="98b6138dbde6462b611bd9aa3923d707ab81faca" crc="a9f3ee19" />
+    <rom name="Super Robot Taisen F - Kanketsuhen (Japan) (2M, 3M) (Track 2).bin" size="335919696" sha1="15a5b8e980f0958381e1a32c6b11743f6b87ab06" crc="23aee29c" />
+    <rom name="Super Robot Taisen F - Kanketsuhen (Japan) (2M, 3M) (Track 3).bin" size="3880800" sha1="15ab7a36abc46cb3d7e319239d6282ab9994f2c1" crc="b1707ecb" />
+    <rom name="Super Robot Taisen F - Kanketsuhen (Japan) (2M, 3M).cue" size="445" sha1="8bcc47ab5e08885f9bd52f4af528c67cd2235fba" crc="48239456" />
   </game>
-  <game name="01 - Games/Super Robot Taisen F - Kanketsu-hen/Super Robot Taisen F - Kanketsu-hen (Japan) (4M)">
-    <rom name="Super Robot Taisen F - Kanketsu-hen (Japan) (4M) (Track 1).bin" size="180603024" sha1="98b6138dbde6462b611bd9aa3923d707ab81faca" crc="a9f3ee19" />
-    <rom name="Super Robot Taisen F - Kanketsu-hen (Japan) (4M) (Track 2).bin" size="335919696" sha1="15a5b8e980f0958381e1a32c6b11743f6b87ab06" crc="23aee29c" />
-    <rom name="Super Robot Taisen F - Kanketsu-hen (Japan) (4M) (Track 3).bin" size="3880800" sha1="f8e27f1e4c71295adbb816d432672cba9f331b8e" crc="7367dccc" />
-    <rom name="Super Robot Taisen F - Kanketsu-hen (Japan) (4M).cue" size="436" sha1="88aebf01cc3f55fc3554c098eaa23d77520ca563" crc="cd208072" />
+  <game name="01 - Games/Super Robot Taisen F - Kanketsuhen/Super Robot Taisen F - Kanketsuhen (Japan) (4M)">
+    <rom name="Super Robot Taisen F - Kanketsuhen (Japan) (4M) (Track 1).bin" size="180603024" sha1="98b6138dbde6462b611bd9aa3923d707ab81faca" crc="a9f3ee19" />
+    <rom name="Super Robot Taisen F - Kanketsuhen (Japan) (4M) (Track 2).bin" size="335919696" sha1="15a5b8e980f0958381e1a32c6b11743f6b87ab06" crc="23aee29c" />
+    <rom name="Super Robot Taisen F - Kanketsuhen (Japan) (4M) (Track 3).bin" size="3880800" sha1="f8e27f1e4c71295adbb816d432672cba9f331b8e" crc="7367dccc" />
+    <rom name="Super Robot Taisen F - Kanketsuhen (Japan) (4M).cue" size="433" sha1="66806a8545b999624b7764ec044b90c0f209f219" crc="b80f40eb" />
   </game>
-  <game name="01 - Games/Super Robot Taisen F - Kanketsu-hen/Super Robot Taisen F - Kanketsu-hen (Japan) (5M)">
-    <rom name="Super Robot Taisen F - Kanketsu-hen (Japan) (5M) (Track 1).bin" size="180603024" sha1="98b6138dbde6462b611bd9aa3923d707ab81faca" crc="a9f3ee19" />
-    <rom name="Super Robot Taisen F - Kanketsu-hen (Japan) (5M) (Track 2).bin" size="335919696" sha1="15a5b8e980f0958381e1a32c6b11743f6b87ab06" crc="23aee29c" />
-    <rom name="Super Robot Taisen F - Kanketsu-hen (Japan) (5M) (Track 3).bin" size="3880800" sha1="9acc11b1fb2fe0f024486b2c1ccb2ec0e7baa84a" crc="7d3b5d47" />
-    <rom name="Super Robot Taisen F - Kanketsu-hen (Japan) (5M).cue" size="436" sha1="1fe01780c3bcf6e2d8ec9a0d65c9ca5b15c4abbb" crc="6a7d2831" />
+  <game name="01 - Games/Super Robot Taisen F - Kanketsuhen/Super Robot Taisen F - Kanketsuhen (Japan) (5M)">
+    <rom name="Super Robot Taisen F - Kanketsuhen (Japan) (5M) (Track 1).bin" size="180603024" sha1="98b6138dbde6462b611bd9aa3923d707ab81faca" crc="a9f3ee19" />
+    <rom name="Super Robot Taisen F - Kanketsuhen (Japan) (5M) (Track 2).bin" size="335919696" sha1="15a5b8e980f0958381e1a32c6b11743f6b87ab06" crc="23aee29c" />
+    <rom name="Super Robot Taisen F - Kanketsuhen (Japan) (5M) (Track 3).bin" size="3880800" sha1="9acc11b1fb2fe0f024486b2c1ccb2ec0e7baa84a" crc="7d3b5d47" />
+    <rom name="Super Robot Taisen F - Kanketsuhen (Japan) (5M).cue" size="433" sha1="6dab72f35dbede13f3404cf0a01bdb9598cb3318" crc="bc0cac35" />
   </game>
-  <game name="01 - Games/Super Robot Taisen F - Kanketsu-hen/Super Robot Taisen F - Kanketsu-hen (Japan) (Rev A) (10M)">
-    <rom name="Super Robot Taisen F - Kanketsu-hen (Japan) (Rev A) (10M) (Track 1).bin" size="180607728" sha1="d2c4d5f02745d2bf94a3409820747d69d07cf2df" crc="fce88b19" />
-    <rom name="Super Robot Taisen F - Kanketsu-hen (Japan) (Rev A) (10M) (Track 2).bin" size="335919696" sha1="52fb4f3c918f001b6b5968ca5f37c37a07fdc3b4" crc="925f511d" />
-    <rom name="Super Robot Taisen F - Kanketsu-hen (Japan) (Rev A) (10M) (Track 3).bin" size="3880800" sha1="f8e27f1e4c71295adbb816d432672cba9f331b8e" crc="7367dccc" />
-    <rom name="Super Robot Taisen F - Kanketsu-hen (Japan) (Rev A) (10M).cue" size="463" sha1="7ae77e74e287676f1413972ef2c4341c905a6366" crc="ec165875" />
+  <game name="01 - Games/Super Robot Taisen F - Kanketsuhen/Super Robot Taisen F - Kanketsuhen (Japan) (Rev A) (10M)">
+    <rom name="Super Robot Taisen F - Kanketsuhen (Japan) (Rev A) (10M) (Track 1).bin" size="180607728" sha1="d2c4d5f02745d2bf94a3409820747d69d07cf2df" crc="fce88b19" />
+    <rom name="Super Robot Taisen F - Kanketsuhen (Japan) (Rev A) (10M) (Track 2).bin" size="335919696" sha1="52fb4f3c918f001b6b5968ca5f37c37a07fdc3b4" crc="925f511d" />
+    <rom name="Super Robot Taisen F - Kanketsuhen (Japan) (Rev A) (10M) (Track 3).bin" size="3880800" sha1="f8e27f1e4c71295adbb816d432672cba9f331b8e" crc="7367dccc" />
+    <rom name="Super Robot Taisen F - Kanketsuhen (Japan) (Rev A) (10M).cue" size="460" sha1="c068de09dc2794f6817735708724604a44044df4" crc="d6693f1b" />
   </game>
-  <game name="01 - Games/Super Robot Taisen F - Kanketsu-hen/Super Robot Taisen F - Kanketsu-hen (Japan) (Rev A) (11M)">
-    <rom name="Super Robot Taisen F - Kanketsu-hen (Japan) (Rev A) (11M) (Track 1).bin" size="180607728" sha1="d2c4d5f02745d2bf94a3409820747d69d07cf2df" crc="fce88b19" />
-    <rom name="Super Robot Taisen F - Kanketsu-hen (Japan) (Rev A) (11M) (Track 2).bin" size="335919696" sha1="52fb4f3c918f001b6b5968ca5f37c37a07fdc3b4" crc="925f511d" />
-    <rom name="Super Robot Taisen F - Kanketsu-hen (Japan) (Rev A) (11M) (Track 3).bin" size="3880800" sha1="9acc11b1fb2fe0f024486b2c1ccb2ec0e7baa84a" crc="7d3b5d47" />
-    <rom name="Super Robot Taisen F - Kanketsu-hen (Japan) (Rev A) (11M).cue" size="463" sha1="cc181af59b3bd53c853a82529074a8510ad6920e" crc="a6d327d0" />
+  <game name="01 - Games/Super Robot Taisen F - Kanketsuhen/Super Robot Taisen F - Kanketsuhen (Japan) (Rev A) (11M)">
+    <rom name="Super Robot Taisen F - Kanketsuhen (Japan) (Rev A) (11M) (Track 1).bin" size="180607728" sha1="d2c4d5f02745d2bf94a3409820747d69d07cf2df" crc="fce88b19" />
+    <rom name="Super Robot Taisen F - Kanketsuhen (Japan) (Rev A) (11M) (Track 2).bin" size="335919696" sha1="52fb4f3c918f001b6b5968ca5f37c37a07fdc3b4" crc="925f511d" />
+    <rom name="Super Robot Taisen F - Kanketsuhen (Japan) (Rev A) (11M) (Track 3).bin" size="3880800" sha1="9acc11b1fb2fe0f024486b2c1ccb2ec0e7baa84a" crc="7d3b5d47" />
+    <rom name="Super Robot Taisen F - Kanketsuhen (Japan) (Rev A) (11M).cue" size="460" sha1="4392c3b7234d2e1624f8c286bf8c09a6fae19946" crc="5f365778" />
   </game>
   <game name="01 - Games/Super Robot Taisen F/Super Robot Taisen F (Japan) (Rev A) (10M, 11M, 12M, 13M)">
     <rom name="Super Robot Taisen F (Japan) (Rev A) (10M, 11M, 12M, 13M) (Track 1).bin" size="237756624" sha1="ee4b8a15c0c890678e56ea1eee33abd8853a0f15" crc="3c74bb5b" />
@@ -32988,28 +33011,5 @@
     <rom name="Yoshiyuki Sadamoto Illustrations (Japan) (Track 2).bin" size="343083888" sha1="0e954ca39bba31344dcf2f13104b319693535024" crc="52bf3478" />
     <rom name="Yoshiyuki Sadamoto Illustrations (Japan) (Track 3).bin" size="1764000" sha1="8fd42dae3a71212cb64eb8eb2c7c4c8b037ebfbe" crc="82437320" />
     <rom name="Yoshiyuki Sadamoto Illustrations (Japan).cue" size="412" sha1="125e29af8dfc440f543ddfd3537aca49331986b6" crc="722fb7b4" />
-  </game>
-  <game name="01 - Games/Street Fighter Zero 3/~Translations/Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n] [Japanese Names] [Unlocked Characters]">
-    <rom name="Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n] [Japanese Names] [Unlocked Characters].chd" size="460551680" sha1="d398c67234f8b7e5144fe5af7adcb0b6ad1b1247" crc="38a1dd5e" />
-    <rom name="Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n].txt" size="5007" sha1="4418c434db8e41b6f50c52f06fc588715ce6eaa2" crc="50851a93" />
-  </game>
-  <game name="01 - Games/Street Fighter Zero 3/~Translations/Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n] [Japanese Names]">
-    <rom name="Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n] [Japanese Names].chd" size="460551483" sha1="87a5370000f9c1785db574c32cade9c076b32905" crc="83f1793e" />
-    <rom name="Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n].txt" size="5007" sha1="4418c434db8e41b6f50c52f06fc588715ce6eaa2" crc="50851a93" />
-  </game>
-  <game name="01 - Games/Street Fighter Zero 3/~Translations/Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n] [Western Names]">
-    <rom name="Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n] [Western Names].chd" size="460557415" sha1="7f6096e70a399c7f9df7b1119b4ddf7c9af47f5d" crc="37960fa0" />
-    <rom name="Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n].txt" size="5007" sha1="4418c434db8e41b6f50c52f06fc588715ce6eaa2" crc="50851a93" />
-  </game>
-  <game name="01 - Games/Street Fighter Zero 3/~Translations/Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n] [Western Names] [Unlocked Characters]">
-    <rom name="Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n] [Western Names] [Unlocked Characters].chd" size="460557614" sha1="6c0d995d1f1b9346b6882d4cf52ab5123097afe4" crc="edc7cf94" />
-    <rom name="Street Fighter Alpha 3 (Japan) [T-En by Lemongrwab v1.1] [n].txt" size="5007" sha1="4418c434db8e41b6f50c52f06fc588715ce6eaa2" crc="50851a93" />
-  </game>
-  <game name="01 - Games/Nightruth - Explanation of the Paranormal 01 - Yami no Tobira/Nightruth - Explanation of the Paranormal #01 - Yami no Tobira (Japan) (2M)">
-    <rom name="Nightruth - Explanation of the Paranormal #01 - Yami no Tobira (Japan) (2M) (Track 1).bin" size="306634944" sha1="52fb1a08d5e2f38cc6c78eff211377dfe2dbe59f" crc="29f9d01d" />
-    <rom name="Nightruth - Explanation of the Paranormal #01 - Yami no Tobira (Japan) (2M) (Track 2).bin" size="1764000" sha1="0d118d27cd9828e2b8224530d3a9711803377629" crc="14e3e448" />
-    <rom name="Nightruth - Explanation of the Paranormal #01 - Yami no Tobira (Japan) (2M) (Track 3).bin" size="23468256" sha1="a7bf739e6089b2059b94c0113686e035fbc0da3f" crc="d06d5f2b" />
-    <rom name="Nightruth - Explanation of the Paranormal #01 - Yami no Tobira (Japan) (2M) (Track 4).bin" size="45419472" sha1="c804f98c232cf586176989d97e8396d7d0f5ac81" crc="1417d4ca" />
-    <rom name="Nightruth - Explanation of the Paranormal #01 - Yami no Tobira (Japan) (2M).cue" size="681" sha1="d9350b2075c90189d5eb9ad24b61dc28c1a0ebd9" crc="c27bcc80" />
   </game>
 </datafile>

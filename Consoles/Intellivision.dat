@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>Intellivision</name>
-    <version>2026-10-17</version>
+    <version>2026-11-15</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/ABPA Backgammon">
@@ -157,6 +157,8 @@
   <game name="01 - Games/Desert Bus">
     <rom name="Desert Bus (World) (Aftermarket) (Unl).bin" size="81692" sha1="a448c252ab152515a22be71f0ae9a6593272ac3d" crc="32911333" />
     <rom name="Desert Bus (World) (Aftermarket) (Unl).rom" size="83538" sha1="07e44cc61f584958982bd7f25a8823492374da5d" crc="385e8c1e" />
+    <rom name="Desert Bus - Cascadia Edition (World) (Aftermarket) (Unl).bin" size="81682" sha1="5d3018835fa2ef03ae82551e1c8cca8eda51c120" crc="91bf1c74" />
+    <rom name="Desert Bus - Cascadia Edition (World) (Aftermarket) (Unl).rom" size="83538" sha1="32a67b114a8ee90f57dc43a85fe7f9190f66123b" crc="41d3d734" />
   </game>
   <game name="01 - Games/Dig Dug">
     <rom name="Dig Dug (USA).int" size="32768" sha1="6e281043c7bb37b20cfc48cfefb5f28922b3a3ce" crc="159af7f7" />

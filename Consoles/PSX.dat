@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>PSX</name>
-    <version>2026-11-07</version>
+    <version>2026-11-15</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/'98 Koushien - Koukou Yakyuu Simulation/'98 Koushien - Koukou Yakyuu Simulation (Japan)">
@@ -12004,6 +12004,12 @@
   <game name="01 - Games/DX Shachou Game/DX Shachou Game (Japan)">
     <rom name="DX Shachou Game (Japan).bin" size="82644576" sha1="97089b19fdf21ef14ca32f979751e38a1bac0df5" crc="7b2e5646" />
     <rom name="DX Shachou Game (Japan).cue" size="89" sha1="a19d7d6f824327ddbd65a2af1200afb9edb9a6d3" crc="d838a4a8" />
+  </game>
+  <game name="01 - Games/Dafuweng Zhi Xiao Xiao Jianghu/Dafuweng Zhi Xiao Xiao Jianghu (Taiwan) (Unl)">
+    <rom name="Dafuweng Zhi Xiao Xiao Jianghu (Taiwan) (Unl) (Track 1).bin" size="289319520" sha1="1c17927c186e50c4098bac4e298b0386b291bcc2" crc="51e372de" />
+    <rom name="Dafuweng Zhi Xiao Xiao Jianghu (Taiwan) (Unl) (Track 2).bin" size="1935696" sha1="3980e9a9d967489c05ea94aad3ad1cae34ad3925" crc="19567598" />
+    <rom name="Dafuweng Zhi Xiao Xiao Jianghu (Taiwan) (Unl) (Track 3).bin" size="25911984" sha1="1191022546d006fa3e2dc687eb473780ff0cb094" crc="8eb778a7" />
+    <rom name="Dafuweng Zhi Xiao Xiao Jianghu (Taiwan) (Unl).cue" size="399" sha1="d2267209cf12146994f1ba8c655f662530e97b32" crc="57f8c8c5" />
   </game>
   <game name="01 - Games/Dai-2-ji Super Robot Taisen/Dai-2-ji Super Robot Taisen (Japan)">
     <rom name="Dai-2-ji Super Robot Taisen (Japan) (Track 1).bin" size="546887040" sha1="7df9fe95b0920240814963155d9278629132e655" crc="e2eb7c77" />
@@ -27582,6 +27588,26 @@
   <game name="01 - Games/Jimmy White's 2 - Cueball/Jimmy White's 2 - Cueball (USA)">
     <rom name="Jimmy White's 2 - Cueball (USA).bin" size="240376752" sha1="5a18e4516c20b9d2b893ea9eb7d5bde37e6df236" crc="844a5c84" />
     <rom name="Jimmy White's 2 - Cueball (USA).cue" size="97" sha1="75bbf3f4c1564242f9df5cd5669cc7fb84bcc49f" crc="be5b093d" />
+  </game>
+  <game name="01 - Games/Jin Bao Re Shu/Jin Bao Re Shu (Taiwan) (Unl)">
+    <rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 01).bin" size="454135920" sha1="5e58b8416ec9b04c40709374c1f303bab4b503ea" crc="e20bf268" />
+    <rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 02).bin" size="11054400" sha1="d5bd91a398564152e5d14ca603e755ffab130c2f" crc="ccf640a1" />
+    <rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 03).bin" size="2556624" sha1="4235d76b121f3dd566d8a5480bdd28c0361896c1" crc="3e4e598f" />
+    <rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 04).bin" size="13258224" sha1="b4655f972fc657e0ff94c2c1790dad64307b5026" crc="b1729b7f" />
+    <rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 05).bin" size="13258224" sha1="b4655f972fc657e0ff94c2c1790dad64307b5026" crc="b1729b7f" />
+    <rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 06).bin" size="18324432" sha1="b0f1692ee752ec2dc0aad867e5524b164e3495ba" crc="0b374b5b" />
+    <rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 07).bin" size="20725824" sha1="71923fd47b94215720f7861827faed5ac07ffa8c" crc="1e7a594c" />
+    <rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 08).bin" size="17211936" sha1="db77a93112a574b2310267c43c6e2a0b5a288fe6" crc="0513b605" />
+    <rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 09).bin" size="22144080" sha1="c95eb64bbf935cf98a6d6d5574c34549a8771a7d" crc="49f0b35a" />
+    <rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 10).bin" size="22873200" sha1="cfa1377aee4063e9056d2000c10aa4af29b603b0" crc="106038c9" />
+    <rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 11).bin" size="22821456" sha1="f841efc4655eb50e4cbc26d4f68becfa1643a78a" crc="0aff3fc1" />
+    <rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 12).bin" size="22779120" sha1="8926dc477d0a06f02405b9930126771a6ec2ad07" crc="67e22f02" />
+    <rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 13).bin" size="17905776" sha1="152c2a0bd56868fd6c274067ee46ea49b4409d66" crc="17127162" />
+    <rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 14).bin" size="22473360" sha1="3bb3f992b1528b90a45bf0c492f95057a8f50ed5" crc="46460ec4" />
+    <rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 15).bin" size="19046496" sha1="b5b0a615c87f3b8838c29659ac48b8011554a8f2" crc="7f07b27a" />
+    <rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 16).bin" size="17917536" sha1="df43f4f73b798ca680520f9f004242730bbeff8e" crc="fc39527d" />
+    <rom name="Jin Bao Re Shu (Taiwan) (Unl) (Track 17).bin" size="22040592" sha1="3a7b105bf740d70e9592acde4ca12861aac5ca95" crc="416d0212" />
+    <rom name="Jin Bao Re Shu (Taiwan) (Unl).cue" size="2090" sha1="8f361250cd342311383dc6ea82267c0abad94299" crc="d0a68e76" />
   </game>
   <game name="01 - Games/Jinx/Jinx (Europe) (En,Fr,De,Es,It)">
     <rom name="Jinx (Europe) (En,Fr,De,Es,It).bin" size="153110496" sha1="d4c4f79ed2cc2fbcef3ee36c38bb75d6f531d897" crc="4e81cae1" />
@@ -47309,9 +47335,9 @@
   <game name="01 - Games/Remote Control Dandy/~Translations/Remote Control Dandy (Japan) [T-En by LIPEMCO! Translations v1.0]">
     <rom name="Remote Control Dandy (Japan) [T-En by LIPEMCO! Translations v1.0].chd" size="294197424" sha1="8ad40db24cb2a9b9e5e4e891885de53a2c42cb45" />
   </game>
-  <game name="01 - Games/Ren'ai Kouza - Real Age/Ren'ai Kouza - Real Age (Japan)">
-    <rom name="Ren'ai Kouza - Real Age (Japan).bin" size="168631344" sha1="53d220058ff61235f3b512d4201510777aee574a" crc="7c2c67b3" />
-    <rom name="Ren'ai Kouza - Real Age (Japan).cue" size="97" sha1="a5fd631f88bf05cea26b5ee80c6533e3f33bf533" crc="b7fcc8dd" />
+  <game name="01 - Games/Ren'ai Kouza - Real Age/Ren'ai Kouza - Real Age (Japan) (Shokai Genteiban)">
+    <rom name="Ren'ai Kouza - Real Age (Japan) (Shokai Genteiban).bin" size="168631344" sha1="53d220058ff61235f3b512d4201510777aee574a" crc="7c2c67b3" />
+    <rom name="Ren'ai Kouza - Real Age (Japan) (Shokai Genteiban).cue" size="116" sha1="76fde9718f49e561cc6d6760e9663fdddb8dafdc" crc="d4e88d51" />
   </game>
   <game name="01 - Games/Ren'ai Kouza - Real Age/Ren'ai Kouza - Real Age - The Art of Eguchi Hisashi (Japan) (BONUS DISC)">
     <rom name="Ren'ai Kouza - Real Age - The Art of Eguchi Hisashi (Japan).bin" size="47216400" sha1="538382d9ae0edddcd06d72b609bf93f84adc200b" crc="9d210602" />
@@ -53030,11 +53056,11 @@
     <rom name="Snowboarding (USA) (Track 10).bin" size="32104800" sha1="bd1fde88c2b79e3cf8821c969373460d51f3155a" crc="9b94ea54" />
     <rom name="Snowboarding (USA).cue" size="1112" sha1="a5944c501b0be2603b8cc1223538a920cacb7673" crc="8f1aaa1a" />
   </game>
-  <game name="01 - Games/Snowman, The/Snowman, The (Japan)">
-    <rom name="Snowman, The (Japan) (Track 1).bin" size="567565824" sha1="6316b2f548a7fe4c4f20d397bffff5b5c4d218de" crc="1657629e" />
-    <rom name="Snowman, The (Japan) (Track 2).bin" size="26685792" sha1="e3d584cac4b9c5e2b1c3c1efd827498ebe8a855f" crc="bcc1fa9e" />
-    <rom name="Snowman, The (Japan) (Track 3).bin" size="16266432" sha1="419e94aee186ee039cd81501443e0e0e31d817e5" crc="495fd60c" />
-    <rom name="Snowman, The (Japan).cue" size="324" sha1="697df61a66dbe94f52449f14f655444486c6745e" crc="9e51123d" />
+  <game name="01 - Games/Snowman, The/Snowman, The (Japan) (Shokai Genteiban)">
+    <rom name="Snowman, The (Japan) (Shokai Genteiban) (Track 1).bin" size="567565824" sha1="6316b2f548a7fe4c4f20d397bffff5b5c4d218de" crc="1657629e" />
+    <rom name="Snowman, The (Japan) (Shokai Genteiban) (Track 2).bin" size="26685792" sha1="e3d584cac4b9c5e2b1c3c1efd827498ebe8a855f" crc="bcc1fa9e" />
+    <rom name="Snowman, The (Japan) (Shokai Genteiban) (Track 3).bin" size="16266432" sha1="419e94aee186ee039cd81501443e0e0e31d817e5" crc="495fd60c" />
+    <rom name="Snowman, The (Japan) (Shokai Genteiban).cue" size="381" sha1="896f2a415f479f8ec201b548d0868ff57f64ff11" crc="e10da032" />
   </game>
   <game name="01 - Games/Soccer '97/Soccer '97 (Europe) (En,Fr,De,Es,It)">
     <rom name="Soccer '97 (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="52536624" sha1="537b7e3cd37169e2a738a12935b4073c42cfb0a3" crc="d64c730c" />
@@ -56988,10 +57014,10 @@
     <rom name="Super Robot Taisen EX (Japan) (Track 2).bin" size="32104800" sha1="bd1fde88c2b79e3cf8821c969373460d51f3155a" crc="9b94ea54" />
     <rom name="Super Robot Taisen EX (Japan).cue" size="228" sha1="4bc15fdd1231a112adf1a68d0a045d057c3885e0" crc="967940fa" />
   </game>
-  <game name="01 - Games/Super Robot Taisen F - Kanketsu-hen/Super Robot Taisen F - Kanketsu-hen (Japan)">
-    <rom name="Super Robot Taisen F - Kanketsu-hen (Japan) (Track 1).bin" size="525672000" sha1="28b3988d5e405f5bd602ed42113c709b4bc4e0d4" crc="a04ec282" />
-    <rom name="Super Robot Taisen F - Kanketsu-hen (Japan) (Track 2).bin" size="32104800" sha1="bd1fde88c2b79e3cf8821c969373460d51f3155a" crc="9b94ea54" />
-    <rom name="Super Robot Taisen F - Kanketsu-hen (Japan).cue" size="256" sha1="3aba0613fba3aecaef8d7a382024de36d5e52b68" crc="d24cb6e8" />
+  <game name="01 - Games/Super Robot Taisen F - Kanketsuhen/Super Robot Taisen F - Kanketsuhen (Japan)">
+    <rom name="Super Robot Taisen F - Kanketsuhen (Japan) (Track 1).bin" size="525672000" sha1="28b3988d5e405f5bd602ed42113c709b4bc4e0d4" crc="a04ec282" />
+    <rom name="Super Robot Taisen F - Kanketsuhen (Japan) (Track 2).bin" size="32104800" sha1="bd1fde88c2b79e3cf8821c969373460d51f3155a" crc="9b94ea54" />
+    <rom name="Super Robot Taisen F - Kanketsuhen (Japan).cue" size="254" sha1="52145d6b807726a1321d3894bbb6376dbe4fb51f" crc="9b5b6360" />
   </game>
   <game name="01 - Games/Super Robot Taisen F/Super Robot Taisen F (Japan)">
     <rom name="Super Robot Taisen F (Japan) (Track 1).bin" size="504301728" sha1="582019486fa0288100086d3a1866b9b91031c8f7" crc="c9d941ba" />
@@ -72042,15 +72068,15 @@
     <rom name="Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 4).bin" size="715026816" sha1="ec6c4cba3de3424693a5045cd7d13f9827952bcf" crc="fbe910bf" />
     <rom name="Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 4).cue" size="125" sha1="d04d356bcd690956bb50d27bd65db5f5ab07d405" crc="c50088e9" />
   </game>
-  <game name="01 - Games/Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen/Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan)">
-    <rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 1).bin" size="725782512" sha1="aca2eb05c52b3cec5e5a84e062fe02643b3ecc96" crc="86a9e894" />
-    <rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 1).cue" size="128" sha1="bfe21750687a3838e676ccc44011fdd93b5584b2" crc="6db143d1" />
-    <rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 2).bin" size="623228256" sha1="ca57418f084c9e3495182da983451d3fa44d9676" crc="c3eda99c" />
-    <rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 2).cue" size="128" sha1="9c36f64b56ea6c55fd446a1a454df083b95c6156" crc="6cec6500" />
-    <rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 3).bin" size="593804736" sha1="44f3d3c39b8743ed72e71675bf4b714b9ed13227" crc="d591b808" />
-    <rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 3).cue" size="128" sha1="ff908881d0bb7d47933460428cef327af788457d" crc="daf78570" />
-    <rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 4).bin" size="693658896" sha1="ad9a307358b3ff26b2ff5bbac4ee93a57b81930d" crc="706bc68e" />
-    <rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 4).cue" size="128" sha1="3fb40d0a35bfa36c838f7e15cdafe934826cda4b" crc="6e5628a2" />
+  <game name="01 - Games/Zoku Mikagura Shoujo Tanteidan - Kanketsuhen/Zoku Mikagura Shoujo Tanteidan - Kanketsuhen (Japan)">
+    <rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsuhen (Japan) (Disc 1).bin" size="725782512" sha1="aca2eb05c52b3cec5e5a84e062fe02643b3ecc96" crc="86a9e894" />
+    <rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsuhen (Japan) (Disc 1).cue" size="127" sha1="6cc5eee95b90e0ef9e6b91a3c08cae7c092dc751" crc="98765032" />
+    <rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsuhen (Japan) (Disc 2).bin" size="623228256" sha1="ca57418f084c9e3495182da983451d3fa44d9676" crc="c3eda99c" />
+    <rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsuhen (Japan) (Disc 2).cue" size="127" sha1="f35b18c954295f2f47888c193422370f52af0d4c" crc="992b76e3" />
+    <rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsuhen (Japan) (Disc 3).bin" size="593804736" sha1="44f3d3c39b8743ed72e71675bf4b714b9ed13227" crc="d591b808" />
+    <rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsuhen (Japan) (Disc 3).cue" size="127" sha1="2e911fec5c12306b06b8f074d3a5b65685fb6328" crc="2f309693" />
+    <rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsuhen (Japan) (Disc 4).bin" size="693658896" sha1="ad9a307358b3ff26b2ff5bbac4ee93a57b81930d" crc="706bc68e" />
+    <rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsuhen (Japan) (Disc 4).cue" size="127" sha1="787c972626c7eeb4f27fe7020a9b93133e2b5c40" crc="9b913b41" />
   </game>
   <game name="01 - Games/Zoop - America's Largest Killer of Time!/Zoop - America's Largest Killer of Time! (USA)">
     <rom name="Zoop - America's Largest Killer of Time! (USA) (Track 1).bin" size="3194016" sha1="067bebb2d63f9836f97eaf2e09c9e1e39feed475" crc="876830a4" />

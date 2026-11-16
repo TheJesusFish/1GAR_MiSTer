@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>GBC</name>
-    <version>2026-11-07</version>
+    <version>2026-11-15</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/007 - The World Is Not Enough">
@@ -1295,6 +1295,7 @@
   </game>
   <game name="01 - Games/DiveBlob">
     <rom name="DiveBlob (World) (Digital) (GB Compatible) (Aftermarket) (Unl).gbc" size="131072" sha1="f0fb20c22d942738e697e2b1612e7885f994df12" crc="c6c0a34f" />
+    <rom name="DiveBlob (World) (GB Compatible) (Aftermarket) (Unl).gbc" size="131072" sha1="5edb659c404623bb4f980dbe140f1415890f9bdd" crc="1c43b0c4" />
   </game>
   <game name="01 - Games/Diver 94">
     <rom name="Diver 94 (World) (GB Compatible) (Aftermarket) (Unl).gbc" size="524288" sha1="6b421505acc626a34bb9306a3d88e1964a4502f3" crc="f4ff5eb0" />
@@ -3293,6 +3294,9 @@
     <rom name="Lord of the Rings, The - The Fellowship of the Ring (Taiwan) (En) (Unl).gbc" size="2097152" sha1="3ecb3ae13e0934ed94dbb8621e62820a07fdffb0" crc="c01bbc48" />
     <rom name="Zhihuan Wang - Shoubu Qu (Taiwan) (Zh) (Unl).gbc" size="2097152" sha1="97d7e0d05205b02c6cb69e68978a3f0fd2e3fde0" crc="8160b3f5" />
   </game>
+  <game name="01 - Games/Lore">
+    <rom name="Lore (World) (Aftermarket) (Unl).gbc" size="262144" sha1="c2fa4dc1c926c19d7214f065915056255fe29572" crc="6045e44f" />
+  </game>
   <game name="01 - Games/Lost Treasure of Lima">
     <rom name="Lost Treasure of Lima (World) (Aftermarket) (Unl).gbc" size="2097152" sha1="fe539c6f42b7c77fab2ec8197c46b62a7bf37d38" crc="e63c629b" />
   </game>
@@ -4792,6 +4796,7 @@
     <rom name="Quest Arrest (World) (Evercade) (GB Compatible) (Aftermarket) (Unl).gbc" size="524288" sha1="58997afb963fc24a931adb40166ed32a9d1e5fa7" crc="0ec20291" />
     <rom name="Quest Arrest (World) (v1.1) (Digital) (GB Compatible) (Aftermarket) (Unl).gbc" size="1048576" sha1="25b3a21135bfc7587c096b10f4a20d8b3095d721" crc="9ac546d5" />
     <rom name="Quest Arrest (World) (v1.1) (GB Compatible) (Aftermarket) (Unl) (Alt).gbc" size="1048576" sha1="99b3809420df705ab04c7e2772d25850240ff8c9" crc="0a23d9f8" />
+    <rom name="Quest Arrest (World) (v1.1) (GB Compatible) (Aftermarket) (Unl).gbc" size="1048576" sha1="270f29864fab4e13583c21bca6498b84e4cb2beb" crc="d933fc91" />
   </game>
   <game name="01 - Games/Quest for Camelot">
     <rom name="Quest for Camelot (Europe) (En,Fr,De,Es,It,Nl) (SGB Enhanced) (GB Compatible).gbc" size="1048576" sha1="27b1839deb7fbf384539b3686ba029ca54637196" crc="ce55a4de" />

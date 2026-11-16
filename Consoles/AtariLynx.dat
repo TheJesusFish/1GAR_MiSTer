@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>AtariLynx</name>
-    <version>2026-10-17</version>
+    <version>2026-11-15</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/2048">
@@ -186,6 +186,7 @@
     <rom name="C-Gull (World) (Aftermarket) (Unl).lnx" size="262208" sha1="360711ae9135264fefa0c2dd1d2121666a87214d" crc="20999493" />
   </game>
   <game name="01 - Games/CSS - Traffic Regulation">
+    <rom name="CSS - Traffic Regulation (World) (Aftermarket) (Unl).lyx" size="524288" sha1="b953a22c778de0e0b9b2ef730efe5d2420b37e3e" crc="5afa6e4c" />
     <rom name="CSS - Traffic Regulation (World) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="3bf0f084c151d028db1b9272c793ecdecbe34155" crc="289b21e9" />
   </game>
   <game name="01 - Games/California Games">
@@ -716,6 +717,7 @@
   </game>
   <game name="01 - Games/Raid on TriCity">
     <rom name="Raid on TriCity - First Impact (World) (v1.01) (Aftermarket) (Unl).lnx" size="262208" sha1="fd13ea2180d5f41f685e45ff5e60fcad3dab3a89" crc="351e0206" />
+    <rom name="Raid on TriCity - Second Wave (World) (Aftermarket) (Unl).lyx" size="524288" sha1="68b27ae2beff32f7f58d23a9d8491754a1574fbc" crc="e30c979d" />
     <rom name="Raid on TriCity - Second Wave (World) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="d907e2f973ec7f35e0aeb3ed83a0bdb1c0ac6b76" crc="31c972e3" />
   </game>
   <game name="01 - Games/Raid on TriCity/~Prototypes and Betas">
@@ -1073,13 +1075,16 @@
   </game>
   <game name="01 - Games/YNXA">
     <rom name="YNXA (World) (Aftermarket) (Unl).lnx" size="524352" sha1="de60b6112df5e6f78fcc61d16ec69f3ef9b0158b" crc="292178a4" />
+    <rom name="YNXA (World) (Game Jam Edition) (Aftermarket) (Unl).lyx" size="524288" sha1="5a653f81d453c33bf4cc7000b2c136980ec83b56" crc="1340b068" />
     <rom name="YNXA (World) (Game Jam Edition) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="7906ab0dadb57f7a2e180499fe9eeb4c576a15ac" crc="9b62aaff" />
   </game>
   <game name="01 - Games/Yastuna Volume 1 - The Alchemy of Cubes">
+    <rom name="Yastuna Volume 1 - The Alchemy of Cubes (World) (Aftermarket) (Unl).lyx" size="524288" sha1="0e13487e11aa8e6a35eeb5f6bd3f512c4d61f3eb" crc="d6731c4e" />
     <rom name="Yastuna Volume 1 - The Alchemy of Cubes (World) (v1.00) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="2c311788def1e4ec7d5adc64e2fbb44c851861e8" crc="a87ed55e" />
     <rom name="Yastuna Volume 1 - The Alchemy of Cubes (World) (v1.01) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="edf7c73f04586a31cbcad856e166eb4d55e76373" crc="62793fe8" />
   </game>
   <game name="01 - Games/Yastuna Volume 2 - The Space Incident">
+    <rom name="Yastuna Volume 2 - The Space Incident (World) (Aftermarket) (Unl).lyx" size="524288" sha1="d5440f41b4ec0520c10633954491e2469bae7bb0" crc="0c6e1cdc" />
     <rom name="Yastuna Volume 2 - The Space Incident (World) (v1.00) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="4be4ba20a495c5b865e2512d0194d31185b016c5" crc="658929e1" />
     <rom name="Yastuna Volume 2 - The Space Incident (World) (v1.01) (Digital) (Aftermarket) (Unl).lnx" size="262208" sha1="4d73a340629190d15533c8bf6f1fb21a503a0784" crc="2f17af66" />
   </game>

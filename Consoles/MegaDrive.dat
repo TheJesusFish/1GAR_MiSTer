@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>MegaDrive</name>
-    <version>2026-11-07</version>
+    <version>2026-11-15</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/10 Super Jogos">
@@ -923,6 +923,9 @@
   <game name="01 - Games/Bailey the Brave">
     <rom name="Bailey the Brave (World) (Aftermarket) (Unl).md" size="1966080" sha1="f7a4aa5fb9a2c790b42326f9f7f293e6d1c82e80" crc="983b1eba" />
   </game>
+  <game name="01 - Games/Bakaris">
+    <rom name="Bakaris (World) (Aftermarket) (Unl).md" size="1835008" sha1="19e4c7e36238c787e706a7e3e2e2951687d2129a" crc="9429113f" />
+  </game>
   <game name="01 - Games/Ball Jacks">
     <rom name="Ball Jacks (Japan, Europe) (En).md" size="262144" sha1="c8aa71c5632a5cc59da430ca3870cffb37fbd30f" crc="f5c3c54f" />
   </game>
@@ -1344,7 +1347,8 @@
     <rom name="Black Baron (World) (Proto) (Aftermarket) (Unl).md" size="1042152" sha1="14e0b9fa0073ee9757810625d82b21ccc0127a32" crc="5c4d4eec" />
   </game>
   <game name="01 - Games/Black Tiger MD">
-    <rom name="Black Tiger MD (World) (v1.9.7) (Aftermarket) (Unl).md" size="4194304" sha1="03d022c5430f43e0ff89eddd5df93aecc8c7ae1a" crc="ca39cdfd" />
+    <rom name="Black Tiger MD (World) (v1.9.7) (Aftermarket) (Pirate).md" size="4194304" sha1="03d022c5430f43e0ff89eddd5df93aecc8c7ae1a" crc="ca39cdfd" />
+    <rom name="Black Tiger MD (World) (v1.9.8) (Aftermarket) (Pirate).md" size="4194304" sha1="3ae9795b6b50f843a73827953f18b41ba155b80e" crc="bb873771" />
   </game>
   <game name="01 - Games/Blades of Vengeance">
     <rom name="Blades of Vengeance (USA, Europe).md" size="1048576" sha1="11f342ec4be17dcf7a4a6a80649b6b5ff19940a5" crc="74c65a49" />
@@ -1405,6 +1409,11 @@
     <rom name="Bonanza Bros. (Japan, Europe) (En,Ja) (Rev A).md" size="524288" sha1="f7313ecaf7143873597e3a6ebf58d542d06c3ef3" crc="c6aac589" />
     <rom name="Bonanza Bros. (Japan, Europe) (En,Ja).md" size="524288" sha1="ce46f2b53988f06e0bdfaad1b0dc3e9ca936e1e8" crc="adf6476c" />
     <rom name="Bonanza Bros. (USA, Europe, Korea) (En) (Rev B).md" size="524288" sha1="31c589bc0d1605502cdd04069dc4877811e84e58" crc="20d1ad4c" />
+  </game>
+  <game name="01 - Games/Bonk's Adventure">
+    <rom name="Bonk's Adventure (World) (Aftermarket) (Pirate).md" size="4194304" sha1="3453e00c33b6aade4154ce1d992014ad3d3c3200" crc="013de422" />
+    <rom name="Bonk's Adventure (World) (v1.1) (Aftermarket) (Pirate).md" size="4194304" sha1="a05fd0ea1f383d7dff4df252d3ddfc4bba32b72f" crc="1c11d32b" />
+    <rom name="Bonk's Adventure (World) (v1.2) (Aftermarket) (Pirate).md" size="4194304" sha1="c67b71231cedcbc9da2900d6a6397bf4917cddec" crc="bd390709" />
   </game>
   <game name="01 - Games/Bonkers">
     <rom name="Bonkers (USA, Europe).md" size="1048576" sha1="938642252fdb1c5aedc785bce2ba383fc683c917" crc="d1e66017" />
@@ -1586,6 +1595,10 @@
   </game>
   <game name="01 - Games/California Games">
     <rom name="California Games (USA, Europe).md" size="524288" sha1="0417ff05bb8bd696cfae8f795c09786665cb60ef" crc="43b1b672" />
+  </game>
+  <game name="01 - Games/Camp Nowhere - No Rules Summer">
+    <rom name="Camp Nowhere - No Rules Summer (World) (Aftermarket) (Unl).md" size="1048576" sha1="40969288bdc7d5880a3f7faf0c4fa73ce14fc856" crc="7dd1985d" />
+    <rom name="Camp Nowhere - No Rules Summer (World) (v1.3) (Aftermarket) (Unl).md" size="1048576" sha1="952865541dd21f70ed14238972d349d67dae0a64" crc="11372804" />
   </game>
   <game name="01 - Games/Canhao">
     <rom name="Canhao (Brazil) (Mega Drive 4).md" size="115358" sha1="c974c3f286a866b12ccfc260eaa90ff3721fcf6b" crc="d6d7de9f" />
@@ -2346,6 +2359,9 @@
     <rom name="Crack Down (Japan) (En).md" size="524288" sha1="1082c89920699dbc6f6672c9b0519b3d0f626ba5" crc="538aaa5d" />
     <rom name="Crack Down (USA).md" size="524288" sha1="949cd961a99e9c35388cf6a4db5e866102ed27a2" crc="b9ce9051" />
   </game>
+  <game name="01 - Games/Craft, The - The Four Corners">
+    <rom name="Craft, The - The Four Corners (World) (v1.23) (Aftermarket) (Unl).md" size="4194304" sha1="d400cc33879330e2b68ccb15b0a97f3c7be74c5a" crc="97b262c2" />
+  </game>
   <game name="01 - Games/Crayon Shin-chan - Arashi o Yobu Enji">
     <rom name="Crayon Shin-chan - Arashi o Yobu Enji (Japan).md" size="2097152" sha1="46214898990ebc5e74413a53f7304ad466875fbe" crc="97fc42d2" />
   </game>
@@ -2714,6 +2730,9 @@
   <game name="01 - Games/Divine Sealing">
     <rom name="Divine Sealing (Japan) (Unl).md" size="1048576" sha1="29cc95622a1c9602e7981bdc5a66164c47939028" crc="ca72973c" />
   </game>
+  <game name="01 - Games/Dodge These Balls">
+    <rom name="Dodge These Balls (World) (Aftermarket) (Unl).md" size="262144" sha1="45e8596ebe4506f043401134824eacba72807805" crc="2ebfef1b" />
+  </game>
   <game name="01 - Games/Domino">
     <rom name="Domino (Russia) (Aftermarket) (Unl).md" size="1048576" sha1="28330bce4678da50a6daebc0cd8c60e6ed27e1a1" crc="4a1ed102" />
   </game>
@@ -2782,9 +2801,15 @@
     <rom name="Double Dragon V - The Shadow Falls (USA).md" size="3145728" sha1="53402b7c43cd20bf4cbaf40d1ba5062e3823f4bd" crc="27e59e35" />
   </game>
   <game name="01 - Games/Double Dragon Zeebo">
-    <rom name="Double Dragon Zeebo (World) (En) (Aftermarket) (Unl).md" size="4194304" sha1="df663098b924b85a36ee69139af38b8abb683693" crc="446bfbb6" />
-    <rom name="Double Dragon Zeebo (World) (Es-ES) (Aftermarket) (Unl).md" size="4194304" sha1="385a0815b0c41bc60a98ffb08cd5842ce37043d5" crc="8ad6b385" />
-    <rom name="Double Dragon Zeebo (World) (Es-XL) (Aftermarket) (Unl).md" size="4194304" sha1="1c33acaa4ceefc3fb2740c1240e7c3e3b5f55963" crc="93f9bc74" />
+    <rom name="Double Dragon Zeebo (World) (En) (v1.3) (Aftermarket) (Unl).md" size="4194304" sha1="df663098b924b85a36ee69139af38b8abb683693" crc="446bfbb6" />
+    <rom name="Double Dragon Zeebo (World) (En) (v1.4) (Aftermarket) (Unl).md" size="4194304" sha1="64a6402b3ad8f0371639f19ad0954d9c88dcf77d" crc="0f585111" />
+    <rom name="Double Dragon Zeebo (World) (En) (v1.4.1) (Aftermarket) (Unl).md" size="4194304" sha1="aefa5e8d4f38bd5829e120929544307f8b59fdd7" crc="da11c8c3" />
+    <rom name="Double Dragon Zeebo (World) (Es-ES) (v1.3) (Aftermarket) (Unl).md" size="4194304" sha1="385a0815b0c41bc60a98ffb08cd5842ce37043d5" crc="8ad6b385" />
+    <rom name="Double Dragon Zeebo (World) (Es-ES) (v1.4) (Aftermarket) (Unl).md" size="4194304" sha1="19117bb9cd6ffc6f93fb260126e529684c36f196" crc="71608f07" />
+    <rom name="Double Dragon Zeebo (World) (Es-ES) (v1.4.1) (Aftermarket) (Unl).md" size="4194304" sha1="dec6a8d24fa3bdae66425b5b84af958a0c17793e" crc="2dd6b7c5" />
+    <rom name="Double Dragon Zeebo (World) (Es-XL) (v1.3) (Aftermarket) (Unl).md" size="4194304" sha1="1c33acaa4ceefc3fb2740c1240e7c3e3b5f55963" crc="93f9bc74" />
+    <rom name="Double Dragon Zeebo (World) (Es-XL) (v1.4) (Aftermarket) (Unl).md" size="4194304" sha1="58aae399ce42a97499dd628d533c05459e26d5d5" crc="1b6a1755" />
+    <rom name="Double Dragon Zeebo (World) (Es-XL) (v1.4.1) (Aftermarket) (Unl).md" size="4194304" sha1="451e8e00d65f4902ee3d87a284ee3534a448ff6a" crc="316160e6" />
   </game>
   <game name="01 - Games/Double Dragon">
     <rom name="Double Dragon (USA, Europe) (Unl).md" size="524288" sha1="f054fb2c16a78ce5f5ce20a36bf0f2634f169969" crc="054f5d53" />
@@ -2895,6 +2920,10 @@
   <game name="01 - Games/Du Shen Zhi - Menghuan Poker">
     <rom name="Du Shen Zhi - Menghuan Poker (Taiwan) (Unl).md" size="1048576" sha1="03f48da0541dac5a11788460c427d5fdb34bbd1b" crc="1d81a67c" />
   </game>
+  <game name="01 - Games/Duckman - Private Dick. Public Enemy">
+    <rom name="Duckman - Private Dick. Public Enemy (World) (v1.2) (Aftermarket) (Unl).md" size="786432" sha1="144029fe94f814a16887b86ba86178b88537d292" crc="9c655ad5" />
+    <rom name="Duckman - Private Dick. Public Enemy (World) (v3.3) (Aftermarket) (Unl).md" size="2097152" sha1="f6f2b4bdc06f3d9833a9dc64cb272dfe075898dd" crc="6625a88c" />
+  </game>
   <game name="01 - Games/Duke Nukem 3D">
     <rom name="Duke Nukem 3D (Brazil) (En).md" size="4194304" sha1="a4663f2b96787a92db604a92491fa27e2b5ced9e" crc="6bd2accb" />
     <rom name="Duke Nukem 3D (USA) (Piko Interactive).md" size="4194304" sha1="490aa19321718033a6fd2d4dc434e723f3d91d63" crc="7a851b5a" />
@@ -2910,6 +2939,9 @@
   </game>
   <game name="01 - Games/Dungeon Crusher - The Curse of Khadur">
     <rom name="Dungeon Crusher - The Curse of Khadur (World) (En,Fr,De,Es,It,Pt,Pl,Ru) (Aftermarket) (Unl).md" size="4063232" sha1="b0678c6119c68ce841c075536ad9e0540efcadd1" crc="2a573939" />
+  </game>
+  <game name="01 - Games/Dungeon Durban">
+    <rom name="Dungeon Durban (World) (v0.9.1) (Aftermarket) (Unl).md" size="1966080" sha1="03165cd4f5d831fddda750c422652cc84318014a" crc="d2a02888" />
   </game>
   <game name="01 - Games/Dungeons &amp; Dragons - Warriors of the Eternal Sun">
     <rom name="Dungeons &amp; Dragons - Warriors of the Eternal Sun (USA, Europe).md" size="1048576" sha1="9135f7fda03ef7da92dfade9c0df75808214f693" crc="af4a9cd7" />
@@ -3858,6 +3890,10 @@
   <game name="01 - Games/Formula One/~Prototypes and Betas">
     <rom name="Formula One (USA) (Beta).md" size="1048576" sha1="ab019b43f2d1c7d2cf925187362815194d0ccd9b" crc="5395825a" />
   </game>
+  <game name="01 - Games/Forrest Gump - A Life in Motion">
+    <rom name="Forrest Gump - A Life in Motion (World) (Aftermarket) (Unl).md" size="524288" sha1="a4ddffe5df1032f38ab84ae2d3414a15578eedf7" crc="1d113636" />
+    <rom name="Forrest Gump - A Life in Motion (World) (v1.4) (Aftermarket) (Unl).md" size="524288" sha1="7cc8efdee767158e349f765d068572610ac630d3" crc="ad41af1c" />
+  </game>
   <game name="01 - Games/Foxy Land">
     <rom name="Foxy Land (World) (Digital) (Aftermarket) (Unl).md" size="3014656" sha1="bf550fb78337f2b2b3c866a4ee53c325d968db5a" crc="ba322eee" />
     <rom name="Foxy Land (World) (v1.1) (Evercade) (Aftermarket) (Unl).md" size="3014656" sha1="244565101622ef44c404613c9a29ddfc1b4c22ed" crc="0586b293" />
@@ -4130,6 +4166,10 @@
   <game name="01 - Games/Ghosts'n Goblins MD/~Prototypes and Betas">
     <rom name="Ghosts'n Goblins MD (World) (Proto 1) (Aftermarket) (Pirate).md" size="4194304" sha1="dbc134deb0b82976232f97bf5bb923c8916fc97d" crc="7b0df2e4" />
     <rom name="Ghosts'n Goblins MD (World) (Proto 2) (Aftermarket) (Pirate).md" size="4194304" sha1="863021b312fec7920f12ce9b6ccef55cdce6e728" crc="be564aa7" />
+    <rom name="Ghosts'n Goblins MD (World) (Proto 3) (Aftermarket) (Pirate).md" size="4194304" sha1="1b3c25f59189e48c21826508b03805ccdda3b15a" crc="4194a298" />
+    <rom name="Ghosts'n Goblins MD (World) (Proto 4) (Aftermarket) (Pirate).md" size="4194304" sha1="a7028c1a3387799275ee5ea0c5d808c93d507850" crc="07769963" />
+    <rom name="Ghosts'n Goblins MD (World) (Proto 5) (Aftermarket) (Pirate).md" size="4194304" sha1="c161ae325d2a89ca9c338b8312aff6745e50efd7" crc="89a93b85" />
+    <rom name="Ghosts'n Goblins MD (World) (Proto 6) (Aftermarket) (Pirate).md" size="4194304" sha1="dc2f9719e6f9b901363dc6a54c60c9bd08bf98e0" crc="0660eb9e" />
   </game>
   <game name="01 - Games/Ghouls'n Ghosts">
     <rom name="Daimakaimura (Japan).md" size="655360" sha1="a08a5764dc8651d31ef72466028cfb87fb6dd166" crc="5659f379" />
@@ -4898,9 +4938,20 @@
   <game name="01 - Games/Gunstar Heroes/~Prototypes and Betas">
     <rom name="Gunstar Heroes (Japan) (Beta).md" size="1048576" sha1="a8d7f502d877b0ea3ff2431c94001e9d5dd84868" crc="6f90b502" />
   </game>
+  <game name="01 - Games/Gyruss">
+    <rom name="Gyruss (World) (v1.1) (Aftermarket) (Pirate).md" size="4128768" sha1="fd73dba730b774979fc0d9b013dffbb044fb5585" crc="827fb38d" />
+    <rom name="Gyruss (World) (v1.2) (Aftermarket) (Pirate).md" size="4128768" sha1="fa39afa8fb2078598bbd38dca40d9d41af2eed59" crc="b4360df6" />
+    <rom name="Gyruss (World) (v1.3) (Aftermarket) (Pirate).md" size="4128768" sha1="27afffaa30b6bd4b3a71c82253cd38481339e68d" crc="3a0abcfa" />
+  </game>
   <game name="01 - Games/Handy Harvy">
     <rom name="Handy Harvy (World) (Aftermarket) (Unl).md" size="1048576" sha1="a5acb66a8711b21a9c172f696d4bf4f54724d575" crc="eda45d8f" />
     <rom name="Handy Harvy (World) (Digital) (Aftermarket) (Unl).md" size="932864" sha1="c00d941683ee00462782cb7b9b98a0eb416b987b" crc="ceb61752" />
+  </game>
+  <game name="01 - Games/Hang-On Jr">
+    <rom name="Hang-On Jr. (World) (Aftermarket) (Pirate).md" size="270416" sha1="1a6c8455eabc5a0224af50f7fefad3796fae6ae4" crc="bf2dc938" />
+  </game>
+  <game name="01 - Games/Hang-On MD">
+    <rom name="Hang-On MD (World) (v1.12) (Aftermarket) (Pirate).md" size="4194304" sha1="38f4611d9c1a9a15fdf8ee1569418237eaff6a5f" crc="20709eac" />
   </game>
   <game name="01 - Games/Hangman SG">
     <rom name="Hangman SG (World) (Aftermarket) (Unl).md" size="444212" sha1="51d32544e59e76a063dc1e12a5a7464491eb5b93" crc="828a67b0" />
@@ -5441,6 +5492,10 @@
     <rom name="Kick Off 3 - European Challenge (Europe) (Beta 1) (Players).md" size="524288" sha1="71b09f2c80c4073e3dcf29fce4eafb3f5a949dd9" crc="4282cdac" />
     <rom name="Kick Off 3 - European Challenge (Europe) (Beta 2).md" size="1048576" sha1="e0fb2c97613e3b49a23a3a3feb5f73caeff30bd3" crc="b69a43b8" />
   </game>
+  <game name="01 - Games/Kicker">
+    <rom name="Kicker (World) (v1.3) (Aftermarket) (Pirate).md" size="2097152" sha1="9246e893e94530b7ec645dfa6951f71cfd1390ba" crc="6c41387e" />
+    <rom name="Kicker (World) (v1.5) (Aftermarket) (Pirate).md" size="2097152" sha1="dc81a700adc9c8af1588c0b3fea9b591bd9e4cb2" crc="f5d02b87" />
+  </game>
   <game name="01 - Games/Kid Chameleon">
     <rom name="Chameleon Kid (Japan) (En).md" size="1048576" sha1="237ff4041f3e8ce5047f06f695fb55dca51354b8" crc="50217c80" />
     <rom name="Kid Chameleon (USA, Europe).md" size="1048576" sha1="28b904000b2863b6760531807760b571f1a5fc1d" crc="ce36e6cc" />
@@ -5544,6 +5599,9 @@
   <game name="01 - Games/LHX Attack Chopper">
     <rom name="LHX Attack Chopper (Japan).md" size="1048576" sha1="4e98a59fbd25db9fa9a05c84ecfa79154dd49d12" crc="224ff103" />
     <rom name="LHX Attack Chopper (USA, Europe).md" size="1048576" sha1="f23c6d0bc6daae11a3398d73961f621e508c9229" crc="70c3428d" />
+  </game>
+  <game name="01 - Games/La Mulana/~Prototypes and Betas">
+    <rom name="La Mulana (World) (Proto) (Aftermarket) (Pirate).md" size="3407872" sha1="68765b9c1109e53d9c26f3b3fe031b88325dd7be" crc="3ff78925" />
   </game>
   <game name="01 - Games/La Russa Baseball 95">
     <rom name="La Russa Baseball 95 (USA, Australia).md" size="2097152" sha1="0e73742113aa3f0aa5b010bb847569589cd3a5b0" crc="3f848a92" />
@@ -6252,6 +6310,9 @@
     <rom name="Mazin Saga - Mutant Fighter (USA).md" size="1048576" sha1="5cb87bb4efc8fa8754e687b62d0fd858e624997d" crc="1bd9fef1" />
     <rom name="Mazin Wars (Europe).md" size="1048576" sha1="40e48ce531ed013d5a4a6f689e70781df3e0095c" crc="4b07a105" />
   </game>
+  <game name="01 - Games/Mazinger Z">
+    <rom name="Mazinger Z (World) (Aftermarket) (Unl).md" size="262144" sha1="69fb14b1b56bef386c67b39571d34de5f1bc14a8" crc="51edfae2" />
+  </game>
   <game name="01 - Games/McDonald's Treasure Land Adventure">
     <rom name="McDonald's Treasure Land Adventure (Europe).md" size="1048576" sha1="f6178018102df3c92d05a48ff5949db9416acd5c" crc="6ab6a8da" />
     <rom name="McDonald's Treasure Land Adventure (Japan).md" size="1048576" sha1="aee7fd6a08ec22f42159b188f23406cbe3229f3d" crc="febcfd06" />
@@ -6324,6 +6385,9 @@
   </game>
   <game name="01 - Games/Mega Cheril Perils">
     <rom name="Mega Cheril Perils (World) (En,Es) (Aftermarket) (Unl).md" size="2088832" sha1="c15b3f547e03253106c9606694bdd9fb1a33a2b5" crc="77afa0b1" />
+  </game>
+  <game name="01 - Games/Mega Commando/~Prototypes and Betas">
+    <rom name="Mega Commando (World) (Proto) (Aftermarket) (Pirate).md" size="3276800" sha1="059cc8eb53f0eab3fe3234219c61c906a430a450" crc="cfd5b395" />
   </game>
   <game name="01 - Games/Mega Flappy Sis">
     <rom name="Mega Flappy Sis (World) (Aftermarket) (Unl).md" size="478706" sha1="9851f9c76140987b33a984acc7b9e0c96c8169be" crc="d2ca75b7" />
@@ -8697,6 +8761,9 @@
   <game name="01 - Games/Mega Xmas '89">
     <rom name="Mega Xmas '89 (World) (Aftermarket) (Unl).md" size="393216" sha1="4fc1bdeeb346a804b147848caae193f0a5799d11" crc="50348291" />
   </game>
+  <game name="01 - Games/MegaBox Reloaded">
+    <rom name="MegaBox Reloaded (World) (En,Fr,De,Es,It) (Aftermarket) (Unl).md" size="1589592" sha1="bd403ae64c958c359a141612c1848ed72436ef2d" crc="1a90be2d" />
+  </game>
   <game name="01 - Games/MegaMind">
     <rom name="MegaMind (Japan) (Sega Game Toshokan).md" size="262144" sha1="dc5697f6baeeafe04250b39324464bb6dcdcac7f" crc="76df2ae2" />
   </game>
@@ -8980,6 +9047,13 @@
   <game name="01 - Games/Mikeyeldey - The Album">
     <rom name="Mikeyeldey - The Album (World) (Aftermarket) (Unl).md" size="4063232" sha1="bf368c650779ce3e7b5e59664c0f9410bc7ac86e" crc="f3db5f3a" />
   </game>
+  <game name="01 - Games/Mikie">
+    <rom name="Mikie (World) (Aftermarket) (Pirate).md" size="4194304" sha1="a31c3d9240779b5cb517b953386ab990b1d60372" crc="78bca61b" />
+    <rom name="Mikie (World) (v1.1) (Aftermarket) (Pirate).md" size="4194304" sha1="2cb5c47ed973331c9b4a61297799bfb39a5e5442" crc="6d542544" />
+  </game>
+  <game name="01 - Games/MinTee Golf MD">
+    <rom name="MinTee Golf MD (World) (v1.4.4) (Aftermarket) (Unl).md" size="524288" sha1="452c40d53334c9ecc77886cfe5f132b2886bb15d" crc="6f27e1c8" />
+  </game>
   <game name="01 - Games/Miner Mole/~Prototypes and Betas">
     <rom name="Miner Mole (World) (Proto) (Aftermarket) (Unl).md" size="3801088" sha1="c71dd63a7109158396f64a7ed083889dde015b6b" crc="d5db4972" />
   </game>
@@ -9011,6 +9085,9 @@
   </game>
   <game name="01 - Games/Monopoly/~Prototypes and Betas">
     <rom name="Monopoly (USA) (Beta).md" size="524288" sha1="ca808cc27e3acb7c663a8a229aed75cb2407366e" crc="dfbcc3fa" />
+  </game>
+  <game name="01 - Games/Monster Chess">
+    <rom name="Monster Chess (World) (En,Es) (Aftermarket) (Unl).md" size="1966080" sha1="69f33f14acc064928d8c76a38ba492ac269c3aa1" crc="9b3f6831" />
   </game>
   <game name="01 - Games/Monster World IV">
     <rom name="Monster World IV (Japan).md" size="2097152" sha1="46ba5e8775a2223fe5056f54555d9caa7d04f4e1" crc="36a3aaa4" />
@@ -9061,6 +9138,10 @@
     <rom name="Monster World IV (Japan) [T-En by DeJap &amp; Demiforce v1.02] [Add by Michele Di Somma v2.2] [Add by Jackic v1.1] [Virtual Console Font].md" size="2097152" sha1="da3b4122d13034fbbc0b9352031a2c31eaed91f7" crc="08fe0bf8" />
     <rom name="Monster World IV (Japan) [T-En by DeJap &amp; Demiforce v1.02] [Add by Michele Di Somma v2.2] [Add by Jackic v1.1].md" size="2097152" sha1="3adaccd904f2549c40827fc59ee50966f3cdcdf6" crc="642f6d4c" />
     <rom name="Monster World IV (Japan) [T-En by DeJap &amp; Demiforce v1.02] [Add by Michele Di Somma v2.2].md" size="2097152" sha1="91bb0c1f54ce68287233e3b36f0ba3c96cc574c6" crc="c94a35bf" />
+  </game>
+  <game name="01 - Games/Moon Patrol">
+    <rom name="Moon Patrol (World) (Aftermarket) (Pirate).md" size="2097152" sha1="1f0b782d1bc2689b3326c901f8a52181aae1f22e" crc="e40379fe" />
+    <rom name="Moon Patrol (World) (v1.1) (Aftermarket) (Pirate).md" size="2097152" sha1="0223a248ed3ce3536651f3e95fb9b778cc249c3a" crc="b8dddc4c" />
   </game>
   <game name="01 - Games/Mortal Kombat 3">
     <rom name="Mortal Kombat 3 (Europe).md" size="4194304" sha1="7f555d647972fee4e86b66e840848e91082f9c2d" crc="af6de3e8" />
@@ -9614,6 +9695,13 @@
   <game name="01 - Games/Nekketsu Koukou Dodgeball-bu - Soccer Hen MD">
     <rom name="Nekketsu Koukou Dodgeball-bu - Soccer Hen MD (Japan).md" size="524288" sha1="d865b01e58a269400de369fc1fbb3b3e84e1add0" crc="f49c3a86" />
   </game>
+  <game name="01 - Games/Nemeshit">
+    <rom name="Nemeshit (World) (Aftermarket) (Unl).md" size="4194304" sha1="4b2a596617e4c8c6b09ed80fb517db0c9e13a4d5" crc="8f93aed2" />
+  </game>
+  <game name="01 - Games/Neo Glide">
+    <rom name="Neo Glide (World) (v1.01) (Aftermarket) (Unl).md" size="1572864" sha1="79d641c519eadb89c5d64589fc05ec98c254f6a8" crc="b46467b1" />
+    <rom name="Neo Glide (World) (v1.1) (Aftermarket) (Unl).md" size="1572864" sha1="ed98469b93269b50ba45be8008147e4e0afeda7c" crc="1df24bd0" />
+  </game>
   <game name="01 - Games/New 3D Golf Simulation - Devil's Course">
     <rom name="New 3D Golf Simulation - Devil's Course (Japan).md" size="1572864" sha1="4509c10ab263175c605111c72c6c63c57321046a" crc="bd090c67" />
   </game>
@@ -9785,6 +9873,11 @@
   <game name="01 - Games/Normy's Beach Babe-O-Rama">
     <rom name="Normy's Beach Babe-O-Rama (USA, Europe).md" size="1048576" sha1="286d4f922fa9a95740e791c284d141a49983d871" crc="b56a8220" />
   </game>
+  <game name="01 - Games/Northbound">
+    <rom name="Northbound (World) (Aftermarket) (Unl).md" size="1048576" sha1="00ed69d46b631996c705750737b61c13d2ad1b9a" crc="0a74d71e" />
+    <rom name="Northbound (World) (v1.8.1) (Aftermarket) (Unl).md" size="1572864" sha1="e6d896b5d58c414440830a1734577b9ed5148acb" crc="8c78cffd" />
+    <rom name="Northbound (World) (v1.8.4) (Aftermarket) (Unl).md" size="1572864" sha1="19cc64a84623c2cbc85de7325b1a76c660726d18" crc="16218577" />
+  </game>
   <game name="01 - Games/Nuclear Rush/~Prototypes and Betas">
     <rom name="Nuclear Rush (USA) (Proto).md" size="4194304" sha1="add0677c5dfe566a5841a3c37ee99ae7ee8e62af" crc="a2dd6d09" />
   </game>
@@ -9850,6 +9943,9 @@
   <game name="01 - Games/Or Maybe This Is the Perfect Life">
     <rom name="Aruiwa Korega Risouno Seikatsu (World) (Ja) (Aftermarket) (Unl).md" size="3276800" sha1="e6f44d911875d1afee9bfe7113bcc316b0ae77dd" crc="8625cbf7" />
     <rom name="Or Maybe This Is the Perfect Life (World) (Aftermarket) (Unl).md" size="3276800" sha1="7ecff980bb922db0b84eb98fc87c9edd8adcffe6" crc="1cded9bb" />
+  </game>
+  <game name="01 - Games/Order - Omega">
+    <rom name="Order - Omega (World) (En,De) (v1.0.1) (Aftermarket) (Unl).md" size="1376256" sha1="0dd657513c33e5e140de4e4d1f1a79122496b586" crc="37d366b8" />
   </game>
   <game name="01 - Games/Ordinary Gerbil">
     <rom name="Ordinary Gerbil (World) (Aftermarket) (Unl).md" size="131072" sha1="69dd4f5cef216b274fb5045cc4fd2ef5e7e1bc74" crc="d77ac26e" />
@@ -10075,6 +10171,11 @@
     <rom name="Paddle Fighter (Japan) (Game no Kanzume Otokuyou).md" size="262144" sha1="0516b59e35b3c36651852fba231e351cfc239b22" crc="ebef05a4" />
     <rom name="Paddle Fighter (Japan) (Sega Game Toshokan).md" size="262144" sha1="a768f64f394d4185f99da300517521091b6f0de5" crc="3d8147e6" />
   </game>
+  <game name="01 - Games/Paddy's Pub Invitational">
+    <rom name="Paddy's Pub Invitational (World) (v2.1) (Aftermarket) (Unl).md" size="1048576" sha1="927944ff48e5ca6d60016b2d6e3494fe75242a2a" crc="42d2a802" />
+    <rom name="Paddy's Pub Invitational (World) (v3.1) (Aftermarket) (Unl).md" size="4194304" sha1="8bed041e3b9177c61e3dc463c320defb6a753d40" crc="cf742aed" />
+    <rom name="Paddy's Pub Invitational (World) (v3.2) (Aftermarket) (Unl).md" size="4194304" sha1="5880cba8bf115b146cec45e11506bf4c3f045cad" crc="505e7249" />
+  </game>
   <game name="01 - Games/Pagemaster, The">
     <rom name="Pagemaster, The (Europe).md" size="2097152" sha1="c4cf7695127b7ec5e003b5e7e15fdbfb172d1fcb" crc="79a180e2" />
     <rom name="Pagemaster, The (USA).md" size="2097152" sha1="46d0495638e618bb9ac7fb07f46f8f0d61a8cedc" crc="75a96d4e" />
@@ -10082,8 +10183,16 @@
   <game name="01 - Games/Pagemaster, The/~Prototypes and Betas">
     <rom name="Pagemaster, The (USA) (Beta).md" size="2097152" sha1="194ba4d5d1a79c2a0e8d240614cc225ed13f0ef6" crc="e0a3385a" />
   </game>
+  <game name="01 - Games/PakPak Monster">
+    <rom name="PakPak Monster (World) (v1.0.1) (Aftermarket) (Unl).md" size="655360" sha1="8d5ac3fbebe0da787c7c874d6dcf17a6374c6aeb" crc="675510b1" />
+  </game>
   <game name="01 - Games/Panda Jump">
     <rom name="Panda Jump (World) (Aftermarket) (Unl).md" size="262144" sha1="b3d6d7d5a8de55484fc85381c8707ab42d5cd5be" crc="164e8dfa" />
+  </game>
+  <game name="01 - Games/Pandora's Palace">
+    <rom name="Pandora's Palace (World) (v1.0.6) (Aftermarket) (Pirate).md" size="4194304" sha1="af9f80f9cf499e4e010efc0ee800e2a15ee6021e" crc="97caa51f" />
+    <rom name="Pandora's Palace (World) (v1.02) (Aftermarket) (Pirate).md" size="4194304" sha1="d5a00735547570189baf22fb38879d29a9089340" crc="8d29cd60" />
+    <rom name="Pandora's Palace (World) (v1.05) (Aftermarket) (Pirate).md" size="4194304" sha1="7f45c8ddcddd0b3ea3dc6358e8e1b3f3e87e4444" crc="a1933f4e" />
   </game>
   <game name="01 - Games/Pang">
     <rom name="Pang (World) (Aftermarket) (Pirate).md" size="3909708" sha1="cf877e4200ec4b0226ce4db53e8710c4842edf76" crc="2022a547" />
@@ -10565,6 +10674,11 @@
   <game name="01 - Games/Pong - Ultra Pong (Arcade Classics)">
     <rom name="Arcade Classics (USA, Europe).md" size="524288" sha1="ec29aec7848dbcea6678adb4b31deba0a6ecf1e2" crc="8aed2090" />
   </game>
+  <game name="01 - Games/Pooyan">
+    <rom name="Pooyan (World) (v1.0.3) (Aftermarket) (Pirate).md" size="1048576" sha1="d2865781282d99b3a2ae1c98caf3e4682e1eabf2" crc="043d99ce" />
+    <rom name="Pooyan (World) (v1.0.8) (Aftermarket) (Pirate).md" size="1048576" sha1="bcf765cfab1be0fa60bddd189f8a8afb42f32f23" crc="27022968" />
+    <rom name="Pooyan (World) (v1.0.9) (Aftermarket) (Pirate).md" size="1048576" sha1="353e396a48bd59ee9bc72bea91f1ed9ddc78da04" crc="ea550263" />
+  </game>
   <game name="01 - Games/Pop'n Wizz/~Prototypes and Betas">
     <rom name="Pop'n Wizz (World) (Proto) (Aftermarket) (Unl).md" size="393216" sha1="8c4e907a482d084a18c3495ee7adc818bf032780" crc="17654df8" />
   </game>
@@ -10596,6 +10710,14 @@
   </game>
   <game name="01 - Games/Prefrontal Mega/~Prototypes and Betas">
     <rom name="Prefrontal Mega (World) (Proto) (Aftermarket) (Unl).md" size="1179648" sha1="54de61509977bef2aacfc0e2a87dd47b2c96496c" crc="40221a2d" />
+  </game>
+  <game name="01 - Games/Prehistoric Isle MD">
+    <rom name="Prehistoric Isle MD (World) (v0.82b) (4MB) (Aftermarket) (Pirate).md" size="4194304" sha1="3d83064891c7d3a93117d18540358ee8a475bfa7" crc="540eebbe" />
+    <rom name="Prehistoric Isle MD (World) (v0.82b) (5MB) (Aftermarket) (Pirate).md" size="5242880" sha1="482a81cdc31ca9f8fb7162361c5a7961cf2533b7" crc="b5d7373b" />
+    <rom name="Prehistoric Isle MD (World) (v0.82b) (7MB) (Aftermarket) (Pirate).md" size="7340032" sha1="a5642b4c94749be7060e671ce97f3609361df87d" crc="509374e7" />
+    <rom name="Prehistoric Isle MD (World) (v0.9) (4MB) (Aftermarket) (Pirate).md" size="4194304" sha1="464ed7e3b2ac2af4a520365258a17e69d69feefb" crc="cd0e459a" />
+    <rom name="Prehistoric Isle MD (World) (v0.9) (5MB) (Aftermarket) (Pirate).md" size="5242880" sha1="27b6759a7b0c8693a583b68c5757a9f2a5e2b62d" crc="4fa9bdc0" />
+    <rom name="Prehistoric Isle MD (World) (v0.9) (7MB) (Aftermarket) (Pirate).md" size="7340032" sha1="3ab6d03ca5d01a682fd76dd0f2ed602379188d23" crc="87a35665" />
   </game>
   <game name="01 - Games/Premier Manager 97">
     <rom name="Premier Manager 97 (Europe).md" size="1048576" sha1="e2df3b48170e1a7bde46af2adbf939803e267e13" crc="fccbf69b" />
@@ -10676,7 +10798,9 @@
     <rom name="Psycho Pinball (Europe) (Beta).md" size="2097152" sha1="cbde1f1ca74538b07df1fa948b2657106b6dd485" crc="f29a5532" />
   </game>
   <game name="01 - Games/Psycho Soldier/~Prototypes and Betas">
-    <rom name="Psycho Soldier (World) (Proto) (Aftermarket) (Pirate).md" size="4063232" sha1="8f34e2012127d2791ad866e8c070ff893f73978e" crc="96a62998" />
+    <rom name="Psycho Soldier MD (World) (Proto 1) (Aftermarket) (Pirate).md" size="4063232" sha1="8f34e2012127d2791ad866e8c070ff893f73978e" crc="96a62998" />
+    <rom name="Psycho Soldier MD (World) (Proto 2) (Aftermarket) (Pirate).md" size="4194304" sha1="f674c056057164248f8f2d77b573d101911517cb" crc="1bbb2384" />
+    <rom name="Psycho Soldier MD (World) (Proto 3) (Aftermarket) (Pirate).md" size="4194304" sha1="c650b3afd14016ea2125c1ef039fabc6eb4833eb" crc="4f05b044" />
   </game>
   <game name="01 - Games/Puggsy">
     <rom name="Puggsy (Europe).md" size="1048576" sha1="89a347f35c4d0d364c284f2f32f708d0378b8735" crc="5d5c9ade" />
@@ -10873,11 +10997,18 @@
     <rom name="Quad Challenge (USA).md" size="524288" sha1="c7db4cd8b5dc8c0927824e9ddf1257591305d99a" crc="74736a80" />
     <rom name="Quad Challenge (World) (Evercade).md" size="561120" sha1="20f3ec7b53d7dab5d55728ba9241935c26327c5a" crc="8d46f0fa" />
   </game>
+  <game name="01 - Games/Queen's Reversi">
+    <rom name="Queen's Reversi (World) (v1.0.1) (Aftermarket) (Unl).md" size="1703936" sha1="76c63ced56e32effd41319a5b9ec80cad126bc17" crc="00c79e37" />
+  </game>
   <game name="01 - Games/Question, The/~Prototypes and Betas">
     <rom name="Question, The (World) (Proto 1) (Aftermarket) (Unl).md" size="524288" sha1="9bc6949d1e72a8815a22bedab596470d510205a4" crc="9823d808" />
     <rom name="Question, The (World) (Proto 2) (Aftermarket) (Unl).md" size="524288" sha1="b9be381dfe99355c9c078ef5660acb9d0a357b26" crc="40bc39d2" />
     <rom name="Question, The (World) (Proto 3) (Aftermarket) (Unl).md" size="524288" sha1="cccec54c9bcca81a8f281bb01838d736ad68c50e" crc="414360e3" />
     <rom name="Question, The (World) (Proto 4) (Aftermarket) (Unl).md" size="655360" sha1="c9c96c899a27b09f3b0156d64071b336fd2c139c" crc="9549d31f" />
+  </game>
+  <game name="01 - Games/QuickFighter Remix">
+    <rom name="QuickFighter Remix (World) (Aftermarket) (Unl).md" size="1179648" sha1="077bcccebbd3b067b4c6a7b4a7d3a320789ab634" crc="5a15a0c3" />
+    <rom name="QuickFighter Remix (World) (v2.0) (Aftermarket) (Unl).md" size="1310720" sha1="19f424e40ce4217ac04e1738d72dd8d3bb66de1d" crc="db39a106" />
   </game>
   <game name="01 - Games/Quoridor MD">
     <rom name="Quoridor MD (World) (Aftermarket) (Unl).md" size="262144" sha1="89e6f1aeafe4b2e2f9faecc8475fd7c043bbeb74" crc="e9f77007" />
@@ -11520,8 +11651,9 @@
     <rom name="Rolling Thunder 3 (USA).md" size="1572864" sha1="34c2b5df456a1f8ff35963ca737372e221e89ef6" crc="64fb13aa" />
   </game>
   <game name="01 - Games/Rolling Thunder MD/~Prototypes and Betas">
-    <rom name="Rolling Thunder MD (World) (Proto 2) (Aftermarket) (Unl).md" size="4194304" sha1="b17ff3ec9e0e3bf54c23a9f008b32bfe7137e7b3" crc="51f1f60d" />
-    <rom name="Rolling Thunder MD (World) (Proto) (Aftermarket) (Unl).md" size="4194304" sha1="7835fc6e74dae7e303ee3f11f17cb5bf092a9ffd" crc="7d13dd68" />
+    <rom name="Rolling Thunder MD (World) (Proto 1) (Aftermarket) (Pirate).md" size="4194304" sha1="7835fc6e74dae7e303ee3f11f17cb5bf092a9ffd" crc="7d13dd68" />
+    <rom name="Rolling Thunder MD (World) (Proto 2) (Aftermarket) (Pirate).md" size="4194304" sha1="b17ff3ec9e0e3bf54c23a9f008b32bfe7137e7b3" crc="51f1f60d" />
+    <rom name="Rolling Thunder MD (World) (Proto 3) (Aftermarket) (Pirate).md" size="4194304" sha1="37721bfa710f8bdc4b8729876e6d620aac62757b" crc="fec7358d" />
   </game>
   <game name="01 - Games/Rolo to the Rescue">
     <rom name="Rolo to the Rescue (USA, Europe).md" size="524288" sha1="8f27907df777124311b7415cd52775641276cf0d" crc="306861a2" />
@@ -12015,6 +12147,9 @@
   <game name="01 - Games/Shadow Dancer - The Secret of Shinobi/~Prototypes and Betas">
     <rom name="Shadow Dancer - The Secret of Shinobi (World) (Beta).md" size="524288" sha1="37d5dcf8052d523efa395be00df566d99eaaa03f" crc="8497cd8d" />
   </game>
+  <game name="01 - Games/Shadow Warriors">
+    <rom name="Shadow Warriors (World) (v1.4) (Aftermarket) (Pirate).md" size="8388608" sha1="af60b10d1366baa2d2c8e22ffc897ce2b6e58b6a" crc="f9b4fff1" />
+  </game>
   <game name="01 - Games/Shadow of the Beast II">
     <rom name="Shadow of the Beast II (USA, Europe).md" size="1048576" sha1="260a497348313c22f2d1a626150b0915990720c2" crc="2dede3db" />
   </game>
@@ -12431,7 +12566,8 @@
     <rom name="Shylax (World) (Proto) (Aftermarket) (Unl).md" size="1310720" sha1="ab6888852ae6efb7dbc34c23fbfa75d50329c191" crc="b29cf25d" />
   </game>
   <game name="01 - Games/Side Arms MD">
-    <rom name="Side Arms MD (World) (v2.2) (Aftermarket) (Unl).md" size="4194304" sha1="941a76c42ab08eff2477539cf082d1d0799abfbd" crc="e48ffac5" />
+    <rom name="Side Arms MD (World) (v1.3) (Aftermarket) (Pirate).md" size="2621440" sha1="4d69a2d1d8e7213fbac3731611f01025799f83d3" crc="4016ab99" />
+    <rom name="Side Arms MD (World) (v2.2) (Aftermarket) (Pirate).md" size="4194304" sha1="941a76c42ab08eff2477539cf082d1d0799abfbd" crc="e48ffac5" />
   </game>
   <game name="01 - Games/Side Pocket">
     <rom name="Side Pocket (Europe).md" size="1048576" sha1="a19cd561397dfda55942cf4f9771b0e815f95f65" crc="36e08145" />
@@ -13539,7 +13675,8 @@
     <rom name="Street Fighter II' - Special Champion Edition (USA) (MD+).md" size="4194304" sha1="f9dbb6f388de134d4080fcfe0fc4809fcdb83d2c" crc="d1c37b7e" />
   </game>
   <game name="01 - Games/Street Fighter II' - Special Champion Edition/~Pirate">
-    <rom name="Mega Street Fighter (World) (Proto) (Aftermarket) (Pirate).md" size="5242880" sha1="62a7ce2862fc5c30c6788f4cd588dbd8ef4f1963" crc="b9fd55b9" />
+    <rom name="Mega Street Fighter (World) (Proto 1) (Aftermarket) (Pirate).md" size="5242880" sha1="62a7ce2862fc5c30c6788f4cd588dbd8ef4f1963" crc="b9fd55b9" />
+    <rom name="Mega Street Fighter (World) (Proto 2) (Aftermarket) (Pirate).md" size="5242880" sha1="ad73604832d17a3e543ab477d2a25625433a5147" crc="2aa6384d" />
     <rom name="ST II' Turbo (USA) (Proto) (Pirate) [Color hack by arturc1234 v3.1] [Champion Edition logo colors].md" size="2097152" sha1="51fa941412d9378350501ef7a88d3bf04762f7ea" crc="b6d43878" />
     <rom name="ST II' Turbo (USA) (Proto) (Pirate) [Color hack by arturc1234 v3.1] [Street Fighter II’ Turbo Hyper Fighting logo colors].md" size="2097152" sha1="1e842d6ad92d8f5696e64a10ff0f26289dc8ef5e" crc="5ae603d2" />
     <rom name="ST II' Turbo (USA) (Proto) (Pirate).md" size="2097152" sha1="23e1e1b587a7d2d1a82599d82d01c9931ca7b4cf" crc="a85491ae" />
@@ -13547,6 +13684,11 @@
   <game name="01 - Games/Street Fighter II' - Special Champion Edition/~Prototypes and Betas">
     <rom name="Street Fighter II' - Champion Edition (Europe) (Beta).md" size="2097152" sha1="c837129d430120a462cf895306dc718665cf9dc6" crc="7bb62db2" />
     <rom name="Street Fighter II' - Champion Edition (USA) (Beta).md" size="2097152" sha1="de60ef3df5fa3b6881d3ed2ac7b43bc8e93923aa" crc="7ffa8b23" />
+  </game>
+  <game name="01 - Games/Street Fighter">
+    <rom name="Street Fighter (World) (v1.3) (Aftermarket) (Pirate).md" size="4194304" sha1="531a63f864d7c8a1955bbf119f0d6b4114e94e10" crc="bf349c0a" />
+    <rom name="Street Fighter (World) (v1.5) (Aftermarket) (Pirate).md" size="4194304" sha1="38edefff29957674aa3b1d900a04c5809d0ef1fd" crc="d8167ba0" />
+    <rom name="Street Fighter (World) (v1.5.1) (Aftermarket) (Pirate).md" size="4194304" sha1="0cf4c6284b7d20f764d8b2fdf5ee41ab333f7efe" crc="2a24293e" />
   </game>
   <game name="01 - Games/Street Racer">
     <rom name="Street Racer (Europe).md" size="1048576" sha1="95aa250ea47d14d60da9f0fed5b1aad1ff2c1862" crc="1a58d5fe" />
@@ -14500,6 +14642,10 @@
   <game name="01 - Games/Super Smash T.V.">
     <rom name="Super Smash T.V. (USA, Europe).md" size="524288" sha1="0459f7c61f152fa0afa98d96ef9fbe4964641f34" crc="f22412b6" />
   </game>
+  <game name="01 - Games/Super Sprint">
+    <rom name="Super Sprint (World) (Aftermarket) (Pirate).md" size="524288" sha1="f682e08ca13095d9a468bd5f729b8bf107707815" crc="cd9f7cf5" />
+    <rom name="Super Sprint (World) (v1.1) (Aftermarket) (Pirate).md" size="524288" sha1="143c2851b7adae11e9d3fe2a9c3730a6b082e3c9" crc="4399d50e" />
+  </game>
   <game name="01 - Games/Super Star Wars - Holiday Special">
     <rom name="Super Star Wars - Holiday Special (World) (Aftermarket) (Unl).md" size="2097152" sha1="28a4e48efa4470203ffee8098a99fa4f610c1e96" crc="3e7baf4e" />
     <rom name="Super Star Wars - Holiday Special (World) (v1.1) (Aftermarket) (Unl).md" size="2097152" sha1="a9ebd1c7317a403c09eae2a883ebc92c3fab0978" crc="55db6351" />
@@ -14965,6 +15111,9 @@
   <game name="01 - Games/Surging Aura/~Translations">
     <rom name="Surging Aura (Japan) [T-En+Kr by RedComet &amp; Guadozoku &amp; RetroGameLog v0.90].md" size="4194304" sha1="5774b0f305d2e5df22d8c70054f09971b32e4c4c" crc="78b4ac90" />
   </game>
+  <game name="01 - Games/Survivors">
+    <rom name="Survivors (World) (En,Fr) (v3.5) (Aftermarket) (Unl).md" size="1048576" sha1="2a7548de7f29f08fcefba9d4269ceade293653bc" crc="31615ef6" />
+  </game>
   <game name="01 - Games/Swamp Thing/~Prototypes and Betas">
     <rom name="Swamp Thing (USA) (Proto).md" size="524288" sha1="d1e45ac78846c3c779b3b7218f12f8ee17b2b558" crc="82013ef6" />
   </game>
@@ -15024,6 +15173,9 @@
   </game>
   <game name="01 - Games/TNN Outdoors Bass Tournament '96">
     <rom name="TNN Outdoors Bass Tournament '96 (USA).md" size="2097152" sha1="0ca72f28e88675066c466246977143599240b09f" crc="5c523c0b" />
+  </game>
+  <game name="01 - Games/Table Feast 1412">
+    <rom name="Table Feast 1412 (World) (v2.1.0) (Aftermarket) (Unl).md" size="524288" sha1="caac9ce7103662518534649b7f5ea560d8eb5c19" crc="e65e0382" />
   </game>
   <game name="01 - Games/Taikou Risshiden">
     <rom name="Taikou Risshiden (Japan).md" size="1310720" sha1="a96d6492d4e89687d970bc010eb0b93ee2481a44" crc="f96fe15b" />
@@ -15187,6 +15339,9 @@
     <rom name="Game no Kanzume Otokuyou (Japan) (Sega Channel).md" size="3145728" sha1="31c66bd13abf4ae8271c09ec5286a0ee0289dbbc" crc="cdad7e6b" />
     <rom name="Teddy Boy Blues (Japan) (Sega Game Toshokan).md" size="262144" sha1="dc858342be31ab9491acfaebf1524ece2c6ef9a3" crc="733d2eb3" />
   </game>
+  <game name="01 - Games/Teddy Boy Blues/~Pirate">
+    <rom name="Teddy Boy Blues (World) (Aftermarket) (Pirate).md" size="3997696" sha1="f4e861b23125088560836151c06b564210619fb1" crc="b3b00c7d" />
+  </game>
   <game name="01 - Games/Teenage Mutant Ninja Turtles - The Hyperstone Heist">
     <rom name="Teenage Mutant Hero Turtles - The Hyperstone Heist (Europe).md" size="1048576" sha1="ed6c32cae0813cbcf590fad715fa045fbeab6d78" crc="966d5286" />
     <rom name="Teenage Mutant Ninja Turtles - Return of the Shredder (Japan) (Cowabunga Collection, The).md" size="1048576" sha1="57e9d8ea853ff1109635409a2aa18ec1a6dc6d52" crc="87da801a" />
@@ -15288,6 +15443,9 @@
   <game name="01 - Games/Telethugs">
     <rom name="Telethugs (World) (Aftermarket) (Unl).md" size="1310720" sha1="fa5af34a844fed967d76dd171e5212cc164988ca" crc="742da49f" />
   </game>
+  <game name="01 - Games/Terminate">
+    <rom name="Terminate (World) (Aftermarket) (Unl).md" size="262144" sha1="cfed1ea3ffe79518508bbac05da5b025e2c1c8c9" crc="8ee59682" />
+  </game>
   <game name="01 - Games/Terminator, The">
     <rom name="Terminator, The (Europe).md" size="1048576" sha1="c8ee275f2e30aaf6ad713c6cd915a4ede65328e0" crc="15f4d302" />
     <rom name="Terminator, The (USA).md" size="1048576" sha1="2a1894e7f40b9001961f7bf1c70672351aa525f9" crc="31a629be" />
@@ -15306,6 +15464,10 @@
     <rom name="Tetris (Japan) (En) (Mega 6).md" size="262144" sha1="2f2b559c5855e34500e43fb5cc8aff04dd72eb56" crc="4ce90db0" />
     <rom name="Tetris (Japan) (Mega Drive Mini, Genesis Mini).md" size="524288" sha1="dea6ab2dd1aa05ef2119037223fc1bff0c0aa0ca" crc="b6fb7a7d" />
     <rom name="Tetris (USA) (Mega Drive Mini, Genesis Mini).md" size="524288" sha1="1079fee1fd044f16caf641d6b96f84143a6ceceb" crc="c8dd8841" />
+  </game>
+  <game name="01 - Games/Tetris/~Pirate">
+    <rom name="Tetris (World) (v1.02) (Aftermarket) (Pirate).md" size="2097152" sha1="ad954f4b05f5c70f841a14f2dda3db1142922aac" crc="4b5be3f5" />
+    <rom name="Tetris (World) (v1.04) (Aftermarket) (Pirate).md" size="2097152" sha1="6c573c45cebb8f4174c62534e9abdfcc37e3015d" crc="1aad8339" />
   </game>
   <game name="01 - Games/Tetrogen Classic">
     <rom name="Tetrogen Classic (World) (v1.13) (Aftermarket) (Unl).md" size="2483390" sha1="5eb804cad16af04ecb129bf3923480ff0fec4c2b" crc="372a80ce" />
@@ -15396,12 +15558,17 @@
     <rom name="Tiger Bureaucrat (World) (v1.0.1) (Aftermarket) (Unl).md" size="1048576" sha1="e9d4b2cae42e5df735f611768ffe3a4e5b4ce815" crc="bca8bcef" />
     <rom name="Tiger Bureaucrat (World) (v1.0.2) (Aftermarket) (Unl).md" size="917504" sha1="1658a99489cf23e5dc7e4d09e903a920440c3df4" crc="bbe76b5f" />
   </game>
+  <game name="01 - Games/Tiger Road/~Prototypes and Betas">
+    <rom name="Tiger Road (World) (Proto 1) (Aftermarket) (Pirate).md" size="2490368" sha1="4024372d4d0e719a14e4f9728d140d38145aa329" crc="88cba784" />
+    <rom name="Tiger Road (World) (Proto 2) (Aftermarket) (Pirate).md" size="2490368" sha1="f6580894525b7b8d2f9bc213d2223c982f4f3fca" crc="47875570" />
+  </game>
   <game name="01 - Games/Time Killers">
     <rom name="Time Killers (Europe).md" size="2097152" sha1="5bc883edd092602aac162b42462442e462d3c881" crc="a4f48a1a" />
     <rom name="Time Killers (USA).md" size="2097152" sha1="91b2dd5463261ca240c4977f58d9c8fd7e770624" crc="4b5f52ac" />
   </game>
   <game name="01 - Games/Time Pilot">
-    <rom name="Time Pilot (World) (Aftermarket) (Pirate).md" size="4194304" sha1="3b2767208cb5b9b935488b90d9dbfce56f9662e5" crc="4ff5f301" />
+    <rom name="Time Pilot (World) (Aftermarket) (Pirate).md" size="4194304" sha1="bb31e0a53268ca400b10828d083e8c326c1a54db" crc="c00a9cfd" />
+    <rom name="Time Pilot MD (World) (Aftermarket) (Pirate).md" size="4194304" sha1="3b2767208cb5b9b935488b90d9dbfce56f9662e5" crc="4ff5f301" />
   </game>
   <game name="01 - Games/Time Trax">
     <rom name="Call of Duty - Ghosts (Russia) (Aftermarket) (Unl).md" size="2097152" sha1="878a9217804c82b330a4cb18883ed4f88baabe27" crc="7a46a4a7" />
@@ -16327,6 +16494,9 @@
   <game name="01 - Games/Vixen 357/~Translations">
     <rom name="Vixen 357 (Japan) [T-En by Nebulous Translations v1.2].md" size="1310720" sha1="b32b1af7c2be5709f0822b636fd2bc73fca80540" crc="f8ce2e43" />
   </game>
+  <game name="01 - Games/Void Angel - Absolute Victory">
+    <rom name="Void Angel - Absolute Victory (World) (Aftermarket) (Unl).md" size="4194304" sha1="2776022eb0725c8d9bc32ea0b48ac9e714748948" crc="2a189305" />
+  </game>
   <game name="01 - Games/WWF RAW">
     <rom name="WWF RAW (World).md" size="4194304" sha1="0971dc7edbdd1d19e1da153394e3d16a6a67cfd0" crc="fbb1e120" />
   </game>
@@ -16460,7 +16630,10 @@
     <rom name="Williams Arcade's Greatest Hits (USA).md" size="524288" sha1="8c648318fdd54e2c75c44429a72c1c1a846e67cb" crc="d68e9c00" />
   </game>
   <game name="01 - Games/Willow/~Prototypes and Betas">
-    <rom name="Willow (World) (Proto) (Aftermarket) (Pirate).md" size="5242880" sha1="dc487b504ee13f08b88a3f1c09e2e8036ced9ac0" crc="a5dec081" />
+    <rom name="Willow MD (World) (Proto 1) (Aftermarket) (Pirate).md" size="5242880" sha1="dc487b504ee13f08b88a3f1c09e2e8036ced9ac0" crc="a5dec081" />
+    <rom name="Willow MD (World) (Proto 2) (Aftermarket) (Pirate).md" size="5242880" sha1="a55fe7edcf4cbe78d2448ec5acb0cc50ed1a6eae" crc="4c8e6c88" />
+    <rom name="Willow MD (World) (Proto 3) (Aftermarket) (Pirate).md" size="5242880" sha1="ec097c205116c37f8cdc3b16f7bfb0ef7360af87" crc="0a4b43ce" />
+    <rom name="Willow MD (World) (Proto 4) (Aftermarket) (Pirate).md" size="5242880" sha1="374f6afb04a9ecb5c28906607723467ac37c8498" crc="1395a764" />
   </game>
   <game name="01 - Games/Wimbledon Championship Tennis">
     <rom name="Sega Sports 1 (Europe).md" size="2621440" sha1="ff03bb2aced48c82de0ddfb048b114ec84daf16a" crc="07fedaf1" />
@@ -16510,6 +16683,10 @@
   <game name="01 - Games/Wolverine - Adamantium Rage">
     <rom name="Wolverine - Adamantium Rage (USA, Europe).md" size="2097152" sha1="261f8ed75586ca7cdec176eb81550458bf1ff437" crc="d2437bb7" />
   </game>
+  <game name="01 - Games/Wonder Boy - Monster Land">
+    <rom name="Wonder Boy - Monster Land (World) (Aftermarket) (Pirate).md" size="2097152" sha1="8ebf1ec309df6b28662a5d2bfbcb16ed4a3f7665" crc="538b911f" />
+    <rom name="Wonder Boy - Monster Land (World) (v1.1) (Aftermarket) (Pirate).md" size="2097152" sha1="cdebfebf6665a9b572805a735b5c96127b027158" crc="b9f6c7a2" />
+  </game>
   <game name="01 - Games/Wonder Boy III - Monster Lair">
     <rom name="Wonder Boy III - Monster Lair (Japan, Europe) (En).md" size="524288" sha1="1fd3f77a2223ebeda547b81e49f3dfc9d0197439" crc="c24bc5e4" />
   </game>
@@ -16520,6 +16697,10 @@
   </game>
   <game name="01 - Games/Wonder Boy in Monster World/~Prototypes and Betas">
     <rom name="Wonder Boy V - Monster World III (Japan, Korea) (Ja) (Beta).md" size="786432" sha1="1677039ede9a4cf51ac182cfe27d797c864290c8" crc="334035f8" />
+  </game>
+  <game name="01 - Games/WonderBoy">
+    <rom name="WonderBoy (World) (v2.0) (Aftermarket) (Pirate).md" size="2097152" sha1="2ccca3271b191b5774e81efcf7d89c08024f7cfd" crc="ba104d75" />
+    <rom name="WonderBoy (World) (v2.1) (Aftermarket) (Pirate).md" size="2097152" sha1="0d8e72577ebaaf10d4fb6f9b883de6faad6b4c7e" crc="4699d472" />
   </game>
   <game name="01 - Games/World Championship Soccer II">
     <rom name="World Championship Soccer II (Europe).md" size="1048576" sha1="5f5a31a3e8e3b56aa0a3acdb8049246160679a8f" crc="6065774d" />
@@ -16712,6 +16893,9 @@
   <game name="01 - Games/XDR - X-Dazedly-Ray">
     <rom name="XDR - X-Dazedly-Ray (Japan) (En).md" size="524288" sha1="5c700cd69964645f80a852d308d0f0de22d88f83" crc="ab22d002" />
   </game>
+  <game name="01 - Games/XenTank">
+    <rom name="XenTank (World) (v1.1e) (Aftermarket) (Unl).md" size="2621440" sha1="57f1bd7b4a1d6908df67c5cabcf9c23ede6e3fa5" crc="aa27beee" />
+  </game>
   <game name="01 - Games/Xeno Crisis">
     <rom name="Xeno Crisis (World) (En,Ja,Fr,De,Es,It,Nl,Pt) (Aftermarket) (Unl).md" size="4194304" sha1="0b9b100b0140c76a9ecaf96fd3031a8002aeea60" crc="ac5f4cca" />
     <rom name="Xeno Crisis (World) (En,Ja,Fr,De,Es,It,Nl,Pt) (Evercade) (Aftermarket) (Unl).md" size="4194304" sha1="584f0fbc83713bfcc759ea566a35ae35a7714a78" crc="170ce847" />
@@ -16780,6 +16964,9 @@
   </game>
   <game name="01 - Games/Xump 2 - Back to Space/~Prototypes and Betas">
     <rom name="Xump 2 (World) (Beta) (Aftermarket) (Unl).md" size="655360" sha1="1b4c85c5f0d4529d8e5aabb0d2b10e489cdf5894" crc="f61d26e1" />
+  </game>
+  <game name="01 - Games/Yamato Genesis to Iscandar">
+    <rom name="Yamato Genesis to Iscandar (World) (Aftermarket) (Pirate).md" size="655360" sha1="746d40377f5a95ca6067477c894c1098fff2760c" crc="1c8f8870" />
   </game>
   <game name="01 - Games/Yazzie">
     <rom name="Yazzie (World) (Evercade) (Aftermarket) (Unl).md" size="786432" sha1="3b4af50d05245ca3b6e91edb8205b65102ba9b00" crc="9aed7b26" />

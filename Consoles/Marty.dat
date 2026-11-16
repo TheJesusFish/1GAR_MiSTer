@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>Marty</name>
-    <version>2026-11-01</version>
+    <version>2026-11-15</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games (CD)/3x3 Eyes - Sanjiyan Henjou/3x3 Eyes - Sanjiyan Henjou (Japan)">
@@ -1058,22 +1058,22 @@
     <rom name="Bubble Bobble (Japan) (Track 6).bin" size="50885520" sha1="9fe5b8c75ebb7dbebfee4da232e39a46c0b88b91" crc="6195036d" />
     <rom name="Bubble Bobble (Japan).cue" size="672" sha1="7b0e3be3a0bb80579969972e3ffa2d0503c69f64" crc="b7f599e9" />
   </game>
-  <game name="01 - Games (CD)/Burai - Kanketsu-hen/Burai - Kanketsu-hen (Japan)">
-    <rom name="Burai - Kanketsu-hen (Japan) (Track 01).bin" size="20815200" sha1="79dcfd0df5dce948596360d90e298d665a9357b9" crc="ea057b75" />
-    <rom name="Burai - Kanketsu-hen (Japan) (Track 02).bin" size="31575600" sha1="5b6e3b2e34107244a166a3d2e095e1c5b740291c" crc="2660447e" />
-    <rom name="Burai - Kanketsu-hen (Japan) (Track 03).bin" size="35828016" sha1="5524d39ec94a9f8e325d2a93df302c8f5fd55cbf" crc="7e5e00f3" />
-    <rom name="Burai - Kanketsu-hen (Japan) (Track 04).bin" size="5602464" sha1="02e5d74897c8f75e21d47e50d85d2d2b706a08a5" crc="535491bf" />
-    <rom name="Burai - Kanketsu-hen (Japan) (Track 05).bin" size="20998656" sha1="6bddecbfbca1ab5d810d8685133b549b942e290f" crc="c4208823" />
-    <rom name="Burai - Kanketsu-hen (Japan) (Track 06).bin" size="7625184" sha1="99cc2311b4b06429709b40fe69d55163054970ad" crc="8858251d" />
-    <rom name="Burai - Kanketsu-hen (Japan) (Track 07).bin" size="34374480" sha1="ca34a7532ddf489108fa3e087fdee6ad13dd4fd6" crc="d8e1094f" />
-    <rom name="Burai - Kanketsu-hen (Japan) (Track 08).bin" size="14448336" sha1="3dd800f2f8e5f89f0314f09b170336c55e956b23" crc="84d77d0d" />
-    <rom name="Burai - Kanketsu-hen (Japan) (Track 09).bin" size="26024880" sha1="73c6844554e732d74e7665a6bb0a10c4bffd692a" crc="c60879cd" />
-    <rom name="Burai - Kanketsu-hen (Japan) (Track 10).bin" size="5362560" sha1="24cf0549ad8185836cfd6d400a33a2bdbd0502d8" crc="6c67135a" />
-    <rom name="Burai - Kanketsu-hen (Japan) (Track 11).bin" size="35037744" sha1="1d0fdfe849bc43c2deeafd3a99c025cd9c851918" crc="5a3ce2e7" />
-    <rom name="Burai - Kanketsu-hen (Japan) (Track 12).bin" size="13547520" sha1="09b6b81ba5736f06d5dcaf0a6a7df25a398e08ad" crc="cc8e5d41" />
-    <rom name="Burai - Kanketsu-hen (Japan) (Track 13).bin" size="12983040" sha1="5b468cc5a0a3e5ec174bb51909e11b5b3f668ed1" crc="ba5323af" />
-    <rom name="Burai - Kanketsu-hen (Japan) (Track 14).bin" size="99513120" sha1="c39de65f227806e1af08433fc2d2e8abe7c72c25" crc="92253ae8" />
-    <rom name="Burai - Kanketsu-hen (Japan).cue" size="1704" sha1="ffd0f4410f9022329035047741fb3a4bf8bcb395" crc="e32613d6" />
+  <game name="01 - Games (CD)/Burai - Kanketsuhen/Burai - Kanketsuhen (Japan)">
+    <rom name="Burai - Kanketsuhen (Japan) (Track 01).bin" size="20815200" sha1="79dcfd0df5dce948596360d90e298d665a9357b9" crc="ea057b75" />
+    <rom name="Burai - Kanketsuhen (Japan) (Track 02).bin" size="31575600" sha1="5b6e3b2e34107244a166a3d2e095e1c5b740291c" crc="2660447e" />
+    <rom name="Burai - Kanketsuhen (Japan) (Track 03).bin" size="35828016" sha1="5524d39ec94a9f8e325d2a93df302c8f5fd55cbf" crc="7e5e00f3" />
+    <rom name="Burai - Kanketsuhen (Japan) (Track 04).bin" size="5602464" sha1="02e5d74897c8f75e21d47e50d85d2d2b706a08a5" crc="535491bf" />
+    <rom name="Burai - Kanketsuhen (Japan) (Track 05).bin" size="20998656" sha1="6bddecbfbca1ab5d810d8685133b549b942e290f" crc="c4208823" />
+    <rom name="Burai - Kanketsuhen (Japan) (Track 06).bin" size="7625184" sha1="99cc2311b4b06429709b40fe69d55163054970ad" crc="8858251d" />
+    <rom name="Burai - Kanketsuhen (Japan) (Track 07).bin" size="34374480" sha1="ca34a7532ddf489108fa3e087fdee6ad13dd4fd6" crc="d8e1094f" />
+    <rom name="Burai - Kanketsuhen (Japan) (Track 08).bin" size="14448336" sha1="3dd800f2f8e5f89f0314f09b170336c55e956b23" crc="84d77d0d" />
+    <rom name="Burai - Kanketsuhen (Japan) (Track 09).bin" size="26024880" sha1="73c6844554e732d74e7665a6bb0a10c4bffd692a" crc="c60879cd" />
+    <rom name="Burai - Kanketsuhen (Japan) (Track 10).bin" size="5362560" sha1="24cf0549ad8185836cfd6d400a33a2bdbd0502d8" crc="6c67135a" />
+    <rom name="Burai - Kanketsuhen (Japan) (Track 11).bin" size="35037744" sha1="1d0fdfe849bc43c2deeafd3a99c025cd9c851918" crc="5a3ce2e7" />
+    <rom name="Burai - Kanketsuhen (Japan) (Track 12).bin" size="13547520" sha1="09b6b81ba5736f06d5dcaf0a6a7df25a398e08ad" crc="cc8e5d41" />
+    <rom name="Burai - Kanketsuhen (Japan) (Track 13).bin" size="12983040" sha1="5b468cc5a0a3e5ec174bb51909e11b5b3f668ed1" crc="ba5323af" />
+    <rom name="Burai - Kanketsuhen (Japan) (Track 14).bin" size="99513120" sha1="c39de65f227806e1af08433fc2d2e8abe7c72c25" crc="92253ae8" />
+    <rom name="Burai - Kanketsuhen (Japan).cue" size="1690" sha1="97fe165cfe99f68a9ae27b4ae8beded7fe789e82" crc="c40b9a4e" />
   </game>
   <game name="01 - Games (CD)/Burai/Burai (Japan)">
     <rom name="Burai (Japan) (Track 01).bin" size="20286000" sha1="d6759ff856dab45ad66b4dc2d9ee0c458c7f42dd" crc="ba35ddf6" />
@@ -1110,10 +1110,10 @@
     <rom name="CAL Gaiden - Tiny Step - Tiny Steps Behind the CAL (Japan) (Track 2).bin" size="187689600" sha1="d82db3e58961c8ff152e6c4fce0b57ec1e79e543" crc="a5a779dd" />
     <rom name="CAL Gaiden - Tiny Step - Tiny Steps Behind the CAL (Japan).cue" size="309" sha1="6fa6c31722cbbf1dc3750ac0e2fcbcf8857414ee" crc="058f93e1" />
   </game>
-  <game name="01 - Games (CD)/CAL III - Kanketsu-hen/CAL III - Kanketsu-hen (Japan)">
-    <rom name="CAL III - Kanketsu-hen (Japan) (Track 1).bin" size="20815200" sha1="5573990abfbd401f7dc0e6891df05fb661d0204e" crc="e7a4625b" />
-    <rom name="CAL III - Kanketsu-hen (Japan) (Track 2).bin" size="132311760" sha1="f65dea1be7ce6d5102e2ca19fbe43026b9cac1c7" crc="bfabb97c" />
-    <rom name="CAL III - Kanketsu-hen (Japan).cue" size="253" sha1="af62c3ec2f8f9c0db1674b8d02b99f01e265012f" crc="58fc56bd" />
+  <game name="01 - Games (CD)/CAL III - Kanketsuhen/CAL III - Kanketsuhen (Japan)">
+    <rom name="CAL III - Kanketsuhen (Japan) (Track 1).bin" size="20815200" sha1="5573990abfbd401f7dc0e6891df05fb661d0204e" crc="e7a4625b" />
+    <rom name="CAL III - Kanketsuhen (Japan) (Track 2).bin" size="132311760" sha1="f65dea1be7ce6d5102e2ca19fbe43026b9cac1c7" crc="bfabb97c" />
+    <rom name="CAL III - Kanketsuhen (Japan).cue" size="251" sha1="914851b60ae714d64105a2492d3a6d63856cb90a" crc="82f0ae70" />
   </game>
   <game name="01 - Games (CD)/CD-ROM Bishoujo Senshi Collection - Yuu Disc Special/CD-ROM Bishoujo Senshi Collection - Yuu Disc Special (Japan)">
     <rom name="CD-ROM Bishoujo Senshi Collection - Yuu Disc Special (Japan) (Track 01).bin" size="46849488" sha1="d9305e545cc2d28ec71d4317af3f0bd1726d8ab1" crc="c1dea552" />

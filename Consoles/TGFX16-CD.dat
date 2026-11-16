@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>TGFX16-CD</name>
-    <version>2026-10-25</version>
+    <version>2026-11-15</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/1552 Tenka Tairan/1552 Tenka Tairan (Japan)">
@@ -1669,13 +1669,13 @@
     <rom name="CAL II (Japan) (Track 7).bin" size="133393680" sha1="bf17d0764628570cb8ad9e45b1c1ee2a38a95bd0" crc="82dfc89c" />
     <rom name="CAL II (Japan).cue" size="697" sha1="26a6a801be87ea93e3dd7f76d6eb8d42a1a74405" crc="f4637255" />
   </game>
-  <game name="01 - Games/CAL III - Kanketsu-hen/CAL III - Kanketsu-hen (Japan)">
-    <rom name="CAL III - Kanketsu-hen (Japan) (Track 1).bin" size="8354304" sha1="99e11cd26e32d50fcade3721ee81991508883360" crc="cc391e99" />
-    <rom name="CAL III - Kanketsu-hen (Japan) (Track 2).bin" size="134659056" sha1="a948f3b94557452926ff588b4c161f22fd586f9b" crc="5b3482be" />
-    <rom name="CAL III - Kanketsu-hen (Japan) (Track 3).bin" size="57506400" sha1="ea4945e463b3a9e885e9b5d51983b989f5c5e831" crc="a2b910aa" />
-    <rom name="CAL III - Kanketsu-hen (Japan) (Track 4).bin" size="54392352" sha1="f67f040d4757597527109f7cada22f07f4aad353" crc="b1cc786c" />
-    <rom name="CAL III - Kanketsu-hen (Japan) (Track 5).bin" size="134313312" sha1="6311e4736357d0c8eea0f04d7f2412c129e71a49" crc="f77a61cd" />
-    <rom name="CAL III - Kanketsu-hen (Japan).cue" size="607" sha1="6d5cc7a010fb8feeed7e0707cccb4eb780095365" crc="b03697fb" />
+  <game name="01 - Games/CAL III - Kanketsuhen/CAL III - Kanketsuhen (Japan)">
+    <rom name="CAL III - Kanketsuhen (Japan) (Track 1).bin" size="8354304" sha1="99e11cd26e32d50fcade3721ee81991508883360" crc="cc391e99" />
+    <rom name="CAL III - Kanketsuhen (Japan) (Track 2).bin" size="134659056" sha1="a948f3b94557452926ff588b4c161f22fd586f9b" crc="5b3482be" />
+    <rom name="CAL III - Kanketsuhen (Japan) (Track 3).bin" size="57506400" sha1="ea4945e463b3a9e885e9b5d51983b989f5c5e831" crc="a2b910aa" />
+    <rom name="CAL III - Kanketsuhen (Japan) (Track 4).bin" size="54392352" sha1="f67f040d4757597527109f7cada22f07f4aad353" crc="b1cc786c" />
+    <rom name="CAL III - Kanketsuhen (Japan) (Track 5).bin" size="134313312" sha1="6311e4736357d0c8eea0f04d7f2412c129e71a49" crc="f77a61cd" />
+    <rom name="CAL III - Kanketsuhen (Japan).cue" size="602" sha1="75f37e7ec632aaf9006e9b39604d57ee32f2319b" crc="f7b612e8" />
   </game>
   <game name="01 - Games/CD Battle - Hikari no Yuushatachi/CD Battle - Hikari no Yuushatachi (Japan)">
     <rom name="CD Battle - Hikari no Yuushatachi (Japan) (Track 1).bin" size="7914480" sha1="7dcb29851dae3c31ba3a831e4a976a2d7c618f62" crc="e214f155" />
@@ -6440,6 +6440,20 @@
     <rom name="J. B. Harold Murder Club (USA) (En,Ja) (Track 11).bin" size="160159440" sha1="613191babbcdfe553c3fda1ce25fc77066d17537" crc="a4743948" />
     <rom name="J. B. Harold Murder Club (USA) (En,Ja).cue" size="1312" sha1="8a470dcdfb35a0a114accb8aa3448a9d2da5bdfb" crc="ca8e8911" />
   </game>
+  <game name="01 - Games/J. B. Harold Murder Club/J. B. Harold Series #1 - Murder Club (Japan)">
+    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 01).bin" size="7916832" sha1="3b472f5e80bbf8259e09f8e4f547567bddb02490" crc="22144d0f" />
+    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 02).bin" size="160509888" sha1="344e3087216495cce2013ae791a5faa2f453ad9b" crc="cf416a01" />
+    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 03).bin" size="36319584" sha1="9be80241f5d495576d11567b89031756af2eae78" crc="512b68cd" />
+    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 04).bin" size="44424576" sha1="792db54181763014419baa2487b28fa83b8f97fc" crc="6b984738" />
+    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 05).bin" size="45602928" sha1="fc352a85c42a3cd98159be02d0c5f48f05c86d43" crc="19f8d99b" />
+    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 06).bin" size="3509184" sha1="8cb6fde0cf80c5bc44e8165227db1647ffd218ae" crc="56151e98" />
+    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 07).bin" size="1980384" sha1="f15e59fa4cc9a6e2f265c6c5d0bf585b3d7e7957" crc="b1c5d1a6" />
+    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 08).bin" size="966672" sha1="8f00c35b008161aa04e31d1a3246f82710455eee" crc="2b1b11a4" />
+    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 09).bin" size="2196768" sha1="42530d796622fed244371ab5073e062b550f221a" crc="155d9d48" />
+    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 10).bin" size="4619328" sha1="01976c196e34018c68199469e3dc653f46b17bfc" crc="56129108" />
+    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 11).bin" size="160159440" sha1="6399edad6941b0f54c8fabdb5f881331ae19b379" crc="f930b68a" />
+    <rom name="J. B. Harold Series #1 - Murder Club (Japan).cue" size="1378" sha1="17ec94a83b91125cfb33c2c73a291e141d05193f" crc="078708ac" />
+  </game>
   <game name="01 - Games/J.League Tremendous Soccer '94/J.League Tremendous Soccer '94 (Japan)">
     <rom name="J.League Tremendous Soccer '94 (Japan) (Track 01).bin" size="7660464" sha1="9174931e60dc75f0cf53452d6494f6873267fd3e" crc="c0015dce" />
     <rom name="J.League Tremendous Soccer '94 (Japan) (Track 02).bin" size="7321776" sha1="b1f9395fb3d14cb645fa265747396d6c6dfc8816" crc="5e82eb0d" />
@@ -6497,13 +6511,13 @@
     <rom name="Jack Nicklaus' World Tour Golf - 162 Holes (Japan) (Track 11).bin" size="22598016" sha1="b09ee46f37ce0241383892f5ef9ff24312fddb38" crc="4675f397" />
     <rom name="Jack Nicklaus' World Tour Golf - 162 Holes (Japan).cue" size="1444" sha1="7fd545550ed2ef2c0cb61554455125e00058f974" crc="eb321273" />
   </game>
-  <game name="01 - Games/Jantei Monogatari 2 - Uchuu Tantei Diban - Kanketsu-hen/Jantei Monogatari 2 - Uchuu Tantei Diban - Kanketsu-hen (Japan)">
-    <rom name="Jantei Monogatari 2 - Uchuu Tantei Diban - Kanketsu-hen (Japan) (Track 1).bin" size="7881552" sha1="c52a41b86a991ff9f4145531f6b174af074d856e" crc="2cab2362" />
-    <rom name="Jantei Monogatari 2 - Uchuu Tantei Diban - Kanketsu-hen (Japan) (Track 2).bin" size="79036608" sha1="5e441f8d2a2c7169a15c944776bd1a28b5a73274" crc="8ced58af" />
-    <rom name="Jantei Monogatari 2 - Uchuu Tantei Diban - Kanketsu-hen (Japan) (Track 3).bin" size="42312480" sha1="68bbdf29257a0cd5a4a46bca7a37de1132db7f29" crc="a0316d30" />
-    <rom name="Jantei Monogatari 2 - Uchuu Tantei Diban - Kanketsu-hen (Japan) (Track 4).bin" size="23545872" sha1="7caaf93d16d507d8eca511e6eb334319cc9f43bf" crc="da42d40b" />
-    <rom name="Jantei Monogatari 2 - Uchuu Tantei Diban - Kanketsu-hen (Japan) (Track 5).bin" size="78690864" sha1="04d1852d9ef71ee922ba0346abc2e213289c4c67" crc="23085716" />
-    <rom name="Jantei Monogatari 2 - Uchuu Tantei Diban - Kanketsu-hen (Japan).cue" size="772" sha1="3f7c5d8c4000aea154c1be5da59c1df252a88209" crc="4280c1b0" />
+  <game name="01 - Games/Jantei Monogatari 2 - Uchuu Tantei Diban - Kanketsuhen/Jantei Monogatari 2 - Uchuu Tantei Diban - Kanketsuhen (Japan)">
+    <rom name="Jantei Monogatari 2 - Uchuu Tantei Diban - Kanketsuhen (Japan) (Track 1).bin" size="7881552" sha1="c52a41b86a991ff9f4145531f6b174af074d856e" crc="2cab2362" />
+    <rom name="Jantei Monogatari 2 - Uchuu Tantei Diban - Kanketsuhen (Japan) (Track 2).bin" size="79036608" sha1="5e441f8d2a2c7169a15c944776bd1a28b5a73274" crc="8ced58af" />
+    <rom name="Jantei Monogatari 2 - Uchuu Tantei Diban - Kanketsuhen (Japan) (Track 3).bin" size="42312480" sha1="68bbdf29257a0cd5a4a46bca7a37de1132db7f29" crc="a0316d30" />
+    <rom name="Jantei Monogatari 2 - Uchuu Tantei Diban - Kanketsuhen (Japan) (Track 4).bin" size="23545872" sha1="7caaf93d16d507d8eca511e6eb334319cc9f43bf" crc="da42d40b" />
+    <rom name="Jantei Monogatari 2 - Uchuu Tantei Diban - Kanketsuhen (Japan) (Track 5).bin" size="78690864" sha1="04d1852d9ef71ee922ba0346abc2e213289c4c67" crc="23085716" />
+    <rom name="Jantei Monogatari 2 - Uchuu Tantei Diban - Kanketsuhen (Japan).cue" size="767" sha1="f4f4670dfbe788055dc4815ca92c270071f83e5e" crc="4cd7a096" />
   </game>
   <game name="01 - Games/Jantei Monogatari 2 - Uchuu Tantei Diban - Shutsudou-hen/Jantei Monogatari 2 - Uchuu Tantei Diban - Shutsudou-hen (Japan)">
     <rom name="Jantei Monogatari 2 - Uchuu Tantei Diban - Shutsudou-hen (Japan) (Track 1).bin" size="7881552" sha1="c52a41b86a991ff9f4145531f6b174af074d856e" crc="2cab2362" />
@@ -6630,35 +6644,35 @@
     <rom name="Juuouki (Japan) (Rev 5) (Track 10).bin" size="4591104" sha1="b4d4b860501ecf43ae81abdd252446523bd2fb05" crc="76ab0794" />
     <rom name="Juuouki (Japan) (Rev 5).cue" size="1029" sha1="4ccfe8287796c1e64421596034a34401613c951f" crc="492519a0" />
   </game>
-  <game name="01 - Games/KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen/KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan)">
-    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan) (Track 01).bin" size="7916832" sha1="3b472f5e80bbf8259e09f8e4f547567bddb02490" crc="22144d0f" />
-    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan) (Track 02).bin" size="38730384" sha1="a869ac9615fd2f44a12392fc54e69ac3cd1342cf" crc="ac0a59d4" />
-    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan) (Track 03).bin" size="21462000" sha1="e2047858271397c9e8a481c121dce82aa691ca06" crc="f0433669" />
-    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan) (Track 04).bin" size="21835968" sha1="7142eedda663aee9260d45f8b5c12f5b7a6c39f5" crc="1b59169f" />
-    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan) (Track 05).bin" size="21911232" sha1="4cd33cd49f355d9a0488fb39864e621958a64790" crc="f15113aa" />
-    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan) (Track 06).bin" size="21781872" sha1="e03ad00962b4d9ccdd13d970374b1336253f72c4" crc="a0804be3" />
-    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan) (Track 07).bin" size="21480816" sha1="d35e274a7a7975be886d1adf0e176831cb2a55cf" crc="fc8549cf" />
-    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan) (Track 08).bin" size="20885760" sha1="62a746ecbfbd5a36dc6b023a63de5c4ed20fb01e" crc="4ab30705" />
-    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan) (Track 09).bin" size="23388288" sha1="86a5953e94173a999dd16f114b78feec214671b2" crc="e47f5151" />
-    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan) (Track 10).bin" size="22028832" sha1="801fc37f68ae5ffe20f0d1d7d97e88407897dd2e" crc="042b16c8" />
-    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan) (Track 11).bin" size="21605472" sha1="cd3107db3f284d5b192f4299e414b7471507e73b" crc="cc55b2cd" />
-    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan) (Track 12).bin" size="20351856" sha1="d2656eebbc6308401c60ce4d057a1d0d8a396903" crc="b2bc6627" />
-    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan) (Track 13).bin" size="22033536" sha1="4d76f3fcafb2ef7f1d073f1b1aa273c4eccf4429" crc="a4c89fe8" />
-    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan) (Track 14).bin" size="22231104" sha1="d548a78100a5a07e877d8a30f1f2957d42155860" crc="f3bc1860" />
-    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan) (Track 15).bin" size="20775216" sha1="b7c03b0062381e8866b22a9eea25c7c97c782499" crc="0fc117a4" />
-    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan) (Track 16).bin" size="22336944" sha1="67883a3b4a9dec3837152e9bed30444b9867736b" crc="f90c500e" />
-    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan) (Track 17).bin" size="25166400" sha1="31549fb3909d2d7b51d34ef6a5398b69d96fb3d1" crc="331dcf53" />
-    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan) (Track 18).bin" size="21835968" sha1="eb60bb4746ae64fcaa5de2f9bf021d50a48ad875" crc="3cf89cad" />
-    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan) (Track 19).bin" size="20739936" sha1="b01c07620e40c2054e7f4df39c904cf95fafb177" crc="3778ebdf" />
-    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan) (Track 20).bin" size="20542368" sha1="1e42c09942332e2dfc4236cd6069a7591edaf3cd" crc="f9cb12d4" />
-    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan) (Track 21).bin" size="20949264" sha1="383bdb3fa879c73bb9602c4b3655a6c5d15e3ba1" crc="e92a0e9d" />
-    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan) (Track 22).bin" size="22235808" sha1="8457eca52a409a7972535d459524c5527074d66d" crc="8bb358b8" />
-    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan) (Track 23).bin" size="25182864" sha1="de465ab16d94e7a6506ca7e16662df6a666b8c92" crc="aa1f3207" />
-    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan) (Track 24).bin" size="23948064" sha1="4cab824f627856bfd6263cc39be383a63ead3d43" crc="c251cd87" />
-    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan) (Track 25).bin" size="22482768" sha1="9b6c726f152193cad395bb1a4d54bee399efdb85" crc="7f5b251c" />
-    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan) (Track 26).bin" size="22623888" sha1="67ceede7ab5b4ba3aff6de294db2ddb3f046b8b1" crc="bd5e8654" />
-    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan) (Track 27).bin" size="38379936" sha1="26c9fc73959808e304bfb391f9b7b72d2d412ea9" crc="4c1ff193" />
-    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan).cue" size="3747" sha1="8117ca57af1addb074441689dc41b03e521b3111" crc="8f4d39b0" />
+  <game name="01 - Games/KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsuhen/KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsuhen (Japan)">
+    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsuhen (Japan) (Track 01).bin" size="7916832" sha1="3b472f5e80bbf8259e09f8e4f547567bddb02490" crc="22144d0f" />
+    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsuhen (Japan) (Track 02).bin" size="38730384" sha1="a869ac9615fd2f44a12392fc54e69ac3cd1342cf" crc="ac0a59d4" />
+    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsuhen (Japan) (Track 03).bin" size="21462000" sha1="e2047858271397c9e8a481c121dce82aa691ca06" crc="f0433669" />
+    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsuhen (Japan) (Track 04).bin" size="21835968" sha1="7142eedda663aee9260d45f8b5c12f5b7a6c39f5" crc="1b59169f" />
+    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsuhen (Japan) (Track 05).bin" size="21911232" sha1="4cd33cd49f355d9a0488fb39864e621958a64790" crc="f15113aa" />
+    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsuhen (Japan) (Track 06).bin" size="21781872" sha1="e03ad00962b4d9ccdd13d970374b1336253f72c4" crc="a0804be3" />
+    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsuhen (Japan) (Track 07).bin" size="21480816" sha1="d35e274a7a7975be886d1adf0e176831cb2a55cf" crc="fc8549cf" />
+    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsuhen (Japan) (Track 08).bin" size="20885760" sha1="62a746ecbfbd5a36dc6b023a63de5c4ed20fb01e" crc="4ab30705" />
+    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsuhen (Japan) (Track 09).bin" size="23388288" sha1="86a5953e94173a999dd16f114b78feec214671b2" crc="e47f5151" />
+    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsuhen (Japan) (Track 10).bin" size="22028832" sha1="801fc37f68ae5ffe20f0d1d7d97e88407897dd2e" crc="042b16c8" />
+    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsuhen (Japan) (Track 11).bin" size="21605472" sha1="cd3107db3f284d5b192f4299e414b7471507e73b" crc="cc55b2cd" />
+    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsuhen (Japan) (Track 12).bin" size="20351856" sha1="d2656eebbc6308401c60ce4d057a1d0d8a396903" crc="b2bc6627" />
+    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsuhen (Japan) (Track 13).bin" size="22033536" sha1="4d76f3fcafb2ef7f1d073f1b1aa273c4eccf4429" crc="a4c89fe8" />
+    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsuhen (Japan) (Track 14).bin" size="22231104" sha1="d548a78100a5a07e877d8a30f1f2957d42155860" crc="f3bc1860" />
+    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsuhen (Japan) (Track 15).bin" size="20775216" sha1="b7c03b0062381e8866b22a9eea25c7c97c782499" crc="0fc117a4" />
+    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsuhen (Japan) (Track 16).bin" size="22336944" sha1="67883a3b4a9dec3837152e9bed30444b9867736b" crc="f90c500e" />
+    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsuhen (Japan) (Track 17).bin" size="25166400" sha1="31549fb3909d2d7b51d34ef6a5398b69d96fb3d1" crc="331dcf53" />
+    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsuhen (Japan) (Track 18).bin" size="21835968" sha1="eb60bb4746ae64fcaa5de2f9bf021d50a48ad875" crc="3cf89cad" />
+    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsuhen (Japan) (Track 19).bin" size="20739936" sha1="b01c07620e40c2054e7f4df39c904cf95fafb177" crc="3778ebdf" />
+    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsuhen (Japan) (Track 20).bin" size="20542368" sha1="1e42c09942332e2dfc4236cd6069a7591edaf3cd" crc="f9cb12d4" />
+    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsuhen (Japan) (Track 21).bin" size="20949264" sha1="383bdb3fa879c73bb9602c4b3655a6c5d15e3ba1" crc="e92a0e9d" />
+    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsuhen (Japan) (Track 22).bin" size="22235808" sha1="8457eca52a409a7972535d459524c5527074d66d" crc="8bb358b8" />
+    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsuhen (Japan) (Track 23).bin" size="25182864" sha1="de465ab16d94e7a6506ca7e16662df6a666b8c92" crc="aa1f3207" />
+    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsuhen (Japan) (Track 24).bin" size="23948064" sha1="4cab824f627856bfd6263cc39be383a63ead3d43" crc="c251cd87" />
+    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsuhen (Japan) (Track 25).bin" size="22482768" sha1="9b6c726f152193cad395bb1a4d54bee399efdb85" crc="7f5b251c" />
+    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsuhen (Japan) (Track 26).bin" size="22623888" sha1="67ceede7ab5b4ba3aff6de294db2ddb3f046b8b1" crc="bd5e8654" />
+    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsuhen (Japan) (Track 27).bin" size="38379936" sha1="26c9fc73959808e304bfb391f9b7b72d2d412ea9" crc="4c1ff193" />
+    <rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsuhen (Japan).cue" size="3720" sha1="bb18057aec4bbe2e5b3207efbf6a83dd453590dd" crc="3bc2563b" />
   </game>
   <game name="01 - Games/Kabuki Ittouryoudan/Kabuki Ittouryoudan (Japan) (FAAT)">
     <rom name="Kabuki Ittouryoudan (Japan) (FAAT) (Track 01).bin" size="7914480" sha1="66940b3369f008f3a21c7029e785d12ac0392907" crc="f43498c3" />
@@ -9829,33 +9843,6 @@
     <rom name="Nobunaga no Yabou - Zenkokuban (Japan) (Track 9).bin" size="9076368" sha1="ef2102c8fbf81b07f907fd9f1c5204755f577aac" crc="d1db461c" />
     <rom name="Nobunaga no Yabou - Zenkokuban (Japan).cue" size="1083" sha1="0ad5ac658c506fe1402d3e396d0d7500200fab1b" crc="b0b8c043" />
   </game>
-  <game name="01 - Games/Ookami-teki Monshou - Crest of Wolf/Ookami-teki Monshou - Crest of Wolf (Japan)">
-    <rom name="Ookami-teki Monshou - Crest of Wolf (Japan) (Track 01).bin" size="7914480" sha1="9ac3f1a11d434d186466917f1c7955bf7670c910" crc="b979500c" />
-    <rom name="Ookami-teki Monshou - Crest of Wolf (Japan) (Track 02).bin" size="5557776" sha1="f66276db5cbe2e002fc76e9ae2fd0c72071d2918" crc="9da54464" />
-    <rom name="Ookami-teki Monshou - Crest of Wolf (Japan) (Track 03).bin" size="41724480" sha1="303367412c4597109f1bec36554ade16f885b99c" crc="647dac5e" />
-    <rom name="Ookami-teki Monshou - Crest of Wolf (Japan) (Track 04).bin" size="39871104" sha1="6fb47f186685977b27f98d8cd7494df7a869ff91" crc="e8a87724" />
-    <rom name="Ookami-teki Monshou - Crest of Wolf (Japan) (Track 05).bin" size="43020432" sha1="c0de6f92f63a14122fe8f7422a855f4d9322c4c7" crc="ac2cc59e" />
-    <rom name="Ookami-teki Monshou - Crest of Wolf (Japan) (Track 06).bin" size="32502288" sha1="f81a2fdbf9c278e2ae9ce8b10736a154b7fb1d19" crc="b785151a" />
-    <rom name="Ookami-teki Monshou - Crest of Wolf (Japan) (Track 07).bin" size="32629296" sha1="4dee4a90f5e534f2298d8862467af44c6d2ef287" crc="d78c6d2b" />
-    <rom name="Ookami-teki Monshou - Crest of Wolf (Japan) (Track 08).bin" size="32464656" sha1="4e0300c29619213824aad6daa9a98aaa17ae6bb2" crc="6cd51888" />
-    <rom name="Ookami-teki Monshou - Crest of Wolf (Japan) (Track 09).bin" size="32789232" sha1="b6a3b3c5f7b970b20d57dd06eef43671a14d9007" crc="9edb4fb9" />
-    <rom name="Ookami-teki Monshou - Crest of Wolf (Japan) (Track 10).bin" size="38290560" sha1="705a62ade3fdcbf9a35c9e2755ac7453625f7120" crc="531a81a4" />
-    <rom name="Ookami-teki Monshou - Crest of Wolf (Japan) (Track 11).bin" size="42973392" sha1="730e340e5dc0f38ebe766adefcdbd740fedba58c" crc="d462d47e" />
-    <rom name="Ookami-teki Monshou - Crest of Wolf (Japan) (Track 12).bin" size="34120464" sha1="d31ca80c786b013515d288ebbfdb20efc07ac808" crc="360e2bf6" />
-    <rom name="Ookami-teki Monshou - Crest of Wolf (Japan) (Track 13).bin" size="36077328" sha1="cb845531394deb5398aedbe2f535a8fcf56a1b06" crc="d4ca03c1" />
-    <rom name="Ookami-teki Monshou - Crest of Wolf (Japan) (Track 14).bin" size="30677136" sha1="0bfeaf55ba3396ce5e713a121dfc6f27284efd27" crc="8d467b4c" />
-    <rom name="Ookami-teki Monshou - Crest of Wolf (Japan) (Track 15).bin" size="26133072" sha1="12d44bef74f7007cfd9b7c53c582e1b941017c27" crc="4b8d2d59" />
-    <rom name="Ookami-teki Monshou - Crest of Wolf (Japan) (Track 16).bin" size="28875504" sha1="7367be304a53a157cb08d5636634ef7458c928ac" crc="d3df62ad" />
-    <rom name="Ookami-teki Monshou - Crest of Wolf (Japan) (Track 17).bin" size="11421312" sha1="f239df29114f3b7ca4ec15f6b08eef95740f742a" crc="ade36634" />
-    <rom name="Ookami-teki Monshou - Crest of Wolf (Japan) (Track 18).bin" size="1284192" sha1="44d8332a0cde7b72d7d139b93fd00014c93c6180" crc="7fe406d3" />
-    <rom name="Ookami-teki Monshou - Crest of Wolf (Japan) (Track 19).bin" size="1613472" sha1="7be9b90e247fe18362cfb3870c6c25460c9c94c3" crc="4f0fbdb3" />
-    <rom name="Ookami-teki Monshou - Crest of Wolf (Japan) (Track 20).bin" size="4160688" sha1="ee5d721a23d0fe106433f061f296e571cf8d9152" crc="c30ab5a7" />
-    <rom name="Ookami-teki Monshou - Crest of Wolf (Japan) (Track 21).bin" size="2424912" sha1="6c983169cffb153685d1e8af522e8d40b9fbc08d" crc="8c2c115b" />
-    <rom name="Ookami-teki Monshou - Crest of Wolf (Japan) (Track 22).bin" size="5320224" sha1="d06fbeb5fc3846e8b2aac76edc225bb47360ea27" crc="913c206e" />
-    <rom name="Ookami-teki Monshou - Crest of Wolf (Japan) (Track 23).bin" size="3499776" sha1="42a24e6845578c8a510ab67c49993d3c9637b1df" crc="e1f6b143" />
-    <rom name="Ookami-teki Monshou - Crest of Wolf (Japan) (Track 24).bin" size="5230848" sha1="d9fdd3bd9982dab8cc3f4493086dab2816a31024" crc="080ede32" />
-    <rom name="Ookami-teki Monshou - Crest of Wolf (Japan).cue" size="2839" sha1="d55464af05f7fcd84bc500022696009cd50a67c1" crc="724b5431" />
-  </game>
   <game name="01 - Games/Pachio-kun - Maboroshi no Densetsu/Pachio-kun - Maboroshi no Densetsu (Japan) (Rev 7)">
     <rom name="Pachio-kun - Maboroshi no Densetsu (Japan) (Rev 7) (Track 01).bin" size="7914480" sha1="9ac3f1a11d434d186466917f1c7955bf7670c910" crc="b979500c" />
     <rom name="Pachio-kun - Maboroshi no Densetsu (Japan) (Rev 7) (Track 02).bin" size="43803648" sha1="8a0b526608f64ce739711c1014d0c5eca60f702a" crc="e18d2433" />
@@ -11512,6 +11499,33 @@
     <rom name="Revival Chase (USA) (En,Fr) (Unl) (Track 12).bin" size="27845328" sha1="be3ba047fe2f442efed44bcd35f245062f0cf05c" crc="3b0939c2" />
     <rom name="Revival Chase (USA) (En,Fr) (Unl).cue" size="1518" sha1="f7481fb27806322080d2b57aa36c4604fa6262fd" crc="3f6da1a3" />
   </game>
+  <game name="01 - Games/Riot Zone/Crest of Wolf (Japan)">
+    <rom name="Crest of Wolf (Japan) (Track 01).bin" size="7914480" sha1="9ac3f1a11d434d186466917f1c7955bf7670c910" crc="b979500c" />
+    <rom name="Crest of Wolf (Japan) (Track 02).bin" size="5557776" sha1="f66276db5cbe2e002fc76e9ae2fd0c72071d2918" crc="9da54464" />
+    <rom name="Crest of Wolf (Japan) (Track 03).bin" size="41724480" sha1="303367412c4597109f1bec36554ade16f885b99c" crc="647dac5e" />
+    <rom name="Crest of Wolf (Japan) (Track 04).bin" size="39871104" sha1="6fb47f186685977b27f98d8cd7494df7a869ff91" crc="e8a87724" />
+    <rom name="Crest of Wolf (Japan) (Track 05).bin" size="43020432" sha1="c0de6f92f63a14122fe8f7422a855f4d9322c4c7" crc="ac2cc59e" />
+    <rom name="Crest of Wolf (Japan) (Track 06).bin" size="32502288" sha1="f81a2fdbf9c278e2ae9ce8b10736a154b7fb1d19" crc="b785151a" />
+    <rom name="Crest of Wolf (Japan) (Track 07).bin" size="32629296" sha1="4dee4a90f5e534f2298d8862467af44c6d2ef287" crc="d78c6d2b" />
+    <rom name="Crest of Wolf (Japan) (Track 08).bin" size="32464656" sha1="4e0300c29619213824aad6daa9a98aaa17ae6bb2" crc="6cd51888" />
+    <rom name="Crest of Wolf (Japan) (Track 09).bin" size="32789232" sha1="b6a3b3c5f7b970b20d57dd06eef43671a14d9007" crc="9edb4fb9" />
+    <rom name="Crest of Wolf (Japan) (Track 10).bin" size="38290560" sha1="705a62ade3fdcbf9a35c9e2755ac7453625f7120" crc="531a81a4" />
+    <rom name="Crest of Wolf (Japan) (Track 11).bin" size="42973392" sha1="730e340e5dc0f38ebe766adefcdbd740fedba58c" crc="d462d47e" />
+    <rom name="Crest of Wolf (Japan) (Track 12).bin" size="34120464" sha1="d31ca80c786b013515d288ebbfdb20efc07ac808" crc="360e2bf6" />
+    <rom name="Crest of Wolf (Japan) (Track 13).bin" size="36077328" sha1="cb845531394deb5398aedbe2f535a8fcf56a1b06" crc="d4ca03c1" />
+    <rom name="Crest of Wolf (Japan) (Track 14).bin" size="30677136" sha1="0bfeaf55ba3396ce5e713a121dfc6f27284efd27" crc="8d467b4c" />
+    <rom name="Crest of Wolf (Japan) (Track 15).bin" size="26133072" sha1="12d44bef74f7007cfd9b7c53c582e1b941017c27" crc="4b8d2d59" />
+    <rom name="Crest of Wolf (Japan) (Track 16).bin" size="28875504" sha1="7367be304a53a157cb08d5636634ef7458c928ac" crc="d3df62ad" />
+    <rom name="Crest of Wolf (Japan) (Track 17).bin" size="11421312" sha1="f239df29114f3b7ca4ec15f6b08eef95740f742a" crc="ade36634" />
+    <rom name="Crest of Wolf (Japan) (Track 18).bin" size="1284192" sha1="44d8332a0cde7b72d7d139b93fd00014c93c6180" crc="7fe406d3" />
+    <rom name="Crest of Wolf (Japan) (Track 19).bin" size="1613472" sha1="7be9b90e247fe18362cfb3870c6c25460c9c94c3" crc="4f0fbdb3" />
+    <rom name="Crest of Wolf (Japan) (Track 20).bin" size="4160688" sha1="ee5d721a23d0fe106433f061f296e571cf8d9152" crc="c30ab5a7" />
+    <rom name="Crest of Wolf (Japan) (Track 21).bin" size="2424912" sha1="6c983169cffb153685d1e8af522e8d40b9fbc08d" crc="8c2c115b" />
+    <rom name="Crest of Wolf (Japan) (Track 22).bin" size="5320224" sha1="d06fbeb5fc3846e8b2aac76edc225bb47360ea27" crc="913c206e" />
+    <rom name="Crest of Wolf (Japan) (Track 23).bin" size="3499776" sha1="42a24e6845578c8a510ab67c49993d3c9637b1df" crc="e1f6b143" />
+    <rom name="Crest of Wolf (Japan) (Track 24).bin" size="5230848" sha1="d9fdd3bd9982dab8cc3f4493086dab2816a31024" crc="080ede32" />
+    <rom name="Crest of Wolf (Japan).cue" size="2311" sha1="07f14cf98c98a2537576b99e34bb37d3b3d5502d" crc="eeb3ecef" />
+  </game>
   <game name="01 - Games/Riot Zone/Riot Zone (USA)">
     <rom name="Riot Zone (USA) (Track 01).bin" size="7077168" sha1="cea5135e07ffde45628028ebece5261ce01da965" crc="e84baae9" />
     <rom name="Riot Zone (USA) (Track 02).bin" size="5557776" sha1="64ce2387e09f49c83236885a47f4df452335e78e" crc="70d8d9a3" />
@@ -11693,6 +11707,9 @@
     <rom name="Ryuuko no Ken (Japan) (En,Ja,Es) (FACT) (Track 31).bin" size="9716112" sha1="d2519b4a62ae580d064a60b86b83ac56efe0fbd4" crc="a175b77a" />
     <rom name="Ryuuko no Ken (Japan) (En,Ja,Es) (FACT) (Track 32).bin" size="2415504" sha1="e8f5bb8c0690449f410bbc25d2cb0bd4ca56da72" crc="cee0bdde" />
     <rom name="Ryuuko no Ken (Japan) (En,Ja,Es) (FACT).cue" size="4293" sha1="c4a1f8720fbdd1563333264d2add450ac8b0a554" crc="9ef18d70" />
+  </game>
+  <game name="01 - Games/Saber Rider and the Star Sheriffs/~Prototypes and Betas/Saber Rider and the Star Sheriffs (2026-10-11)">
+    <rom name="Saber Rider and the Star Sheriffs (2026-10-11).chd" size="132570803" sha1="d1bf7d57b2e72b8549d892c8dc2557042b495663" crc="500124ac" />
   </game>
   <game name="01 - Games/Sangokushi - Eiketsu Tenka ni Nozomu/Sangokushi - Eiketsu Tenka ni Nozomu (Japan)">
     <rom name="Sangokushi - Eiketsu Tenka ni Nozomu (Japan) (Track 01).bin" size="7916832" sha1="3b472f5e80bbf8259e09f8e4f547567bddb02490" crc="22144d0f" />
@@ -16574,22 +16591,5 @@
     <rom name="ROM^2 Karaoke Volume 5 (Japan) (Track 11).bin" size="35280000" sha1="1af06c0919b9f255b4c9d1d7b9f6dc44d56d0bd9" crc="0573f830" />
     <rom name="ROM^2 Karaoke Volume 5 (Japan) (Track 12).bin" size="24110352" sha1="b4ce73cec08e14f711460850de1c8e60b8e48c66" crc="0e75bab0" />
     <rom name="ROM^2 Karaoke Volume 5 (Japan).cue" size="1482" sha1="7a928f0bfbe3a34c50f03df551a394e2c583d3a0" crc="a72282ef" />
-  </game>
-  <game name="01 - Games/J. B. Harold Murder Club/J. B. Harold Series #1 - Murder Club (Japan)">
-    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 01).bin" size="7916832" sha1="3b472f5e80bbf8259e09f8e4f547567bddb02490" crc="22144d0f" />
-    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 02).bin" size="160509888" sha1="344e3087216495cce2013ae791a5faa2f453ad9b" crc="cf416a01" />
-    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 03).bin" size="36319584" sha1="9be80241f5d495576d11567b89031756af2eae78" crc="512b68cd" />
-    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 04).bin" size="44424576" sha1="792db54181763014419baa2487b28fa83b8f97fc" crc="6b984738" />
-    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 05).bin" size="45602928" sha1="fc352a85c42a3cd98159be02d0c5f48f05c86d43" crc="19f8d99b" />
-    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 06).bin" size="3509184" sha1="8cb6fde0cf80c5bc44e8165227db1647ffd218ae" crc="56151e98" />
-    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 07).bin" size="1980384" sha1="f15e59fa4cc9a6e2f265c6c5d0bf585b3d7e7957" crc="b1c5d1a6" />
-    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 08).bin" size="966672" sha1="8f00c35b008161aa04e31d1a3246f82710455eee" crc="2b1b11a4" />
-    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 09).bin" size="2196768" sha1="42530d796622fed244371ab5073e062b550f221a" crc="155d9d48" />
-    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 10).bin" size="4619328" sha1="01976c196e34018c68199469e3dc653f46b17bfc" crc="56129108" />
-    <rom name="J. B. Harold Series #1 - Murder Club (Japan) (Track 11).bin" size="160159440" sha1="6399edad6941b0f54c8fabdb5f881331ae19b379" crc="f930b68a" />
-    <rom name="J. B. Harold Series #1 - Murder Club (Japan).cue" size="1378" sha1="17ec94a83b91125cfb33c2c73a291e141d05193f" crc="078708ac" />
-  </game>
-  <game name="01 - Games/Saber Rider and the Star Sheriffs/~Prototypes and Betas/Saber Rider and the Star Sheriffs (2026-10-11)">
-    <rom name="Saber Rider and the Star Sheriffs (2026-10-11).chd" size="132570803" sha1="d1bf7d57b2e72b8549d892c8dc2557042b495663" crc="500124ac" />
   </game>
 </datafile>

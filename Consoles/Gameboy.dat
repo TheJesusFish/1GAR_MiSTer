@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>Gameboy</name>
-    <version>2026-11-07</version>
+    <version>2026-11-15</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/10-Pin Bowling/~Prototypes and Betas">
@@ -3869,7 +3869,7 @@
     <rom name="Panty Hunty (World) (v1.4) (Aftermarket) (Unl).gb" size="524288" sha1="b5757b268a09d9085d469eda0676991f7361ad8c" crc="ce707b9a" />
   </game>
   <game name="01 - Games/Paperboy 2">
-    <rom name="Paperboy 2 (USA, Europe).gb" size="262144" sha1="473d84e2bfdb2dc2615b2ea416188c62fedb4ecf" crc="8ee404ca" />
+    <rom name="Paperboy 2 (World).gb" size="262144" sha1="473d84e2bfdb2dc2615b2ea416188c62fedb4ecf" crc="8ee404ca" />
   </game>
   <game name="01 - Games/Paperboy">
     <rom name="Paperboy (USA, Europe).gb" size="65536" sha1="4103b51bbd75572181d407821890f167462a996b" crc="46de32ba" />
@@ -5835,6 +5835,7 @@
   </game>
   <game name="01 - Games/Worms">
     <rom name="Worms (Europe).gb" size="262144" sha1="26137ca97b840c63a462bcf85677a5f3db67fadf" crc="2ebc40c2" />
+    <rom name="Worms (World) (Limited Run Games).gb" size="262144" sha1="8282ac3c13876fa4bfddd290903cfcb1fcca9a59" crc="d71704dc" />
   </game>
   <game name="01 - Games/X">
     <rom name="X (Japan).gb" size="262144" sha1="c72f0b494ceba72db244266cb29e4d2b4d514263" crc="75e1d268" />

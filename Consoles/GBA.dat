@@ -2,7 +2,7 @@
 <datafile>
   <header>
     <name>GBA</name>
-    <version>2026-11-07</version>
+    <version>2026-11-15</version>
     <romvault forcepacking="fileonly" />
   </header>
   <game name="01 - Games/007 - Everything or Nothing">
@@ -1334,6 +1334,7 @@
     <rom name="Chip Advance (World) (En,Fr) (v2.1) (Unl).gba" size="10498128" sha1="29c889b3c25b851f590685dea03400110e98fabd" crc="586c4345" />
   </game>
   <game name="01 - Games/Chip's Challenge">
+    <rom name="Chip's Challenge (World) (Aftermarket) (Unl).gba" size="8388608" sha1="1ae21d064701c9d8d3497e1114a747b28e893ff6" crc="a446963f" />
     <rom name="Chip's Challenge (World) (Digital) (Aftermarket) (Unl).gba" size="5497328" sha1="48af4bdd7a831d47b50689cb4e0aeb92d2d454a6" crc="103359bd" />
   </game>
   <game name="01 - Games/Chobits for Game Boy Advance - Atashi Dake no Hito">
@@ -2246,6 +2247,7 @@
   </game>
   <game name="01 - Games/Dungeon Durban">
     <rom name="Dungeon Durban (World) (v1.0.1) (Aftermarket) (Unl).gba" size="3377424" sha1="25d1f4978524c9cecda222e23bf3fdd8e295814d" crc="9c5d3395" />
+    <rom name="Dungeon Durban (World) (v1.1.0) (Aftermarket) (Unl).gba" size="3445528" sha1="d43242b1b74b176c8d9e47b2fc90483fd3a265a3" crc="5c369367" />
   </game>
   <game name="01 - Games/Dungeon Tactics Advance">
     <rom name="Dungeon Tactics Advance (World) (Aftermarket) (Unl).gba" size="8867571" sha1="3e5598cd920cdd6681b1b9ba86b1572ab3c2b05a" crc="c8385702" />
@@ -2397,6 +2399,7 @@
     <rom name="Erementar Gerad - Tozasareshi Uta (Japan).gba" size="8388608" sha1="8c005e02b64ccf07de5905311db68983b0a3b76d" crc="8c1afca4" />
   </game>
   <game name="01 - Games/Escape 2042 - The Truth Defenders">
+    <rom name="Escape 2042 - The Truth Defenders (World) (En,Ja,Fr,Es) (Aftermarket) (Unl).gba" size="16777216" sha1="4f779cbb775514578e67faeff86e211595d05dc1" crc="c0dec0db" />
     <rom name="Escape 2042 - The Truth Defenders (World) (En,Ja,Fr,Es) (Digital) (Aftermarket) (Unl).gba" size="16777216" sha1="53b9e366e5873f1ac71880f906fd9a43ebb86f6e" crc="d8dbb64c" />
   </game>
   <game name="01 - Games/European Super League">
@@ -7840,6 +7843,7 @@
     <rom name="Tork (USA) (Proto).gba" size="3657544" sha1="cea90fc7797cffcffb5ce25d18851df855751d94" crc="0d53158e" />
   </game>
   <game name="01 - Games/Tortoises">
+    <rom name="Tortoises (World) (Aftermarket) (Unl).gba" size="262144" sha1="a26ab004d3563abe27c64e74d8b7550f949816ea" crc="2e071b59" />
     <rom name="Tortoises (World) (Digital) (Aftermarket) (Unl).gba" size="262144" sha1="230242fd84daff53d99fdf5d04e53fe9ca73f6ab" crc="e8f9eb14" />
   </game>
   <game name="01 - Games/Toss Across">
